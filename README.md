@@ -21,3 +21,11 @@ For T4 and T5, the files all have specific encoding you'll have to use while ope
 ## Black Ops II
 
 For T6 specifically, some languages are missing strings for campaign/multiplayer. I'll try to dig them up at some point in the future and add them. Zombies should be complete across all games.
+
+## Plutonium custom raw strings
+
+On Plutonium, you can change the value of the strings locally without loading any mods, [you can learn more about it in this repository](https://gitlab.com/EvelynYuki/CoD-Localized-Strings) by Evelyn
+
+## Credits
+
+- Strings were dumped using [OAT](https://github.com/Laupetin/OpenAssetTools)
