@@ -1,0 +1,928 @@
+// Dumped from fastfile "ge_pow".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           POW_FOLLOW
+LANG_ENGLISH        "Folgen"
+
+REFERENCE           POW_HELI_INSTRUCT_LS
+LANG_ENGLISH        "Verwenden Sie ^3[{+movestick}]^7 zum Bewegen / seitlich Bewegen"
+
+REFERENCE           POW_HELI_INSTRUCT_RS
+LANG_ENGLISH        "Verwenden Sie ^3[{+lookstick}]^7 zum Zielen"
+
+REFERENCE           POW_INSTRUCT_FT
+LANG_ENGLISH        "Drücken Sie ^3[{+actionslot 3}]^7, um den Flammenwerfer einzusetzen."
+
+REFERENCE           POW_INTROSCREEN_DATE
+LANG_ENGLISH        "12. Februar 1968"
+
+REFERENCE           POW_INTROSCREEN_PLACE
+LANG_ENGLISH        "Laos"
+
+REFERENCE           POW_INTROSCREEN_TITLE
+LANG_ENGLISH        "Zahltag"
+
+REFERENCE           POW_OBJ_AK47_FLAME
+LANG_ENGLISH        "AK-47 mit Flammenaufsatz erhalten"
+
+REFERENCE           POW_OBJ_GET_IN
+LANG_ENGLISH        "Steigen Sie in den Hind"
+
+REFERENCE           POW_OBJ_GET_RUSSIAN
+LANG_ENGLISH        "Schnappen Sie den Russen"
+
+REFERENCE           POW_OBJ_HIND
+LANG_ENGLISH        "Übernehmen Sie den Hind"
+
+REFERENCE           POW_OBJ_HINDS
+LANG_ENGLISH        "Zerstören Sie die sowjetischen Hinds (&&1 übrig )"
+
+REFERENCE           POW_OBJ_HIP
+LANG_ENGLISH        "Zerstören Sie den sowjetischen Heli"
+
+REFERENCE           POW_OBJ_KILL_KRAV
+LANG_ENGLISH        "Töten Sie Kravchenko"
+
+REFERENCE           POW_OBJ_NVA_DEF
+LANG_ENGLISH        "Zerstören Sie die NVA-Verteidigung"
+
+REFERENCE           POW_OBJ_POWS
+LANG_ENGLISH        "Befreien Sie die Gefangenen"
+
+REFERENCE           POW_OBJ_SAM
+LANG_ENGLISH        "Zerstören Sie die Boden-Luft-Stellung"
+
+REFERENCE           POW_OBJ_TUNNELS
+LANG_ENGLISH        "Entkommen Sie aus den Tunneln"
+
+REFERENCE           POW_POW_OBJ_FLY_KRAV
+LANG_ENGLISH        "Fliegen Sie zu Kravchenkos Basis"
+
+REFERENCE           POW_REDACTED_FIVE
+LANG_ENGLISH        "^L11:00 Uhr,^L ^C1 19. Februar 1968^C"
+
+REFERENCE           POW_REDACTED_FOUR
+LANG_ENGLISH        "^C1Mason^C^L und sein Team sind vermutlich gefallen.^L"
+
+REFERENCE           POW_REDACTED_ONE
+LANG_ENGLISH        "^LÜbertragung Nr. 14-15-20. Kennung: DELTA^L"
+
+REFERENCE           POW_REDACTED_THREE
+LANG_ENGLISH        "^LLetzte bekannte Position:^L ^C1 Laos^C ^L - an der vietnamesischen Grenze.^L"
+
+REFERENCE           POW_REDACTED_TWO
+LANG_ENGLISH        "^LKontakt zu SOG-Trupp X-RAY verloren.^L"
+
+REFERENCE           POW_SHOOT
+LANG_ENGLISH        "Schießen"
+
+REFERENCE           POW_VOX_POW1_S01_226A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Fick ... dich ... Charlie ..."
+
+REFERENCE           POW_VOX_POW1_S01_226A_BOWM_M_S
+LANG_ENGLISH        "^1BOWMAN: ^7Leck ... mich ... Charlie ..."
+
+REFERENCE           POW_VOX_POW1_S01_227A_VCBK_M
+LANG_ENGLISH        "^1VIETCONG-BUCHMACHER: ^7Du tot, Amerikaner!"
+
+REFERENCE           POW_VOX_POW1_S01_233A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mistkerle. Dafür werden sie bezahlen."
+
+REFERENCE           POW_VOX_POW1_S01_233A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Mistkerle. Dafür werden sie bezahlen."
+
+REFERENCE           POW_VOX_POW1_S01_235A_VCBK_M
+LANG_ENGLISH        "^1VIETCONG-BUCHMACHER: ^7Du - nicht reden! Spielen!"
+
+REFERENCE           POW_VOX_POW1_S01_239A_VCBK_M
+LANG_ENGLISH        "^1VIETCONG-BUCHMACHER: ^7Nicht reden!"
+
+REFERENCE           POW_VOX_POW1_S01_242A_VCBK_M
+LANG_ENGLISH        "^1VIETCONG-BUCHMACHER: ^7Zurück!"
+
+REFERENCE           POW_VOX_POW1_S01_243A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Okay."
+
+REFERENCE           POW_VOX_POW1_S01_244A_VCBK_M
+LANG_ENGLISH        "^1VIETCONG-BUCHMACHER: ^7Du erschießen G.I.! Du schießen!"
+
+REFERENCE           POW_VOX_POW1_S01_245A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Du tötest mich NICHT!"
+
+REFERENCE           POW_VOX_POW1_S01_247A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Fuck!"
+
+REFERENCE           POW_VOX_POW1_S01_247A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Fuck!"
+
+REFERENCE           POW_VOX_POW1_S01_248A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Dieses Mal ... Dieses Mal, mach es!"
+
+REFERENCE           POW_VOX_POW1_S01_249B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bereit."
+
+REFERENCE           POW_VOX_POW1_S01_250A_VCBK_M
+LANG_ENGLISH        "^1VIETCONG-BUCHMACHER: ^7Spielen!"
+
+REFERENCE           POW_VOX_POW1_S01_252A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bereit."
+
+REFERENCE           POW_VOX_POW1_S01_253A_VCBK_M
+LANG_ENGLISH        "^1VIETCONG-BUCHMACHER: ^7Zurück!"
+
+REFERENCE           POW_VOX_POW1_S01_254A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dreckige Hurensöhne."
+
+REFERENCE           POW_VOX_POW1_S01_254A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Dreckige Hurensöhne."
+
+REFERENCE           POW_VOX_POW1_S01_255A_MASO
+LANG_ENGLISH        "^1MASON: ^7Der Russe. Jetzt."
+
+REFERENCE           POW_VOX_POW1_S01_257A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bowman ..."
+
+REFERENCE           POW_VOX_POW1_S01_258A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Du machst mir keine Angst, du alter Kommunist ..."
+
+REFERENCE           POW_VOX_POW1_S01_258A_BOWM_M_S
+LANG_ENGLISH        "^1BOWMAN: ^7Du machst mir keine Angst, du alter Kommunist ..."
+
+REFERENCE           POW_VOX_POW1_S01_259A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bowman! BOWMAN! Du verdammtes Arschloch!"
+
+REFERENCE           POW_VOX_POW1_S01_259A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Bowman! BOWMAN!"
+
+REFERENCE           POW_VOX_POW1_S01_260A_SPZ1_M
+LANG_ENGLISH        "^1SPEZNAS-AGENT: ^7Der nächste."
+
+REFERENCE           POW_VOX_POW1_S01_261A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich bringe euch alle um!"
+
+REFERENCE           POW_VOX_POW1_S01_262A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Fass mich nicht an!"
+
+REFERENCE           POW_VOX_POW1_S01_263A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Wie lautet der Plan?"
+
+REFERENCE           POW_VOX_POW1_S01_264A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Eine Chance, Mason."
+
+REFERENCE           POW_VOX_POW1_S01_265A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wir werden sie ergreifen."
+
+REFERENCE           POW_VOX_POW1_S01_266A_MASO
+LANG_ENGLISH        "^1MASON: ^7Auf sechs und acht Uhr."
+
+REFERENCE           POW_VOX_POW1_S01_267A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Na los."
+
+REFERENCE           POW_VOX_POW1_S01_268A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lass den Mistkerl nicht entkommen!"
+
+REFERENCE           POW_VOX_POW1_S01_269A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Weiter!"
+
+REFERENCE           POW_VOX_POW1_S01_270A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ich will ihn lebendig!"
+
+REFERENCE           POW_VOX_POW1_S01_271A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir verlieren ihn, Mason!"
+
+REFERENCE           POW_VOX_POW1_S01_272A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Er entkommt!"
+
+REFERENCE           POW_VOX_POW1_S01_273A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir haben ihn verloren ..."
+
+REFERENCE           POW_VOX_POW1_S01_274A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Da! Der Mistkerl versucht zu fliehen!"
+
+REFERENCE           POW_VOX_POW1_S01_274A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Da! Der Mistkerl versucht zu fliehen!"
+
+REFERENCE           POW_VOX_POW1_S01_275A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mach ihn fertig, Mason!"
+
+REFERENCE           POW_VOX_POW1_S01_276A_MASO
+LANG_ENGLISH        "^1MASON: ^7Du gehst nirgendwohin!"
+
+REFERENCE           POW_VOX_POW1_S01_277A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Kennst du diese Stimme in deinem Kopf, die dir sagt, dass etwas nicht stimmt?"
+
+REFERENCE           POW_VOX_POW1_S01_278A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ich höre sie nicht."
+
+REFERENCE           POW_VOX_POW1_S01_279A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Er kann verbluten ..."
+
+REFERENCE           POW_VOX_POW1_S01_280A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Hilf mir hoch."
+
+REFERENCE           POW_VOX_POW1_S01_281A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Kravchenkos Anlage kann nicht weit weg sein."
+
+REFERENCE           POW_VOX_POW1_S01_282A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Die Tage dieses verfluchten Bastards sind gezählt."
+
+REFERENCE           POW_VOX_POW1_S01_282B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Dieser Mistkerl ist so gut wie erledigt."
+
+REFERENCE           POW_VOX_POW1_S01_400A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Entkommt er, dann warnt er Kravchenko!"
+
+REFERENCE           POW_VOX_POW1_S01_401A_MASO
+LANG_ENGLISH        "^1MASON: ^7Der entkommt nicht."
+
+REFERENCE           POW_VOX_POW1_S01_402A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Der Russe wird sterben!"
+
+REFERENCE           POW_VOX_POW1_S01_403A_MASO
+LANG_ENGLISH        "^1MASON: ^7Verdammt Recht hat er."
+
+REFERENCE           POW_VOX_POW1_S01_404A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Er wird dafür büßen!"
+
+REFERENCE           POW_VOX_POW1_S01_405A_MASO
+LANG_ENGLISH        "^1MASON: ^7Nicht nur er. Kravchenko auch."
+
+REFERENCE           POW_VOX_POW1_S01_406A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Für Bowman."
+
+REFERENCE           POW_VOX_POW1_S01_407A_MASO
+LANG_ENGLISH        "^1MASON: ^7Für Bowman."
+
+REFERENCE           POW_VOX_POW1_S01_408A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ich will den Russen TOT sehen!"
+
+REFERENCE           POW_VOX_POW1_S01_409A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bleib an ihm dran, Woods!"
+
+REFERENCE           POW_VOX_POW1_S01_410A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich bring ihn um ... für Bowman."
+
+REFERENCE           POW_VOX_POW1_S01_411A_MASO
+LANG_ENGLISH        "^1MASON: ^7Überall nur Vietcong!"
+
+REFERENCE           POW_VOX_POW1_S01_412A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Weg mit ihnen ... Uns interessiert nur der Russe."
+
+REFERENCE           POW_VOX_POW1_S01_701A_INTE
+LANG_ENGLISH        "^1VERNEHMER: ^7Verdammt nochmal, wo ist der Zahlensender?"
+
+REFERENCE           POW_VOX_POW1_S01_701B_INTE
+LANG_ENGLISH        "^1VERNEHMER: ^7Wo ist der Zahlensender?"
+
+REFERENCE           POW_VOX_POW1_S01_702A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Alle müssen sterben."
+
+REFERENCE           POW_VOX_POW1_S01_703A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Woods ..."
+
+REFERENCE           POW_VOX_POW1_S01_704A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Dragovich spielt mit uns."
+
+REFERENCE           POW_VOX_POW1_S01_704A_MASO_M_S
+LANG_ENGLISH        "^1MASON: ^7Dragovich spielt mit uns."
+
+REFERENCE           POW_VOX_POW1_S01_705A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ich bin müde und will es zu Ende bringen."
+
+REFERENCE           POW_VOX_POW1_S01_706A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Bowman, nicht!"
+
+REFERENCE           POW_VOX_POW1_S01_708A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Das meinst du nicht ernst, Bowman."
+
+REFERENCE           POW_VOX_POW1_S01_709A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Scheiße, Bowman, tu das nicht!"
+
+REFERENCE           POW_VOX_POW1_S01_710A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Woods? Scheiße ..."
+
+REFERENCE           POW_VOX_POW1_S01_710A_MASO_M_S
+LANG_ENGLISH        "^1MASON: ^7Woods? Scheiße ..."
+
+REFERENCE           POW_VOX_POW1_S01_711A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Ich denke nach ... Ich denke nach ..."
+
+REFERENCE           POW_VOX_POW1_S01_712A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Okay, okay. Ich hab das Beil."
+
+REFERENCE           POW_VOX_POW1_S01_800A_SPZ1_M
+LANG_ENGLISH        "^1SPEZNAS-AGENT: ^7Argh! Argh! Argh!"
+
+REFERENCE           POW_VOX_POW1_S03_004A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Siehst du den Hind? Den nehmen wir."
+
+REFERENCE           POW_VOX_POW1_S03_005A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Schieß schon."
+
+REFERENCE           POW_VOX_POW1_S03_006A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, schieß doch einfach."
+
+REFERENCE           POW_VOX_POW1_S03_007A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Also gut, ich gehe vor."
+
+REFERENCE           POW_VOX_POW1_S03_008A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Was hast du ... also gut, los, los, los!"
+
+REFERENCE           POW_VOX_POW1_S03_011A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gut. Fliegen wir diesen Vogel."
+
+REFERENCE           POW_VOX_POW1_S03_012A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Okay, mal sehen? UV-32-Raketen ... 12mm Bugkanone ... die sind bereit für den dritten Weltkrieg."
+
+REFERENCE           POW_VOX_POW1_S03_013A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kettenladesystem an den 32ern."
+
+REFERENCE           POW_VOX_POW1_S03_014A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Rotor an. Ich steuere."
+
+REFERENCE           POW_VOX_POW1_S03_015A_MASO
+LANG_ENGLISH        "^1MASON: ^7UV-32 bereit."
+
+REFERENCE           POW_VOX_POW1_S03_016A_MASO
+LANG_ENGLISH        "^1MASON: ^712mm-Kanone bereit."
+
+REFERENCE           POW_VOX_POW1_S03_017A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir haben volle Energie. Bereit?"
+
+REFERENCE           POW_VOX_POW1_S03_018A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bereit."
+
+REFERENCE           POW_VOX_POW1_S03_019A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ich bring den Vogel hoch und übergebe dir dann den Knüppel."
+
+REFERENCE           POW_VOX_POW1_S03_020A_MASO
+LANG_ENGLISH        "^1MASON: ^7Klar."
+
+REFERENCE           POW_VOX_POW1_S03_021A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ich melde alle Ziele, die ich sehe."
+
+REFERENCE           POW_VOX_POW1_S03_022A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Alle feindlichen Ziele gelten. Verstanden?"
+
+REFERENCE           POW_VOX_POW1_S03_023A_MASO
+LANG_ENGLISH        "^1MASON: ^7Verstanden. Her mit dem Knüppel."
+
+REFERENCE           POW_VOX_POW1_S03_024A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Dein Vogel."
+
+REFERENCE           POW_VOX_POW1_S03_025A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir haben die Koordinaten von Kravchenkos Anlage. Wir folgen dem Flusslauf."
+
+REFERENCE           POW_VOX_POW1_S03_026A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Haltet die Augen unten, nicht dass uns einer die Eier abschießt."
+
+REFERENCE           POW_VOX_POW1_S03_027A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wie Recht du hast."
+
+REFERENCE           POW_VOX_POW1_S03_028A_MASO
+LANG_ENGLISH        "^1MASON: ^7Teufel, ja!"
+
+REFERENCE           POW_VOX_POW1_S03_029A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Gutes Auge, Mason!"
+
+REFERENCE           POW_VOX_POW1_S03_030A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Da laufen sie davon!"
+
+REFERENCE           POW_VOX_POW1_S03_032A_MASO
+LANG_ENGLISH        "^1MASON: ^7Na los!"
+
+REFERENCE           POW_VOX_POW1_S03_033A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wie die alle rennen können!"
+
+REFERENCE           POW_VOX_POW1_S03_034A_MASO
+LANG_ENGLISH        "^1MASON: ^7Zahltag, ihr Schweinehunde!"
+
+REFERENCE           POW_VOX_POW1_S03_034A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Zahltag, ihr Schweinehunde!"
+
+REFERENCE           POW_VOX_POW1_S03_035A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Verdammt, zu starker Beschuss, zurückfallen!"
+
+REFERENCE           POW_VOX_POW1_S03_036A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Bring uns hier raus, Mason!"
+
+REFERENCE           POW_VOX_POW1_S03_037A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Zurück, viel zu heftige Flugabwehr!"
+
+REFERENCE           POW_VOX_POW1_S03_038A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Himmel, Mason, beweg den Vogel endlich!"
+
+REFERENCE           POW_VOX_POW1_S03_038A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Mason, beweg den Vogel endlich!"
+
+REFERENCE           POW_VOX_POW1_S03_039A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Generator ausgefallen! Schalte auf Notstrom!"
+
+REFERENCE           POW_VOX_POW1_S03_040A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Antikollisionssystem ausgefallen!"
+
+REFERENCE           POW_VOX_POW1_S03_041A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir werden instabil!"
+
+REFERENCE           POW_VOX_POW1_S03_042A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Radarwarnsystem ausgefallen!"
+
+REFERENCE           POW_VOX_POW1_S03_043A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, wir gehen runter!"
+
+REFERENCE           POW_VOX_POW1_S03_043A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, wir gehen runter!"
+
+REFERENCE           POW_VOX_POW1_S03_044A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich kann ihn nicht halten! Festhalten!"
+
+REFERENCE           POW_VOX_POW1_S03_045A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Rotor ist getroffen! Wir sinken!"
+
+REFERENCE           POW_VOX_POW1_S03_046A_MASO
+LANG_ENGLISH        "^1MASON: ^7Fuck! Wir stürzen ab!"
+
+REFERENCE           POW_VOX_POW1_S03_046A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Fuck! Wir stürzen ab!"
+
+REFERENCE           POW_VOX_POW1_S03_047A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7UV-32 laden nach."
+
+REFERENCE           POW_VOX_POW1_S03_048A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Keine Raketen mehr! Wird nachgeladen!"
+
+REFERENCE           POW_VOX_POW1_S03_049A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Negativ, Mason! Es wird noch nachgeladen!"
+
+REFERENCE           POW_VOX_POW1_S03_050A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Nachladen!"
+
+REFERENCE           POW_VOX_POW1_S03_076A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Sampans auf dem Fluss. Und da vorne auf der Brücke ist wohl ein Kaliber 50."
+
+REFERENCE           POW_VOX_POW1_S03_077A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Die Brücke ausschalten!"
+
+REFERENCE           POW_VOX_POW1_S03_078A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Raketenbeschuss! Von den Sampans!"
+
+REFERENCE           POW_VOX_POW1_S03_079A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir haben sie alle, gute Arbeit, jetzt weiter."
+
+REFERENCE           POW_VOX_POW1_S03_080A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Kaliber 50 auf den Trucks! Und sie haben einen ZSU! Raketen einsetzen!"
+
+REFERENCE           POW_VOX_POW1_S03_081A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Da unten ist Charlies Hauptstraße. Siehst du die Tankstelle da vorn?"
+
+REFERENCE           POW_VOX_POW1_S03_082A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ja, ich seh sie."
+
+REFERENCE           POW_VOX_POW1_S03_083A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Mischen wir den Laden mal auf."
+
+REFERENCE           POW_VOX_POW1_S03_084A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ziel auf den Benzinsilo!"
+
+REFERENCE           POW_VOX_POW1_S03_085A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Verdammt!"
+
+REFERENCE           POW_VOX_POW1_S03_085A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Verdammt!"
+
+REFERENCE           POW_VOX_POW1_S03_086A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Die Gebäude auch. Lass keinen von den Bastarden übrig."
+
+REFERENCE           POW_VOX_POW1_S03_087A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Bereich gesichert - weiter den Fluss lang."
+
+REFERENCE           POW_VOX_POW1_S03_088A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Raketenwerfer auf dem Fluss! Die Boote da!"
+
+REFERENCE           POW_VOX_POW1_S03_089A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, da ist irgendwo ein Kaliber 50."
+
+REFERENCE           POW_VOX_POW1_S03_089A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Da ist irgendwo ein Kaliber 50."
+
+REFERENCE           POW_VOX_POW1_S03_090A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Vorsichtig hier durch, Mason. Es muss hier eine Versorgungsstation für die Sampans geben."
+
+REFERENCE           POW_VOX_POW1_S03_091A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Eine NVA-Versorgungsstation! Wir müssen nah am Ho-Chi-Minh-Pfad sein. Schalte sie aus, Mason!"
+
+REFERENCE           POW_VOX_POW1_S03_093A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Da ist wohl jemand stinksauer, Mason."
+
+REFERENCE           POW_VOX_POW1_S03_095A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir sind ja auch nicht besonders taktvoll. Hey, du Kommunistenarsch, jetzt holen wir dich!"
+
+REFERENCE           POW_VOX_POW1_S03_095A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Wir sind ja auch nicht besonders taktvoll. Hey, du Kommunistenarsch, jetzt holen wir dich!"
+
+REFERENCE           POW_VOX_POW1_S03_097A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Mist! Mi-8 Kampfhubschrauber nähert sich von Norden."
+
+REFERENCE           POW_VOX_POW1_S03_097A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Mist! Mi-8 Kampfhubschrauber nähert sich von Norden."
+
+REFERENCE           POW_VOX_POW1_S03_101A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Den Schützen erledigen!"
+
+REFERENCE           POW_VOX_POW1_S03_103A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Er hat uns im Visier!"
+
+REFERENCE           POW_VOX_POW1_S03_105A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Du hast ihn! Feuer!"
+
+REFERENCE           POW_VOX_POW1_S03_107A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir haben ihn. Weiter nordwärts. Nah beim Fluss bleiben."
+
+REFERENCE           POW_VOX_POW1_S03_108A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Scheinbar haben die hier ein bisschen rumgekokelt. Sieh dir den Napalmangriff an. Nicht mal Charlie kann das überleben."
+
+REFERENCE           POW_VOX_POW1_S03_108A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Scheinbar haben die hier ein bisschen rumgekokelt. Sieh dir den Napalmangriff an."
+
+REFERENCE           POW_VOX_POW1_S03_109A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Das ist nicht gut!"
+
+REFERENCE           POW_VOX_POW1_S03_110A_MASO
+LANG_ENGLISH        "^1MASON: ^7Radarerfassung!"
+
+REFERENCE           POW_VOX_POW1_S03_111A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Boden-Luft-Rakete! Kommenlassen, dann ausweichen!"
+
+REFERENCE           POW_VOX_POW1_S03_112A_MASO
+LANG_ENGLISH        "^1MASON: ^7Komm schon, du Miststück ..."
+
+REFERENCE           POW_VOX_POW1_S03_113A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Gut geflogen! Flussaufwärts muss eine Stellung sein."
+
+REFERENCE           POW_VOX_POW1_S03_114A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Achtung!"
+
+REFERENCE           POW_VOX_POW1_S03_115A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich hab's."
+
+REFERENCE           POW_VOX_POW1_S03_116A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir müssen näher ran. In die Höhle!"
+
+REFERENCE           POW_VOX_POW1_S03_117A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Beschuss! Los!"
+
+REFERENCE           POW_VOX_POW1_S03_118A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Zielerfassung!"
+
+REFERENCE           POW_VOX_POW1_S03_119A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Und los geht's!"
+
+REFERENCE           POW_VOX_POW1_S03_120A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Mach sie platt!"
+
+REFERENCE           POW_VOX_POW1_S03_121A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Noch mal drauf! Bring den ganzen Berg zum Einsturz!"
+
+REFERENCE           POW_VOX_POW1_S03_121A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Noch mal drauf! Bring den ganzen Berg zum Einsturz!"
+
+REFERENCE           POW_VOX_POW1_S03_122A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Gut gemacht! Das war der letzte Vogel, den die runterholen."
+
+REFERENCE           POW_VOX_POW1_S03_123A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Charlie hat eine Pipeline über den Fluss gebaut. Die und die Brücke müssen weg!"
+
+REFERENCE           POW_VOX_POW1_S03_124A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Konvoi ist unterwegs!"
+
+REFERENCE           POW_VOX_POW1_S03_125A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Gut gemacht!"
+
+REFERENCE           POW_VOX_POW1_S03_126A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Heilige Scheiße, Mason, das ist die Goldader! Das da unten ist der Ho-Chi-Minh-Pfad."
+
+REFERENCE           POW_VOX_POW1_S03_126A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Heilige Scheiße, Mason, das ist die Goldader! Das da unten ist der Ho-Chi-Minh-Pfad."
+
+REFERENCE           POW_VOX_POW1_S03_127A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wir haben eine Pipeline im Süden und das Hauptlager im Norden! Wir schalten beides aus!"
+
+REFERENCE           POW_VOX_POW1_S03_128A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Gepanzerter ZSU auf der Straße!"
+
+REFERENCE           POW_VOX_POW1_S03_129A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Jag die Ölleitung hoch, Mason!"
+
+REFERENCE           POW_VOX_POW1_S03_130A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Charlie versteckt sich in den Gebäuden! Raketen einsetzen!"
+
+REFERENCE           POW_VOX_POW1_S03_131A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Siehst du den Radarturm? Schalte ihn aus!"
+
+REFERENCE           POW_VOX_POW1_S03_132A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Raketenwerfer in den Türmen!"
+
+REFERENCE           POW_VOX_POW1_S03_133A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7ZSUs gehen in Stellung!"
+
+REFERENCE           POW_VOX_POW1_S03_134A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Kaliber 50 beim Dock!"
+
+REFERENCE           POW_VOX_POW1_S03_135A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Charlie will sich verstecken! Die Gebäude ausschalten!"
+
+REFERENCE           POW_VOX_POW1_S03_136A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Munitionsbunker in dem Hügel da! Da müssen Raketen drauf."
+
+REFERENCE           POW_VOX_POW1_S03_137A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Fackel diese Bunker ab!"
+
+REFERENCE           POW_VOX_POW1_S03_138A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Scheiße ja, sieh mal, wie Charlie rennt!"
+
+REFERENCE           POW_VOX_POW1_S03_138A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Scheiße ja, sieh mal, wie Charlie rennt!"
+
+REFERENCE           POW_VOX_POW1_S03_139A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Toller Schuss, Mason!"
+
+REFERENCE           POW_VOX_POW1_S03_140A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Wu-huu! Ja, das ist erledigt!"
+
+REFERENCE           POW_VOX_POW1_S03_141A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Zweimal Luftabwehr auf der Brücke, siehst du?"
+
+REFERENCE           POW_VOX_POW1_S03_142A_MASO
+LANG_ENGLISH        "^1MASON: ^7Allerdings."
+
+REFERENCE           POW_VOX_POW1_S03_143A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Also gut, Kravchenkos Anlage müsste direkt voraus sein."
+
+REFERENCE           POW_VOX_POW1_S03_144A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Raketenwerferturm bei der Pipeline!"
+
+REFERENCE           POW_VOX_POW1_S03_145A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Kravchenkos Anlage müsste hier sein. Augen offen halten."
+
+REFERENCE           POW_VOX_POW1_S03_146A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ich sehe was auf dem Radar. Siehst du irgendwelche ..."
+
+REFERENCE           POW_VOX_POW1_S03_148A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Feindlicher HIND! Kommt direkt auf uns zu!"
+
+REFERENCE           POW_VOX_POW1_S03_151A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Er haut ab! Jag ihm was in den Hintern!"
+
+REFERENCE           POW_VOX_POW1_S03_152A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Mach den Wichser platt!"
+
+REFERENCE           POW_VOX_POW1_S03_152A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Mach den Wichser platt!"
+
+REFERENCE           POW_VOX_POW1_S03_153A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Du hast ihn, Mason. Ein Treffer noch!"
+
+REFERENCE           POW_VOX_POW1_S03_156A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Kontakt! Jetzt sind es zwei!"
+
+REFERENCE           POW_VOX_POW1_S03_157A_MASO
+LANG_ENGLISH        "^1MASON: ^7Drecksack ..."
+
+REFERENCE           POW_VOX_POW1_S03_158A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Mach schon, Mason!"
+
+REFERENCE           POW_VOX_POW1_S03_160A_MASO
+LANG_ENGLISH        "^1MASON: ^7Yeah!"
+
+REFERENCE           POW_VOX_POW1_S03_161A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Nummer eins, noch einer!"
+
+REFERENCE           POW_VOX_POW1_S03_163A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Er hat uns erfasst! Ausweichen, ausweichen!"
+
+REFERENCE           POW_VOX_POW1_S03_165A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Weiter draufhalten!"
+
+REFERENCE           POW_VOX_POW1_S03_167A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Verdammt nochmal, der Kerl kann fliegen!"
+
+REFERENCE           POW_VOX_POW1_S03_167A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Verdammt nochmal, der Kerl kann fliegen!"
+
+REFERENCE           POW_VOX_POW1_S03_169A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Also gut ... wir haben es. Lande auf der Lichtung."
+
+REFERENCE           POW_VOX_POW1_S03_284A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Leckt mich."
+
+REFERENCE           POW_VOX_POW1_S03_284A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Verdammt!"
+
+REFERENCE           POW_VOX_POW1_S03_286A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Kontakt! Viele Feinde, Mason! Ein zweiter Hind ist uns auf den Fersen!"
+
+REFERENCE           POW_VOX_POW1_S03_503A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Rein in den HIND!"
+
+REFERENCE           POW_VOX_POW1_S03_504A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Rein in den Helikopter, Mason."
+
+REFERENCE           POW_VOX_POW1_S03_505A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, wach auf, Mason!"
+
+REFERENCE           POW_VOX_POW1_S03_505A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Wach auf, Mason!"
+
+REFERENCE           POW_VOX_POW1_S04_400A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Kravchenkos Anlage ist südlich von hier."
+
+REFERENCE           POW_VOX_POW1_S04_401A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich gehe runter ..."
+
+REFERENCE           POW_VOX_POW1_S04_402A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Es ist soweit, los."
+
+REFERENCE           POW_VOX_POW1_S04_403A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir müssen uns nicht verstecken, Mason."
+
+REFERENCE           POW_VOX_POW1_S04_404A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Tun wir's."
+
+REFERENCE           POW_VOX_POW1_S04_405A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, schnapp dir den Flammenwerfer!"
+
+REFERENCE           POW_VOX_POW1_S04_406A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir heizen denen ein!"
+
+REFERENCE           POW_VOX_POW1_S04_407A_RED3
+LANG_ENGLISH        "^1US-GEFANGENER: ^7Wer ist da draußen?"
+
+REFERENCE           POW_VOX_POW1_S04_408A_RED4
+LANG_ENGLISH        "^1US-GEFANGENER: ^7Hilfe! Bitte!"
+
+REFERENCE           POW_VOX_POW1_S04_409A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Das sind Kriegsgefangene!"
+
+REFERENCE           POW_VOX_POW1_S04_410A_RED3
+LANG_ENGLISH        "^1US-GEFANGENER: ^7Seid ihr wegen uns hier?"
+
+REFERENCE           POW_VOX_POW1_S04_411A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7SOG Wir holen euch raus!"
+
+REFERENCE           POW_VOX_POW1_S04_412A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, hol den anderen."
+
+REFERENCE           POW_VOX_POW1_S04_413A_RED4
+LANG_ENGLISH        "^1US-GEFANGENER: ^7Gott sei Dank! Bitte ... schnell!"
+
+REFERENCE           POW_VOX_POW1_S04_414A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason! Sind Sie das?"
+
+REFERENCE           POW_VOX_POW1_S04_415A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov! Ich werde Sie befreien!"
+
+REFERENCE           POW_VOX_POW1_S04_416A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Kravchenko ist hier!"
+
+REFERENCE           POW_VOX_POW1_S04_417A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Hier lang! Wir können ihn nicht entkommen lassen!"
+
+REFERENCE           POW_VOX_POW1_S04_418A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason?! Was machst du da nur? Wir müssen diese Jungs befreien."
+
+REFERENCE           POW_VOX_POW1_S04_418A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Mason?! Wir müssen diese Jungs befreien."
+
+REFERENCE           POW_VOX_POW1_S04_419A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Warte!"
+
+REFERENCE           POW_VOX_POW1_S04_420A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich dachte, Sie wären tot ..."
+
+REFERENCE           POW_VOX_POW1_S04_421A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Als wir am Fluss gefangen genommen wurden, haben sie mich hierher gebracht."
+
+REFERENCE           POW_VOX_POW1_S04_422A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ich sollte nach Russland zurück und Dragovich sollte über mein Schicksal entscheiden."
+
+REFERENCE           POW_VOX_POW1_S04_423A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wir sind jetzt selbst für unser Schicksal verantwortlich, Reznov."
+
+REFERENCE           POW_VOX_POW1_S04_424A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kravchenko muss sterben."
+
+REFERENCE           POW_VOX_POW1_S04_424B_MASO
+LANG_ENGLISH        "^1MASON: ^7Er muss sterben."
+
+REFERENCE           POW_VOX_POW1_S04_425A_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Nicht jetzt, Amerikaner!"
+
+REFERENCE           POW_VOX_POW1_S04_426A_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Ich ... kenne Sie ..."
+
+REFERENCE           POW_VOX_POW1_S04_426B_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Sie ... Schon wieder ..."
+
+REFERENCE           POW_VOX_POW1_S04_427A_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7... Sie waren der Erste ...?"
+
+REFERENCE           POW_VOX_POW1_S04_427B_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Ich hätte Sie in Workuta töten sollen!"
+
+REFERENCE           POW_VOX_POW1_S04_428A_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7ARARARRAHK!"
+
+REFERENCE           POW_VOX_POW1_S04_429A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Hab dich erwischt, du Drecksack!"
+
+REFERENCE           POW_VOX_POW1_S04_429A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Hab dich erwischt, du Drecksack!"
+
+REFERENCE           POW_VOX_POW1_S04_430A_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Sie werden ... mit mir ... sterben."
+
+REFERENCE           POW_VOX_POW1_S04_431A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Auf's Fenster schießen!"
+
+REFERENCE           POW_VOX_POW1_S04_432A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7WOODS!"
+
+REFERENCE           POW_VOX_POW1_S04_433A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Ich hab dich, Mason ..."
+
+REFERENCE           POW_VOX_POW1_S04_434A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Woods?"
+
+REFERENCE           POW_VOX_POW1_S04_435A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Alles okay."
+
+REFERENCE           POW_VOX_POW1_S04_436A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Alles okay."
+
+REFERENCE           POW_VOX_POW1_S04_437A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason."
+
+REFERENCE           POW_VOX_POW1_S04_438A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov?"
+
+REFERENCE           POW_VOX_POW1_S04_439A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Kravchenko ist tot ..."
+
+REFERENCE           POW_VOX_POW1_S04_440A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Dragovich. Kravchenko. Steiner. Alle müssen sterben."
+
+REFERENCE           POW_VOX_POW1_S04_500A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ich hab ihn erwischt, Mason."
+
+REFERENCE           POW_VOX_POW1_S04_500A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ich gehe runter ..."
+
+REFERENCE           POW_VOX_POW1_S04_501A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ich gehe jetzt runter."
+
+REFERENCE           POW_VOX_POW1_S04_502A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ich gehe auf der Lichtung da runter."
+
+REFERENCE           POW_VOX_POW1_S04_600A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bleibt bei mir, Jungs."
+
+REFERENCE           POW_VOX_POW1_S04_601A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zum Teufel mit ihnen!"
+
+REFERENCE           POW_VOX_POW1_S04_602A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Es ist Kravchenko!"
+
+REFERENCE           POW_VOX_POW1_S04_603A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jetzt haben wir ihn."
+
+REFERENCE           POW_VOX_POW1_S04_604A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Hier bleiben und Deckung geben!"
+
+REFERENCE           POW_VOX_POW1_S04_605A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Das ist was Persönliches."
+
+REFERENCE           POW_VOX_POW1_S04_606A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Warte!"
+
+REFERENCE           POW_VOX_POW1_S04_607A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Er ist drinnen ... Fertig, Mason?"
+
+REFERENCE           POW_VOX_POW1_S04_608A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kannst du einen drauf lassen."
+
+REFERENCE           POW_VOX_POW1_S11_001A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Du hast ihn!"
+
+REFERENCE           POW_VOX_POW1_S11_002A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir dürfen keine Zeit verlieren."
+
+REFERENCE           POW_VOX_POW1_S99_441A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Öffne die Zellen, Mason!"
+
+REFERENCE           POW_VOX_POW1_S99_442A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Schnell, die Zellen öffnen!"
+
+ENDMARKER

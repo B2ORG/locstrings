@@ -1,0 +1,166 @@
+// Dumped from fastfile "ru_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы купить выпивку [Цена: &&1]"
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять выпивку"
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы дать выпивку"
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы купить сладость [Цена: &&1]"
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять конфету"
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы дать конфету"
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_RUSSIAN        "Рисуется..."
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_RUSSIAN        "Головоруб"
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы выбрать Головоруб"
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Головоруб"
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_RUSSIAN        "Паровой Трамплин"
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы выбрать Трамплин"
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Трамплин"
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_RUSSIAN        "Подслойный резонатор"
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы выбрать Подслойный резонатор"
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Подслойный резонатор"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_RUSSIAN        "Передается..."
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы дать на чай [Цена: &&1]"
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Ключ"
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять контур 870 MCS"
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять контур AK-74У"
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять контур АН-94"
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять контур PDW-57"
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять контур СВУ-АС"
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять контур Электрокастета"
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы использовать звонок"
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нажать на кнопку"
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_RUSSIAN        "Найден выключатель"
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы загадать желание"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять деталь"
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Фонарь"
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_RUSSIAN        "Ничего не найдено..."
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы обыскать тело"
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_RUSSIAN        "Поиск..."
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы использовать рычаг"
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_RUSSIAN        "Открывается..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Мел для контура"
+
+REFERENCE           ZM_BURIED_WB
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять контур &&1 "
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур Remington 870 MCS"
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7  чтобы нарисовать контур АК-74У"
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур АН-94"
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур B23R"
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур Ножа боуи"
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур мины"
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур M14"
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур Colt M16A1"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур MP5"
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур PDW-57"
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур Семтекса"
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур СВУ-АС"
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур Электрокастета"
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы нарисовать контур РПГ"
+
+ENDMARKER

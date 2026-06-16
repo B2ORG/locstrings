@@ -1,0 +1,52 @@
+// Dumped from fastfile "mak".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MAK_OBJ_PLANTCHARGE
+LANG_ENGLISH        "Platzieren Sie mit Roebuck\nSprengladungen im Munitionslager."
+
+REFERENCE           MAK_OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "Jemand muss Roebuck beim Platzieren der Sprengladungen helfen."
+
+REFERENCE           MAK_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Semper Fi'"
+
+REFERENCE           MAK_INTROSCREEN_PLACE
+LANG_ENGLISH        "Makin-Atoll, Südpazifik"
+
+REFERENCE           MAK_INTROSCREEN_DATE
+LANG_ENGLISH        "17. August 1942"
+
+REFERENCE           MAK_PLANTING
+LANG_ENGLISH        "Platzieren ..."
+
+REFERENCE           MAK_INTROSCREEN_INFO
+LANG_ENGLISH        "2. Marine-Raider-Bataillon (Calson's Raiders)"
+
+REFERENCE           MAK_OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "Sichern Sie das Dorf."
+
+REFERENCE           MAK_OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "Stoßen Sie zum zweiten Trupp."
+
+REFERENCE           MAK_OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "Rücken Sie zum Evakuierungspunkt vor."
+
+REFERENCE           MAK_TRUCK_TRIGGER
+LANG_ENGLISH        "Drücken Sie ^3&&1^7, um den Truck zu aktivieren."
+
+REFERENCE           MAK_TRUCK_HINT
+LANG_ENGLISH        "Sie aktivieren Objekte durch Drücken von ^3[{+usereload}]^7"
+
+REFERENCE           MAK_CONTINUED
+LANG_ENGLISH        "Fortsetzung folgt ..."
+
+REFERENCE           MAK_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller (vermisst)"
+
+REFERENCE           MAK_OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "Retten Sie den zweiten Trupp."
+
+ENDMARKER

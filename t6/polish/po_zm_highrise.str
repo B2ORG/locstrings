@@ -1,0 +1,76 @@
+// Dumped from fastfile "po_zm_highrise".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
+LANG_POLISH         "Parowa Trampolina"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SPRINGPAD
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby dodać część"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SPRINGPAD
+LANG_POLISH         "Dodano część"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
+LANG_POLISH         "Zabrał Parową Trampolinę"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby użyć Parowej Trampoliny"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SLIPGUN
+LANG_POLISH         "Dodano część"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby zabrać Parową Trampolinę"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść Parową Trampolinę"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SLIPGUN
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby dodać część"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
+LANG_POLISH         "Zabrał Likwidator Tarcia"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
+LANG_POLISH         "Likwidator Tarcia"
+
+REFERENCE           ZM_HIGHRISE_GRAB_KEYS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby zabrać klucz"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby zabrać Likwidator Tarcia"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść Likwidator Tarcia"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby użyć Likwidatora Tarcia"
+
+REFERENCE           ZM_HIGHRISE_BUILD_KEYS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby włożyć klucz do windy"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
+LANG_POLISH         "Dodano część"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_KEYS
+LANG_POLISH         "Zabrał klucz"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
+LANG_POLISH         "Klucz"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść klucz"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby użyć klucza"
+
+REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść piłkę"
+
+REFERENCE           ZM_HIGHRISE_SQ_PUTDOWN_BALL
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby umieścić piłkę"
+
+ENDMARKER

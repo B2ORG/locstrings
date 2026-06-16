@@ -1,0 +1,535 @@
+// Dumped from fastfile "it_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_HOLD_TO_SKIP
+LANG_ENGLISH        "Tieni premuto ^3[{+gostand}]^7 per saltare"
+
+REFERENCE           FRONTEND_HOLD_TO_SKIP_PS3
+LANG_ENGLISH        "Tieni premuto  per saltare"
+
+REFERENCE           FRONTEND_NEWREF
+LANG_ENGLISH        "Nuovo testo"
+
+REFERENCE           FRONTEND_PRESS_BUTTON_TO_SIT_DOWN
+LANG_ENGLISH        "Premi ^3[{+gostand}]^7 per sederti"
+
+REFERENCE           FRONTEND_PRESS_X_TO_EXIT
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per uscire"
+
+REFERENCE           FRONTEND_USE_COMPUTER
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per usare il computer"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_001A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ci dirai tutto quello che sai."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_002A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Credi di essere forte perché non parli? Non sei forte, sei solo stupido."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_004A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sto perdendo la pazienza. Non rendere tutto più difficile."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_006A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Qui non ci sono i tuoi amici. Sei da solo. Con me."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_007A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Il tuo destino dipende da te. Parla."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_009A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7So che puoi sentirmi, non fare finta di niente."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_010A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Se parli, non hai niente da temere. Invece, se continui a rimanere in silenzio..."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_012A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Non puoi scappare. Certo, puoi provarci... ma resterai qui finché non lo deciderò io."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_014A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Posso farti quello che voglio. Nessuno ti conosce, ti hanno dimenticato. Non sei mai esistito."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_015A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sì. Sì, lasciaci continuare."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_017A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Pensa! Concentrati! Che cosa ricordi?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_018A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Bene. Continua."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_020A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Coraggio, ci sei quasi! Vuoi andartene da qui, no? Reagisci!"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_021A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Siamo pronti. Inizia a parlare."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_022A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Bene, sei pronto a parlare."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_024A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dall'inizio, ma ricorda che il tempo stringe."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_026A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sì, così! Vedrai che insieme ce la facciamo."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_027A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ci siamo persi qualcosa?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_029A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sto perdendo la pazienza. Ricominciamo da capo."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_030A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7C'è ancora qualcosa che non ci hai detto?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_032A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dove sei finito? Torna qui."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_034A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Guarda gli occhi: sta pensando a qualcosa."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_036A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sta cercando di tranquillizzarsi. Amico, qui la tranquillità non esiste."
+
+REFERENCE           FRONTEND_VOX_FRO1_S01_300A_BROA
+LANG_ENGLISH        "^1VOCE ALLA RADIO: ^7Ventuno, trentasei, quarantanove. Diciassette, diciassette, tre, cinque, sei. Ventuno, trentasei, quarantanove. Diciassette, diciassette, tre, cinque, sei."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_038A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Il tempo sta per scadere!"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_039A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Concentrati, Mason. Cerca di ricordare."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_040A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Puoi far finire tutto questo ora."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_041A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Devi solo ricordare."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_042A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Sei sicuro di sapere cos'è successo veramente?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_043A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Sai bene perché sei qui."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_044A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7I numeri, Mason... Cosa significano?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_045A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Perché ti sei fidato di lui?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_046A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Perché l'hai fatto, Mason? Perché?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_047A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dipende tutto da te, Mason. Dipende tutto da te."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_048A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Lo capisco se menti."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_049A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7L'hai ucciso tu, Mason. Tu e nessun altro. Sei stato tu."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_050A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Per chi lavoravi?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_051A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai parlato di Cuba. Cos'è successo lì?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_052A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7C'entrava Castro?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_053A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Di' qualcosa. Qualsiasi cosa. Sforzati."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_054A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Perché non ti hanno ucciso?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_055A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Che ti hanno detto?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_056A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Con chi si è incontrato Castro?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_057A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Sapevano che stavi arrivando... Lo sai, vero?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_058A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Stavi collaborando con i comunisti?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_059A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Mason, ci sono troppi buchi nella tua storia."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_060A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7L'unica rivolta a Vorkuta si è conclusa dopo tre giorni. Pacificamente."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_061A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cos'è successo a Reznov?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_062A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Da solo. Lontano da casa. Troppo facile."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_063A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7L'ordine proveniva da Kennedy?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_064A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Chi altri lo sapeva?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_065A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7C'è qualcuno che può confermarlo?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_066A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7E poi cos'è successo?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_067A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Confermi l'uccisione?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_068A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai cercato Dragovich per molto tempo."
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_069A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Volevi davvero trovarlo?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_070A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Che ne pensavi della guerra in Vietnam?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_071A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Credi che il coinvolgimento della tua nazione sia giustificato?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_072A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cosa speravi di ottenere dal disertore?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_073A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Credevi che ti avrebbe condotto da Dragovich?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_074A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Conoscevi già l'identità del disertore?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_075A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Conoscevi già il disertore?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_076A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Pensi che Viktor Reznov sia tuo amico?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_077A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cosa ti ha detto l'agente speciale Hudson sul dottor Clarke?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_078A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Secondo te, perché i Sovietici erano lì?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_079A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai visto gli effetti della Nova Sei?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_080A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Perché hai deciso di tenere con te il disertore?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_081A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Chi ha autorizzato l'operazione?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_082A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Era la prima volta che rivedevi Kravchenko dall'operazione Flashpoint?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_083A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Era la prima volta che rivedevi Dragovich dall'operazione Flashpoint?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_084A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Secondo te, i Sovietici sapevano che stavi arrivando?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_085A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Chi c'era insieme a te nei tunnel?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_090A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Puoi descrivere le vittime della Nova 6?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_091A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Ti fidavi dell'agente Hudson?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_092A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cosa sperava di ottenere?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_093A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai mai incontrato Steiner prima della missione di Hudson?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_094A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cosa c'entra Yamantau con il progetto Nova?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_095A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Il disertore è stato catturato insieme a te?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_096A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Kravchenko ti ha riconosciuto?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_097A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Perché ti hanno lasciato vivere?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_098A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cosa ti ha detto Reznov?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_099A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Gli hai creduto?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_100A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Ti fidi di lui?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_101A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Sai quello che hai fatto?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_102A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai ottenuto ciò che speravi?"
+
+REFERENCE           FRONTEND_VOX_FRO1_S99_103A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7L'hai ucciso?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_001A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Svegliati! SVEGLIA!"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_002A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dove sono? Dov'è Reznov?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_003A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Ora risponderai alle nostre domande. Hai capito?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_004A_MASO
+LANG_ENGLISH        "^1MASON: ^7E tu chi cazzo sei?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_005A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Non è importante. Quello che importa è chi sei TU. Come ti chiami?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_006A_MASO
+LANG_ENGLISH        "^1MASON: ^7Vaffanculo."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_006A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Fottiti."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_007A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dove sei nato?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_008A_MASO
+LANG_ENGLISH        "^1MASON: ^7Baciami il culo."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_009A_MASO
+LANG_ENGLISH        "^1MASON: ^7AARRRGH!!!"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_009B_MASO
+LANG_ENGLISH        "^1MASON: ^7AARRRGH!!!"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_009C_MASO
+LANG_ENGLISH        "^1MASON: ^7AARRRGH!!!"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_010A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Il tuo nome è Alex Mason. Sei nato a Fairbanks, in Alaska. Nel 1961 hai fatto parte di una squadra di assassini della CIA conosciuta come operazione 40. Giusto?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_011A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Giusto?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_012A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_013A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dov'è la stazione radio?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_014A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non so di che stai parlando..."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_015A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7I numeri, Mason. Cosa significano? Da dove li trasmettono?"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_016A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non so niente di nessun numero!"
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_17A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7E Dragovich? Lui te lo ricordi? Dicci quello che vogliamo e non ti succederà nulla."
+
+REFERENCE           FRONTEND_VOX_FRO2_S01_18A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cominciamo dall'inizio. Cuba, 1961. La Baia dei Porci. Sappiamo che eri lì."
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_001A_MASO
+LANG_ENGLISH        "^1MASON: ^7Era una trappola. Sapevano del nostro arrivo. Quel bastardo di Dragovich..."
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_002A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Il Russo?"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_003A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì. Aveva architettato tutto lui."
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_004A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dove ti ha portato Dragovich?"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_005A_MASO
+LANG_ENGLISH        "^1MASON: ^7In Russia. In un campo di lavoro. Un buco infernale chiamato Vorkuta. Mio Dio..."
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_006A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cosa ti hanno fatto a Vorkuta, Mason?"
+
+REFERENCE           FRONTEND_VOX_FRO3_S01_007A_MASO
+LANG_ENGLISH        "^1MASON: ^7Cosa NON mi hanno fatto..."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_001A_MASO
+LANG_ENGLISH        "^1MASON: ^7Baikonur era un altro vicolo cieco. Eppure, non so perché, sentivo che Dragovich era ancora vivo."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_002A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Eri ossessionato. Hai passato i cinque anni successivi a cercarlo."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_003A_MASO
+LANG_ENGLISH        "^1MASON: ^7Era dappertutto. Non riuscivo a togliermelo dalla testa. Proprio come gli altri..."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_004B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Che vuoi dire con \"altri\"?"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005A_WEAV
+LANG_ENGLISH        "^1INTERROGATORE: ^7Stiamo perdendo tempo, ha le allucinazioni. L'abbiamo riempito di così tanta merda, che non sa quello che dice."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005A_WEAV_S
+LANG_ENGLISH        "^1INTERROGATOR: ^7He doesn't even know what he's saying."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005B_WEAV
+LANG_ENGLISH        "^1INTERROGATORE: ^7Stiamo perdendo tempo."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_005C_WEAV
+LANG_ENGLISH        "^1INTERROGATOR: ^7Ha le allucinazioni."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_006A_MASO
+LANG_ENGLISH        "^1MASON: ^7Voci... in russo... sempre nella mia testa..."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_007A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7No, voglio continuare..."
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_008A_MASO
+LANG_ENGLISH        "^1MASON: ^7EHI! Chi siete? Che volete da me?"
+
+REFERENCE           FRONTEND_VOX_FRO4_S01_009A_WEAV
+LANG_ENGLISH        "^1INTERROGATORE: ^7Vogliamo i numeri, Mason. Non ci serve altro."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_001A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Sappiamo che Jason Hudson ti ha parlato delle informazioni ottenute dal dottor Clarke a Kowloon."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_001B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Sappiamo che Jason Hudson ti ha parlato delle informazioni ottenute dal dottor Clarke a Kowloon."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_002A_MASO
+LANG_ENGLISH        "^1MASON: ^7Terribile... Hudson ha detto che Clarke era pazzo... paranoico... fissato con i numeri."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_003A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Clarke ha creato la Nova 6, una neurotossina che può distruggere un corpo umano in pochi secondi."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_004A_MASO
+LANG_ENGLISH        "^1MASON: ^7Il vice di Dragovich, Kravchenko, la testava in Vietnam. Sulla popolazione, su di noi, su se stesso... non gli importava."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_006A_MASO
+LANG_ENGLISH        "^1MASON: ^7Li odiava. Continuava a ripetermi che dovevano morire tutti."
+
+REFERENCE           FRONTEND_VOX_FRO5_S01_007A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Quando? Quando te l'ha detto?"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_001A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai confermato che Kravchenko, il vice di Dragovich, operava nel Laos."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_001B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai confermato che Kravchenko, il vice di Dragovich, operava nel Laos."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_002A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì. Reznov ha detto che hanno ucciso più gente di quanta io immagini..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_003A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Ascoltami bene, Mason. Non puoi fidarti di Reznov. Non importa cosa ti dice o quello che..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_004A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ma ci ha consegnato il dossier su Clarke! Ci ha portati alla Nova 6!"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_005A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Reznov non è la persona che credi."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_006A_MASO
+LANG_ENGLISH        "^1MASON: ^7No! È mio amico! Mi ha aiutato a fuggire! Traditi. Dimenticati. Abbandonati... tutti fratelli..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_007A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dimentica Reznov! Concentrati, Mason! Non c'è tempo, cazzo! Il mondo è sull'orlo di una guerra!"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_007A_INTE_S
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dimentica Reznov! Concentrati, Mason! Non c'è tempo! Il mondo è sull'orlo di una guerra!"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_008A_MASO
+LANG_ENGLISH        "^1MASON: ^7Che guerra? E chi cazzo sei, tu?"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_008A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Che guerra? E chi diavolo sei, tu?"
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_009A_MASO
+LANG_ENGLISH        "^1MASON: ^7Argggh. Continuo... a sentire... quei... cazzo di numeri..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_009A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Argggh. Continuo... a sentire... quei...numeri..."
+
+REFERENCE           FRONTEND_VOX_FRO6_S01_010A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7I numeri provengono da una trasmissione radio, Mason. Ti hanno fatto il lavaggio del cervello."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_001A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Abbandonato il complesso di Kravchenko nel Laos, dopo aver perso tutta la tua squadra, ti sei dato alla macchia."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_001B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Abbandonato il complesso di Kravchenko nel Laos, dopo aver perso tutta la tua squadra, ti sei dato alla macchia."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_002A_MASO
+LANG_ENGLISH        "^1MASON: ^7No! Ma quale macchia?!? Portavo avanti la missione!"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_003A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Contro gli ordini, sei andato sull'isola \"Rinascita\". Perché, Mason?!?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_003B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Contro gli ordini, sei andato sull'isola \"Rinascita\". Perché, Mason?!?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_004A_MASO
+LANG_ENGLISH        "^1MASON: ^7Steiner era lì. Dovevo ucciderlo."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_005A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Ma Hudson e la CIA erano già sulle tracce di Steiner sull'isola \"Rinascita\". Perché dovevi andarci anche tu?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_005B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Ma Hudson e la CIA erano già sulle tracce di Steiner sull'isola \"Rinascita\". Perché dovevi andarci anche tu?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_006A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragovich. Kravchenko. Steiner. Dovevano morire tutti."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_007A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Volevamo Steiner vivo. Perché hai dovuto ucciderlo?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_007B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Volevamo Steiner vivo. Perché hai dovuto ucciderlo?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_008A_MASO
+LANG_ENGLISH        "^1MASON: ^7Me l'hanno detto i numeri! Come fai a non capirlo, cazzo?!?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_008A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Cause the numbers were telling me to!  Why don't you understand?!"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_009A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hai ucciso Kravchenko. Hai distrutto la loro base. Mason?"
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_010A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Woods e Bowman sono stati uccisi. L'intera squadra SOG spazzata via. Solo tu sei sopravvissuto, Mason. Tu e basta."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_011A_MASO
+LANG_ENGLISH        "^1MASON: ^7No, anche Reznov."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_012A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Solo tu, Mason."
+
+REFERENCE           FRONTEND_VOX_FRO7_S01_013A_MASO
+LANG_ENGLISH        "^1MASON: ^7No, Reznov è ancora con me... da Vorkuta."
+
+REFERENCE           FRONTEND_ZORKSAVE_DESCRIPTION
+LANG_ENGLISH        "Salvataggio di Zork"
+
+REFERENCE           UIPLS_PLAYLIST_CATEGORY_NOTVISIBLE
+LANG_ENGLISH        "TOP SECRET"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE
+LANG_ENGLISH        "TOP SECRET"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_CAPS
+LANG_ENGLISH        "Questa mappa contiene materiali TOP SECRET. È necessaria un'autorizzazione di livello più alto."
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_DESC
+LANG_ENGLISH        "Questa mappa contiene materiali TOP SECRET. È necessaria un'autorizzazione di livello più alto."
+
+ENDMARKER

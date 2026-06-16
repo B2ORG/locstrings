@@ -1,0 +1,109 @@
+// Dumped from fastfile "oki3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI3_OBJ4
+LANG_ENGLISH        "Holen Sie Munition aus der Nachschublieferung."
+
+REFERENCE           OKI3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Sollbruchstelle'"
+
+REFERENCE           OKI3_STARTS_PLANTERS_END
+LANG_ENGLISH        "EREIGNIS 4 - Ende der Blumentopfschlacht"
+
+REFERENCE           OKI3_INTROSCREEN_DATE
+LANG_ENGLISH        "29. Mai 1945"
+
+REFERENCE           OKI3_OBJ2_3
+LANG_ENGLISH        "Schalten Sie die Mörserteams aus ( 3 übrig)."
+
+REFERENCE           OKI3_INTROSCREEN_INFO
+LANG_ENGLISH        "1. Marinedivision"
+
+REFERENCE           OKI3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Burg Shuri, Okinawa"
+
+REFERENCE           OKI3_OBJ1
+LANG_ENGLISH        "Greifen Sie die Burg Shuri an."
+
+REFERENCE           OKI3_OBJ2_4
+LANG_ENGLISH        "Schalten Sie die Mörserteams aus ( 4 übrig)."
+
+REFERENCE           OKI3_OBJ2_2
+LANG_ENGLISH        "Schalten Sie die Mörserteams aus ( 2 übrig)."
+
+REFERENCE           OKI3_OBJ2_1
+LANG_ENGLISH        "Schalten Sie die Mörserteams aus ( 1 übrig)."
+
+REFERENCE           OKI3_OBJ2
+LANG_ENGLISH        "Schalten Sie die Mörserteams aus."
+
+REFERENCE           OKI3_OBJ5
+LANG_ENGLISH        "Halten Sie das Gebiet."
+
+REFERENCE           OKI3_OBJ6
+LANG_ENGLISH        "Wehren Sie den Banzai-Angriff ab."
+
+REFERENCE           OKI3_STARTS_MORTARPITS
+LANG_ENGLISH        "Ereignis 2 - Mörsergruben"
+
+REFERENCE           OKI3_USE_MORTAR
+LANG_ENGLISH        "Halten Sie zum Aufheben und Bereitmachen &&1 gedrückt."
+
+REFERENCE           OKI3_OBJ4_A
+LANG_ENGLISH        "Betreten Sie den Tunnel und sichern Sie ihn."
+
+REFERENCE           OKI3_TAKE_COVER
+LANG_ENGLISH        "Gehen Sie in Deckung."
+
+REFERENCE           OKI3_REGROUP_BY_WALL
+LANG_ENGLISH        "Treffen Sie sich mit Ihrem Trupp."
+
+REFERENCE           OKI3_REGROUP
+LANG_ENGLISH        "Stoßen Sie wieder mit Ihrem Trupp zusammen."
+
+REFERENCE           OKI3_STARTS_AMBUSH
+LANG_ENGLISH        "Ereignis 1 - Hinterhalt"
+
+REFERENCE           OKI3_STARTS_COURTYARD
+LANG_ENGLISH        "Ereignis 4 - Innenhof"
+
+REFERENCE           OKI3_OBJ9
+LANG_ENGLISH        "Rufen Sie per Funk Luftunterstützung für die Ostgebäude."
+
+REFERENCE           OKI3_OBJ8
+LANG_ENGLISH        "Rufen Sie per Funk Luftunterstützung für die Nordgebäude."
+
+REFERENCE           OKI3_OBJ7
+LANG_ENGLISH        "Sichern Sie die Nachschublieferung im Innenhof."
+
+REFERENCE           OKI3_STARTS_PLANTERS
+LANG_ENGLISH        "Ereignis 3 - Blumentöpfe"
+
+REFERENCE           OKI3_AIRSTRIKE_HOWTO
+LANG_ENGLISH        "Drücken Sie [{+actionslot 4}] und dann [{+attack}], um einen Luftschlag anzufordern."
+
+REFERENCE           OKI3_TAKE_AMMO
+LANG_ENGLISH        "Halten Sie &&1, um Munition aufzunehmen."
+
+REFERENCE           OKI3_OBJ6A
+LANG_ENGLISH        "Schalten Sie alle Feinde in der Gegend aus."
+
+REFERENCE           OKI3_HINT_PRONE
+LANG_ENGLISH        "Drücken Sie [{+gocrouch}], um sich zu ducken."
+
+REFERENCE           OKI3_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           OKI3_OBJ8_A
+LANG_ENGLISH        "Verteidigen Sie das Gebiet."
+
+REFERENCE           OKI3_MORTAR_HINT
+LANG_ENGLISH        "Ziehen Sie [{+attack}], um den Mörser zu werfen"
+
+REFERENCE           OKI3_RADIO_INUSE
+LANG_ENGLISH        "Das Funkgerät wird bereits genutzt."
+
+ENDMARKER

@@ -1,0 +1,1087 @@
+// Dumped from fastfile "fr_river".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RIVER_BARNES
+LANG_ENGLISH        "Barnes"
+
+REFERENCE           RIVER_BOAT_DRIVE
+LANG_ENGLISH        "Appuyez sur ^3[{+activate}]^7 pour conduire le véhicule"
+
+REFERENCE           RIVER_BOAT_ENTRY
+LANG_ENGLISH        "Appuyez sur ^3[{+attack}]^7 pour grimper sur le bateau."
+
+REFERENCE           RIVER_BOAT_HP
+LANG_ENGLISH        "BATEAU"
+
+REFERENCE           RIVER_BOSS_BOAT_COWARD
+LANG_ENGLISH        "Vous n'avez pas attaqué le bateau de patrouille ennemi."
+
+REFERENCE           RIVER_CONTROLS_ADS
+LANG_ENGLISH        "Appuyez sur ^3[{+melee}]^7 pour faire un zoom avant ou arrière."
+
+REFERENCE           RIVER_CONTROLS_BOWMAN_REMINDER
+LANG_ENGLISH        "Utilisez ^3[{+frag}]^7 pour tirer des missiles depuis la position de Bowman."
+
+REFERENCE           RIVER_CONTROLS_FIRE_MISSILES
+LANG_ENGLISH        "Appuyez sur ^3[{+speed_throw}]^7 pour lancer des missiles."
+
+REFERENCE           RIVER_CONTROLS_LSTICK
+LANG_ENGLISH        "Utilisez  pour vous déplacer.\n"
+
+REFERENCE           RIVER_CONTROLS_RB
+LANG_ENGLISH        "Appuyez sur ^3[{+frag}]^7 pour ordonner à Bowman de tirer."
+
+REFERENCE           RIVER_CONTROLS_RSTICK
+LANG_ENGLISH        "Utilisez  pour viser."
+
+REFERENCE           RIVER_CONTROLS_RTRIG
+LANG_ENGLISH        "Appuyez sur ^3[{+attack}]^7 pour tirer avec la mitrailleuse."
+
+REFERENCE           RIVER_CONTROLS_WOODS_REMINDER
+LANG_ENGLISH        "Utilisez ^3[{+smoke}]^7 pour tirer des missiles depuis la position de Woods."
+
+REFERENCE           RIVER_CUT_ROPE
+LANG_ENGLISH        "Appuyez sur ^3[{+melee}]^7 pour couper la corde."
+
+REFERENCE           RIVER_HEAD_TO_BRIDGE
+LANG_ENGLISH        "Rejoignez le pont, attaque aérienne imminente."
+
+REFERENCE           RIVER_INTROSCREEN_1
+LANG_ENGLISH        "^LTransmission n°2-15-4-25. Désignation : INDIA^L\n"
+
+REFERENCE           RIVER_INTROSCREEN_2
+LANG_ENGLISH        "^LConfirmation : les Soviétiques fournissent des armes chimiques à l'ANV. ^L\n"
+
+REFERENCE           RIVER_INTROSCREEN_3
+LANG_ENGLISH        "^LAvion-cargo commercial soviétique abattu au-dessus du^L ^C1Laos. ^C"
+
+REFERENCE           RIVER_INTROSCREEN_4
+LANG_ENGLISH        "^C1Mason^C ^Let l'équipe GOS sont chargés de récupérer le Nova 6 dans les décombres.^L"
+
+REFERENCE           RIVER_INTROSCREEN_5
+LANG_ENGLISH        "^L13h00,^L ^C111 février 1968^C"
+
+REFERENCE           RIVER_LEWIS
+LANG_ENGLISH        "Lewis"
+
+REFERENCE           RIVER_LT_MISSILES
+LANG_ENGLISH        ""
+
+REFERENCE           RIVER_OBJ_AA_GUNS
+LANG_ENGLISH        "Détruisez les canons de DCA."
+
+REFERENCE           RIVER_OBJ_AA_GUNS_3
+LANG_ENGLISH        "Détruisez les canons de DCA."
+
+REFERENCE           RIVER_OBJ_AFTERMATH
+LANG_ENGLISH        "Pilotez le bateau."
+
+REFERENCE           RIVER_OBJ_BOAT_DRAG
+LANG_ENGLISH        "Coupez la corde à la proue"
+
+REFERENCE           RIVER_OBJ_BOAT_DRIVE
+LANG_ENGLISH        "Infiltrez-vous dans la base ennemie."
+
+REFERENCE           RIVER_OBJ_BOAT_LANDING
+LANG_ENGLISH        "Rejoignez les troupes américaines en amont de la rivière."
+
+REFERENCE           RIVER_OBJ_BOATJACK
+LANG_ENGLISH        "Tuez les Viêt-Congs sur le bateau"
+
+REFERENCE           RIVER_OBJ_BOSS_BOAT
+LANG_ENGLISH        "Attaquez le bateau de patrouille blindé."
+
+REFERENCE           RIVER_OBJ_BUNKER
+LANG_ENGLISH        "Détruisez le bunker."
+
+REFERENCE           RIVER_OBJ_CONTROL_BOAT
+LANG_ENGLISH        "Prenez le contrôle du bateau."
+
+REFERENCE           RIVER_OBJ_CUT_ROPE
+LANG_ENGLISH        "Coupez la corde."
+
+REFERENCE           RIVER_OBJ_DESTROY
+LANG_ENGLISH        "Détruire"
+
+REFERENCE           RIVER_OBJ_DESTROY_TARGETS
+LANG_ENGLISH        "Détruisez les cibles ennemies."
+
+REFERENCE           RIVER_OBJ_DRAG_TIE_ROPE
+LANG_ENGLISH        "Attachez la corde."
+
+REFERENCE           RIVER_OBJ_DRAG_TO_CHOPPER
+LANG_ENGLISH        "Allez vers l'hélico de sauvetage."
+
+REFERENCE           RIVER_OBJ_DRIVE
+LANG_ENGLISH        "Piloter"
+
+REFERENCE           RIVER_OBJ_DRIVE_BOAT
+LANG_ENGLISH        "Remontez la rivière jusqu'au site du crash."
+
+REFERENCE           RIVER_OBJ_ENGAGE_ENEMY
+LANG_ENGLISH        "Attaquez les cibles ennemies."
+
+REFERENCE           RIVER_OBJ_FIGHT_UPHILL
+LANG_ENGLISH        "Fouillez le site du crash."
+
+REFERENCE           RIVER_OBJ_FOLLOW
+LANG_ENGLISH        "Suivre"
+
+REFERENCE           RIVER_OBJ_GETAWAY_RAIL
+LANG_ENGLISH        "Fuyez !"
+
+REFERENCE           RIVER_OBJ_JUNGLE_APPROACH
+LANG_ENGLISH        "Sauvez l'équipage de l'hélicoptère abattu"
+
+REFERENCE           RIVER_OBJ_KILL_STREAM_GUYS
+LANG_ENGLISH        "Protégez le site du crash."
+
+REFERENCE           RIVER_OBJ_LAND_REGROUP
+LANG_ENGLISH        "Rejoignez les troupes sur la berge."
+
+REFERENCE           RIVER_OBJ_MEET_AT_DOCK
+LANG_ENGLISH        "Regroupez-vous sur les docks."
+
+REFERENCE           RIVER_OBJ_MISSILES_1
+LANG_ENGLISH        "Détruisez les lance-missiles. (reste 1 sur 3)"
+
+REFERENCE           RIVER_OBJ_MISSILES_2
+LANG_ENGLISH        "Détruisez les lance-missiles. (reste 2 sur 3)"
+
+REFERENCE           RIVER_OBJ_MISSILES_3
+LANG_ENGLISH        "Détruisez les lance-missiles. (reste 3 sur 3)"
+
+REFERENCE           RIVER_OBJ_MISSILES_DONE
+LANG_ENGLISH        "Détruisez les lance-missiles."
+
+REFERENCE           RIVER_OBJ_PARK_BOAT
+LANG_ENGLISH        "Trouvez un endroit sûr où amarrer le bateau"
+
+REFERENCE           RIVER_OBJ_PLANE_CRASH_SEARCH
+LANG_ENGLISH        "Fouillez le site du crash."
+
+REFERENCE           RIVER_OBJ_RECAPTURE_PBR
+LANG_ENGLISH        "Retournez sur le bateau !"
+
+REFERENCE           RIVER_OBJ_REGROUP_BRIDGE
+LANG_ENGLISH        "Regroupez-vous sur le pont."
+
+REFERENCE           RIVER_OBJ_RIVER_PACING
+LANG_ENGLISH        "Atteignez le site du crash du Chinook"
+
+REFERENCE           RIVER_OBJ_SNIPER_DUEL
+LANG_ENGLISH        "Tuez le tireur embusqué ennemi."
+
+REFERENCE           RIVER_OBJ_SNIPER_SUPPORT
+LANG_ENGLISH        "Couvrez Woods et Bowman pendant qu'ils retournent sur le bateau"
+
+REFERENCE           RIVER_OBJ_WOUNDED_MAN
+LANG_ENGLISH        "Sauvez la vie du pilote"
+
+REFERENCE           RIVER_OBJ_ZPU
+LANG_ENGLISH        "Détruisez le ZPU."
+
+REFERENCE           RIVER_PILOT
+LANG_ENGLISH        "Pilote du Chinook"
+
+REFERENCE           RIVER_REZNOV
+LANG_ENGLISH        "Reznov"
+
+REFERENCE           RIVER_RT_MACHINE_GUN
+LANG_ENGLISH        ""
+
+REFERENCE           RIVER_TIE_ROPE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour attacher la corde."
+
+REFERENCE           RIVER_VOX_RIV1_S01_001A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est à nous. On y va !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_002A_RED1
+LANG_ENGLISH        "^1MARINE US : ^7J'en ai vu quatre ! Il sont allés où ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_003A_RED1
+LANG_ENGLISH        "^1MARINE US : ^7Dernière chance..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_004A_RED1
+LANG_ENGLISH        "^1MARINE US : ^7Il est à vous."
+
+REFERENCE           RIVER_VOX_RIV1_S01_005A_RED2
+LANG_ENGLISH        "^1MARINE US : ^7Ça, c'est pour Wilson. Il n'avait que 18 ans !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_006A_PLDR_M
+LANG_ENGLISH        "^1CHEF D'ESCOUADE : ^7Il ne s'en sortira pas ! ALLEZ, ALLEZ, ALLEZ !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_007A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN : ^7J'ai vu bien pire que ça, et certains s'en sont sortis !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_008A_PLDR_M
+LANG_ENGLISH        "^1CHEF D'ESCOUADE : ^7Ouais, mais qu'est-ce qu'il restera ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_009A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Allez, ALLEZ !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_009A_RED3_S
+LANG_ENGLISH        "^1MARINE US : ^7Allez, ALLEZ !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_010A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7MASON ! Sur le bateau !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_011A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On ne doit pas s'arrêter !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_012A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7MASON ! Sur le bateau, VITE !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_013A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Arrête de traîner, Mason. Monte à bord !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_014A_RED4_M
+LANG_ENGLISH        "^1MARINE US : ^7GOS, hein ? Hein ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_015A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Ils n'ont pas réussi."
+
+REFERENCE           RIVER_VOX_RIV1_S01_016A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Prends le canon, te fais pas tuer."
+
+REFERENCE           RIVER_VOX_RIV1_S01_017A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Des M202. Bowman, va à tribord, arme-le. Mason, tu pilotes."
+
+REFERENCE           RIVER_VOX_RIV1_S01_018A_MASO
+LANG_ENGLISH        "^1MASON : ^7Et Reznov, alors ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_019A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Qu'est-ce que tu as dit ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_020A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Je m'occupe des snipers."
+
+REFERENCE           RIVER_VOX_RIV1_S01_021A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Contact ennemi droit devant, ils nous bombardent. Mason, annonce nos cibles. On attend ton signal. Allez, p'tit."
+
+REFERENCE           RIVER_VOX_RIV1_S01_022A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Souviens-toi de ce que j'ai dit."
+
+REFERENCE           RIVER_VOX_RIV1_S01_023A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Encore 4 coups avant de devoir recharger."
+
+REFERENCE           RIVER_VOX_RIV1_S01_024A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, annonce les cibles pour moi ! J'attends !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_025A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Dis-moi où tirer, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_026A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7J'attends ton signal, Mason."
+
+REFERENCE           RIVER_VOX_RIV1_S01_027A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Paré à tirer ! On attend nos cibles."
+
+REFERENCE           RIVER_VOX_RIV1_S01_028A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Mason, annonce les cibles !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_029A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Où est-ce que je tire, Mason ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_030A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Mason, j'ai rechargé !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_031A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Merde, Mason, donne-moi une cible à dégommer !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_031A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN : ^7Mason, donne-moi une cible à dégommer !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_032A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Je recharge !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_033A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Recharge."
+
+REFERENCE           RIVER_VOX_RIV1_S01_034A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Attends, je recharge."
+
+REFERENCE           RIVER_VOX_RIV1_S01_035A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Je suis à sec !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_036A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Plus de munitions !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_037A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Je recharge !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_038A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7J'ai besoin de munitions !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_039A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Je dois recharger !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_040A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Vide. Je recharge."
+
+REFERENCE           RIVER_VOX_RIV1_S01_041A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7VIDE !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_042A_MASO
+LANG_ENGLISH        "^1MASON : ^7C'était pas loin !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_043A_MASO
+LANG_ENGLISH        "^1MASON : ^7Je dois me débarrasser de ça !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_044A_MASO
+LANG_ENGLISH        "^1MASON : ^7Bon sang, ils sont partout !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_045A_MASO
+LANG_ENGLISH        "^1MASON : ^7Merci, ça a failli nous couler !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_045A_MASO_S
+LANG_ENGLISH        "^1MASON : ^7Ça a failli nous couler !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_046A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, on pourra pas tenir beaucoup plus !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_047A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Manoeuvre d'évasion !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_048A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On a failli perdre Bowman !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_049A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On se fait canarder !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_050A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Sors-nous d'ici, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_051A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Il y en a partout !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_052A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Merde !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_052A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN : ^7Merde !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_053A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Mason, grouille-toi !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_054A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est terminé !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_055A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On est foutu !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_056A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7On coule !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_057A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Woods !!!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_058A_MASO
+LANG_ENGLISH        "^1MASON : ^7On est en feu !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_059A_MASO
+LANG_ENGLISH        "^1MASON : ^7On prend l'eau."
+
+REFERENCE           RIVER_VOX_RIV1_S01_060A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Non, Mason, ils sont avec nous !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_061A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Qu'est-ce que tu fais ? Ce sont nos soldats !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_062A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, tu tues nos propres gars !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_063A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Regarde où tu tires !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_064A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Attention, c'est les nôtres. Ce sont nos hommes !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_065A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Arrête, Mason. Tu tues nos propres soldats !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_066A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Mason, NON, c'est nos putains de soldats !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_066A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN : ^7Mason, NON, c'est nos soldats !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_067A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7ARRÊTE DE TIRER ! Alliés !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_068A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Attention. Camp ennemi, devant à gauche. Lance-roquettes !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_069A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Mason, tire au canon principal !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_070A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ouais, taille-les en pièces !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_070A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Taille-les en pièces !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_071A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Pas de pitié !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_072A_MASO
+LANG_ENGLISH        "^1MASON : ^7Tour droit devant !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_073A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ouais, touché !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_074A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Tirs de mortiers ! Lance-missiles mobiles droit devant. Il y en a trois."
+
+REFERENCE           RIVER_VOX_RIV1_S01_075A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Ils sont en route !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_076A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Artillerie !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_077A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, évasion !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_078A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Fonce, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_079A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Mortier !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_080A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Attention !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_081A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Baissez-vous !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_082A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7À tribord toute, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_083A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Dégomme-les !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_084A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Attention à l'impact !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_085A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ça va pas passer loin !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_086A_MASO
+LANG_ENGLISH        "^1MASON : ^7Attention !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_087A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Pas par là, Mason ! On doit neutraliser les mortiers !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_088A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Non, Mason, pas par là. Détruis les lanceurs !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_089A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Laisse tomber, Mason. On doit d'abord éliminer ces lanceurs !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_090A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Garde ça pour les mobiles."
+
+REFERENCE           RIVER_VOX_RIV1_S01_091A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Non ! On doit détruire ces putains de mortiers !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_091A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN : ^7Non ! On doit détruire ces putains de mortiers !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_092A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Pas encore, Mason. On doit s'occuper de ces lance-missiles."
+
+REFERENCE           RIVER_VOX_RIV1_S01_093A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ça en fait un !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_094A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Et de un !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_095A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ouais, joli coup !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_096A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Dans le mille !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_097A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Joli tir ! Plus qu'un !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_098A_MASO
+LANG_ENGLISH        "^1MASON : ^7Allez !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_099A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'était le dernier ! C'est bon !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_100A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7GOS !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_101A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Beau travail, mon ami !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_102A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7On a réussi !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_103A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Joli coup, Mason ! Maintenant, va vers cette barricade qui bloque la rivière, nos gars s'en chargeront !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_104A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Ouais !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_105A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Cibles multiples ! Tour droit devant, lance-roquettes à droite. Petit, baisse la tête !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_106A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Dans le mille ! Elle s'écroule !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_107A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Descends ces salopards !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_108A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Bravo !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_109A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7On se croirait à Vorkouta, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_110A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Une autre tour !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_111A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Et une de moins !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_112A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde ! ZSU à gauche, avec un calibre 50. Il va nous massacrer !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_112A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7ZSU à gauche, avec un calibre 50. Il va nous massacrer !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_113A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Mason, qu'est-ce que tu attends ? Feu !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_114A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Quelle saloperie !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_114A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Quelle saloperie !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_115A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Encore deux tours droit devant ! Mouvement sur les deux flancs !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_116A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Envoie ces ordures pourrir en enfer, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_117A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Ils valent pas un clou !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_117A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN : ^7Ils valent pas un clou !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_118A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Sergent, un autre ZSU !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_119A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est bon ! Attention, il pourrait y en avoir d'autres."
+
+REFERENCE           RIVER_VOX_RIV1_S01_120A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Pont droit devant. Ça, ce sera facile."
+
+REFERENCE           RIVER_VOX_RIV1_S01_121A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Regarde-les brûler !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_122A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Des sampans ! Ils doivent pas approcher. Petit, bousille ces enfoirés."
+
+REFERENCE           RIVER_VOX_RIV1_S01_122A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Des sampans ! Ils doivent pas approcher. Petit, bousille ces enfoirés."
+
+REFERENCE           RIVER_VOX_RIV1_S01_123A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Encore un !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_124A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ouais, je crois que c'est le dernier !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_125A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7ZSU sur cette crête ! Vite !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_126A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Bonne nuit, enfoiré !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_126A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN : ^7Bonne nuit, enfoiré !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_127A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Deux autres sampans. Tu sais quoi faire !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_128A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Encore un !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_129A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Dasvidanya !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_130A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Encore un ZSU ! Combien de ces saletés on va encore se farcir ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_130A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Encore un ZSU !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_131A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ça devrait être le dernier."
+
+REFERENCE           RIVER_VOX_RIV1_S01_132A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Bon sang, c'est quoi ça ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_133A_MASO
+LANG_ENGLISH        "^1MASON : ^7On met le paquet !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_134A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'était leur forteresse. On les a mis en déroute."
+
+REFERENCE           RIVER_VOX_RIV1_S01_135A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il y a du lourd en approche... On y est, les gars."
+
+REFERENCE           RIVER_VOX_RIV1_S01_136A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7ANV ! Torpilleur ! Visez l'arrière, le moteur est à l'arrière !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_137A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Pas le temps de souffler, Mason, il nous réduirait en bouillie !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_138A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il a pris feu ! Continuez !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_139A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On a touché le moteur !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_140A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il perd du carburant. Le moteur est foutu, achève-le, VITE !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_141A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il est enfumé ! Détruis-le ! Vite !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_142A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Demi-tour, Mason. On doit détruire ce bateau."
+
+REFERENCE           RIVER_VOX_RIV1_S01_143A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, on ne peut pas partir. Il faut détruire ce bateau !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_144A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Abrite-toi derrière ces bâtiments, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_145A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7On l'a eu ! On l'a eu !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_146A_MASO
+LANG_ENGLISH        "^1MASON : ^7C'est tout ce qu'ils ont ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_257A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Voyons ce qu'ils pensent de ça."
+
+REFERENCE           RIVER_VOX_RIV1_S01_258A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde, un de moins ! Mason, Bousille-les !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_258A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Un de moins ! Mason, Bousille-les !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_262A_RED4_M
+LANG_ENGLISH        "^1MARINE US : ^7Monsieur."
+
+REFERENCE           RIVER_VOX_RIV1_S01_263A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7D'accord..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_264A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Ça va secouer !"
+
+REFERENCE           RIVER_VOX_RIV1_S01_800A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ce gamin y est resté. Je peux vous jurer que Woods pleurait, mais il n'a jamais montré une larme."
+
+REFERENCE           RIVER_VOX_RIV1_S01_900A_MASO
+LANG_ENGLISH        "^1MASON : ^7La CIA a abattu l'avion-cargo à 5 kilomètres d'ici."
+
+REFERENCE           RIVER_VOX_RIV1_S01_901A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il faut qu'on mette la main sur le Nova 6 avant que les Russes ne nettoient tout ça."
+
+REFERENCE           RIVER_VOX_RIV1_S01_902A_MASO
+LANG_ENGLISH        "^1MASON : ^7Bien... C'est parti."
+
+REFERENCE           RIVER_VOX_RIV1_S02_147A_CHI1_F_M
+LANG_ENGLISH        "^1PILOTE US : ^7Wolf 10, ici Rescue 1. On vous a en visuel. Le secteur est envahi, on vous sort de là."
+
+REFERENCE           RIVER_VOX_RIV1_S02_148A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Bien reçu. On nous évacue par air. Mason, c'est notre PR."
+
+REFERENCE           RIVER_VOX_RIV1_S02_149A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, vers notre PR !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_150A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On n'a plus le temps. Vite, Mason, avant qu'il ne soit trop tard !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_151A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Rescue 1, ici Centurion 5. Beaucoup de mouvement. Évac annulée, on n'a pas le temps !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_152A_CHI1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Négatif. C'est le GOS en bas, ils le feraient pour nous. On y va."
+
+REFERENCE           RIVER_VOX_RIV1_S02_153A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7CH-47. Va falloir faire vite. Le Chinook va nous transporter jusqu'à la ZA Delta Tango."
+
+REFERENCE           RIVER_VOX_RIV1_S02_154A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Woods, mouvement ! Rivière est. Je l'ai."
+
+REFERENCE           RIVER_VOX_RIV1_S02_155A_CHI1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Wolf 10, on est en position. Centurions, éclairez-les !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_158A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Rescue 1, dégagez ! Dégagez vite. On ne tiendra pas."
+
+REFERENCE           RIVER_VOX_RIV1_S02_159A_CHI1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Je sais."
+
+REFERENCE           RIVER_VOX_RIV1_S02_160A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason ?"
+
+REFERENCE           RIVER_VOX_RIV1_S02_161A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On y va."
+
+REFERENCE           RIVER_VOX_RIV1_S02_162A_CHI1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Touché, on est touché ! Wolf 10, coupez les câbles, on va s'écraser, on va s'écraser. Coupez les câbles !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_164A_CHI1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Je ne peux pas tenir !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_165A_CHI1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Attention à l'impact !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_166A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Rescue 1 est à terre. Les Viets se sont repliés sur la ligne d'arbres."
+
+REFERENCE           RIVER_VOX_RIV1_S02_167A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Compris, Centurion. Vous pouvez rester avec nous ?"
+
+REFERENCE           RIVER_VOX_RIV1_S02_168A_USC1_F_M
+LANG_ENGLISH        "^1PILOTE US : ^7Bien sûr, Wolf 10. Remontez la rivière, on vous protège."
+
+REFERENCE           RIVER_VOX_RIV1_S02_169A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Bowman, en pointe. Mason, tu prends l'arrière."
+
+REFERENCE           RIVER_VOX_RIV1_S02_171A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Les Viets sont partis pour l'instant, mais ils reviendront. Gardez les yeux bien ouverts."
+
+REFERENCE           RIVER_VOX_RIV1_S02_172A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Pas le moindre mouvement. C'est pas normal. On va partir en éclaireur, voir ce qui se passe."
+
+REFERENCE           RIVER_VOX_RIV1_S02_173A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Bien reçu. Gardez le contact."
+
+REFERENCE           RIVER_VOX_RIV1_S02_174A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ça ne me plaît pas du tout. C'est peut-être un piège."
+
+REFERENCE           RIVER_VOX_RIV1_S02_175A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Quelle blague."
+
+REFERENCE           RIVER_VOX_RIV1_S02_176A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7C'est dégagé ici. Comment ça se passe en bas, Wolf 10 ?"
+
+REFERENCE           RIVER_VOX_RIV1_S02_177A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Rien pour l'instant... attendez. Quelque chose dans les arbres."
+
+REFERENCE           RIVER_VOX_RIV1_S02_178A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Quoi qu'il se soit passé, on l'a raté de peu."
+
+REFERENCE           RIVER_VOX_RIV1_S02_179A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On a un avion abattu, ici. Parlez-moi."
+
+REFERENCE           RIVER_VOX_RIV1_S02_180A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Il n'y a rien ici."
+
+REFERENCE           RIVER_VOX_RIV1_S02_181A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Connerie !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_181A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Connerie !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_182A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7L'avion doit être tout près, Mason. Kravchenko n'est pas loin."
+
+REFERENCE           RIVER_VOX_RIV1_S02_183A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Je suis dans un canyon, 500 mètres au nord de votre position. Je reste ici, Centurions 3 et 4 patrouillent. Toujours aucun contact."
+
+REFERENCE           RIVER_VOX_RIV1_S02_184A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7J'y crois pas à ça. Ils sont là-haut, ils nous attendent."
+
+REFERENCE           RIVER_VOX_RIV1_S02_185A_MASO
+LANG_ENGLISH        "^1MASON : ^7Bowman. Que s'est-il passé ?"
+
+REFERENCE           RIVER_VOX_RIV1_S02_186A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Il n'y a rien ici."
+
+REFERENCE           RIVER_VOX_RIV1_S02_187A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ouais."
+
+REFERENCE           RIVER_VOX_RIV1_S02_265A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Bon sang !"
+
+REFERENCE           RIVER_VOX_RIV1_S02_266A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Bon sang... je suis désolé, petit...."
+
+REFERENCE           RIVER_VOX_RIV1_S03_188A_USP1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Je vous vois, Wolf 10. Bienvenue au paradis."
+
+REFERENCE           RIVER_VOX_RIV1_S03_189A_USP1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Rien derrière vous. Continuez comme ça. Attendez un peu. J'ai quelque chose. Attendez."
+
+REFERENCE           RIVER_VOX_RIV1_S03_190A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Je le sens. Kravchenko est là."
+
+REFERENCE           RIVER_VOX_RIV1_S03_191A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Répète ça ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_192A_MASO
+LANG_ENGLISH        "^1MASON : ^7Kravchenko. Il doit être dans le coin."
+
+REFERENCE           RIVER_VOX_RIV1_S03_193A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7J'espère bien, putain."
+
+REFERENCE           RIVER_VOX_RIV1_S03_193A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7J'espère bien."
+
+REFERENCE           RIVER_VOX_RIV1_S03_194A_USP1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Ils l'ont trouvé, droit devant. Je vous les passe."
+
+REFERENCE           RIVER_VOX_RIV1_S03_195A_USP2_F
+LANG_ENGLISH        "^1PILOTE US : ^7Confirmation visuelle. Point d'impact. Cadavres et marchandises dans tous les coins. Je répète..."
+
+REFERENCE           RIVER_VOX_RIV1_S03_196A_USP1_F
+LANG_ENGLISH        "^1PILOTE US : ^7C'est votre avion, Wolf 10. Je me tire, on se revoit de l'autre côté."
+
+REFERENCE           RIVER_VOX_RIV1_S03_197A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On y est. Souvenez-vous des ordres, ces salauds de rouges sont quelque part par là."
+
+REFERENCE           RIVER_VOX_RIV1_S03_198A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Enfin, Mason. Notre clé pour Kravchenko, Steiner et Dragovich."
+
+REFERENCE           RIVER_VOX_RIV1_S03_199A_USP2_F
+LANG_ENGLISH        "^1PILOTE US : ^7Wolf 10, ici Centurion 3. Suivez-moi, vous pouvez débarquer par ici."
+
+REFERENCE           RIVER_VOX_RIV1_S03_200A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, va vers la rive. On n'a pas beaucoup de temps."
+
+REFERENCE           RIVER_VOX_RIV1_S03_201A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason, on n'a pas de temps à perdre !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_202A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Qu'est-ce que tu attends ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_203A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Va à la rive, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_204A_USP2_F
+LANG_ENGLISH        "^1PILOTE US : ^7J'ai un soutien terrestre limité. Je vous les dépose."
+
+REFERENCE           RIVER_VOX_RIV1_S03_205A_SLDR_M
+LANG_ENGLISH        "^1MARINE US : ^7On est avec vous, chef !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_206A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Que l'un de vos hommes garde le bateau. Quant à tous les autres, vous me suivez. ALLEZ !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_207A_USP2_F
+LANG_ENGLISH        "^1PILOTE US : ^7Je reste pour vous couvrir. Il y a du mouvement là-bas. Préparez-vous."
+
+REFERENCE           RIVER_VOX_RIV1_S03_208A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Suivez-moi et restez groupés. Tirez sur tout ce qui bouge."
+
+REFERENCE           RIVER_VOX_RIV1_S03_209A_USP2_F
+LANG_ENGLISH        "^1PILOTE US : ^7Du mouvement ! Centurion 4 et 5, soutien aérien, vite !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_210A_USP1_F
+LANG_ENGLISH        "^1PILOTE US : ^7De l'activité ! Ils viennent droit sur vous !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_211A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On ne voit rien du tout. Ils sont où ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_214A_USC1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Hélicoptères ennemis en approche ! Des Hinds russes, trois..."
+
+REFERENCE           RIVER_VOX_RIV1_S03_215A_USC2_F
+LANG_ENGLISH        "^1PILOTE US : ^7Bon sang, ils nous attendaient... [parasites]"
+
+REFERENCE           RIVER_VOX_RIV1_S03_216A_USC3_F
+LANG_ENGLISH        "^1PILOTE US : ^7Centurion 4 à base. Répondez. Base, répondez. On se fait... [parasites]"
+
+REFERENCE           RIVER_VOX_RIV1_S03_217A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Spetsnaz !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_218A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7N'abandonnez pas ! Les Hinds sont partis ! On a encore une chance."
+
+REFERENCE           RIVER_VOX_RIV1_S03_219A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Les Viets se replient ! On les a mis en déroute !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_220A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ils vont revenir."
+
+REFERENCE           RIVER_VOX_RIV1_S03_221A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est pour ça que les Hinds sont partis. Ils veulent pas laisser de trace."
+
+REFERENCE           RIVER_VOX_RIV1_S03_222A_MASO
+LANG_ENGLISH        "^1MASON : ^7Il devait transporter du Nova 6. Kravchenko ne se serait pas pris la tête pour rien."
+
+REFERENCE           RIVER_VOX_RIV1_S03_223A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est le dernier."
+
+REFERENCE           RIVER_VOX_RIV1_S03_224A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Va falloir escalader cette aile pour atteindre le fuselage."
+
+REFERENCE           RIVER_VOX_RIV1_S03_225A_MASO
+LANG_ENGLISH        "^1MASON : ^7Je passe devant."
+
+REFERENCE           RIVER_VOX_RIV1_S03_226A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Vas-y doucement, Mason."
+
+REFERENCE           RIVER_VOX_RIV1_S03_227A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Je vais stabiliser de ce côté."
+
+REFERENCE           RIVER_VOX_RIV1_S03_228A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Doucement, doucement."
+
+REFERENCE           RIVER_VOX_RIV1_S03_229A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN : ^7Que s'est-il passé ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_230A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_231A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7L'arme chimique."
+
+REFERENCE           RIVER_VOX_RIV1_S03_232A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Nova 6. Ils ont dû être dispersés après le crash."
+
+REFERENCE           RIVER_VOX_RIV1_S03_233A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Lance-grenades, China Lakes. Que trafiquent ces putains de Russes avec des armes américaines ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_234A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN : ^7Sûrement un genre de coup monté."
+
+REFERENCE           RIVER_VOX_RIV1_S03_235A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN : ^7Le Nova 6 est parti, mais regardez. Une carte de la région. Ça doit être la base de Kravchenko. En plein Laos."
+
+REFERENCE           RIVER_VOX_RIV1_S03_236A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Kravchenko. Il doit mourir."
+
+REFERENCE           RIVER_VOX_RIV1_S03_237A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Kravchenko. Il doit mourir."
+
+REFERENCE           RIVER_VOX_RIV1_S03_238A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN : ^7C'est bon, Mason, on y va."
+
+REFERENCE           RIVER_VOX_RIV1_S03_239A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7En bas. Regardez !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_240A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Bowman, fusil de sniper. Mason, prends le China Lake. Envoie-moi ces salauds droit en enfer."
+
+REFERENCE           RIVER_VOX_RIV1_S03_240A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Bowman, fusil de sniper. Mason, prends le China Lake. Envoie-moi ces nazes droit en enfer."
+
+REFERENCE           RIVER_VOX_RIV1_S03_241A_MASO
+LANG_ENGLISH        "^1MASON : ^7Compte sur moi."
+
+REFERENCE           RIVER_VOX_RIV1_S03_242A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason ! En bas, torpilleur ennemi. Ils essaient de couler notre PBR. Tire au China Lake ! Détruis ce torpilleur !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_243A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Mason, tire au lance-grenades. Détruis leur bateau !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_244A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ils ont presque coulé notre bateau !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_245A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Tout est fichu. Notre bateau coule."
+
+REFERENCE           RIVER_VOX_RIV1_S03_246A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde ! Les Hinds sont de retour !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_246A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Les Hinds sont de retour !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_247A_REZN
+LANG_ENGLISH        "^1REZNOV : ^7Tiens-bon, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_248A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Arrrrrrggggghhhhhhhhhh !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_249A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Bowman, Mason. On a réussi. Positions défensives, vite."
+
+REFERENCE           RIVER_VOX_RIV1_S03_250A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Fusils de sniper. Vise le pilote, c'est notre seule chance !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_251A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Beau carton, Mason !"
+
+REFERENCE           RIVER_VOX_RIV1_S03_252A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7On ne peut pas dire que ça s'améliore. Woods, qu'est-ce qu'on fait ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_253A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On en bute un max avant de mourir."
+
+REFERENCE           RIVER_VOX_RIV1_S03_254A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Entendu, patron."
+
+REFERENCE           RIVER_VOX_RIV1_S03_255A_USP1_F
+LANG_ENGLISH        "^1PILOTE US : ^7Désolé pour le retard. On pouvait pas vous avertir, les Viets pouvaient écouter. On prend la relève."
+
+REFERENCE           RIVER_VOX_RIV1_S03_256A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Qu'est-ce qu'on attend ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_259B_KRAV_M
+LANG_ENGLISH        "^1KRAVCHENKO : ^7De Vorkouta."
+
+REFERENCE           RIVER_VOX_RIV1_S03_260A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH : ^7Ça faisait longtemps, Mason."
+
+REFERENCE           RIVER_VOX_RIV1_S03_261A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH : ^7Il faut rattraper le temps perdu."
+
+REFERENCE           RIVER_VOX_RIV1_S03_801A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Dragovich...Kravchenko..."
+
+REFERENCE           RIVER_VOX_RIV1_S99_700A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason ! Descends les snipers !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_701A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7RAS. En avant."
+
+REFERENCE           RIVER_VOX_RIV1_S99_702A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7En avant !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_703A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Allez !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_704A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Attention !!!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_705A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On est coincé ici !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_706A_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7On est coincé ici !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_707A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Snipers dans les arbres !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_708A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7En haut, snipers !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_709A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Dans l'arbre, sniper !"
+
+REFERENCE           RIVER_VOX_RIV1_S99_709B_BOWM
+LANG_ENGLISH        "^1BOWMAN : ^7Dans l'arbre, sniper !"
+
+REFERENCE           RIVER_WARNING_MORTARS
+LANG_ENGLISH        "Attention, frappe de mortier en approche !"
+
+REFERENCE           RIVER_WATCH_YOUR_HEAD
+LANG_ENGLISH        "Attention à la tête !"
+
+ENDMARKER

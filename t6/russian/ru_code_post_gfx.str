@@ -1,0 +1,199 @@
+// Dumped from fastfile "ru_code_post_gfx".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KEY_ALT
+LANG_RUSSIAN        "ALT"
+
+REFERENCE           KEY_ARROWS
+LANG_RUSSIAN        "СТРЕЛКИ"
+
+REFERENCE           KEY_BACKSPACE
+LANG_RUSSIAN        "BACKSPACE"
+
+REFERENCE           KEY_CAPSLOCK
+LANG_RUSSIAN        "CAPS LOCK"
+
+REFERENCE           KEY_CTRL
+LANG_RUSSIAN        "CTRL"
+
+REFERENCE           KEY_DEL
+LANG_RUSSIAN        "DEL"
+
+REFERENCE           KEY_DOWNARROW
+LANG_RUSSIAN        "ВНИЗ"
+
+REFERENCE           KEY_END
+LANG_RUSSIAN        "END"
+
+REFERENCE           KEY_ENTER
+LANG_RUSSIAN        "ENTER"
+
+REFERENCE           KEY_ESC_SHORT
+LANG_RUSSIAN        "ESC"
+
+REFERENCE           KEY_ESCAPE
+LANG_RUSSIAN        "ESCAPE"
+
+REFERENCE           KEY_F1
+LANG_RUSSIAN        "F1"
+
+REFERENCE           KEY_F10
+LANG_RUSSIAN        "F10"
+
+REFERENCE           KEY_F11
+LANG_RUSSIAN        "F11"
+
+REFERENCE           KEY_F12
+LANG_RUSSIAN        "F12"
+
+REFERENCE           KEY_F2
+LANG_RUSSIAN        "F2"
+
+REFERENCE           KEY_F3
+LANG_RUSSIAN        "F3"
+
+REFERENCE           KEY_F4
+LANG_RUSSIAN        "F4"
+
+REFERENCE           KEY_F5
+LANG_RUSSIAN        "F5"
+
+REFERENCE           KEY_F6
+LANG_RUSSIAN        "F6"
+
+REFERENCE           KEY_F7
+LANG_RUSSIAN        "F7"
+
+REFERENCE           KEY_F8
+LANG_RUSSIAN        "F8"
+
+REFERENCE           KEY_F9
+LANG_RUSSIAN        "F9"
+
+REFERENCE           KEY_HOME
+LANG_RUSSIAN        "HOME"
+
+REFERENCE           KEY_INS
+LANG_RUSSIAN        "INS"
+
+REFERENCE           KEY_KP_5
+LANG_RUSSIAN        ". (ЦИФР.)"
+
+REFERENCE           KEY_KP_DEL
+LANG_RUSSIAN        ". (ЦИФР.)"
+
+REFERENCE           KEY_KP_DOWNARROW
+LANG_RUSSIAN        "2 (ЦИФР.)"
+
+REFERENCE           KEY_KP_END
+LANG_RUSSIAN        "1 (ЦИФР.)"
+
+REFERENCE           KEY_KP_ENTER
+LANG_RUSSIAN        "ENTER (ЦИФР.)"
+
+REFERENCE           KEY_KP_EQUALS
+LANG_RUSSIAN        "EQUALS (ЦИФР.)"
+
+REFERENCE           KEY_KP_HOME
+LANG_RUSSIAN        "7 (ЦИФР.)"
+
+REFERENCE           KEY_KP_INS
+LANG_RUSSIAN        "0 (ЦИФР.)"
+
+REFERENCE           KEY_KP_LEFTARROW
+LANG_RUSSIAN        "4 (ЦИФР.)"
+
+REFERENCE           KEY_KP_MINUS
+LANG_RUSSIAN        "- (ЦИФР.)"
+
+REFERENCE           KEY_KP_NUMLOCK
+LANG_RUSSIAN        "NUM LOCK"
+
+REFERENCE           KEY_KP_PGDN
+LANG_RUSSIAN        "3 (ЦИФР.)"
+
+REFERENCE           KEY_KP_PGUP
+LANG_RUSSIAN        "9 (ЦИФР.)"
+
+REFERENCE           KEY_KP_PLUS
+LANG_RUSSIAN        "+ (ЦИФР.)"
+
+REFERENCE           KEY_KP_RIGHTARROW
+LANG_RUSSIAN        "6 (ЦИФР.)"
+
+REFERENCE           KEY_KP_SLASH
+LANG_RUSSIAN        "/ (ЦИФР.)"
+
+REFERENCE           KEY_KP_STAR
+LANG_RUSSIAN        "* (ЦИФР.)"
+
+REFERENCE           KEY_KP_UPARROW
+LANG_RUSSIAN        "8 (ЦИФР.)"
+
+REFERENCE           KEY_LEFT_RIGHT_ARROWS
+LANG_RUSSIAN        "СТРЕЛКИ ВЛЕВО/ВПРАВО"
+
+REFERENCE           KEY_LEFTARROW
+LANG_RUSSIAN        "ВЛЕВО"
+
+REFERENCE           KEY_MOUSE1
+LANG_RUSSIAN        "ЛКМ"
+
+REFERENCE           KEY_MOUSE2
+LANG_RUSSIAN        "ПКМ"
+
+REFERENCE           KEY_MOUSE3
+LANG_RUSSIAN        "СКМ"
+
+REFERENCE           KEY_MOUSE4
+LANG_RUSSIAN        "МЫШЬ 4"
+
+REFERENCE           KEY_MOUSE5
+LANG_RUSSIAN        "МЫШЬ 5"
+
+REFERENCE           KEY_MWHEELDOWN
+LANG_RUSSIAN        "ПРОКР. ВНИЗ"
+
+REFERENCE           KEY_MWHEELUP
+LANG_RUSSIAN        "ПРОКР. ВВЕРХ"
+
+REFERENCE           KEY_OR
+LANG_RUSSIAN        "ИЛИ"
+
+REFERENCE           KEY_PAUSE
+LANG_RUSSIAN        "PAUSE"
+
+REFERENCE           KEY_PGDN
+LANG_RUSSIAN        "PAGE DOWN"
+
+REFERENCE           KEY_PGUP
+LANG_RUSSIAN        "PAGE UP"
+
+REFERENCE           KEY_RIGHTARROW
+LANG_RUSSIAN        "ВПРАВО"
+
+REFERENCE           KEY_SEMICOLON
+LANG_RUSSIAN        ";"
+
+REFERENCE           KEY_SHIFT
+LANG_RUSSIAN        "SHIFT"
+
+REFERENCE           KEY_SPACE
+LANG_RUSSIAN        "ПРОБЕЛ"
+
+REFERENCE           KEY_TAB
+LANG_RUSSIAN        "TAB"
+
+REFERENCE           KEY_UNBOUND
+LANG_RUSSIAN        "НЕ НАЗНАЧЕНО"
+
+REFERENCE           KEY_UP_DOWN_ARROWS
+LANG_RUSSIAN        "СТРЕЛКИ ВВЕРХ/ВНИЗ"
+
+REFERENCE           KEY_UPARROW
+LANG_RUSSIAN        "ВВЕРХ"
+
+ENDMARKER

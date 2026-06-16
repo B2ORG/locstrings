@@ -1,0 +1,244 @@
+// Dumped from fastfile "fr_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_FRENCH         "Vous ne pouvez porter qu'une seule pelle."
+
+REFERENCE           ZM_TOMB_EHT
+LANG_FRENCH         "Appuyez sur ^3[{+activate}]^7 pour sortir de la tête du robot."
+
+REFERENCE           ZM_TOMB_BOR
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le bâton de foudre."
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le bâton de glace."
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour acheter Poing rapproché [Coût : &&1]."
+
+REFERENCE           ZM_TOMB_NS
+LANG_FRENCH         "Il vous faut une pelle pour creuser."
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le bâton de vent."
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le bâton de feu."
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour le bâton."
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_FRENCH         "Appuyez sur ^3[{+activate}]^7 pour utiliser le drone de Maxis."
+
+REFERENCE           ZM_TOMB_X2D
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour creuser."
+
+REFERENCE           ZM_TOMB_PULS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le bâton de foudre."
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour accéder au téléporteur [Coût : &&1]"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_FRENCH         "Le gramophone est placé ailleurs."
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour appeler le char [Coût : &&1]."
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_FRENCH         "Drone de Maxis"
+
+REFERENCE           ZM_TOMB_RU
+LANG_FRENCH         "Le bon disque n'est pas disponible."
+
+REFERENCE           ZM_TOMB_CH1
+LANG_FRENCH         "Tuer 115 zombies en pleine tête"
+
+REFERENCE           ZM_TOMB_RPP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour boire un cola surprise."
+
+REFERENCE           ZM_TOMB_CRS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bâton."
+
+REFERENCE           ZM_TOMB_INLS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour insérer le bâton de foudre."
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour mettre le disque."
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le gramophone."
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour placer le gramophone."
+
+REFERENCE           ZM_TOMB_CRF
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bâton de feu."
+
+REFERENCE           ZM_TOMB_RPE
+LANG_FRENCH         "L'orbe Wunderfizz est à un autre endroit."
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour &&1."
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour activer le char [Coût : &&1]."
+
+REFERENCE           ZM_TOMB_INAS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour insérer le bâton de vent."
+
+REFERENCE           ZM_TOMB_INFS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour insérer le bâton de feu."
+
+REFERENCE           ZM_TOMB_RPB
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour acheter un cola surprise [Coût : &&1]."
+
+REFERENCE           ZM_TOMB_CRA
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bâton de vent."
+
+REFERENCE           ZM_TOMB_CRB
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer la balise de guidage d'artillerie."
+
+REFERENCE           ZM_TOMB_INWS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour insérer le bâton de glace."
+
+REFERENCE           ZM_TOMB_INS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour insérer le cristal élémentaire."
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bâton de foudre."
+
+REFERENCE           ZM_TOMB_CH3
+LANG_FRENCH         "Dépenser 30 000 points"
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le drone de Maxis."
+
+REFERENCE           ZM_TOMB_ZC
+LANG_FRENCH         "Le courant doit être activé."
+
+REFERENCE           ZM_TOMB_CAP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour mettre la zone sous tension en utilisant le générateur G115 [Coût : &&1]."
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bouclier antizombie."
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la balise de guidage d'artillerie."
+
+REFERENCE           ZM_TOMB_TQ
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le drone de Maxis."
+
+REFERENCE           ZM_TOMB_BOF
+LANG_FRENCH         "Vous avez reçu le bâton de feu."
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour vous éjecter."
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ramasser le drone de Maxis."
+
+REFERENCE           ZM_TOMB_CRW
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bâton de glace."
+
+REFERENCE           ZM_TOMB_CRL
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bâton de foudre."
+
+REFERENCE           ZM_TOMB_BOW
+LANG_FRENCH         "Vous avez reçu le bâton de glace."
+
+REFERENCE           ZM_TOMB_BOL
+LANG_FRENCH         "Vous avez reçu le bâton de foudre."
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_FRENCH         "Un générateur de conversion 115 est en train d'être mis en marche."
+
+REFERENCE           ZM_TOMB_BOA
+LANG_FRENCH         "Vous avez reçu le bâton de vent."
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la tablette."
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_FRENCH         "Pièces musicales"
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_FRENCH         "Pièces bâton"
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_FRENCH         "Bouclier antizombie"
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la pelle."
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_FRENCH         "Le moteur du char refroidit."
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_FRENCH         "Un générateur de conversion 115 est attaqué"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_FRENCH         "Drone de Maxis en cours d'utilisation"
+
+REFERENCE           ZM_TOMB_OSO
+LANG_FRENCH         "Vous ne pouvez porter qu'un seul bâton."
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_FRENCH         "Le char est en mouvement."
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_FRENCH         "Regardez la médaille pour voir le défi."
+
+REFERENCE           ZM_TOMB_CH2
+LANG_FRENCH         "Capturer 6 générateurs"
+
+REFERENCE           ZM_TOMB_TELE
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour accéder au téléporteur."
+
+REFERENCE           ZM_TOMB_RPU
+LANG_FRENCH         "Le courant doit être activé."
+
+REFERENCE           ZM_TOMB_CHT
+LANG_FRENCH         "Remplir 4 coffres au maximum de leur capacité"
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour activer le char."
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la tablette."
+
+REFERENCE           ZM_TOMB_RPT
+LANG_FRENCH         "Vous ne pouvez transporter que &&1 atouts."
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour placer la tablette."
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour placer la tablette."
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_FRENCH         "Défendez les générateurs contre les attaques"
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la récompense."
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour choisir cette récompense."
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ouvrir la boîte."
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour lancer l'audio log"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_FRENCH         "Appuyez sur [{+actionslot 1}] ou [{+actionslot 2}] pour changer d'objet."
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_FRENCH         "Vous transportez déjà une pièce."
+
+ENDMARKER

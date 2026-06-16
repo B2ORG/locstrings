@@ -1,0 +1,58 @@
+// Dumped from fastfile "sniper".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SNIPER_OBJ_1
+LANG_ENGLISH        "레즈노프 중사와 함께 있으십시오."
+
+REFERENCE           SNIPER_HINT_CROUCH
+LANG_ENGLISH        "앉으려면 [{+stance}]를 누르십시오."
+
+REFERENCE           SNIPER_OBJ_2
+LANG_ENGLISH        "거리에 있는 독일군을 모두 제거하십시오."
+
+REFERENCE           SNIPER_OBJ_3
+LANG_ENGLISH        "레즈노프 중사를 따라가십시오."
+
+REFERENCE           SNIPER_OBJ_5
+LANG_ENGLISH        "저격으로 동무들을 엄호하십시오."
+
+REFERENCE           SNIPER_INTROSCREEN_DATE
+LANG_ENGLISH        "1942년 9월 17일"
+
+REFERENCE           SNIPER_INTROSCREEN_PLACE
+LANG_ENGLISH        "러시아, 스탈린그라드"
+
+REFERENCE           SNIPER_OBJ_6
+LANG_ENGLISH        "에임젤 장군을 살해하십시오."
+
+REFERENCE           SNIPER_INTROSCREEN_INFO
+LANG_ENGLISH        "이병 페트렌코"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO2
+LANG_ENGLISH        "제 62보병군"
+
+REFERENCE           SNIPER_INTROSCREEN_TITLE
+LANG_ENGLISH        "'피의 복수'"
+
+REFERENCE           SNIPER_OBJ_4
+LANG_ENGLISH        "적군 저격병을 제거하십시오."
+
+REFERENCE           SNIPER_TO_BE_CONTINUED
+LANG_ENGLISH        "계속..."
+
+REFERENCE           SNIPER_GENERAL_ESCAPED
+LANG_ENGLISH        "장군이 도망쳤어!"
+
+REFERENCE           SNIPER_REZNOV_KILLED
+LANG_ENGLISH        "너 때문에 레즈노프가 죽었어."
+
+REFERENCE           SNIPER_JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           SNIPER_EASY_PRONE_DESC
+LANG_ENGLISH        "포복하려면 [{+stance}]를 누르고 계십시오."
+
+ENDMARKER

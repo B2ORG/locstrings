@@ -1,0 +1,907 @@
+// Dumped from fastfile "ru_la_1b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           LA_1B_VOX_VOX_LA1_4_04_007A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Не вижу."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_048A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Нападай на него с тыла!"
+
+REFERENCE           LA_1B_NEWREF
+LANG_RUSSIAN        "Новый текст"
+
+REFERENCE           LA_SHARED_OBJ_ANDERSON
+LANG_RUSSIAN        "Спасите Андерсона"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_4_04_004A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7В центре собралось несколько сотен бойцов."
+
+REFERENCE           LA_SHARED_COUGAR_STEER
+LANG_RUSSIAN        "Используйте ^3[{+movestick}]^7 чтобы поворачивать"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_4_04_005A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7У них поддержка бронемашин."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_011A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Это была сраная засада!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_046A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сделаю все возможное."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_06_001A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7У них поддержка бронемашин."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_06_003A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Вам повезло, Сектор."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нормально... Мы еще повоюем."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_045A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Гранаты.  Взрывчатка.  Усиленные выстрелы!  Хоть чем-нибудь его бей!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_060A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Продолжать натиск, иначе мы их потеряем!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_039A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Целься по ногам, пока он движется!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_021A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Сектор?  Ты меня слышишь?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_005A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7У нас РПГ на всех крышах!  Я пытаюсь…"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_4_04_010A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7РПГ!  РПГ!!!"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_022A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Здесь слишком опасно!  Везите президента к цели!  Ни в коем случае не останавливайтесь!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_023A_SAMU_D
+LANG_RUSSIAN        "^1Сэмюэлс: ^7Конвой, синий маршрут под угрозой.  Повторяю, синий маршрут под угрозой."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_047A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пока он движется, он может атаковать только цели впереди себя!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_047A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Внимание, Андерсон.  Я готовлю зенитку."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_024A_SAMU_D
+LANG_RUSSIAN        "^1Сэмюэлс: ^7Всем конвоям избегать района стадиона.  Ждите новых данных."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_025A_PRES_D
+LANG_RUSSIAN        "^1Президент: ^7А ты как, агент Мэйсон?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_045A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Grenades!  Explosives!  Charged shots!  Just HIT IT!"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_042A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Так ты ему вреда не нанесешь!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_048A_ANDE_S
+LANG_RUSSIAN        "^1Anderson: ^7The French vehicle is taking heavy fire from all sides!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_002A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Давай, сукин ты сын!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_026A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Мы проедем по улицам.  Перегруппируемся по дороге!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_036A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Проклятье!  Заряжай перед выстрелом!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_037A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Если у тебя есть взрывчатка, самое время ее использовать!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_006A_ANDE_M
+LANG_RUSSIAN        "^1Андерсон: ^7Ну же, блин!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_036A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7You need to charge your shots!"
+
+REFERENCE           LA_SHARED_COUGAR_BRAKE
+LANG_RUSSIAN        "Удерживайте ^3[{+reverse}]^7 чтобы затормозить/сдать назад"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_006A_ANDE_S
+LANG_RUSSIAN        "^1Андерсон: ^7Давай!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_007A_ANDE_M
+LANG_RUSSIAN        "^1Андерсон: ^7Вот ГАДИНА!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_003A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Мудила!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Вот так."
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL
+LANG_RUSSIAN        "СПУСТИТЬСЯ"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_007A_ANDE_S
+LANG_RUSSIAN        "^1Anderson: ^7Son of a..."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_008A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Андерсон!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_040A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Твою ж мать! Переходит в режим обороны!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_050A_ANDE_S
+LANG_RUSSIAN        "^1Anderson: ^7They're dead if you don't get here soon!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_009A_ANDE_M
+LANG_RUSSIAN        "^1Андерсон: ^7Меня… подбили. Но я в порядке… Черт."
+
+REFERENCE           LA_SHARED_HINT_THROTTLE
+LANG_RUSSIAN        "[{+movestick}] меняет положение рычага газа"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_06_004A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7На поддержке квадрокоптеры/дрэгон файры."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_040A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7It's going into defensive mode!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_050A_ANDE_M
+LANG_RUSSIAN        "^1Андерсон: ^7Им конец, если ты не появишься в ближайшее время!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_009A_ANDE_S
+LANG_RUSSIAN        "^1Anderson: ^7I'm... I'm hit... But I'm okay."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_001A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Наши собственные роботы сражаются против нас!"
+
+REFERENCE           LA_SHARED_OBJ_DRIVE_TEXT
+LANG_RUSSIAN        "Уехать к бункеру"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_051A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Будь предельно осторожен.  Большая часть зданий уже охвачена огнем."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_001A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7They've got OUR robots fighting with them now!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_031A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Обычные снаряды ее не пробьют!"
+
+REFERENCE           LA_SHARED_F35_DEAD
+LANG_RUSSIAN        "FA-38 уничтожен"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_048A_ANDE_M
+LANG_RUSSIAN        "^1Андерсон: ^7Черт, Сектор!  Французская машина под обстрелом со всех сторон!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_002A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Come on!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_013A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Корпус слишком прочный!  Стреляй по ногам!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_027A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сейчас рванет!"
+
+REFERENCE           LA_SHARED_LEAVING_COMBAT
+LANG_RUSSIAN        "Вы покидаете зону боевых действий"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_035A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Возьми снайперскую винтовку!"
+
+REFERENCE           LA_SHARED_ARGUS_POTUS_INFO
+LANG_RUSSIAN        "Президент Соединенных Штатов Америки (POTUS)"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_011A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7It was an ambush!"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_029A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Наемники приближаются со всех сторон!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_012A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Твою ж мать!  У них подкрепление!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_012A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7They've got more of them!"
+
+REFERENCE           LA_SHARED_ARGUS_SAM
+LANG_RUSSIAN        "Сэм"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_030A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Слишком крепкая броня!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_046A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Гад прочный, но медлительный!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_032A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Огневой мощи недостаточно, Сектор!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_033A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Обычные снаряды не пробивают броню."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_034A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Это оружие не подходит.  Надо использовать взрывчатку!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_038A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Эту тварь надо остановить!  Бери гранаты!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_038A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Gotta slow the... down.  Use grenades."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Берегись!  Берегись!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_046A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7It's tough, but it's slow!"
+
+REFERENCE           LA_SHARED_OVERWATCH_FAIL
+LANG_RUSSIAN        "Вы не смогли прикрыть президента снайперским огнем"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_041A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7У него радиус атаки - 360 градусов!"
+
+REFERENCE           LA_SHARED_OBJ_REGROUP
+LANG_RUSSIAN        "Встретьтесь с группой прикрытия"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_043A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Осторожно!  Он плюется гранатами!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_044A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Долбани как следует, чтобы он снова пошел!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_049A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прикончи его!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_065A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7На конвой напали!  Мы отвели машину президента, чтобы найти другую дорогу!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_050A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Еще один разрывной снаряд или граната, и ему конец!"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE
+LANG_RUSSIAN        "Нажмите [{+speed_throw}], чтобы запустить ракеты"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_051A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Давай, Сектор!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_052A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сейчас рванет!  Уходи оттуда!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_053A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сектор!  Целься в ноги!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сэмюэлс, доложи обстановку."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_054A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Бей его, Сектор!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_016A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Крепкие твари!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_016A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7They're tough!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Он поврежден!  Добей его!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_049A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Я не смогу долго их удерживать!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_019A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Сдохни же, мразь!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_015A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Кровотечение... Долго не выдержу."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_019A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7Go down!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_020A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Охеренно!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_020A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Да!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_021A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Молодец, брат!  Молодец!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_055A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Он целится прямо в тебя!  Уходи, Сектор!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_024A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Граната!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_002A_SMIT_M
+LANG_RUSSIAN        "^1Смит: ^7Слава богу!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Я запрограммирую квадрокоптеры на огневую поддержку, пока будем прорываться."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_02_056A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уходи, Сектор!  Уходи!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_026A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уходи оттуда!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_027A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Брось ее обратно!!!"
+
+REFERENCE           LA_SHARED_OBJ_SNIPE_TEXT
+LANG_RUSSIAN        "Обеспечить снайперское прикрытие"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_028A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Вот мразина!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_028A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7Son of a..."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_7_05_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ложись!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_029A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Не высовывайся, блин!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_029A_SECT_S
+LANG_RUSSIAN        "^1Сектор: ^7Не высовываться!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_054A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Они подходят вплотную!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_061A_JOHN_D
+LANG_RUSSIAN        "^1Джонсон: ^7Нам нужна поддержка с воздуха!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_055A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Твою ж мать!  Продолжать огонь!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_055A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Продолжать огонь!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_056A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Задержать их!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_057A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7На дороге чисто.  Выдвигайся!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_031A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Смотреть в оба!  Они идут в атаку!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_032A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Справа!  На поездах!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_033A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Слева!  В отеле!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_043A_ANDE_S
+LANG_RUSSIAN        "^1Anderson: ^7They just took down my last wingman!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_034A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот срань!  У них еще CLAW!"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_043A_ANDE_M
+LANG_RUSSIAN        "^1Андерсон: ^7Черт, Сектор!  Я лишилась последнего ведомого!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_034A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7They've got more CLAWs!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_035A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Не сдаваться!"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_036A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Зараза!!!"
+
+REFERENCE           LA_SHARED_OBJ_DRIVE
+LANG_RUSSIAN        "Уезжайте"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_037A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Вали его!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_038A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Стреляй по ногам нах!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_038A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Take out his legs!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_039A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прикончи его!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_02_040A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Пошел… нахер."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_066A_SMIT_D
+LANG_RUSSIAN        "^1Смит: ^7Наша машина горит!  Вы должны нам помочь! Умоляю!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_002A_SMIT_S
+LANG_RUSSIAN        "^1smith: ^7Thank you!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_069A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Хватай винтовку!  Это еще не конец!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_005A_JACO_S
+LANG_RUSSIAN        "^1Jacobs: ^7Where is that support?!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_004A_SAMU_D
+LANG_RUSSIAN        "^1Сэмюэлс: ^7Движемся на север по Гранд. Но нам сообщили, что конвой президента Франции попал в окружение у стадиона."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_005A_PRES_D
+LANG_RUSSIAN        "^1Президент: ^7Если еще кто-то из иностранных лидеров погибнет, последствия будут катастрофическими."
+
+REFERENCE           LA_SHARED_HINT_CHARGE_WEAPON
+LANG_RUSSIAN        "Удерживайте [{+attack}], чтобы стрелять сквозь стены"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ясно.  Конец связи."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_008A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Сектор, наемники привели подкрепление!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_009A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Вражеские самолеты сбрасывают пехоту по всей площади!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_014A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Those cops are just meat in the grinder."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_013A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пулемет прикрывает вход!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_014A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Проклятье!  Эти копы - просто мясо в сраной мясорубке."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_015A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ищи другую дорогу, Сектор!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_072A_JACO_D
+LANG_RUSSIAN        "^1Якобс: ^7Срочно нужна поддержка!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_016A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пулемет уничтожен.  Выдвигайся!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_019A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Рассредоточиться!  Увеличить зону обстрела!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_020A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сосредоточиться!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_021A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Первый этаж! Слева!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Первый этаж! Справа!"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_DOWN
+LANG_RUSSIAN        "Нажмите [{+smoke}] , чтобы спуститься"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_023A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Второй этаж, рядом с лифтом!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_024A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7На балконе!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_025A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7В кафе!  Второй этаж!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_026A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Снайпер!  Второй этаж, справа!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_027A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Снайпер!  Второй этаж, слева."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_028A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Снайпер!  Прямо по курсу!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_030A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7РПГ!  Справа наверху!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_031A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Балкон напротив!"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_037A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Андерсон, машина президента Франции попала в окружение неподалеку!  Ты ее видишь?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_038A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Противник ведет огонь по бронеавтомобилю рядом со стадионом."
+
+REFERENCE           LA_SHARED_SAM_HINT_TRACK
+LANG_RUSSIAN        "Используйте [{+lookstick}] для наведения ракет на робота"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_039A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это они.  Отвлеки их.  Я уже иду!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_044A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Мы ничем не можем помочь.  Мы должны двигаться дальше."
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_045A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7На крыше центра зенитная турель.  Сможешь от нее избавиться?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_052A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Здания могут рухнуть в любую минуту."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_053A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Любая дальнейшая атака дронов может обрушить здания!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_056A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Еще один вражеский грузовик справа!"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_057A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уничтожить."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_058A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уходи!  Сваливай быстрее!  Машина сейчас рванет!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_059A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Французские машины под обстрелом!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Прорывайся... через стадион... Вперед!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_061A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Сектор, в меня попали."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_014A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Очень плохо?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_010A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Придется все-таки садиться..."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_060A_JOHN_D
+LANG_RUSSIAN        "^1Джонсон: ^7Движемся на север по Гранд, но дроны атакуют центр города."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Мы уже на подходе, Андерсон...  Держись."
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_064A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Проклятье, Сектор!  Они направляются к истребителю Андерсон!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_064A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7They're moving in on Anderson's fighter!"
+
+REFERENCE           LA_SHARED_OBJ_DESTROY_DRONES
+LANG_RUSSIAN        "Уничтожить дроны"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_065A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Нужно добраться до места крушения!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_066A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Мы опоздали, Сектор.  Бедняги не выжили."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_066A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7We're too late, Section.  They didn't make it."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_067A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Проклятье. Сэмюэлс, президент Франции погиб."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_067A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7Samuels, we lost the French President."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_068A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот срань!  Сейчас все здание нахрен рухнет!  Уходи оттуда!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_11_04_068A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7The whole building's coming down!!  Get outta the way!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Агент Джонс, везите президента и ни в коем случае не останавливайтесь!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_5_01_002A_PRES_D
+LANG_RUSSIAN        "^1Президент: ^7Агент Мэйсон, проследите, чтобы остальные конвои добрались до убежища.  Ситуацию надо взять под контроль!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_058A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Что на этот раз?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_059A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Джонс, ты где?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_062A_PRES_D
+LANG_RUSSIAN        "^1Президент: ^7Агент Мэйсон, что случилось с 58-м авиакрылом?"
+
+REFERENCE           LA_SHARED_ARGUS_HARPER_INFO
+LANG_RUSSIAN        " Он и есть Харпер"
+
+REFERENCE           LA_SHARED_HINT_MISSILE_DODGE
+LANG_RUSSIAN        "Используйте [{+lookstick}] , чтобы уклоняться от ракет"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_063A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Пятьдесят восьмое занято, но Андерсон посадила истребитель неподалеку.  Если смогу до него добраться, будет вам поддержка с воздуха."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_067A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Уже идем!"
+
+REFERENCE           LA_SHARED_SAM_TURRET_FIRE
+LANG_RUSSIAN        "Нажмите [{+attack}] , чтобы открыть огонь "
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_00_071A_JACO_D
+LANG_RUSSIAN        "^1Якобс: ^7Мы под обстрелом со всех сторон!  Долго не продержимся!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Если мы им не поможем, им крышка."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Мы уже идем, Джейкобс!  Только держись!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_003A_JACO_D
+LANG_RUSSIAN        "^1Якобс: ^7Долго мы не продержимся!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_004A_JACO_D
+LANG_RUSSIAN        "^1Якобс: ^7Нас окружили!!!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_005A_JACO_M
+LANG_RUSSIAN        "^1Якобс: ^7Ну где, блин, подкрепление?!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_006A_JACO_M
+LANG_RUSSIAN        "^1Якобс: ^7Как раз вовремя!  Ну и что нам теперь делать?!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_006A_JACO_S
+LANG_RUSSIAN        "^1Jacobs: ^7You got here just in time!  What do we do now?!"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_010A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Андерсон?!  Ты жива?"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_011A_ANDE_D
+LANG_RUSSIAN        "^1Андерсон: ^7Я на земле...  С северной стороны стадиона..."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_016A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Держись, Андерсон... Только держись."
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_017A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Андерсон... Ты жива?"
+
+REFERENCE           LA_SHARED_LEFT_COMBAT
+LANG_RUSSIAN        "Вы покинули зону боевых действий"
+
+REFERENCE           LA_1B_VOX_VOX_LA1_6_01_019A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Отвечай, Андерсон!!!"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LКОРДИС ДИ^L"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "^LЛОС АНДЖЕЛЕС^L, США"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "ДЭВИД МЕЙСОН // ПОЗЫВНОЙ: ^LСЕКТОР^L"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "АНТИТЕРРОРИСТИЧЕСКАЯ ГРУППА ^LОКСО^L"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "19 ИЮНЯ ^L2025^L"
+
+REFERENCE           LA_SHARED_OBJ_SHOOT_DRONES
+LANG_RUSSIAN        "Использовать зенитную турель чтобы сбить дронов"
+
+REFERENCE           LA_SHARED_RAPPEL
+LANG_RUSSIAN        "СПУСТИТЬСЯ"
+
+REFERENCE           LA_SHARED_OBJ_SNIPE
+LANG_RUSSIAN        "ПРИКРЫВАТЬ"
+
+REFERENCE           LA_SHARED_ARGUS_SS1_INFO
+LANG_RUSSIAN        "Он лучший"
+
+REFERENCE           LA_SHARED_OBJ_HIGHWAY
+LANG_RUSSIAN        "Добраться до бронемашин"
+
+REFERENCE           LA_SHARED_OBJ_POTUS_TEXT
+LANG_RUSSIAN        "Защищать президента США"
+
+REFERENCE           LA_SHARED_OBJ_STREET_REGROUP
+LANG_RUSSIAN        "Вернуться к президенту"
+
+REFERENCE           LA_SHARED_PROTECT_FAIL_VEHICLE
+LANG_RUSSIAN        "Вы не смогли защитить президента."
+
+REFERENCE           LA_SHARED_OBJ_STREET
+LANG_RUSSIAN        "Зачистите улицу"
+
+REFERENCE           LA_SHARED_OBJ_BIG_DOGS_NOHARPER
+LANG_RUSSIAN        "Уничтожить CLAW [Уничтожено: &&1 из 3]"
+
+REFERENCE           LA_SHARED_OBJ_BIG_DOGS
+LANG_RUSSIAN        "Уничтожить CLAW [Уничтожено: &&1 из 2]"
+
+REFERENCE           LA_SHARED_REQUIRED_VEHICLE_DEAD
+LANG_RUSSIAN        "Вы уничтожили транспорт, необходимый для выполнения задания"
+
+REFERENCE           LA_SHARED_OBJ_ARENA
+LANG_RUSSIAN        "Спасите Андерсона"
+
+REFERENCE           LA_SHARED_PROTECT_FAIL
+LANG_RUSSIAN        "Вы не смогли защитить президента."
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL2
+LANG_RUSSIAN        "Объединиться с группой"
+
+REFERENCE           LA_SHARED_ARGUS_SS1
+LANG_RUSSIAN        "Выбрать любого агента"
+
+REFERENCE           LA_SHARED_SAM_HINT_FIRE
+LANG_RUSSIAN        "Нажмите [{+attack}] , чтобы открыть огонь"
+
+REFERENCE           LA_SHARED_SAM_HINT_ADS
+LANG_RUSSIAN        "Удерживайте [{+speed_throw}] для наведения на цель"
+
+REFERENCE           LA_SHARED_OBJ_FLY
+LANG_RUSSIAN        "Добраться до FA-38"
+
+REFERENCE           LA_SHARED_OBJ_PROTECT
+LANG_RUSSIAN        "Защитить автомобиль президента"
+
+REFERENCE           LA_SHARED_OBJ_PROTECT_FAIL
+LANG_RUSSIAN        "Вы не смогли защитить президента."
+
+REFERENCE           LA_SHARED_OBJ_ROADBLOCK
+LANG_RUSSIAN        "Уничтожьте объекты противника"
+
+REFERENCE           LA_SHARED_OBJ_ROOFTOPS
+LANG_RUSSIAN        "Уничтожьте объекты противника"
+
+REFERENCE           LA_SHARED_OBJ_FOLLOW_AMBULANCE
+LANG_RUSSIAN        "Следовать за скорой с Андерсон"
+
+REFERENCE           LA_SHARED_OBJ_FOLLOW_VAN
+LANG_RUSSIAN        "Следуйте за фургоном Харпера"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_UP
+LANG_RUSSIAN        "Нажмите [{+frag}] , чтобы взлететь"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_MOVE
+LANG_RUSSIAN        "Используйте [{+movestick}] для перемещения"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_GUN
+LANG_RUSSIAN        "Нажмите [{+attack}] , чтобы открыть огонь из пушек"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_LOOK
+LANG_RUSSIAN        "Используйте [{+lookstick}] , чтобы осмотреться"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE_BARRAGE
+LANG_RUSSIAN        "Нажмите [{+activate}] для нейтрализации ракет"
+
+REFERENCE           LA_SHARED_OBJ_DOGFIGHTS
+LANG_RUSSIAN        "Уничтожьте вражеские лет. аппараты. Осталось: "
+
+REFERENCE           LA_SHARED_HINT_MODE_PLANE
+LANG_RUSSIAN        "Нажмите [{+activate}] , чтобы использовать стандартный режим полета"
+
+REFERENCE           LA_SHARED_HINT_MODE_VTOL
+LANG_RUSSIAN        "Нажмите [{+activate}] , чтобы перейти в режим СВВП"
+
+REFERENCE           LA_SHARED_OBJ_TRENCHRUN
+LANG_RUSSIAN        "Следите, чтобы БПЛА не наткнулись на конвой"
+
+REFERENCE           LA_SHARED_F35_DEAD_CRANE
+LANG_RUSSIAN        "Вас убил упавший подъемный кран"
+
+REFERENCE           LA_SHARED_HINT_DEATHBLOSSOM
+LANG_RUSSIAN        "Выберите цель и нажмите [{+gostand}] , чтобы использовать \"Цветок смерти\""
+
+REFERENCE           LA_SHARED_HINT_ADS
+LANG_RUSSIAN        "Нажмите [{+melee}] , чтобы использовать приближение"
+
+REFERENCE           LA_SHARED_HINT_MISSILE_BUILDINGS
+LANG_RUSSIAN        "Летайте между заданиями, чтобы избежать попаданий ракет"
+
+REFERENCE           LA_SHARED_ARGUS_HARPER
+LANG_RUSSIAN        " Харпер"
+
+REFERENCE           LA_SHARED_ARGUS_SAM_INFO
+LANG_RUSSIAN        "Крутой мерзавец"
+
+REFERENCE           LA_SHARED_ARGUS_POTUS
+LANG_RUSSIAN        "Хиллари Клинтон"
+
+REFERENCE           LA_SHARED_ARGUS_JONES
+LANG_RUSSIAN        "Агент Джонс"
+
+REFERENCE           LA_SHARED_ARGUS_JONES_INFO
+LANG_RUSSIAN        "Он агент контрразведки"
+
+REFERENCE           LA_SHARED_OBJ_G20_COUGAR
+LANG_RUSSIAN        "Спасти все 3 бронемашины"
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL_3D
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL_TEXT
+LANG_RUSSIAN        "Спуститься вместе с отрядом"
+
+REFERENCE           LA_SHARED_OBJ_PROM_NIGHT
+LANG_RUSSIAN        "Сопроводить президента в бункер"
+
+REFERENCE           LA_SHARED_OBJ_G20_STREET
+LANG_RUSSIAN        "Спасти глав большой двадцатки"
+
+REFERENCE           LA_SHARED_COUGAR_GAS
+LANG_RUSSIAN        "Нажмите ^3[{+gas}]^7 чтобы ускориться"
+
+REFERENCE           LA_SHARED_SAM_TURRET_LOCK
+LANG_RUSSIAN        "Отслеживайте цели для захвата системой наведения"
+
+REFERENCE           LA_SHARED_FAIL_ABANDON
+LANG_RUSSIAN        "Вы бросили выполнение задания."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+ENDMARKER

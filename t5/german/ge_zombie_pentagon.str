@@ -1,0 +1,31 @@
+// Dumped from fastfile "ge_zombie_pentagon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_PENTAGON_CALL_ELEVATOR
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 für den Aufzug."
+
+REFERENCE           ZOMBIE_PENTAGON_DEFCON_LEVEL_HUD
+LANG_ENGLISH        "Jetzt auf Deathcon &&1"
+
+REFERENCE           ZOMBIE_PENTAGON_DEFCON_SWITCH
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7, um die Deathcon-Stufe einzustellen."
+
+REFERENCE           ZOMBIE_PENTAGON_ELEV_BLOCKED
+LANG_ENGLISH        "Aufzugtüren blockiert"
+
+REFERENCE           ZOMBIE_PENTAGON_GRAB_MISSING_PIECE
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7, um das Fallenteil aufzunehmen\n"
+
+REFERENCE           ZOMBIE_PENTAGON_MISSING_PIECE
+LANG_ENGLISH        "Zugriff verweigert: Funktionierende Komponente benötigt"
+
+REFERENCE           ZOMBIE_PENTAGON_PACK_ROOM_DOOR
+LANG_ENGLISH        "Zugriff verweigert: Autorisierung 115 benötigt"
+
+REFERENCE           ZOMBIE_PENTAGON_USE_ELEVATOR
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 für den Aufzug [Kosten: &&1]"
+
+ENDMARKER

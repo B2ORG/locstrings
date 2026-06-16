@@ -1,0 +1,58 @@
+// Dumped from fastfile "oki2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI2_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Allumette & Chalumeau\""
+
+REFERENCE           OKI2_OBJ_1
+LANG_ENGLISH        "Attaquez la crête de Wana."
+
+REFERENCE           OKI2_INTROSCREEN_WHO
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           OKI2_INTROSCREEN_DATE
+LANG_ENGLISH        "14 mai 1945"
+
+REFERENCE           OKI2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Crête de Wana, Okinawa"
+
+REFERENCE           OKI2_OBJ_2_4
+LANG_ENGLISH        "Détruisez les canons de 200 mm (plus que 4)."
+
+REFERENCE           OKI2_INTROSCREEN_WHAT
+LANG_ENGLISH        "1ère division des Marines"
+
+REFERENCE           OKI2_OBJ_2
+LANG_ENGLISH        "Détruisez les canons de 200 mm."
+
+REFERENCE           OKI2_OBJ_2_2
+LANG_ENGLISH        "Détruisez les canons de 200 mm (plus que 2)."
+
+REFERENCE           OKI2_OBJ_2_3
+LANG_ENGLISH        "Détruisez les canons de 200 mm (plus que 3)."
+
+REFERENCE           OKI2_OBJ_2_1
+LANG_ENGLISH        "Détruisez les canons de 200 mm (plus qu'un)."
+
+REFERENCE           OKI2_DESTROY_GUN
+LANG_ENGLISH        "Maintenez [{+activate}] pour poser l'explosif."
+
+REFERENCE           OKI2_OBJ_4
+LANG_ENGLISH        "Localisez l'entrée du bunker."
+
+REFERENCE           OKI2_OBJ_5
+LANG_ENGLISH        "Prenez le contrôle du bunker."
+
+REFERENCE           OKI2_OBJ_3
+LANG_ENGLISH        "Rejoignez le sergent."
+
+REFERENCE           OKI2_SATCHEL_HINT1
+LANG_ENGLISH        "Appuyez sur [{+actionslot 3}] pour choisir la charge."
+
+REFERENCE           OKI2_SATCHEL_HINT2
+LANG_ENGLISH        "Appuyez sur [{+toggleads_throw}] pour lancer la charge. Appuyez sur [{+attack}] pour la faire exploser."
+
+ENDMARKER

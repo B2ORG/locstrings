@@ -1,0 +1,61 @@
+// Dumped from fastfile "ber3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3_OBJ4
+LANG_ENGLISH        "Dringen Sie in den Reichstag ein."
+
+REFERENCE           BER3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Herz der Deutschen'"
+
+REFERENCE           BER3_OBJ0
+LANG_ENGLISH        "Stoßen Sie zu Ihrem Trupp."
+
+REFERENCE           BER3_INTROSCREEN_DATE
+LANG_ENGLISH        "30. April 1945"
+
+REFERENCE           BER3_INTROSCREEN_INFO
+LANG_ENGLISH        "150. Schützendivision"
+
+REFERENCE           BER3_WARP_REICH
+LANG_ENGLISH        "REICHSTAG_STEPS"
+
+REFERENCE           BER3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Der Reichstag"
+
+REFERENCE           BER3_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           BER3_OBJ1
+LANG_ENGLISH        "Kämpfen Sie sich durch die Gebäude."
+
+REFERENCE           BER3_OBJ2
+LANG_ENGLISH        "Stürmen Sie den Platz."
+
+REFERENCE           BER3_HINT_PLANT_CHARGE
+LANG_ENGLISH        "Drücken Sie &&1, um die Sprengladung zu platzieren."
+
+REFERENCE           BER3_OBJ3_4
+LANG_ENGLISH        "Zerstören Sie die Flak 88er (4 übrig)."
+
+REFERENCE           BER3_OBJ3_3
+LANG_ENGLISH        "Zerstören Sie die Flak 88er (3 übrig)."
+
+REFERENCE           BER3_WARP_INTRO
+LANG_ENGLISH        "INTRO"
+
+REFERENCE           BER3_OBJ3_2
+LANG_ENGLISH        "Zerstören Sie die Flak 88er (2 übrig)."
+
+REFERENCE           BER3_OBJ3_1
+LANG_ENGLISH        "Zerstören Sie die Flak 88er (1 übrig)."
+
+REFERENCE           BER3_OBJ3
+LANG_ENGLISH        "Zerstören Sie die Flak 88er."
+
+REFERENCE           BER3_WARP_PLAZA
+LANG_ENGLISH        "CHARGE_PLAZA"
+
+ENDMARKER

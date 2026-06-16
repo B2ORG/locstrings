@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "Der Russischen Armee wieder beitreten"
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Blut & Eisen'"
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Stoßen Sie nach Seelow vor."
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Zerstören Sie die verbliebenen Panzer."
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Seelower Höhen"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "Greifen Sie die Stadt an"
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "3. Stoßtrupp"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "16. April 1945"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "Steuern Sie den Tigerpanzer."
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Zerstören Sie die eintreffenden Panther."
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Zerstören Sie die feindlichen Panzer rund um den Zug."
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "Neutralisieren Sie die feindliche Artillerie\n(&&1 übrig)."
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "Gehen Sie weiter zum Funkturm."
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "Zerstören Sie den Funkturm."
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Rücken Sie im Tigerpanzer nach Seelow vor."
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "Brechen Sie durch die deutschen Linien und erreichen Sie den Bahnhof."
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "Suchen Sie nach Feinden auf dem Rückzug."
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "Zerstören Sie die Treibstoffvorräte."
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "Zielvorrichtung zum Betrachten entfernter Ziele"
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "Drücken Sie [{+frag}] zum Feuern des Flammenwerfers."
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "Drücken Sie [{+frag}] zum Feuern Ihres MGs."
+
+ENDMARKER

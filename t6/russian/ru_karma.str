@@ -1,0 +1,1048 @@
+// Dumped from fastfile "ru_karma".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SCRIPT_AM_X
+LANG_RUSSIAN        "X"
+
+REFERENCE           KARMA_HINT_MELEE
+LANG_RUSSIAN        "Нажмите ^3[{+melee}]^7"
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_RUSSIAN        "Бронетехнику можно повредить только\nракетами и взрывчаткой."
+
+REFERENCE           KARMA_KARMA_ENDLEVEL_FATAL_SHOT
+LANG_RUSSIAN        "Карма убита. Задание провалено\n"
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_007A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Забыл о Пакистане?  Морда у тебя больно страшная, Харпер."
+
+REFERENCE           KARMA_ACCESS_GRANTED
+LANG_RUSSIAN        "ДОСТУП РАЗРЕШЕН"
+
+REFERENCE           KARMA_HINT_ATTACK
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7"
+
+REFERENCE           KARMA_ENDLEVEL_FAILED_TO_SHOOT_KARMA
+LANG_RUSSIAN        "Не удалось обезвредить Карму"
+
+REFERENCE           KARMA_DEFALCO_ENDLEVEL_FATAL_SHOT
+LANG_RUSSIAN        "Дефалко убит. Задание провалено."
+
+REFERENCE           KARMA_FAILED_LOST_SIGNAL
+LANG_RUSSIAN        "СИГНАЛ ПОТЕРЯН"
+
+REFERENCE           SCRIPT_AM_SUICIDE_ONE_LAST_GO
+LANG_RUSSIAN        "Вам осталось одно самоубийство до исключения."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7, чтобы использовать мины."
+
+REFERENCE           KARMA_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LКАРМА^L"
+
+REFERENCE           KARMA_OBJ_FIND_CRC
+LANG_RUSSIAN        "Найти центральный компьютер"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_083A_KARM_M
+LANG_RUSSIAN        "^1Карма: ^7Ты кто?  Откуда ты знаешь, как меня зовут?!"
+
+REFERENCE           KARMA_OBJ_SECURITY
+LANG_RUSSIAN        "Пробраться через КПП"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "КОЛОСС, ^LКАЙМАНОВЫ ОСТРОВА^L"
+
+REFERENCE           KARMA_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "ДЭВИД МЕЙСОН // ПОЗЫВНОЙ: ^LСЕКТОР^L"
+
+REFERENCE           KARMA_HINT_SPRINT
+LANG_RUSSIAN        "Нажмите ^3[{+breath_sprint}]^7"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_003A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Эй!  Хватит на телок пялиться.  Пора переодеваться. Идем.  Идем."
+
+REFERENCE           KARMA_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "АНТИТЕРРОРИСТИЧЕСКАЯ ГРУППА ^LОКСО^L"
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_008A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Э... Пока нет.  Слишком сложный метод шифрования."
+
+REFERENCE           KARMA_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "12 ИЮНЯ ^L2025^L"
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_RUSSIAN        "Вы погибли при взрыве бочки.\nКрасные бочки взрываются при попадании в них пули."
+
+REFERENCE           KARMA_HINT_SPIDERBOT_JUMP
+LANG_RUSSIAN        "Нажмите ^3[{+gostand}]^7 , чтобы прыгнуть"
+
+REFERENCE           KARMA_ACCESSING_SOURCE_DATA
+LANG_RUSSIAN        "ПОЛУЧЕНИЕ ИСХОДНЫХ ДАННЫХ..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_042A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Выходим через главную дверь!"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_TAZER
+LANG_RUSSIAN        "Нажмите ^3[{+attack}] ^7 , чтобы открыть огонь из волновой пушки"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Валяй."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_002A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Это самый богатый город в мире."
+
+REFERENCE           SCRIPT_COLON
+LANG_RUSSIAN        ":"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_083A_KARM_S
+LANG_RUSSIAN        "^1Карма: ^7Ты кто?  Откуда ты знаешь, как меня зовут?!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_001A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Так вот как живет тот самый один процент."
+
+REFERENCE           KARMA_HINT_SPIDERBOT_CLIMB
+LANG_RUSSIAN        "Робот-паук может удержаться почти на любой поверхности"
+
+REFERENCE           SCRIPT_EXPLOSIVE_FLECHETTE_DEATH
+LANG_RUSSIAN        "Вас убило разрывным снарядом"
+
+REFERENCE           KARMA_HINT_SPIDERBOT_REGISTER
+LANG_RUSSIAN        "Зарегистрируйтесь сейчас, чтобы продлить гарантию и получать уведомления о важных обновлениях!"
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_RUSSIAN        "Нажмите ^3[{+throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           KARMA_MATCH_COMPLETE
+LANG_RUSSIAN        "СРАВНЕНИЕ ЗАВЕРШЕНО"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_021A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ну что, Зигги... Пора за дело."
+
+REFERENCE           KARMA_HINT_MOVE_LEFT
+LANG_RUSSIAN        "^3[{+lsleft}]^7 ^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_054A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Ладно... Мы вошли."
+
+REFERENCE           KARMA_HINT_LOOK_DOWN
+LANG_RUSSIAN        "^3[{+rsdown}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_RIGHT
+LANG_RUSSIAN        "^3[{+lsright}]^7 ^3[{+rsright}]^7"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           KARMA_HINT_MOVE_UP
+LANG_RUSSIAN        "^3[{+lsup}]^7 ^3[{+rsup}]^7"
+
+REFERENCE           KARMA_HINT_MOVE_DOWN
+LANG_RUSSIAN        "^3[{+lsdown}]^7 ^3[{+rsdown}]^7"
+
+REFERENCE           SCRIPT_AM_ROUND_BONUS
+LANG_RUSSIAN        "Бонус за раунд"
+
+REFERENCE           KARMA_HINT_UNZOOM
+LANG_RUSSIAN        "^3[{+lsright}]^7 ^3[{+rsleft}]^7"
+
+REFERENCE           SCRIPT_EXPLOSIVE_BOLT_DEATH
+LANG_RUSSIAN        "Вы были убиты разрывной стрелой"
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_004A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7У вас будет доступ в большинство помещений... э... кроме самого нужного."
+
+REFERENCE           KARMA_HINT_ZOOM
+LANG_RUSSIAN        "^3[{+lsleft}]^7 ^3[{+rsright}]^7"
+
+REFERENCE           SCRIPT_GOD_ROD_OFFLINE
+LANG_RUSSIAN        "Кинетический удар - Недоступен"
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_RUSSIAN        "ОСТАЛОСЬ ВРЕМЕНИ:"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           KARMA_TRESPASSER_DATA
+LANG_RUSSIAN        "Получение данных..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_090A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Салазар, ищи другой вход в клуб.  Найди позицию с обзором толпы."
+
+REFERENCE           KARMA_HINT_USE
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7"
+
+REFERENCE           KARMA_HINT_LOOK_UP
+LANG_RUSSIAN        "^3[{+rsup}]^7"
+
+REFERENCE           KARMA_OBJ_INFILTRATE_CRC
+LANG_RUSSIAN        "Проникнуть в помещение CRC"
+
+REFERENCE           KARMA_HINT_LOOK_LEFT
+LANG_RUSSIAN        "^3[{+rsleft}]^7"
+
+REFERENCE           KARMA_ELECTRICAL_FIELD_DEATH_HINT
+LANG_RUSSIAN        "Электрические поля могут повредить Зигги"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_086A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Эй, ты меня слушаешь?  Твоя жизнь в опасности.  Террористы уже тебя ищут!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_070A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Будет сделано."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_02_002A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Вот блин. Ботаник.  Я уж думал нам точно каюк."
+
+REFERENCE           KARMA_HINT_LOOK_RIGHT
+LANG_RUSSIAN        "^3[{+rsright}]^7"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           KARMA_OBJ_ID_KARMA
+LANG_RUSSIAN        "Найти данные по Карме в компьютере"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_045A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Идем."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_002A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Ладно..."
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 3}] ^7, чтобы переключиться на гранатомет M203."
+
+REFERENCE           KARMA_OBJ_GET_TO_CLUB
+LANG_RUSSIAN        "абвгдежзий клмнопрстуфхц чшщъыьэюя"
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 1}] ^7, чтобы включить ПНВ."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Фарид, удалось получить доступ к личным делам?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_017A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Фарид.  Враг прямо снаружи... Обойти не получится."
+
+REFERENCE           KARMA_PICKUP_SPIDERBOT_HINT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7, чтобы подобрать Зигги"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7ASD... Думаешь, они ждут проблем?"
+
+REFERENCE           KARMA_OBJ_DISABLE_ZAPPER
+LANG_RUSSIAN        "Вывести из строя электростатический фильтр"
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_009A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ты сообразишь.  Я в тебя верю.  Конец связи."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_005A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Для компьютера архивного управления действуют повышенные меры безопасности.  Доступ осуществляется через сканер сетчатки. И вот тут... нам поможет Зигги."
+
+REFERENCE           KARMA_OBJ_KILL_CLUB_GUARDS
+LANG_RUSSIAN        "Нейтрализовать всех выживших террористов"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_RUSSIAN        "-%s"
+
+REFERENCE           KARMA_OBJ_MEET_KARMA
+LANG_RUSSIAN        "Найти Харпера в клубе Солар"
+
+REFERENCE           KARMA_OBJ_EXIT_CLUB
+LANG_RUSSIAN        "Догнать Дефалко и Карму"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_031A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Рядом должен быть пульт управления."
+
+REFERENCE           KARMA_OBJ_CRC_GUY
+LANG_RUSSIAN        "Оглушить работника CRC"
+
+REFERENCE           SCRIPT_AM_LOW_SCORE_WARNING
+LANG_RUSSIAN        "ВНИМАНИЕ: Вы будете исключены из игры за отрицательный счет"
+
+REFERENCE           KARMA_LOWLIGHT_ON
+LANG_RUSSIAN        "Включено ночное видение"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_05_003A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Пока все нормально."
+
+REFERENCE           KARMA_LOWLIGHT_OFF
+LANG_RUSSIAN        "Ночное видение выключено"
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Архивный компьютер - наш шанс найти Карму до того, как это сделают люди Дефалко."
+
+REFERENCE           KARMA_MSG_ASD_SYNC
+LANG_RUSSIAN        "ЗАГРУЗКА ДАННЫХ"
+
+REFERENCE           KARMA_FAN_DEATH_HINT
+LANG_RUSSIAN        "Не падайте в вентиляторы\n"
+
+REFERENCE           KARMA_TAZE_FAIL_HINT
+LANG_RUSSIAN        "Примените против цели электрошок, пока не повредили Зигги"
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_RUSSIAN        "Нажмите ^3[{weapnext}]^7, чтобы переключиться на винтовку M21."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_011A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Эй, у нас времени в обрез, брат."
+
+REFERENCE           KARMA_ZAPPER_PROXIMITY_WARNING
+LANG_RUSSIAN        "ВНИМАНИЕ: Электрическое поле"
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Частота открытая, Фарид.  Мы все слушаем."
+
+REFERENCE           KARMA_VOX_VOX_KAR_11_01_003A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7В удостоверении указано, что вы профсоюзные инспекторы."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_006A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Надо сказать, если бы не задание, снял бы я сейчас себе горячую телочку."
+
+REFERENCE           SCRIPT_AFGHANSTINGER_DETONATE_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7, чтобы подорвать"
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7А морда тут ни при чем. Зато, что все остальное при мне."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_01_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7А значит, это отличная мишень для Рауля Менендеса."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_064A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Теперь нам известно ее имя.  Можно отследить ее на корабле."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_009A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ну давай уже."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_036A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Ясно."
+
+REFERENCE           KARMA_VOX_VOX_KAR_1_01_010A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Что-то не так, Сектор?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_003A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Так, спокойствие..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_075A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ясно... Эй!  Эй, эй, эй!  Это же та самая телка из лифта!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_02_002A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот блин. Ботаник.  Я уж думал нам точно каюк."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_001A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Расслабься, Харпер. Я же говорил, защита сработает.  Сканеры ничего не увидели."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_002A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Теперь предъявите удостоверения и проходите."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_057A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ничего."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_006A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Здорово. Мы из профсоюза."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_030A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Пора сматываться."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_010A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7И это все?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_007A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7В Колоссе у народа не так много дел."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Понял."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_002A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7И чего же мы ждем?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_020A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ясно."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_03_003A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Эй!  Хватит на телок пялиться.  Пора переодеваться. Идем.  Идем."
+
+REFERENCE           KARMA_VOX_VOX_KAR_2_05_009A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Это еще что?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_050A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Через дверь! Не высовываться!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_013A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Осторожно, Сектор.  При контакте робот поджарится."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_01_002A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Это автоматическая система.  Ее запускают удостоверения."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_005A_SALA_M
+LANG_RUSSIAN        "^1Салазар: ^7Блин, мы все попадем в ад."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_005A_SALA_S
+LANG_RUSSIAN        "^1Салазар: ^7Блин, мы все поплатимся."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_004A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Фигасе местечко Менендес выбрал, чтобы спрятать эту свою Карму..."
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_RUSSIAN        "Займите левый фланг."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_004A_SECT_S
+LANG_RUSSIAN        "^1Сектор: ^7Фигасе местечко Менендес выбрал, чтобы спрятать эту свою Карму..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_02_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ого!  Ни фига себе.  Невероятно просто, правда?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_024A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ставят взрывчатку."
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Как думаешь, а во сколько обойдется тут выходные провести?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ты столько и за год не заработаешь."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_008A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Без балды..."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_RUSSIAN        "Нажмите ^3[{+toggleads_throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_008A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Серьезно?"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_RUSSIAN        "ОБЩИЙ СЧЕТ:"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_043A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Прикрываю!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_3_03_003A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Неудивительно, что Менендес добился такой поддержки."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер.  Проверь этаж. Мы с Салазаром отправимся к точке проникновения."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_01_009A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ух ты!  Как дела, солнышко?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Мы из профсоюза."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_019A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер, охрану подменили наемниками.  Они агрессивны."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_011A_GUAR_D
+LANG_RUSSIAN        "^1Охранник: ^7Эй! Тебе сюда нельзя."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_014A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Так... Сектор, получилось."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_016A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Не так давно Колосс нанял наемников, чтобы увеличить численность охраны... все из территориальной милиции Кубы."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_017A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Охренеть. Кое с кем уже познакомились."
+
+REFERENCE           SCRIPT_GOD_ROD
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7, чтобы отметить цель"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_017A_SECT_S
+LANG_RUSSIAN        "^1Сектор: ^7Да.   С парочкой из них мы уже познакомились."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_018A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ищи любую информацию. Нужно выяснить, их цели."
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ACTIVATE
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 2}]^7, чтобы включить оптический камуфляж"
+
+REFERENCE           SCRIPT_HINT_DOOR
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть дверь"
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_001A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Осторожно, тут разрыв."
+
+REFERENCE           SCRIPT_HINT_CANT_DISMOUNT_HERE
+LANG_RUSSIAN        "Высадка невозможна."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_002A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Зигги перепрыгнет."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_008A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Пора прикончить этого Дефалко!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_022A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Стоп."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_023A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Что они делают?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_025A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Они хотят взорвать корабль?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_045A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Дефалко. Правая рука Менендеса."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_026A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сначала им надо захватить Карму."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер, внимание.  Наемники устанавливают на борту взрывчатку."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_028A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Я как раз слежу за ними.  Они направляются к тебе!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_029A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Проклятье."
+
+REFERENCE           SCRIPT_AM_PLAYERNAME
+LANG_RUSSIAN        "&&1"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_029A_SECT_S
+LANG_RUSSIAN        "^1Сектор: ^7Вот так..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_13_01_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Похоже на часть системы фильтрации. Сервера необходимо содержать в чистоте."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_032A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Долбани током."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_085A_KARM_M
+LANG_RUSSIAN        "^1Карма: ^7Отвали от меня нафиг!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_033A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Ладно."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_035A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Салазар, найди другую дорогу к клубу. Найди позицию для наблюдением за толпой."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_034A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это наш сигнал."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_039A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Шокером, Сектор!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_085A_KARM_S
+LANG_RUSSIAN        "^1Карма: ^7Отвали от меня на фиг!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_040A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Идет сканирование."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_043A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это наемники!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_044A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер, ты был прав.  Они уже в серверной!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_039A_DEFA_D
+LANG_RUSSIAN        "^1Дефалко: ^7Нет?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_046A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Давай, давай..."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_047A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Готов?"
+
+REFERENCE           SCRIPT_GOD_ROD_WIIU
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7, чтобы отметить цель"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_048A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Пошли!"
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_RUSSIAN        "Вызвать артиллерию невозможно - вы слишком далеко от радиста."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_049A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Чисто."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_051A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Устанавливаю связь."
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_052A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Уверен, что получится, Фарид?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_053A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Я думал, ты в меня веришь."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_055A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Карму могли пронести на борт вместе с обычным грузом."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_096A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Не меньше десяти наемников. Берут заложников!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_056A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Проверь грузовой манифест.  Ключевое слово - Карма."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_065A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Наверху. Клуб Солар."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_058A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Просмотри автоматические системы безопасности.  Ключевое слово - Карма."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_059A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Что-то упускаем."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_060A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Проверь базу данных с камер безопасности.  Распознавание текста - Карма."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_061A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Есть."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_062A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Карма - это не оружие.  Это женщина."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_063A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Хлоя Линч.  Бывшая служащая Тацита... Недавно уволилась."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_016A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор, ты слышал?  Прямо за дверью наемники!"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_068A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Фарид.  Мне нужна возможность опознавать врага."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_069A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Соедини имена наемников с их биометрическими данными."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_071A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Загрузи мне данные."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_018A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Открой дверь комнаты КАУ."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_074A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер, Карма - это не оружие.  Это женщина.  Отправляю тебе ее фотографию."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_076A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Она в клубе Солар, и тебе надо торопиться!  Наемники направляются к ней!"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_077A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Разберусь."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_015A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Ясно."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_037A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Я отправлюсь к Харперу."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_081A_KARM_D
+LANG_RUSSIAN        "^1Карма: ^7Ты?.."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_082A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Хлоя... Хлоя, ты немедленно должна пойти со мной!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_084A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Я Майк Харпер. ВМС США."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_087A_KARM_D
+LANG_RUSSIAN        "^1Карма: ^7Террористы?!  Что ты такое несешь?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_088A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Хлоя, их послал Рауль Менендес."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_089A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Держи ее, Харпер. Мы уже идем."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_091A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер, ты где?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_098A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7У него заложники. Не стрелять."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_092A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Мы на танцполе!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_093A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Уже иду."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_037A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор, я на позиции на балконе клуба."
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_RUSSIAN        "$"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_094A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нам надо уходить, Хлоя!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_095A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор!!!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_097A_DEFA_D
+LANG_RUSSIAN        "^1Дефалко: ^7Хлоя Линч!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_02_099A_DEFA_D
+LANG_RUSSIAN        "^1Дефалко: ^7Хлоя?"
+
+REFERENCE           SCRIPT_X2
+LANG_RUSSIAN        "x2"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Салазар. Снять сможешь?"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_003A_DEFA_D
+LANG_RUSSIAN        "^1Дефалко: ^7Пять секунд, Хлоя."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_004A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Не попаду. Слишком много заложников."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_005A_KARM_D
+LANG_RUSSIAN        "^1Карма: ^7Нет!!!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_006A_DEFA_D
+LANG_RUSSIAN        "^1Дефалко: ^7Открыть огонь!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_008A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Валим его нахрен!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_040A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Левее, левее!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_041A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Стреляй на ходу!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_044A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Есть!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_048A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Выхожу!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_049A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Уходи!"
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_009A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Карма у Дефалко!  Ведем преследование."
+
+REFERENCE           KARMA_VOX_VOX_KAR_12_03_010A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Отследи их передвижение, Фарид.  Они не должны покинуть корабль!"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_RUSSIAN        "Вы застрелили своего!"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_RUSSIAN        "Уничтожьте мобильные установки ПВО [осталось &&1]."
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_RUSSIAN        "Найдите мигающую отметку на немецком орудии."
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS_X
+LANG_RUSSIAN        "x&&1"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_RUSSIAN        "Не подходите к источникам радиации.\nСледите за показаниями счетчика Гейгера"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_RUSSIAN        "Вы не сможете унести столько гранат."
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_RUSSIAN        "Вы предали Родину!"
+
+REFERENCE           SCRIPT_HINT_BIGDOG_CHARGED_SHOT
+LANG_RUSSIAN        "Используйте усиленные заряды, чтобы пробивать броню"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_RUSSIAN        "Не стреляйте в своих!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_RUSSIAN        "Не стреляйте в своих!"
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_RUSSIAN        "Ваша следующая цель на компасе обозначена звездочкой."
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_RUSSIAN        "Доберитесь до перекрестка и обратитесь к капитану Фоули."
+
+REFERENCE           SCRIPT_COLLECTIBLE_PICKUP
+LANG_RUSSIAN        "Удерживайте^3 &&1 ^7для получения сведений"
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_RUSSIAN        "Дверь заперта. Вам никогда не понадобится открывать закрытые двери."
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_RUSSIAN        "ВЗРЫВЧАТКА ЗАЛОЖЕНА. НАЗАД!"
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_RUSSIAN        "Чтобы подобрать боеприпасы с лежащего оружия, подойдите к нему и нажмите кнопку \"ИСПОЛЬЗОВАТЬ\" [&&1]."
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_RUSSIAN        "Скорость передвижения ниже, если вы на корточках."
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_RUSSIAN        "Вы взяли несколько немецких гранат."
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_RUSSIAN        "Зачистить здание с пулеметными точками."
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_RUSSIAN        "Нажмите ОГОНЬ, чтобы пропустить."
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_RUSSIAN        "Уничтожьте танки за укреплениями с помощью фаустпатронов."
+
+REFERENCE           SCRIPT_AMMO_REFILL
+LANG_RUSSIAN        "Зажмите ^3[{+activate}]^7, чтобы восполнить боезапас"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_RUSSIAN        "Уничтожьте расчет установки ПВО Flak 88."
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_RUSSIAN        "Уничтожьте экипаж установки ПВО Flak 88 [осталось &&1]."
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_RUSSIAN        "Вас убило гранатой\nСледите за индикатором гранат"
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_RUSSIAN        "Вы погибли, т.к. слишком долго держали гранату в руках"
+
+REFERENCE           SCRIPT_AM_SUICIDE_COMMITED
+LANG_RUSSIAN        "Вам начислен штраф за самоубийство"
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_RUSSIAN        "Зажав кнопку гранаты, вы можете отложить ее бросок на некоторое время."
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_RUSSIAN        "Вы погибли при взрыве машины\nГорящая техника рано или поздно взрывается"
+
+REFERENCE           SCRIPT_X3
+LANG_RUSSIAN        "x3"
+
+REFERENCE           SCRIPT_PLUS
+LANG_RUSSIAN        "+"
+
+REFERENCE           SCRIPT_MINUS
+LANG_RUSSIAN        "-"
+
+REFERENCE           SCRIPT_HINT_INTRUDER
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вскрыть"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_RUSSIAN        "+%s"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_RUSSIAN        "+$"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_RUSSIAN        "-$"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_RUSSIAN        "Нажмите и удерживайте ^3 &&1 ^7, чтобы забрать сведения о противнике."
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS
+LANG_RUSSIAN        "Бонус за сложность"
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_RUSSIAN        "Вы нашли вражеские разведданные."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_EXPLODING_NITROGEN_TANK_DEATH
+LANG_RUSSIAN        "Вы погибли от взрыва бака с азотом\nБаки с азотом взрываются при попадании в них"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_RUSSIAN        "Осталось обнаружить разведданных: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_RUSSIAN        "Осталось обнаружить разведданных: &&1"
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_RUSSIAN        "Конец текущего уровня."
+
+REFERENCE           SCRIPT_C4_USE
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 2}] ^7, чтобы использовать заряд взрывчатки."
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 1}] ^7, чтобы отключить ПНВ."
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_RUSSIAN        "Авиаподдержка в режиме готовности!"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_RUSSIAN        "Поддержка с воздуха готова! Нажмите ^3[{+actionslot 4}]."
+
+REFERENCE           SCRIPT_MANTLE
+LANG_RUSSIAN        "^3[{+gostand}]^7 : "
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7, чтобы использовать"
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_RUSSIAN        "Отклоните^3 [{+attack}] ^7, чтобы заложить мины."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_RUSSIAN        "Отклоните ^3[{+speed_throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           SCRIPT_AM_SUICIDE_KICKED
+LANG_RUSSIAN        "Вас исключили из игры за слишком частые самоубийства"
+
+REFERENCE           SCRIPT_AM_PLAYER_KICKED
+LANG_RUSSIAN        "Игрок &&1 был исключен"
+
+REFERENCE           SCRIPT_AM_MISSION_SCORE
+LANG_RUSSIAN        "Счет эпизода"
+
+REFERENCE           SCRIPT_AM_STREAK_COMPLETE
+LANG_RUSSIAN        "Бонус получен"
+
+REFERENCE           SCRIPT_AM_STREAK_BONUS_LOST
+LANG_RUSSIAN        "Бонус аннулирован"
+
+REFERENCE           SCRIPT_AM_NEW_HIGH_SCORE
+LANG_RUSSIAN        "НОВЫЙ РЕКОРД!"
+
+REFERENCE           SCRIPT_AM_BONUS_HARDEST_2_KILL
+LANG_RUSSIAN        "Самый живучий +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_REVIVES
+LANG_RUSSIAN        "Рекорд реанимаций +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_HEADSHOTS
+LANG_RUSSIAN        "Рекорд попаданий в голову +&&1"
+
+REFERENCE           SCRIPT_TANKSHELL_DEATH
+LANG_RUSSIAN        "Вас убило танковым снарядом."
+
+REFERENCE           SCRIPT_HINT_MELEE
+LANG_RUSSIAN        "Нажмите ^3[{+melee}]^7, чтобы ударить"
+
+REFERENCE           SCRIPT_COLLECTIBLE
+LANG_RUSSIAN        "Сведения получены"
+
+REFERENCE           SCRIPT_COLLECTIBLE_FOUND
+LANG_RUSSIAN        "Обнаружено %1 из %2 фрагментов информации."
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_NEUTRAL
+LANG_RUSSIAN        "Вы ранили гражданского. Аккуратнее!"
+
+REFERENCE           SCRIPT_MOVING_VEHICLE_DEATH
+LANG_RUSSIAN        "Вы были сбиты движущейся техникой."
+
+REFERENCE           SCRIPT_FIRE_DIRECTION
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7, чтобы отметить цель"
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CONFIRM
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7, чтобы подтвердить цель"
+
+REFERENCE           SCRIPT_HINT_BIGDOG_BULLET_DAMAGE
+LANG_RUSSIAN        "Легкое стрелковое оружие не может пробить нательную броню"
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_OFF
+LANG_RUSSIAN        "Камуфляж: Отключен"
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ON
+LANG_RUSSIAN        "Камуфляж: Включен"
+
+REFERENCE           SCRIPT_AFGHANSTINGER_SWITCHTO_LOCKON
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 3}]^7 чтобы переключиться в режим ПВО"
+
+REFERENCE           SCRIPT_GOD_ROD_INVALID_TARGET
+LANG_RUSSIAN        "Отмечена неверная зона"
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CLAW
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7, чтобы отметить цель"
+
+REFERENCE           SCRIPT_HINT_BRUTE_FORCE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           SCRIPT_HINT_HACK
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 для взлома "
+
+REFERENCE           SCRIPT_HINT_LOCK_BREAKER
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7, чтобы вскрыть замок"
+
+REFERENCE           SCRIPT_COMPROMISE_FAIL
+LANG_RUSSIAN        "Ваши действия привели к провалу задания"
+
+REFERENCE           SCRIPT_MISSIONFAIL_ESCAPE
+LANG_RUSSIAN        "Вы не успели уйти."
+
+ENDMARKER

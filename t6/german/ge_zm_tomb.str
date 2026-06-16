@@ -1,0 +1,244 @@
+// Dumped from fastfile "ge_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_GERMAN         "Sie können nur eine Schaufel tragen"
+
+REFERENCE           ZM_TOMB_EHT
+LANG_GERMAN         "Drücken Sie ^3[{+activate}]^7 zum Verlassen des Roboterkopfes"
+
+REFERENCE           ZM_TOMB_BOR
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aufnehmen des Blitzableiters"
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um gegen den Eisstab zu tauschen"
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für One Inch Punch [Kosten: &&1]"
+
+REFERENCE           ZM_TOMB_NS
+LANG_GERMAN         "Schaufel zum Graben benötigt"
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um gegen den Windstab zu tauschen"
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um gegen den Feuerstab zu tauschen"
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für den Stab"
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_GERMAN         "Drücken Sie ^3[{+actionslot 1}]^7 zum Benutzen der Maxis-Drohne"
+
+REFERENCE           ZM_TOMB_X2D
+LANG_GERMAN         "^3[{+activate}]^7 halten zum Graben"
+
+REFERENCE           ZM_TOMB_PULS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um gegen den Blitzstab zu tauschen"
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für den Teleporter [Kosten: &&1]"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_GERMAN         "Das Grammophon steht woanders"
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_GERMAN         "^3[{+activate}]^7 halten ruft den Panzer [Kosten: &&1]"
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_GERMAN         "Maxis-Drohne"
+
+REFERENCE           ZM_TOMB_RU
+LANG_GERMAN         "Richtige Schallplatte nicht dabei"
+
+REFERENCE           ZM_TOMB_CH1
+LANG_GERMAN         "Erreichen Sie 115 normale Zombie-Volltreffer"
+
+REFERENCE           ZM_TOMB_RPP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um Perk-a-Cola zu trinken"
+
+REFERENCE           ZM_TOMB_CRS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Fertigen des Stabs"
+
+REFERENCE           ZM_TOMB_INLS
+LANG_GERMAN         "^3[{+activate}]^7 halten führt den Blitzstab ein"
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Spielen der Schallplatte"
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aufnehmen des Grammophons"
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Platzieren des Grammophons"
+
+REFERENCE           ZM_TOMB_CRF
+LANG_GERMAN         "Drücken Sie ^3[{+activate}]^7 zum Fertigen des Feuerstabs"
+
+REFERENCE           ZM_TOMB_RPE
+LANG_GERMAN         "Die Wunderfizz-Kugel ist im Moment woanders"
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_GERMAN         "^3[{+activate}]^7 halten für: &&1"
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_GERMAN         "^3[{+activate}]^7 halten zum Aktivieren des Panzers [Kosten: &&1]"
+
+REFERENCE           ZM_TOMB_INAS
+LANG_GERMAN         "^3[{+activate}]^7 halten führt den Windstab ein"
+
+REFERENCE           ZM_TOMB_INFS
+LANG_GERMAN         "^3[{+activate}]^7 halten führt den Feuerstab ein"
+
+REFERENCE           ZM_TOMB_RPB
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um Perk-a-Cola zu kaufen [Kosten: &&1]"
+
+REFERENCE           ZM_TOMB_CRA
+LANG_GERMAN         "Drücken Sie ^3[{+activate}]^7 zum Fertigen des Windstabs"
+
+REFERENCE           ZM_TOMB_CRB
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Fertigen des Artillerie-Zielsignals"
+
+REFERENCE           ZM_TOMB_INWS
+LANG_GERMAN         "^3[{+activate}]^7 halten führt den Eisstab ein"
+
+REFERENCE           ZM_TOMB_INS
+LANG_GERMAN         "^3[{+activate}]^7 halten führt den Elementarkristall ein"
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Fertigen des Blitzableiters"
+
+REFERENCE           ZM_TOMB_CH3
+LANG_GERMAN         "Geben Sie 30.000 Punkte aus"
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Fertigen der Maxis-Drohne"
+
+REFERENCE           ZM_TOMB_ZC
+LANG_GERMAN         "Der Strom muss eingeschaltet sein."
+
+REFERENCE           ZM_TOMB_CAP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um das Gebiet mit dem 115-Generator mit Energie zu versorgen [Kosten: &&1]"
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Fertigen des Zombieschilds"
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Nehmen des Artillerie-Zielsignals"
+
+REFERENCE           ZM_TOMB_TQ
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Nehmen der Maxis-Drohne"
+
+REFERENCE           ZM_TOMB_BOF
+LANG_GERMAN         "Sie haben den Feuerstab"
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Auswurf"
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_GERMAN         "^3[{+activate}]^7 halten zum Aufnehmen der Maxis-Drohne"
+
+REFERENCE           ZM_TOMB_CRW
+LANG_GERMAN         "Drücken Sie ^3[{+activate}]^7 zum Fertigen des Eisstabs"
+
+REFERENCE           ZM_TOMB_CRL
+LANG_GERMAN         "Drücken Sie ^3[{+activate}]^7 zum Fertigen des Blitzstabs"
+
+REFERENCE           ZM_TOMB_BOW
+LANG_GERMAN         "Sie haben den Eisstab"
+
+REFERENCE           ZM_TOMB_BOL
+LANG_GERMAN         "Sie haben den Blitzstab"
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_GERMAN         "A 115 Konversionsgenerator wird im Moment hochgefahren"
+
+REFERENCE           ZM_TOMB_BOA
+LANG_GERMAN         "Sie haben den Windstab"
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_GERMAN         "^3[{+activate}]^7 halten zum Aufnehmen der Tafel"
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_GERMAN         "Musikteile"
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_GERMAN         "Stabteile"
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_GERMAN         "Zombieschild"
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um die Schaufel aufzunehmen"
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_GERMAN         "Der Panzerantrieb kühlt ab"
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_GERMAN         "A 115 Konversionsgenerator wird angegriffen"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_GERMAN         "Maxis-Drohne wird benutzt"
+
+REFERENCE           ZM_TOMB_OSO
+LANG_GERMAN         "Sie können nur einen Stab tragen"
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_GERMAN         "Der Panzer bewegt sich"
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_GERMAN         "Sehen Sie sich die Medaille für die Herausforderung an"
+
+REFERENCE           ZM_TOMB_CH2
+LANG_GERMAN         "Nehmen Sie 6 Generatoren ein"
+
+REFERENCE           ZM_TOMB_TELE
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für den Teleporter"
+
+REFERENCE           ZM_TOMB_RPU
+LANG_GERMAN         "Der Strom muss eingeschaltet sein."
+
+REFERENCE           ZM_TOMB_CHT
+LANG_GERMAN         "Füllen Sie 4 Truhen vollständig"
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aktivieren des Panzers"
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_GERMAN         "^3[{+activate}]^7 halten zum Aufnehmen der Tafel\n"
+
+REFERENCE           ZM_TOMB_RPT
+LANG_GERMAN         "Sie können nur &&1 Extras tragen"
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Platzieren der Tafel"
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Platzieren der Tafel"
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_GERMAN         "Verteidigen Sie die Generatoren vor Angriffen"
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Nehmen der Belohnung"
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Wählen der Belohnung"
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Öffnen der Kiste"
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zur Wiedergabe der Aufnahme"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_GERMAN         "Drücken Sie [{+actionslot 1}] oder [{+actionslot 2}] zum Wechseln"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_GERMAN         "Sie tragen schon ein Teil."
+
+ENDMARKER

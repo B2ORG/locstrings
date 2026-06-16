@@ -1,0 +1,418 @@
+// Dumped from fastfile "ja_angola".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_1
+LANG_JAPANESE       "^L\"PYRRHIC VICTORY\"^L"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_001A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7迫撃が止んだ…"
+
+REFERENCE           ANGOLA_HINT_MORTAR_PICKUP
+LANG_JAPANESE       "^3[{+activate}]^7で迫撃砲弾を拾う"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_2
+LANG_JAPANESE       "^Lアンゴラ共和国^L クネネ州"
+
+REFERENCE           ANGOLA_BOARD_BUFFEL_HINT
+LANG_JAPANESE       "^3[{+activate}]^7でブッフェルに乗る"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_3
+LANG_JAPANESE       "アレックス・^Lメイソン^L"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_FIRST_WAVE
+LANG_JAPANESE       "敵戦車の第一波を撃破しろ"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_4
+LANG_JAPANESE       "^LCIA^L特殊活動課"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_006A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7もちろん 我々もな!"
+
+REFERENCE           ANGOLA_CONVOY_WARNING
+LANG_JAPANESE       "戦闘エリアから離れるな！"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_5
+LANG_JAPANESE       "^L1986年^L7月2日"
+
+REFERENCE           ANGOLA_BREAK_LOCK
+LANG_JAPANESE       "^3[{+activate}] ^7で錠前を破壊"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_006A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7諦めろ…"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_001A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7待ってろ！"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_JAPANESE       "ラペリング"
+
+REFERENCE           ANGOLA_MORTAR_TUTORIAL
+LANG_JAPANESE       "^3[{+actionslot 4}]^7で迫撃弾を選択"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_TECHNICAL
+LANG_JAPANESE       "機銃のガンナーを排除しろ"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_JAPANESE       "Search"
+
+REFERENCE           ANGOLA_STRAFE_FAIL
+LANG_JAPANESE       "車列が破壊されてしまった… もっと多くの戦車を始末しろ！"
+
+REFERENCE           ANGOLA_CALL_FAIL
+LANG_JAPANESE       "車列が破壊されてしまった… ハドソンと連絡を取れ！"
+
+REFERENCE           ANGOLA_HELI_MG
+LANG_JAPANESE       "^3[{+attack}]^7でマシンガンを撃つ"
+
+REFERENCE           ANGOLA_BUFFEL_FAIL
+LANG_JAPANESE       "車列が破壊されてしまった… 突撃を先導しろ！"
+
+REFERENCE           ANGOLA_STRAFE_HINT
+LANG_JAPANESE       "^3[{+actionslot 1}]^7で航空支援を要請する"
+
+REFERENCE           ANGOLA_TANK_FAIL
+LANG_JAPANESE       "車列が破壊されてしまった… もっと多くの戦車を始末しろ！"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_FINAL_WAVE
+LANG_JAPANESE       "ハドソンのヘリで敵戦車を撃破しろ[&&1/3]"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_019A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7任せろ！"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_TANKS
+LANG_JAPANESE       "敵戦車の第一波を撃破しろ"
+
+REFERENCE           ANGOLA_HELI_STRAFE
+LANG_JAPANESE       "^3[{+movestick}]^7で横移動"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_010A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7迫撃が始まった MPLAの攻撃が 始まるぞ"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_MORTAR
+LANG_JAPANESE       "迫撃砲の砲兵を排除する"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_RPGS
+LANG_JAPANESE       "RPG攻撃を止めろ"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_SECOND_WAVE
+LANG_JAPANESE       "敵戦車の第二波を撃破しろ"
+
+REFERENCE           ANGOLA_OBJ_GET_TO_BUFFEL
+LANG_JAPANESE       "ブッフェルに乗り 最後の攻撃を先導しろ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_018A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7メイソン 聞こえるか？"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ ヘリの機銃をやられた"
+
+REFERENCE           ANGOLA_OBJ_FOLLOW_BUFFEL
+LANG_JAPANESE       "車列と共に進め"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_019A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7どうぞ ハドソン"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_012A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7行くぞ！"
+
+REFERENCE           ANGOLA_OBJ_START
+LANG_JAPANESE       "MPLAの攻撃に備えろ"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_JAPANESE       "Help"
+
+REFERENCE           ANGOLA_CONVOY_FAIL
+LANG_JAPANESE       "車列から離れすぎるな！ 身を隠せ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_008A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7よし 旋回してもう一度叩く"
+
+REFERENCE           ANGOLA_ABANDON_FAIL
+LANG_JAPANESE       "車列を見捨ててしまった…"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_JAPANESE       "接近中(戦車)"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_S
+LANG_JAPANESE       "^1メイソン: ^7クソ T-62戦車を連れてるな"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_034A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7車列を見捨てるのか？"
+
+REFERENCE           ANGOLA_HELI_AIM
+LANG_JAPANESE       "^3[{+lookstick}]^7でエイム"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_021A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7知ってる サヴィンビが反撃の指揮をとってる"
+
+REFERENCE           ANGOLA_HELI_ROCKET
+LANG_JAPANESE       "^3[{+speed_throw}]^7でロケット弾を発射"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_017A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7車列から離れるな！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_1_01_001A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7クソ！！！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_003A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7敵が やってきたぞ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_002A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7手を貸してくれ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_004A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7メイソン"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_005A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7サヴィンビ… 手を貸してくれ…"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_025A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7サヴィンビの部下から まもなく 報告が入るだろう"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_M
+LANG_JAPANESE       "^1メイソン: ^7クソ！ 割れない！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_S
+LANG_JAPANESE       "^1メイソン: ^7クソ！ 割れない！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_036A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7人を救うには手遅れなことだってある"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_030A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7離れるな 車列を守れ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_009A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7先に進まなければ 共倒れになるぞ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_011A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7戦いを望むなら 存分に相手をしてやろう！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_015A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7あの車両から離れるな"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_016A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7メイソン どこに行く？"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_M
+LANG_JAPANESE       "^1メイソン: ^7クソ T-62戦車を連れてるな"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_037A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7そちらに前進中のMPLA部隊を発見 北におよそ1キロだ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7たいした タマだな…"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7たいした タマだな…"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_023A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズは？ 居場所は確認できたか？"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_024A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7移送されてる みたいだな"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_JAPANESE       "Defend"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_032A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7車列から離れるな！"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_JAPANESE       "Protect"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_033A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7数の力を活かせ メイソン 離れるな！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_035A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7車列から離れすぎだ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_002A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7やつらが 来るぞ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_004A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7戦え 兄弟達よ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_007A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7メイソン！ 迫撃砲兵を狙え！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_008A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7岩の後ろにいる！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_015A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7迫撃砲兵を排除！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_012A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7合図で航空支援するぞ"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_JAPANESE       "Pick Up"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_013A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7準備OKだ メイソン！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_014A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7戦車を片づけてくれ ハドソン！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_002A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7助けが必要だ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_003A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7掃射を開始する"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ 下から攻撃されてる！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ 下から攻撃されてる！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_016A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7一発食らうのも 時間の問題だな…"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_017A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7MGトラックに 狙われてるぞ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_004A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7いい腕だ ハドソン"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_018A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7始末してくれ 支援できん！"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_JAPANESE       "Enter"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_020A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7始末した いけるぞハドソン！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_005A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7戦車は まだいるぞ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ ヘリの機銃をやられた"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_022A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7これ以上は支援できん"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_010A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7行くぞ 友よ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_023A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7乗ってくれ メイソン"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_024A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7メイソン ブッフェルに乗れ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_025A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7さあ移動するぞ 来いメイソン"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_011A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7弱っているうちに たたみかけるぞ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_001A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7MPLAに死を！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_003A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7勝利への旅路の始まりだ！"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_JAPANESE       "Climb"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_002A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7残兵を探して殺すのだ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_004A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7我が友のおでましだ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_005A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7大活躍だったな"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_007A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズの居場所は？"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_008A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7MPLAはまだ健在だ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_058A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7今行くのは かなり危険だぞ！"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_009A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7どこにいるんだ？"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_010A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7ニカラグアの武器商人に 捕らわれている とても危険な男だ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_011A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7どこに？"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_012A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^72マイルほど北 輸送船の中だ クバンゴ川にいる"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_013A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7もう死んでいるかもしれんぞ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_014A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7行こうハドソン！"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_JAPANESE       "Follow"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_JAPANESE       "Use"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_JAPANESE       "Destroy"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_JAPANESE       "Support"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_JAPANESE       "Regroup"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_JAPANESE       "Kill"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_JAPANESE       "Breach"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_JAPANESE       "Shoot"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_JAPANESE       "Target"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_JAPANESE       "Access"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_JAPANESE       "Jump"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_JAPANESE       "Melee"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_JAPANESE       "Disable"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_JAPANESE       "Detonate"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_JAPANESE       "Sweep"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_JAPANESE       "Clear"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_JAPANESE       "Weapons"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_JAPANESE       "Ammo"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_JAPANESE       "Escort"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_JAPANESE       "接近中(ヘリ)"
+
+ENDMARKER

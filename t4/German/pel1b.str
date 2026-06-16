@@ -1,0 +1,58 @@
+// Dumped from fastfile "pel1b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_HOLD_POS
+LANG_ENGLISH        "Halten Sie während der Bombardierung die Stellung."
+
+REFERENCE           PEL1B_OBJECTIVE_FLAME_TANK
+LANG_ENGLISH        "Schützen Sie den Feuerpanzer."
+
+REFERENCE           PEL1B_OBJECTIVE_WARNING
+LANG_ENGLISH        "Sie müssen die Panzerabwehrstellung ausschalten, bevor Sie vorrücken können."
+
+REFERENCE           PEL1B_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Ohne Unterbrechung'"
+
+REFERENCE           PEL1B_OBJECTIVE_MOVE_UP
+LANG_ENGLISH        "Rücken Sie mit dem Trupp vor."
+
+REFERENCE           PEL1B_INTROSCREEN_DATE
+LANG_ENGLISH        "16. September 1944"
+
+REFERENCE           PEL1B_INTROSCREEN_PLACE
+LANG_ENGLISH        "Der Gipfel, Peleliu"
+
+REFERENCE           PEL1B_INTROSCREEN_INFO
+LANG_ENGLISH        "1. Marinedivision"
+
+REFERENCE           PEL1B_OBJECTIVE_ARTILLERY
+LANG_ENGLISH        "Sichern Sie die Panzerabwehrstellungen\n( &&1 übrig )."
+
+REFERENCE           PEL1B_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           PEL1B_PLAYER_DISMOUNT
+LANG_ENGLISH        "Drücken Sie [{+activate}], um vom Panzer abzuspringen."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FLANK
+LANG_ENGLISH        "Folgen Sie Ihrem Trupp."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FOLLOW_FLAME
+LANG_ENGLISH        "Folgen Sie dem Feuerpanzer."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ART_CLEAR
+LANG_ENGLISH        "Sichern Sie den Artillerieraum."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_CAVE_CLEAR
+LANG_ENGLISH        "Orten Sie die Artilleriekanonen."
+
+REFERENCE           PEL1B_OBJECTIVE_FOLLOW_SQUAD
+LANG_ENGLISH        "Stoßen Sie zu Ihrem Trupp."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ASSAULT_CAVE
+LANG_ENGLISH        "Greifen Sie den Höhleneingang an"
+
+ENDMARKER

@@ -1,0 +1,109 @@
+// Dumped from fastfile "oki3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI3_OBJ4
+LANG_ENGLISH        "Подобрать сброшенные боеприпасы"
+
+REFERENCE           OKI3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Точка излома'"
+
+REFERENCE           OKI3_STARTS_PLANTERS_END
+LANG_ENGLISH        "СОБЫТИЕ 4 - конец схватки подрывников"
+
+REFERENCE           OKI3_INTROSCREEN_DATE
+LANG_ENGLISH        "29 мая 1945 года"
+
+REFERENCE           OKI3_OBJ2_3
+LANG_ENGLISH        "Уничтожить 3 минометных расчета"
+
+REFERENCE           OKI3_INTROSCREEN_INFO
+LANG_ENGLISH        "1-я дивизия морской пехоты"
+
+REFERENCE           OKI3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Замок Сюри, Окинава"
+
+REFERENCE           OKI3_OBJ1
+LANG_ENGLISH        "Атаковать замок Сюри"
+
+REFERENCE           OKI3_OBJ2_4
+LANG_ENGLISH        "Уничтожить 4 минометных расчета"
+
+REFERENCE           OKI3_OBJ2_2
+LANG_ENGLISH        "Уничтожить 2 минометных расчета"
+
+REFERENCE           OKI3_OBJ2_1
+LANG_ENGLISH        "Уничтожить 1 минометный расчет"
+
+REFERENCE           OKI3_OBJ2
+LANG_ENGLISH        "Уничтожить минометные расчеты"
+
+REFERENCE           OKI3_OBJ5
+LANG_ENGLISH        "Удерживать позиции"
+
+REFERENCE           OKI3_OBJ6
+LANG_ENGLISH        "Держать оборону против банзай-атаки"
+
+REFERENCE           OKI3_STARTS_MORTARPITS
+LANG_ENGLISH        "Событие 2 - Минометные окопы"
+
+REFERENCE           OKI3_USE_MORTAR
+LANG_ENGLISH        "Удерживайте &&1, чтобы подобрать и активировать "
+
+REFERENCE           OKI3_OBJ4_A
+LANG_ENGLISH        "Войти в туннель и зачистить его"
+
+REFERENCE           OKI3_TAKE_COVER
+LANG_ENGLISH        "Спрятаться в укрытие"
+
+REFERENCE           OKI3_REGROUP_BY_WALL
+LANG_ENGLISH        "Встретиться с отрядом"
+
+REFERENCE           OKI3_REGROUP
+LANG_ENGLISH        "Вернуться к отделению"
+
+REFERENCE           OKI3_STARTS_AMBUSH
+LANG_ENGLISH        "Событие 1 - Засада"
+
+REFERENCE           OKI3_STARTS_COURTYARD
+LANG_ENGLISH        "Событие 4 - Двор"
+
+REFERENCE           OKI3_OBJ9
+LANG_ENGLISH        "Вызвать авиаудар по восточным зданиям"
+
+REFERENCE           OKI3_OBJ8
+LANG_ENGLISH        "Вызвать авиаудар по северным зданиям"
+
+REFERENCE           OKI3_OBJ7
+LANG_ENGLISH        "Захватить сброшенное снаряжение во дворе"
+
+REFERENCE           OKI3_STARTS_PLANTERS
+LANG_ENGLISH        "Событие 3 - подрывники"
+
+REFERENCE           OKI3_AIRSTRIKE_HOWTO
+LANG_ENGLISH        "Нажмите [{+actionslot 4}] , затем [{+attack}] , чтобы вызвать авиаудар"
+
+REFERENCE           OKI3_TAKE_AMMO
+LANG_ENGLISH        "Удерживайте &&1, чтобы получить боеприпасы"
+
+REFERENCE           OKI3_OBJ6A
+LANG_ENGLISH        "Уничтожить всех врагов в этом районе"
+
+REFERENCE           OKI3_HINT_PRONE
+LANG_ENGLISH        "Нажмите, [{gocrouch}], чтобы принять положение пригнувшись."
+
+REFERENCE           OKI3_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Миллер"
+
+REFERENCE           OKI3_OBJ8_A
+LANG_ENGLISH        "Удерживать территорию"
+
+REFERENCE           OKI3_MORTAR_HINT
+LANG_ENGLISH        "Нажмите [{+attack}] , чтобы бросить мину"
+
+REFERENCE           OKI3_RADIO_INUSE
+LANG_ENGLISH        "Радиостанция уже используется"
+
+ENDMARKER

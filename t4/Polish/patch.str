@@ -1,0 +1,427 @@
+// Dumped from fastfile "patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_STATSERRORPRESTIGE
+LANG_ENGLISH        "Dane dotycz¹ce rangi '&&4' uleg³y uszkodzeniu. Twoja ranga zosta³a zmieniona zgodnie z informacjami zapisanymi w kopii bezpieczeñstwa: &&1 Lvl &&2 presti¿ &&3."
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_A
+LANG_ENGLISH        "Potok"
+
+REFERENCE           PATCH_STATSERROR
+LANG_ENGLISH        "Dane dotycz¹ce rangi '&&4' uleg³y uszkodzeniu. Twoja ranga zosta³a zmieniona zgodnie z informacjami zapisanymi w kopii bezpieczeñstwa: &&1 Lvl &&2."
+
+REFERENCE           PATCH_SUB_PENS
+LANG_ENGLISH        "Sub Pens"
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_A
+LANG_ENGLISH        "Dok"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "Zapis gry jest niekompatybilny z obecn¹ wersj¹ gry. Mo¿esz kontynuowaæ od pocz¹tku ostatniej misji lub wyjœæ do menu."
+
+REFERENCE           PATCH_DLC_MAP_PACK_3
+LANG_ENGLISH        "Zestaw map 3"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_TEST
+LANG_ENGLISH        "Mapa testowa funkcji (tylko Dew)"
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED
+LANG_ENGLISH        "Granatnik M7  "
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_B
+LANG_ENGLISH        "Plac"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "Wszyscy gracze musz¹ posiadaæ tak¹ sam¹ wersjê gry, aby skorzystaæ z opcji po³¹czenia systemowego. Zaloguj siê do Xbox LIVE, aby upewniæ siê, czy posiadasz najnowsz¹ aktualizacjê gry."
+
+REFERENCE           PATCH_SP_UNLOCK_DESC
+LANG_ENGLISH        "Ten tryb wspó³pracy jest dostêpny w playlistach gier sieciowych oraz ustawieniach niestandardowych meczów."
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_COAST
+LANG_ENGLISH        "Wybrze¿e Zombie"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_FACTORY
+LANG_ENGLISH        "Der Riese"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_D
+LANG_ENGLISH        "Kot³ownia"
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "Alternatywna kolorystyka"
+
+REFERENCE           PATCH_SUBWAY
+LANG_ENGLISH        "Stacja"
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "Wersje gry nie s¹ zgodne z gr¹ sieciow¹ w tym trybie."
+
+REFERENCE           PATCH_PLAYER_DOESNT_HAVE_MAP_PACK
+LANG_ENGLISH        "&&2 - wy³¹czone!\n&&1 nie ma pakietu map."
+
+REFERENCE           PATCH_MAKIN_BONUS_MAP
+LANG_ENGLISH        "Dod. mapa Makin"
+
+REFERENCE           PATCH_PTRS41_UPGRADED
+LANG_ENGLISH        "PTRS-41"
+
+REFERENCE           PATCH_MAKIN_DAY
+LANG_ENGLISH        "Makin Day"
+
+REFERENCE           PATCH_MAKIN_DAY_CAPS
+LANG_ENGLISH        "MAKIN DAY"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_E
+LANG_ENGLISH        "Zachodni peron"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_A
+LANG_ENGLISH        "Wschodnia strona"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "Ta wersja demonstracyjna obs³uguje modyfikacjê ^3&&1^7.\nMusisz wczytaæ modyfikacjê zanim bêdziesz móg³ obejrzeæ demonstracjê."
+
+REFERENCE           PATCH_GET_DLC
+LANG_ENGLISH        "POBIERZ MAPY"
+
+REFERENCE           PATCH_DLC_MAP_PACK_1
+LANG_ENGLISH        "Pakiet map nr 1"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_C
+LANG_ENGLISH        "Most"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_TEST_MAP
+LANG_ENGLISH        "Tutaj mo¿esz zobaczyæ najnowsze funkcje."
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_PARIS
+LANG_ENGLISH        "Pary¿ Zombie"
+
+REFERENCE           PATCH_DLC_MAP_PACK_2
+LANG_ENGLISH        "Zestaw map 2"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_ASYLUM
+LANG_ENGLISH        "Zombie Verrückt"
+
+REFERENCE           PATCH_NAZI_ZOMBIES_CAP
+LANG_ENGLISH        "NAZI ZOMBIES"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_ASYLUM
+LANG_ENGLISH        "Terapia wstrz¹sowa. Przetworzone chemicznie napoje. Hordy nieumar³ych nazistów. ZnajdŸ sposób, aby odes³aæ ich z powrotem do piachu!"
+
+REFERENCE           PATCH_KNEEDEEP
+LANG_ENGLISH        "Knee Deep"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_D
+LANG_ENGLISH        "Studnia"
+
+REFERENCE           PATCH_BGATE
+LANG_ENGLISH        "Naruszenie"
+
+REFERENCE           PATCH_NACHTFEUER
+LANG_ENGLISH        "Nightfire"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_A
+LANG_ENGLISH        "Wschodni peron"
+
+REFERENCE           PATCH_KNEEDEEP_CAPS
+LANG_ENGLISH        "KNEE DEEP"
+
+REFERENCE           PATCH_SUBWAY_CAPS
+LANG_ENGLISH        "STACJA"
+
+REFERENCE           PATCH_BGATE_CAPS
+LANG_ENGLISH        "NARUSZENIE"
+
+REFERENCE           PATCH_NACHTFEUER_CAPS
+LANG_ENGLISH        "NIGHTFIRE"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_D
+LANG_ENGLISH        "Bunkier"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_E
+LANG_ENGLISH        "Pole ry¿owe"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_B
+LANG_ENGLISH        "Warsztaty"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_C
+LANG_ENGLISH        "Wzgórze Zgliszcz"
+
+REFERENCE           PATCH_DOWNLOADABLE_CONTENT_DAMAGED
+LANG_ENGLISH        "Pobrana zawartoœæ jest uszkodzona."
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_FACTORY
+LANG_ENGLISH        "Olbrzym siê podnosi. Poznaj potêgê nazistowskich zombie w miejscu, gdzie to wszystko siê rozpoczê³o. To w³aœnie tutaj powsta³ g³ówny plan. Czy to równie¿ bêdzie miejsce, gdzie to wszystko siê skoñczy?"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_A
+LANG_ENGLISH        "Stacja kolejowa"
+
+REFERENCE           PATCH_MG42_UPGRADED
+LANG_ENGLISH        "MG42"
+
+REFERENCE           PATCH_STALINGRAD_CAPS
+LANG_ENGLISH        "CORROSION"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_PARIS
+LANG_ENGLISH        "Opis Pary¿a Zombie"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_B
+LANG_ENGLISH        "Wioska"
+
+REFERENCE           PATCH_ONLINE
+LANG_ENGLISH        "^2online^7"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_THEATER
+LANG_ENGLISH        "Teatr Zombie"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_THEATER
+LANG_ENGLISH        "Witaj w kolejnym epizodzie Teatru Zombie"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_COAST
+LANG_ENGLISH        "Opis Wybrze¿a Zombie"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_B
+LANG_ENGLISH        "Dziób"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_SUMPF
+LANG_ENGLISH        "Shi No Numa"
+
+REFERENCE           PATCH_STALINGRAD
+LANG_ENGLISH        "Corrosion"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_SUMPF
+LANG_ENGLISH        "Rozk³adaj¹ce siê trupy. Bagno i ¿yj¹ce tam owady. Setki nieumar³ych ¿o³nierzy Armii Cesarskiej. Wybierz taktykê i broñ siê!"
+
+REFERENCE           PATCH_BRANDENBURG
+LANG_ENGLISH        "Brandenburg"
+
+REFERENCE           PATCH_KWAI
+LANG_ENGLISH        "Banzai"
+
+REFERENCE           "PATCH_STG-44_UPGRADED"
+LANG_ENGLISH        "STG-44"
+
+REFERENCE           PATCH_BRANDENBURG_CAPS
+LANG_ENGLISH        "BRANDENBURG"
+
+REFERENCE           PATCH_KWAI_CAPS
+LANG_ENGLISH        "BANZAI"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_D
+LANG_ENGLISH        "Rufa"
+
+REFERENCE           PATCH_SUB_PENS_CAPS
+LANG_ENGLISH        "SUB PENS"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_B
+LANG_ENGLISH        "Fabryka"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_C
+LANG_ENGLISH        "Plama siarki"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_C
+LANG_ENGLISH        "Wodospad"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_E
+LANG_ENGLISH        "Zachodnia strona"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_C
+LANG_ENGLISH        "Naprawy"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_E
+LANG_ENGLISH        "Sala planowania"
+
+REFERENCE           PATCH_360ONLY_MISSINGMAP
+LANG_ENGLISH        "Nie posiadasz tej mapy lub pliki s¹ uszkodzone. Mapêmo¿esz pobraæ z rynku us³ug Xbox LIVE."
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "Nie posiadasz tej mapy. Mo¿esz j¹ pobraæ z PlayStation®Store."
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Ta playlista wymaga zainstalowanego pakietu map, którego nie posiadasz. Mo¿esz go pobraæ z Playstation®Store."
+
+REFERENCE           PATCH_UNHANDLEDEXCEPTION
+LANG_ENGLISH        "Wyst¹pi³ problem z odczytem danych. Upewnij siê ¿e urz¹dzenie przechowuj¹ce dane jest podpiête prawid³owo a p³yta z gr¹ wolna od zabrudzeñ."
+
+REFERENCE           PATCH_TESLA_GUN
+LANG_ENGLISH        "Wunderwaffe DG-2"
+
+REFERENCE           PATCH_ZOMBIE_MAPS
+LANG_ENGLISH        "Nazi Zombies"
+
+REFERENCE           PATCH_ZOMBIE_MAPS_DESC
+LANG_ENGLISH        "Wybierz poziom Nazi Zombies do rozegrania w trybie dla jednego gracza."
+
+REFERENCE           PATCH_CANNOT_FIND_ZONE
+LANG_ENGLISH        "Nie mo¿na odnaleŸæ zawartoœci, któr¹ chcesz wczytaæ lub jest on dla niew³aœciwego regionu. Proszê upewnij siê, ¿e p³yta jest czysta i masz pobrane odpowiednie pliki."
+
+REFERENCE           PATCH_30CAL_UPGRADED
+LANG_ENGLISH        "Browning M1919"
+
+REFERENCE           PATCH_BAR_UPGRADED
+LANG_ENGLISH        "BAR"
+
+REFERENCE           PATCH_COLT45_UPGRADED
+LANG_ENGLISH        "Colt M1911"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP_UPGRADED
+LANG_ENGLISH        "Obrzyn"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_UPGRADED
+LANG_ENGLISH        "Dubeltówka"
+
+REFERENCE           PATCH_M1GARAND_UPGRADED
+LANG_ENGLISH        "M1 Garand"
+
+REFERENCE           PATCH_FG42_UPGRADED
+LANG_ENGLISH        "FG42"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_D
+LANG_ENGLISH        "Fabryka"
+
+REFERENCE           PATCH_GEWEHR43_UPGRADED
+LANG_ENGLISH        "Gewehr 43"
+
+REFERENCE           PATCH_M1A1CARBINE_UPGRADED
+LANG_ENGLISH        "Karabin M1A1"
+
+REFERENCE           PATCH_RUSSIAN_HERO_DESC
+LANG_ENGLISH        "Nawet sam Stalin nie potrafi³ wytrzymaæ spojrzenia Niko³aja. Patrz¹c mu w oczy, widaæ duszê cz³owieka przepe³nion¹ nienawiœci¹ dla wszystkich ¿ywych istot. Jego szafa pe³na jest szkieletów, na niektórych ci¹gle przyczepione s¹ kawa³ki cia³a. Przed wojn¹ Niko³aj szybko osi¹ga³ kolejne awanse w szeregach partii, zabijaj¹c ludzi stoj¹cych mu na drodze. Zawierane przez niego ma³¿eñstwa równie¿ pomaga³y mu w karierze. Niestety, jego kariera leg³a w gruzach, kiedy jego pi¹ta ¿ona zginê³a w tajemniczych okolicznoœciach, czyszcz¹c topór Niko³aja w³asn¹ szyj¹. Niko³aj nie wiedzia³, ¿e ¿ona zdradza³a go z wysoko postawionym cz³onkiem partii. W wyniku tego tragicznego wypadku ucierpia³a reputacja Niko³aja. Sam Stalin dowiedzia³ siê o psychopatycznym polityku, który zabija³ wszystko, co siê znalaz³o w jego pobli¿u. Wraz z pocz¹tkiem wojny Niko³aj zosta³ wys³any na pierwsz¹ liniê frontu i wkrótce o nim zapomniano. Niko³aj pogr¹¿y³ siê w depresji, pocieszaj¹c siê przez kilka lat wódk¹. Niko³aj Beliñski, pos³uguj¹cy siê ró¿nymi rodzajami broni, do których nale¿y równie¿ jego oddech, mo¿e spojrzeæ œmierci prosto w twarz i powiedzieæ, \"Znam ciê.\""
+
+REFERENCE           PATCH_MP40_UPGRADED
+LANG_ENGLISH        "MP40"
+
+REFERENCE           PATCH_PPSH_UPGRADED
+LANG_ENGLISH        "PPSh-41"
+
+REFERENCE           PATCH_SHOTGUN_UPGRADED
+LANG_ENGLISH        "Karabin okopowy M1897"
+
+REFERENCE           PATCH_357MAGNUM_UPGRADED
+LANG_ENGLISH        "Magnum .357"
+
+REFERENCE           PATCH_THOMPSON_UPGRADED
+LANG_ENGLISH        "Thompson"
+
+REFERENCE           PATCH_TYPE100_SMG_UPGRADED
+LANG_ENGLISH        "PM Typ 100"
+
+REFERENCE           PATCH_TYPE99_RIFLE_UPGRADED
+LANG_ENGLISH        "Arisaka"
+
+REFERENCE           PATCH_PANZERSCHREK_UPGRADED
+LANG_ENGLISH        "Panzerschrek"
+
+REFERENCE           PATCH_RAY_GUN_UPGRADED
+LANG_ENGLISH        "Pistolet laserowy  "
+
+REFERENCE           PATCH_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "Wunderwaffe DG-2  "
+
+REFERENCE           PATCH_M2_FLAMETHROWER_UPGRADED
+LANG_ENGLISH        "Miotacz p³omieni M2  "
+
+REFERENCE           PATCH_KAR98K_UPGRADED
+LANG_ENGLISH        "Kar98k  "
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED_NONADE
+LANG_ENGLISH        "Granatnik M7  "
+
+REFERENCE           PATCH_JAPANESE_HERO_NAME
+LANG_ENGLISH        "Takeo Masaki"
+
+REFERENCE           PATCH_HERO_BIO_CAP
+LANG_ENGLISH        "OPIS POSTACI"
+
+REFERENCE           PATCH_AMERICAN_HERO_DESC
+LANG_ENGLISH        "Czo³g Dempsey: Amerykañski bohater. Dajcie mu na³adowan¹ broñ, piêkn¹ kobietê i wska¿cie cel. To wystarczy, ¿eby go zadowoliæ. Nie radzimy wchodziæ mu w drogê. Wyrwie wam wnêtrznoœci i zrobi sobie z nich pas. Dempsey zosta³ wybrany do tej misji po jego wyczynach w bitwie o Peleliu. Jego jednostka zosta³a schwytana podczas rajdów poprzedzaj¹cych g³ówn¹ inwazjê. Dempsey spêdzi³ 2 tygodnie w bambusowej klatce, zanurzony w malarycznej wodzie, za towarzystwo maj¹c szczury. Ostatecznie uda³o mu siê uwolniæ z klatki i uciec, atakuj¹c przeciwników szpilk¹ i Medalem Honoru, które ukrywa³ w ró¿nych otworach swojego cia³a. Dla Dempsey'a nie istnieje czas przed lub po wojnie. Istnieje tylko legenda Czo³gu Dempsey'a i tego, jak wygra³ dla nas wojnê.\n                      -\nDempsey to cz³owiek, który pomo¿e ci przetrwaæ apokalipsê nieumar³ych. Nie ma ¿adnej litoœci dla wrogów, przynosi im jedynie zniszczenie."
+
+REFERENCE           PATCH_AMERICAN_HERO_NAME
+LANG_ENGLISH        "Czo³g Dempsey"
+
+REFERENCE           PATCH_RUSSIAN_HERO_NAME
+LANG_ENGLISH        "Niko³aj Beliñski"
+
+REFERENCE           PATCH_JAPANESE_HERO_DESC
+LANG_ENGLISH        "Takeo ma na powiekach wytatuowane japoñskie przys³owie \"W porównaniu z honorem ¿ycie jest niewiele warte.\" W ¿yciu Takeo najwa¿niejsze jest doskonalenie dyscypliny oraz poznawanie prawdziwego charakteru wojownika i honoru. Rozmyœla nad tymi problemami, kiedy jego katana przecina cia³o i wnêtrznoœci jego przeciwników.\n                      -\nTakeo urodzi³ siê w zamo¿nej rodzinie, której historia siêga kilku pokoleñ wstecz. Nale¿a³o do niej wielu znakomitych samurajów oraz bushi. Takeo nie stanowi wyj¹tku.  Kiedy jego rodzina zobaczy³a, jak w wieku 5 lat Takeo bawi siê na ulicy, odcinaj¹c katan¹ ogony przera¿onych kociaków, wiedzia³a, ¿e ten ch³opiec przyniesie honor rodowi Masaki.\n                      -\nWojna okaza³a siê dla Takeo znakomit¹ okazj¹ do zaspokojenia krwawej ¿¹dzy i poznania natury mniej honorowych przeciwników. Je¿eli padniesz ofiar¹ jego miecza, wiedz, ¿e pomog³eœ lepszemu od siebie osi¹gn¹æ oœwiecenie."
+
+REFERENCE           PATCH_GERMAN_HERO_NAME
+LANG_ENGLISH        "Doktor Richtofen"
+
+REFERENCE           PATCH_GERMAN_HERO_DESC
+LANG_ENGLISH        "Wystrzegaj siê Doktora. Taki komunikat pojawia³ siê na wszystkich œcianach obozów jenieckich kontrolowanych przez si³y Osi. G³ód mo¿e ciê z³amaæ, dyzenteria mo¿e wyniszczyæ twój organizm, pociski mog¹ rozerwaæ twoje cia³o i koœci, ale ponad wszystko wystrzegaj siê Doktora.\n                      -\nPoznaj dr Richtofena, znanego jako RzeŸnik. Jego ofiary poznaj¹ nowe oblicze bólu, kiedy umieraj¹ w potwornych mêkach, wrzeszcz¹c wydaj¹ ostatnie tchnienie. Doktor Richtofen zawsze stara³ siê wyszukiwaæ nowe metody tortur i wyci¹gania informacji ze swoich ofiar. Przed wybuchem wojny by³ chirurgiem plastycznym, oferuj¹cym swoje us³ugi na czarnym rynku. To on stworzy³ armiê potwornych istot, okreœlanych mianem Weimar, które towarzysz¹ doktorowi i œmiej¹ siê z ka¿dego dowcipu swojego genialnego stwórcy. To wszystko uleg³o zmianie, kiedy w³adzê przejêli naziœci. Dla Richtofena wyznawane przez nich wartoœci by³y zbyt liberalne. Wkrótce zaci¹gn¹³ siê do armii, gdzie bezpiecznie móg³ ogl¹daæ œmieræ innych ludzi.\n                      -\nNieuleczalny socjopata, który nie dostrzega ¿adnej norm moralnych pomiêdzy naturaln¹ œmierci¹, a morderstwem. Ofiara jest ofiar¹, bez wzglêdu na rodzaj œmierci."
+
+REFERENCE           PATCH_DRUM
+LANG_ENGLISH        "Bêben"
+
+REFERENCE           PATCH_DRUM_CAPS
+LANG_ENGLISH        "BÊBEN"
+
+REFERENCE           PATCH_VODKA
+LANG_ENGLISH        "Revolution"
+
+REFERENCE           PATCH_VODKA_CAPS
+LANG_ENGLISH        "REVOLUTION"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_A
+LANG_ENGLISH        "Ulica"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_B
+LANG_ENGLISH        "Courtyard"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_C
+LANG_ENGLISH        "Brama"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_D
+LANG_ENGLISH        "Park"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_E
+LANG_ENGLISH        "Parking"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_A
+LANG_ENGLISH        "Krater"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_B
+LANG_ENGLISH        "Bateria E"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_C
+LANG_ENGLISH        "Sto³ówka"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_D
+LANG_ENGLISH        "Wie¿a"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_E
+LANG_ENGLISH        "¯uraw"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_A
+LANG_ENGLISH        "Wystawa"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_B
+LANG_ENGLISH        "Balkon"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_C
+LANG_ENGLISH        "Destylarnia"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_E
+LANG_ENGLISH        "Dok Za³adunkowy"
+
+REFERENCE           PATCH_SERVER_AUTHFAIL
+LANG_ENGLISH        "Problem z autentykacj¹ serwera. Prosimy spróbuj ponownie."
+
+REFERENCE           PATCH_BROUGHT_TO_YOU
+LANG_ENGLISH        "Brought to you by..."
+
+REFERENCE           PATCH_UNLOADMOD
+LANG_ENGLISH        "Ten serwer nie ma zainstalowanej modyfikacji.\nMusisz wy³¹czyæ modyfikacjê przed do³¹czeniem do gry."
+
+REFERENCE           PATCH_ADD_CURRENT_SERVER_TO_FAVORITES
+LANG_ENGLISH        "Dodaj bie¿¹cy serwer do ulubionych"
+
+REFERENCE           PATCH_OFFLINE
+LANG_ENGLISH        "^1offline^7"
+
+ENDMARKER

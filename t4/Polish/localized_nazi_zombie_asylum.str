@@ -1,0 +1,436 @@
+// Dumped from fastfile "localized_nazi_zombie_asylum".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 2000"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Runda"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Springfielda + bagnet - koszt: 200"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ szafkê - koszt: 2000"
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Naciœnij &&1, aby zamieniæ broñ"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Przytrzymaj &&1, aby wybraæ losow¹ broñ - koszt: 950"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Aby wybraæ broñ - koszt: &&1, amunicjê - koszt: &&2"
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Niech siê rozpocznie atak"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Sanatorium Wittenau"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ typ 99 - koszt: 400"
+
+REFERENCE           ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Nambu - koszt: 50"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ BAR - koszt: 1800"
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "Atak przetrwany"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 500"
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "NIEZDEFINIOWANE!! PROSZÊ DOK£ADNIE OKREŒLIÆ SCRIPT_HINT!"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odkupiæ barierê - koszt: 10"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Uda³o ci siê przetrwaæ do rundy &&1"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odkupiæ barierê - koszt: 20"
+
+REFERENCE           ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ PPSh-41 - koszt: 2000"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odkupiæ barierê - koszt: 50"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odkupiæ barierê - koszt: 100"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 100"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 200"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Mosin-Nagant - koszt: 200"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 500"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 250"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 750"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odbudowaæ barierê - nagroda: 40"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 1000"
+
+REFERENCE           ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Tokarewa TT-30 - koszt: 50"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ karabin M1 i bagnet - koszt: 600"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ kolta Heavy Duty - koszt: 100"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 1250"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 1500"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 1250"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby usun¹æ szcz¹tki - koszt: 1750"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 100"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 200"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 1750"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 1000"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 500"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 250"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 750"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 1000"
+
+REFERENCE           ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ .357 Magnum - koszt: 100"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 1500"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi [koszt: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 1750"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 100"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ drzwi - koszt: 2000"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Przytrzymaj &&1, by kupiæ Szybkie o¿yw. [k: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ kolta - koszt: 50"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 200"
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Naciœnij [{+actionslot 3}], a nastêpnie [{+attack}], aby pod³o¿yæ minê skacz¹c¹"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Kar98k - koszt: 200"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 250"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ kolta Zombie - koszt: 25"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 1250"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ typ 99 i bagnet - koszt: 400"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 1500"
+
+REFERENCE           ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Gewehr 43 - koszt: 600"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar - koszt: 2000"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ szafkê - koszt: 500"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ pistolet laserowy - koszt: 10000"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ szafkê - koszt: 1000"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Mosin-Nagant i granatnik - koszt: 1500"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ szafkê - koszt: 1500"
+
+REFERENCE           ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Walthera P38 - koszt: 50"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Mosin-Nagant - koszt: 200"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ DP-28 - koszt: 2250"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Springfielda - koszt: 200"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Kar98k + bagnet - koszt: 200"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ karabin M1 - koszt: 600"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ M1 Garand - koszt: 600"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ M1 Garand i bagnet - koszt: 600"
+
+REFERENCE           ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ SVT-40 - koszt: 600"
+
+REFERENCE           ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ granat od³amkowy M2 - koszt: 250"
+
+REFERENCE           ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ koktajl Mo³otowa - koszt: 200"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ BAR i dwójnóg - koszt: 2500"
+
+REFERENCE           ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ granat przyczepny RGD-33 - koszt: 250"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Uda³o ci siê przetrwaæ 1 rundê"
+
+REFERENCE           ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ granaty Stielhandgranate - koszt: 250"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ typ 97 od³amkowy - koszt: 250"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Kar98k i lunetê - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Kar98k i lunetê oraz bagnet - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ M1897 - koszt: 1500"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Mosin-Nagant i lunetê - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Mosin-Nagant i lunetê oraz bagnet - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ PTRS-41 - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Springfielda i lunetê - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Springfielda i lunetê oraz bagnet - koszt: 750"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odbudowaæ barierê - nagroda: 10"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ typ 99 i lunetê - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ typ 99 i lunetê oraz bagnet - koszt: 750"
+
+REFERENCE           ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ MP40 - koszt: 1000"
+
+REFERENCE           ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ STG-44 - koszt: 1200"
+
+REFERENCE           ZOMBIE_WEAPON_THOMPSON_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Thompsona - koszt: 1200"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ typ 100 - koszt: 1000"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ dubeltówkê - koszt: 1200"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ obrzyna - koszt: 1200"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Browninga M1919 - koszt: 3000"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ FG42 - koszt: 1500"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ FG42 i lunetê - koszt: 1500"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ MG42 - koszt: 3000"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ lkm typ 99 - koszt: 1750"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ M1 Garand i granatnik - koszt: 1500"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ Browninga M1919 i dwójnóg - koszt: 3500"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ DP-28 i dwójnóg - koszt: 2500"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ FG42 i dwójnóg - koszt: 2000"
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Przytrzymaj &&1, by kupiæ P. naciœn. [k: 3000]"
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Przytrzymaj &&1, by kupiæ Kuglarstwo [k: 3000]"
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Przytrzymaj &&1, by kupiæ Molocha [k: 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ MG42 i dwójnóg - koszt: 3500"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ lkm typ 99 i dwójnóg - koszt: 2250"
+
+REFERENCE           ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ bazookê M9A1 - koszt: 2000"
+
+REFERENCE           ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ panzerschreka - koszt: 2000"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Wrzesieñ 1945"
+
+REFERENCE           ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ miotacz p³omieni - koszt: 3000"
+
+REFERENCE           ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ pociski do moŸdzierza - koszt: 2000"
+
+REFERENCE           ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ ³adunek wybuchowy - koszt: 2000"
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Zombie pokonani!"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Natychmiastowe zabicie: "
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Zombie atomówka!"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Podwójne punkty:"
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Maksimum amunicji!"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odbudowaæ barierê - nagroda: 20"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odbudowaæ barierê - nagroda: 30"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "KONIEC GRY"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby odbudowaæ barierê - nagroda: 50"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Przytrzymaj &&1, aby wybraæ losow¹ broñ - koszt: 850"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Przytrzymaj &&1, aby wybraæ losow¹ broñ - koszt: 750"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Naciœnij &&1, aby losowo wybraæ broñ - koszt: 650"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Wciœnij i przytrzymaj &&1, aby odbudowaæ barierê"
+
+REFERENCE           ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "Najpierw trzeba w³¹czyæ zasilanie"
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby w³¹czyæ zaporê ogniow¹ [koszt: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby otworzyæ obszar [koszt: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Przytrzymaj &&1, by w³. zaporê elektryczn¹ [k: 1000]"
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby kupiæ minê skacz¹c¹ [koszt: 1000 - tylko jeden raz]"
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Ju¿ kupi³eœ miny skacz¹ce"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby w³¹czyæ fontannê [koszt: 750]"
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Naciœnij i przytrzymaj &&1, aby w³¹czyæ elektrycznoœæ"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Berlin, Niemcy"
+
+ENDMARKER

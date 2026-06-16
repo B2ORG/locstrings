@@ -1,0 +1,688 @@
+// Dumped from fastfile "it_underwaterbase".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           UNDERWATERBASE_AIRSUPPORT_FAIL
+LANG_ENGLISH        "La squadra è stata uccisa a causa tua."
+
+REFERENCE           UNDERWATERBASE_HELI_INSTRUCTION_1
+LANG_ENGLISH        "Usa  per muoverti/spostarti di lato"
+
+REFERENCE           UNDERWATERBASE_HELI_INSTRUCTION_2
+LANG_ENGLISH        "Usa  per mirare"
+
+REFERENCE           UNDERWATERBASE_HELI_INSTRUCTION_3
+LANG_ENGLISH        "Premi ^3[{+melee}]^7 per aumentare e ridurre il livello di zoom"
+
+REFERENCE           UNDERWATERBASE_INTROSCREEN_1
+LANG_ENGLISH        "^LTrasmissione n° 9-19. Destinatario: XRay^L"
+
+REFERENCE           UNDERWATERBASE_INTROSCREEN_2
+LANG_ENGLISH        "^C1Mason^C^L, Hudson e Weaver stanno intercettando la Rusalka, una nave commerciale sovietica.^L"
+
+REFERENCE           UNDERWATERBASE_INTROSCREEN_3
+LANG_ENGLISH        "^LPosizione: ^L^C1Golfo del Messico^C"
+
+REFERENCE           UNDERWATERBASE_INTROSCREEN_4
+LANG_ENGLISH        "^LRiteniamo che la nave stia trasmettendo il segnale.^L"
+
+REFERENCE           UNDERWATERBASE_INTROSCREEN_5
+LANG_ENGLISH        "^LOre 06:00, ^L^C126 febbraio 1968^C"
+
+REFERENCE           UNDERWATERBASE_MISSLE_CONTROL
+LANG_ENGLISH        "Usa ^3[{+lookstick}]^7 per pilotare il missile in volo"
+
+REFERENCE           UNDERWATERBASE_OBJ_ASSAULT_RUSALKA
+LANG_ENGLISH        "Attacca la Rusalka"
+
+REFERENCE           UNDERWATERBASE_OBJ_ASSIST
+LANG_ENGLISH        "Aiuta"
+
+REFERENCE           UNDERWATERBASE_OBJ_BREACH_DOOR
+LANG_ENGLISH        "Sfonda la porta del centro trasmissioni"
+
+REFERENCE           UNDERWATERBASE_OBJ_DESTROY_HIND
+LANG_ENGLISH        "Distruggi l'Hind nemico"
+
+REFERENCE           UNDERWATERBASE_OBJ_DESTROY_HIPS
+LANG_ENGLISH        "Abbatti gli elicotteri nemici"
+
+REFERENCE           UNDERWATERBASE_OBJ_ENTER_BASE
+LANG_ENGLISH        "Infiltrati nella stazione dei numeri"
+
+REFERENCE           UNDERWATERBASE_OBJ_ESCAPE
+LANG_ENGLISH        "Fuggi dalla stazione dei numeri"
+
+REFERENCE           UNDERWATERBASE_OBJ_FIND_DRAGOVICH
+LANG_ENGLISH        "Trova e uccidi Dragovich"
+
+REFERENCE           UNDERWATERBASE_OBJ_FOLLOW
+LANG_ENGLISH        "Segui"
+
+REFERENCE           UNDERWATERBASE_OBJ_HELP_WEAVER
+LANG_ENGLISH        "Neutralizza tutte le minacce"
+
+REFERENCE           UNDERWATERBASE_OBJ_LAND_HELICOPTER
+LANG_ENGLISH        "Fai atterrare l'elicottero"
+
+REFERENCE           UNDERWATERBASE_OBJ_PICKUP_TOW
+LANG_ENGLISH        "Raccogli i razzi Valkyrie"
+
+REFERENCE           UNDERWATERBASE_OBJ_PROTECT
+LANG_ENGLISH        "Proteggi"
+
+REFERENCE           UNDERWATERBASE_OBJ_PROTECT_SQUAD
+LANG_ENGLISH        "Proteggi la squadra"
+
+REFERENCE           UNDERWATERBASE_OBJ_RENDEZVOUS
+LANG_ENGLISH        "Raggiungi Weaver al ponte inferiore"
+
+REFERENCE           UNDERWATERBASE_OBJ_STOP_TRANSMISSION
+LANG_ENGLISH        "Interrompi le trasmissioni"
+
+REFERENCE           UNDERWATERBASE_OBJ_TARGET
+LANG_ENGLISH        "Bersaglio"
+
+REFERENCE           UNDERWATERBASE_OBJ_TARGETS
+LANG_ENGLISH        "Bersagli"
+
+REFERENCE           UNDERWATERBASE_OBJ_TOW
+LANG_ENGLISH        "Razzi Valkyrie"
+
+REFERENCE           UNDERWATERBASE_PROMPT_CHOKE
+LANG_ENGLISH        "Premi rapidamente ^3[{+breath_sprint}]^7 e ^F^3[{+melee}]^7^F per soffocare"
+
+REFERENCE           UNDERWATERBASE_PROMPT_GRAB
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per afferrare Dragovich"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_AIRSUPPORT
+LANG_ENGLISH        "E1: Supporto aereo"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_BIGFLOOD
+LANG_ENGLISH        "E6: La grande inondazione"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_BIGIGC
+LANG_ENGLISH        "E3: Filmato lungo"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_BROADCASTCENTER
+LANG_ENGLISH        "E8: Entra nel centro trasmissioni"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_DEACTIVATECODE
+LANG_ENGLISH        "E9: Codice disattivazione trasmissioni"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_DIVETOBASE
+LANG_ENGLISH        "E4: Immergiti fino alla base"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_ENTERBASE
+LANG_ENGLISH        "E5: Infiltrati nella base"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_ESCAPE
+LANG_ENGLISH        "E10: Fuga"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_RENDEZVOUS
+LANG_ENGLISH        "E2: Rendezvous con Weaver"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_SNIPE
+LANG_ENGLISH        "E1A: Tira di precisione dall'elicottero"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_SURFACE
+LANG_ENGLISH        "E11: Ritorno in superficie"
+
+REFERENCE           UNDERWATERBASE_SKIPTO_UPSHAFT
+LANG_ENGLISH        "E7: Sali nel condotto"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_001A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Alpha, vediamo la Rusalka."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_002A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, Yankee One."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_003A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Iniziamo ad avvicinarci."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_004A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, a te i comandi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_005A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Mantenere la formazione. Ci avviciniamo alla stazione radio."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_006A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7MERDA! Ci stanno sparando con l'antiaerea."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_006A_WEAV_S_F_S
+LANG_ENGLISH        "^1WEAVER: ^7MERDA! Ci stanno sparando con l'antiaerea."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_007A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Probabilmente ci aspettavano!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_008A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Squadra Yankee: attaccare la squadriglia a destra!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_009A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Ricevuto, Alpha. Ci stacchiamo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_010A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, raggiungi il porto!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_011A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dobbiamo ripulire la zona d'atterraggio!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_012A_MASO
+LANG_ENGLISH        "^1MASON: ^7Subito."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_013A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7One five, iniziamo l'attacco."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_014A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Attacchiamo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_015A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Bel colpo!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_016A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ci sparano dal ponte!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_022A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Li vedo. Andiamo ad attaccarli."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_025A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Bersaglio distrutto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_028A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Yankee One in posizione."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_029A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Via, via, via!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_030A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7RPG sul ponte superiore!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_032A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Weaver?!?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_033A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Squadra Yankee in posizione."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_034A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Via! Via!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_035A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Qui Alpha, andiamo a fornire supporto. Passo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_036A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Yankee two, muoversi a tribordo!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_037A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Ricevuto. Ci muoviamo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_038A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Yankee one, seguitemi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_039A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Via."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_040A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Raggiungi il lato del porto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_041A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Vai sul lato del porto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_042A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Raggiungi il lato a tribordo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_043A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Vai sul lato a tribordo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_044A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dobbiamo avvicinarci di più."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_045A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Portaci più vicino!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_046A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ritirata!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_047A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Siamo troppo vicini... allontaniamoci!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_048A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Merda! Ci hanno colpiti!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_048A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7Ci hanno colpito!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_049A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ci stanno attaccando!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_050A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Manovra evasiva!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_051A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Portaci fuori da qui, Mason!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_052A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Qui è un inferno! Ritirata!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_053A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Niente male."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_054A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Bel colpo, Mason."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_055A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Li hai presi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_056A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Continua così."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_057A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Li hai fatti fuori."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_058A_MASO
+LANG_ENGLISH        "^1MASON: ^7Raggiungiamo il porto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_059A_MASO
+LANG_ENGLISH        "^1MASON: ^7Andiamo a tribordo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_060A_MASO
+LANG_ENGLISH        "^1MASON: ^7Portaci là."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_061A_MASO
+LANG_ENGLISH        "^1MASON: ^7Portaci più vicino."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_062A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ricevuto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_063A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Attacchiamo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_064A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Colpiamoli ora!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_065A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Fuoco a volontà."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_066A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7La squadra Yankee è bloccata!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_067A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Sono sotto attacco pesante!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_068A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Dov'è il fuoco di supporto?!?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_069A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Grazie dell'aiuto, Alpha."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_070A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Yankee one, potete muovervi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_071A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7La via è libera. Muoversi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_072A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Attacchiamo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_073A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Fuoco!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_074A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Attacchiamo i bersagli."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_075A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Yankee two è bloccato!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_076A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Yankee two sotto attacco! Ripeto: Yankee two sotto attacco!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_077A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Ci serve fuoco di supporto!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_078A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Bel lavoro, Alpha."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_079A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Yankee two, muoversi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_080A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Via libera. Muoversi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_081A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, Yankee."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_082A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7RPG sul ponte!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_083A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Eliminateli!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_084A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Pressateli!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_085A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Squadra Yankee in posizione."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_086A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Scendiamo ai ponti inferiori, passo."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_087A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, Yankee. La squadra Alpha è dietro di voi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_088A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, portaci giù."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_089A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ricevuto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_090A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Salta!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_091A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Squadra Yankee, rapporto?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_092A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Attraversiamo il ponte 2... Nessun segno della trasmittente."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_093A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Deve essere qui."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_094A_MASO
+LANG_ENGLISH        "^1MASON: ^7So che c'è. Continuate a cercare."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_095A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Dividetevi e coprite entrambi i lati della nave."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_096A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Andiamo!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_097A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Merda! HIPS nemici!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_097A_HUDS_S_F_S
+LANG_ENGLISH        "^1HUDSON: ^7HIPS nemici!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_098A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Mason! Prendi quel missile teleguidato!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_099A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Distruggi gli HIPS!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_100A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Hudson, questa devi vederla!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_101A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Cos'è?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_102A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7MERDA!!!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_102A_WEAV_S_F_S
+LANG_ENGLISH        "^1WEAVER: ^7NO!!!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_103A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7WEAVER?!?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_104A_WEAV_F
+LANG_ENGLISH        "^1WEAVER: ^7Siamo bloccati al ponte inferiore! Portate qui il culo appena potete."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S01_105A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Stiamo arrivando!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_106A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Questa nave non è come ce la aspettavamo..."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_107A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7La stazione radio. È sotto di noi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_108A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Merda!!!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_108A_WEAV_M_S
+LANG_ENGLISH        "^1WEAVER: ^7Merda!!!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_109A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Merda... Dragovich sta iniziando a trasmettere!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_109A_HUDS_M_S
+LANG_ENGLISH        "^1HUDSON: ^7Dragovich sta iniziando a trasmettere!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_110A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Comando, qui Alpha one. Confermiamo che la Rusalka è la sorgente delle trasmissioni!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_111A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Chiamate l'attacco aereo. Ce ne andiamo da qui!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_112A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Non ancora. Dobbiamo trovare Dragovich."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_113A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Fra meno di un quarto d'ora, la Marina degli Stati Uniti farà a pezzi questo posto!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_114A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Cinque anni fa ho commesso l'errore di non assicurarmi della sua morte a Baikonur."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_115A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Sicuro di pensare con la tua testa?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_116A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Che importa? Quel figlio di puttana deve morire, una volta per tutte."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_116A_MASO_M_S
+LANG_ENGLISH        "^1MASON: ^7Che importa? Quel figlio di puttana deve morire, una volta per tutte."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S02_117A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Vattene, Weaver... Qui finiamo noi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_118A_MASO
+LANG_ENGLISH        "^1MASON: ^7Hudson... Vedi le boe?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_119A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Devono trasmettere dalla superficie... Ecco perché non abbiamo mai trovato la sorgente."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_120A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7La struttura sotto di noi... non è solo una trasmittente."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_121A_MASO
+LANG_ENGLISH        "^1MASON: ^7È una stazione di rifornimenti per la flotta di sottomarini sovietici... "
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_122A_MASO
+LANG_ENGLISH        "^1MASON: ^7Faceva parte del piano di Dragovich per invaderci... dopo aver liberato la Nova 6."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_123A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sgancia i pesi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_124A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Di qua."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_125A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Hanno iniziato ad attaccare!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_126A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Weaver! Che succede?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_127A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Merda!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_128A_MASO
+LANG_ENGLISH        "^1MASON: ^7È tardi per tirarsi indietro: muoviti!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_129A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Strada senza uscita!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_130A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Davanti è tutto allagato. Ci toccherà nuotare."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_131A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Pronto?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_132A_MASO
+LANG_ENGLISH        "^1MASON: ^7Pronto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_300A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, di qua! C'è un'altra vasca."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_301A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, sbrigati! Le bombe colpiranno da un momento all'altro!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_302A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Forza, Mason! Dobbiamo sbrigarci!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S03_303A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dobbiamo trovare Dragovich, prima che ci facciano crollare tutto addosso!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_133A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Su per la scala."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_134A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7DRAGOVICH!!!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_135A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason! Spara!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_136A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7Tu... Sei un buono a nulla."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_137A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7Potevi essere il mio agente migliore... e tutto sarebbe stato più facile."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_138A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ma È facile."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_139A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ti ammazzerò!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_140A_MASO
+LANG_ENGLISH        "^1MASON: ^7Hai cercato di incasinarmi il cervello... e hai fallito!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_140A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Hai cercato di incasinarmi il cervello... e hai fallito!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_141A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7Tu non sei..."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_142A_MASO
+LANG_ENGLISH        "^1MASON: ^7Hai cercato di farmi rovinare da solo!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_143A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7...sicuro di nulla."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_144A_MASO
+LANG_ENGLISH        "^1MASON: ^7Hai tentato di farmi uccidere il mio presidente!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_145A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7Tentato? Perché pensi di non esserci riuscito?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_146A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason!!! Di qua."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_147A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Via, via, via!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_148A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Forza, Mason!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_149A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Mason."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_150A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7È finita... Abbiamo vinto."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_151A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Per ora..."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_200A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dobbiamo interrompere quella trasmissione, ora!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_400A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, sapevo che non ci avresti delusi."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_401A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Anche quando gli altri ti avevano dato per perso."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S04_402A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sapevo che non potevamo fidarci di te."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S05_200A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7Tentato? Chi ti dice che non ci siamo riusciti?"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S05_203A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ce l'hai fatta, Mason! Io non potevo e ci hai pensato tu! Ora vivi! C'è ancora tanto lavoro da fare."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_153A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Muoversi! Dobbiamo interrompere la trasmissione."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_153B_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dobbiamo interrompere la trasmissione."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_154A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Merda!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_154A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7Merda!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_155A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Forza, Mason!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_156A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Muoviti!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_157A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Seguimi!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_158A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, interrompi la trasmissione!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_159A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Qui cade tutto a pezzi!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_160A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragovich!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_161A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, vieni qui."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_162A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Il tempo sta per scadere!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_163A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason, dobbiamo muoverci!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_164A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Salta... ORA!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_165A_MASO
+LANG_ENGLISH        "^1MASON: ^7DRAGOVICH!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_166A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ci hanno agganciati!!!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_167A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7MERDA! CI HANNO COLPITI!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_167A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7CI HANNO COLPITI!!!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_168A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Abbandonare l'elicottero! Salta! VIA! VIA! VIA!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_169A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Squadra Yankee, abbiamo il contatto visivo. Iniziamo l'attacco."
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_170A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Hind nemico! Manovra evasiva!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_171A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Abbattete quell'Hind!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_172A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Yankee two: sparare sull'Hind!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_173A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Continuare così!"
+
+REFERENCE           UNDERWATERBASE_VOX_UND1_S99_174A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Così non dureremo a lungo! Mason, portaci all'eliscalo!"
+
+ENDMARKER

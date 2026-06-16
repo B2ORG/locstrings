@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "Raggiungi l'Armata Rossa"
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Sangue e ferro'"
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Avanza verso Seelow"
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Distruggi i carri superstiti"
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Petrenko"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Alture di Seelow, Germania"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "Assalto alla città"
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "3a armata Shock"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "16 aprile 1945"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "Impadronisciti del carro Tiger"
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Distruggi i carri Panther in arrivo"
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Elimina i carri nemici intorno al treno"
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "Neutralizza tutta l'artiglieria nemica (ancora &&1)"
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "Prosegui verso la torre radio"
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "Distruggi la torre radio"
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Avanza verso Seelow usando il Tiger"
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "Spezza la linea tedesca e raggiungi la stazione ferroviaria"
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "Effettua una ricognizione in cerca di nemici in ritirata"
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "Distruggi i rifornimenti di carburante"
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "Mirino (ADS) per mirare obiettivi lontani"
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "Premi [{+frag}] per usare il lanciafiamme"
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "Premi [{+frag}] per usare la mitragliatrice"
+
+ENDMARKER

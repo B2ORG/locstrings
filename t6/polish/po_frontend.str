@@ -1,0 +1,457 @@
+// Dumped from fastfile "po_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Ludzie, na miłość boską, weźcie się do cholery w garść! Nie mam zamiaru przegrać tej walki i wy również nie."
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_POLISH         "Nadbrzeże"
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_POLISH         "Naciśnij ^3[{+actionslot 3}]^7, żeby wybrać misję."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Admirał na pokładzie!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_001A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Dowódca Mason jest proszony o zameldowanie się w sali narad."
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_POLISH         "Mapa grupy uderzeniowej dostępna"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_POLISH         "Dawidzie Mason, twoja obecność jest niezbędna w sali narad."
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby zatwierdzić wybraną misję."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Tak, panowie, Iran. Mamy wystarczająco dużo problemów, więc nie chcę, żeby Persja zaprzyjaźniła się z KSO."
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby skorzystać z grupy uderzeniowej."
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_POLISH         "Zgłoś się do sali narad"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Zatwierdzam i daje swoje pozwolenie."
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_POLISH         "Pozostałe jednostki do rozstawienia"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_POLISH         "Carrier"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Zatwierdzam i daje swoje cholerne pozwolenie."
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_POLISH         "Overflow"
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_POLISH         "Afganistan"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_040A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Problem polega na tym że CIA przechwyciło rozkaz zabójstwa, wydany przez samego Raula Menendeza."
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_POLISH         "Fabryka dronów"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_016A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Mamy problemy w Afganistanie. Rosyjski minister spraw zagranicznych przebywa w Kabulu i negocjuje traktat pokojowy z afgańskim prezydentem."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_011A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7W bazie Widmo znajduje się naddźwiękowy dron stealth - Dante 702. Jeśli stracimy bazę Widmo, to poleci również Pyongyang."
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_POLISH         "Socotra"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_POLISH         "Zagrożenie"
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_POLISH         "Wiadomość od adm. Briggsa"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_002A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Dziękuję, dowódco Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7OK, na razie udało nam się zabezpieczyć Iran. Nie wolno nam popełnić błędu. Jeśli to spieprzymy, to Kreml już wkrótce ugości Zhao wódką i kawiorem."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_003A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Godzinę temu, Teheran opublikował oświadczenie o przystąpieniu do KSO. Chiny panują teraz nad Bliskim Wschodem."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Tylko tego posłuchajcie. \"Przewodniczący\" Tian Zhao, chiński przywódca wojskowy, dowódca sił koalicji KSO. Ten lachociąg pogrywa sobie nawet z rządem Chin. Mają nad nim taką kontrolę, co my. On chadza własnymi drogami."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7OK, na razie udało nam się zabezpieczyć Iran. Nie wolno nam popełnić błędu. Jeśli to zawalimy, to Kreml już wkrótce ugości Zhao wódką i kawiorem."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Dobra... Dobra... Idziemy łeb w łeb, jasne? Ale musimy załatwić tych sukinsynów. Dorwiemy ich, jeśli zabierzemy im jeszcze jedno terytorium."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_005A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jeśli Rosja podda się i dołączy do KSO, to powstanie największa siła militarna na naszej planecie. Właśnie tego pragnie Menendez, chce, żeby superpotęgi zniszczyły się nawzajem."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Tylko tego posłuchajcie. \"Przewodniczący\", Tian Zhao, chiński przywódca wojskowy, stojący na czele sił koalicji KSO. On pogrywa sobie nawet z rządem Chin. Mają nad nim taką kontrolę, co my. On chadza własnymi drogami."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_028A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Ten mądrala może być naszą jedyną nadzieją na poznanie tajemnic tego urządzenia celerium. Ruszajcie po niego."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Coś podobnego, przewodniczący Zhao właśnie przysłał mi swoją ofertę. Ten lachociąg szuka nowej pracy!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Przewodniczący Zhao trzyma Ruskich za jaja z całej siły. Dowódco."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Coś podobnego, przewodniczący Zhao właśnie przysłał mi swoją ofertę. Zaczął szukać nowej pracy!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_014A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Będzie wam towarzyszyć ASD. Nie mamy zamiaru ryzykować, więc tym razem nie będzie operacji naziemnej. Tylko drony i oko na niebie."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Przewodniczący Zhao trzyma Ruskich w garści. Dowódco."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Iran i Indie są zagrożone. KSO wykonuje swój ruch. Czas, żeby do akcji wkroczyło JSOC."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_011A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Baza Widmo pełni istotną rolę w obronie północnej granicy Indii. Przeprowadzenie szybkiej operacji będzie możliwe tylko dzięki skokowi HALO."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Do cholery, co za kurewski bałagan. KSO szykuje się do zajęcia Iranu i zbiera swoje siły przy granicy z Indiami."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Możesz się założyć o lewe..., że przewodniczący Zhao ogląda właśnie swój apartament w New Dehli."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_014A_FOB_D
+LANG_POLISH         "^1Dowódca: ^7Ich pierwszy atak zupełnie nas zaskoczył i zniszczył pierwszą linię obrony. Pomimo to, udało nam się odeprzeć natarcie. Jednak straty, które ponieśliśmy, nie pozwolą nam na odparcie kolejnego ataku."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_015A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Czy to było KSO, dowódco?"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_030A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Przekaz satelitarny pokazuje, że żołnierze KSO zaatakowali północną granicę Indii."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_009A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7W obliczu zagrożenia, miejsce, w którym odbędzie się szczyt, zostało przeniesione do Maidan Shahr, 50 mil na zachód od Kabulu."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_016A_FOB_D
+LANG_POLISH         "^1Dowódca: ^7Zaatakowały nas jednostki piechoty oraz drony..."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_020A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jeśli tak się stanie, to stracimy bazę Widmo, a sezon polowania na Indie zostanie rozpoczęty."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_019A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Głównym celem nieprzyjaciela będzie zniszczenie generatorów zasilania oraz urządzeń łączności satelitarnej. Jeśli one padną, nic nie powstrzyma wroga przed dostaniem się do głównej sterowni."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ten frachtowiec jest uzbrojony w naddźwiękowe pociski Dong-Feng. Bez problemu osiągają prędkość Mach 7. Pojedynczy pocisk może zniszczyć dowolny lotniskowiec, nawet Obamę."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Jeszcze nie widziałem tak beznadziejnie przeprowadzonej misji. Mason, weź się w garść."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Pociski zostaną dostarczone na niszczyciele, które są pokryte nanorurkami węglowymi, dzięki czemu są niewidzialne dla naszych satelitów. To dlatego Harper musiał zdobyć te zdjęcia w tradycyjny sposób! KSO chce ich użyć do zaatakowania Iranu."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wasze przenośne moduł hakujące pozwolą na przeprogramowanie ich systemów celowniczych, dzięki czemu te bronie zaczną niszczyć się same."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Tak, panowie, Iran. Mam wystarczająco dużo problemów, więc nie chcę, żeby Persja skurwiła się z KSO."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Główną siłą defensywną terminalu Keppel jest pojedynczy pocisk Dong-Feng, znajdujący się w głównym węźle."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_005A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zostaniecie uzbrojeni w ładunki wybuchowe HPM. W momencie wybuchu emitują mikrofale, które zakłócają system naprowadzania pocisku."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Na wschodniej i zachodniej granicy znajdują się lasery na swobodnych elektronach. Wiązka o wysokiej energii może zniszczyć wszelkie pociski bliskiego zasięgu. Musimy zniszczyć tę broń, żeby zaatakować frachtowiec."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Na... litość... weźcie się... w garść, ludzie! Nie mam zamiaru przegrać tej wojny... i wy również nie."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_008A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Po zniszczeniu ich obrony, możecie wezwać Krakena i wtedy zaatakujemy frachtowiec z powietrza."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_010A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Będziemy osłaniać konwój rządowy. W razie jakichkolwiek problemów możecie od razu przystąpić do ataku."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Użyj quadów do rozpoznania z powietrza. Te ptaszki będą ci potrzebne, bo te sukinsyny okopały się w tych górach."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_S
+LANG_POLISH         "^1Sekcja: ^7Użyj quadów do rozpoznania z powietrza. Te ptaszki będą ci potrzebne, bo te sukinsyny okopały się w tych górach."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kraken będzie śledził każdy wasz ruch i będzie gotowy ze wsparciem powietrznym."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Założę się o własną dupę, że daliśmy nieźle popalić tym palantom. Dobra, dobra, na razie złapmy chwilę oddechu."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Założę się o... że daliśmy im... popalić. Dobra, dobra. Na razie złapmy chwilę oddechu."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Dzięki Bogu, że udało ci się ocalić wczoraj Widmo. Inaczej już byśmy zasuwali po mandaryńsku. Pieprzyć to... mogło być gorzej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Całe szczęście, że udało się ocalić Widmo. Inaczej już byśmy zasuwali po mandaryńsku. Pewnie mogło być gorzej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Co za przeklęty bałagan. KSO szykuje się do zajęcia Iranu i zbiera swoje siły przy granicy z Indiami."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Możesz się założyć o lewe jajo, że przewodniczący Zhao ogląda właśnie swój apartament w New Dehli."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_M
+LANG_POLISH         "^1Adm Briggs: ^7Czy ty sobie, kurwa, żartujesz? Straciliśmy Bliski Wschód! Afgański rząd ma zginąć, a KSO się opierdala! "
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Czy ty sobie żartujesz? Straciliśmy Bliski Wschód! Afgański rząd ma zginąć, a KSO nic nie robi!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Do kurwy nędzy, weźcie się wreszcie się w garść i posprzątajcie ten bałagan!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_003A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Ten pomyleniec szykuje swoich ludzi do ataku na Rosję. Chiny utraciły nad nim kontrolę i zwróciły się do nas z prośbą o pomoc."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Weźcie się wreszcie się w garść i posprzątajcie ten bałagan!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Słuchajcie, niewiele nasz dzieli od przegranej. Musimy się do cholery pozbierać i jakoś z tego wyjść."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Słuchajcie, niewiele nasz dzieli od przegranej. Musimy się pozbierać i jakoś z tego wyjść."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Cholera, jesteśmy na najlepszej drodze do pieprzonej katastrofy. Zabezpieczyliśmy zaledwie jedno terytorium, a KSO wcina sobie nasz lunch."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Jesteśmy na najlepszej drodze do katastrofy. Zabezpieczyliśmy zaledwie jedno terytorium, a KSO wcina sobie nasz lunch."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_005A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Teraz jesteśmy winni naszemu dowódcy znacznie więcej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_039A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jesteśmy JSOC Navy Seals. Pamiętajcie, ile wysiłku kosztowało, żebyśmy się tu znaleźli, i który kraj przegra, jeśli zawiedziemy."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Dobra... Dobra... Idziemy łeb w łeb, jasne? Ale musimy załatwić tych... Dorwiemy ich, jeśli zabierzemy im jeszcze jedno terytorium."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_S
+LANG_POLISH         "^1Harper: ^7Nie żartuj, Sekcjo. Tego dnia pływałem zbyt blisko rekinów."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_007A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Jest dobrze, ludzie. Ale bez szaleństw. Zachowajcie zimną krew. To jeszcze nie koniec."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_008A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Rosyjski minister spraw zagranicznych właśnie ogłosił publicznie, że uważa KSO za zagrożenie dla pokoju i stabilności całego cywilizowanego świata! Gdyby go dziś załatwili w Afganistanie, to świat wyglądałby zupełnie inaczej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_009A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7To jest początek końca KSO. Trzymajcie tak dalej, a będzie po nich."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Godzinę temu, agent Farid, działający w Jemenie, zdobył informację, że w jednej z lokalnych wiosek jest przetrzymywany jeden z najlepszych ekspertów w dziedzinie technologii wykorzystania celerium."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_013A_BRIG_D
+LANG_POLISH         "^1Sekcja: ^7Mózgi siedzące na dole nie mają pojęcia, jak się dobrać do urządzenia celerium, które zdobyliśmy w Birmie. Ten naukowiec może być naszą jedyną nadzieją."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_021A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nasz HVI jest przetrzymywany, gdzieś w górach Haghier, na północno-zachodnim półwyspie Sokotry."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_022A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Może się znajdować w jednym z tych obiektów. Na pewno jest tam pełno nieprzyjaciół."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7To typowa akcja ekstrakcji. Macie to do cholery załatwić jak najszybciej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7To typowa akcja ekstrakcji. Macie to załatwić jak najszybciej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_024A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kiedy już pokonacie klif, pokryjemy to miejsce gazem łzawiącym."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_025A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Przeszukać obszar i odnaleźć HVI. Macie zajrzeć do każdej dziury."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_026A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Kiedy już znajdziecie się na miejscu, wezwijcie Krakena, a dowódca Mason zajmie się ewakuacją."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_027A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jasne, admirale. Kiedy otrzymam sygnał, macie tam siedzieć, dopóki się nie pojawię."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_001A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Tak, tak, tak... Jak już wiecie, wczoraj Rosja oficjalnie potępiła KSO i udzieliła pełnego poparcia siłom zbrojnym Stanów Zjednoczonych Ameryki."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Ach! Nie spieprzcie tego, chłopcy! Musimy się dostać do Prom."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Ach! Nie... tego, chłopcy! Musimy się dostać do Prom."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_004A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Pięć minut temu rozmawiałem z panią prezydent. Zatwierdziła operację. Mamy go załatwić."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_011A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zabicie Zhao pokrzyżuje plany Menendeza, który chciałby doprowadzić do otwartego starcia pomiędzy Ameryką i KSO."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zhao poleci do Peszawaru jutro, około szesnastej. Zrobimy to standardowo. Namierzymy samolot VTOL Zhao i go załatwimy. Do dyspozycji masz cały pluton."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Właśnie otrzymaliśmy informację, że Zhao będzie jutro popołudniu przelatywał w pobliżu Islamabadu. Nie znamy dokładnego miejsca, dlatego zostaniecie podzieleni na czteroosobowe drużyny. Zrobimy to standardowo. Namierzymy samolot VTOL Zhao i go załatwimy. Nie możecie zawieść."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Powodzenia, dowódco. Musimy dorwać Zhao, zanim KSO zajmie Moskwę. Jeśli to spieprzysz, to nasza przewaga militarna pozostanie jedynie wspomnieniem."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Powodzenia, dowódco. Musimy dorwać Zhao, zanim KSO zajmie Moskwę. Jeśli to..., to nasza przewaga militarna pozostanie jedynie wspomnieniem."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_002A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Mason, czekamy na ciebie w sali narad."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_003A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Dowódca Mason jest proszony o natychmiastowe zameldowanie się w sali narad."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_004A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Mason, twoja drużyna jest przygotowana do odprawy."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_005A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Mason, przestań marnować czas. Natychmiast zgłoś się do sali narad."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_006A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Dowódco, proszę się zameldować w sali narad. To rozkaz."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_007A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Mason! Przestań się obijać i zasuwaj do sali narad."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_008A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Doskonale, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_009A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Wiedziałem, że mogę na tobie polegać, dowódco."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Znakomicie się spisałeś, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Świetnie się spisałeś, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7To mi się właśnie podoba. Zgodnie z pieprzonymi zasadami."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7To mi się właśnie podoba. Zgodnie z zasadami."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Tak to się do cholery robi. Świetnie, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Tak to się robi. Świetnie, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_013A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7To się nadaje do podręcznika, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Co to miało być, do kurwy nędzy, Mason? Spodziewałem się czegoś więcej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Co to miało być, Mason? Spodziewałem się czegoś więcej."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Jeszcze nie widziałem tak beznadziejnie przeprowadzonej misji. Mason, do cholery, weź się w garść."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7To była wyjątkowo kurewska porażka na całej zasranej linii."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7To była wyjątkowa porażka na całej linii."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Do cholery, co się tam stało? Skup się na swojej robocie synu."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Co się tam stało? Skup się na swojej robocie synu."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_018A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Później sobie porozmawiamy o tej porażce, Mason."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_014A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jak już admirał wspominał, nie możemy wysłać naszych odrzutowców... Dlatego użyjemy ich własnych."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Jestem rozczarowany i wkurwiony... Wiesz, że to wybuchowe połączenie."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Jestem rozczarowany i wkurzony... Wiesz, że to wybuchowe połączenie."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Te niszczyciele klasy Sowremiennyj są pokryte nanorurkami węglowymi, dzięki czemu są niewidzialne dla naszych satelitów. To dlatego Harper musiał zdobyć te zdjęcia w tradycyjny sposób!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_M
+LANG_POLISH         "^1Harper: ^7Bez jaj, Sekcjo. Tego dnia pływałem zbyt blisko rekinów."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_009A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Te rekiny posiadają ASAT..."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_010A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7...i teraz płyną po Morzu Arabskim, dysponując siłą rażenia umożliwiającą zniszczenie połowy satelitów."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Po znalezieniu się na pokładzie, waszym głównym zadaniem będzie unieruchomienie lotniskowca."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Sterują tam wszystkim automatycznymi systemami obrony. Przejmiecie kontrolę nad ASD, a następnie zniszczycie silniki okrętu oraz układ zasilania."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wystartujecie tymi samolotami VTOL z pokładu i zniszczycie całą flotę. Jasne?"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_017A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7A poza tym... jest jeszcze flota... kierująca się w stronę Indii."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Ten dupek, Zhao, jedzie po całości. Może i na pewno skorzysta ze wszystkich dostępnych zasobów. Nie możemy stracić Indii."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Ten... Zhao, jedzie po całości. Może i na pewno skorzysta ze wszystkich dostępnych zasobów. Nie możemy stracić Indii."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_010A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Baza Widmo w Północnej Korei została zaatakowana i poprosiła nas o pomoc. Nieprzyjaciel ma przewagę 10 do 1. Nie mamy szczegółowych danych o wrogu, ale wygląda to na robotę KSO."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Baza jest osłaniana przez te stanowiska. Nieprzyjaciel za cholerę nic nie zrobi, dopóki nie zniszczy tych stanowisk."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Baza jest osłaniana przez stanowiska ogniowe. Nieprzyjaciel nic nie zrobi, dopóki nie zniszczy tych stanowisk."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_018A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Działka są połączone są kontrolowane z głównej sterowni. Impuls elektromagnetyczny może narazić całą bazę na niebezpieczeństwo."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_019A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Te drony nie mają żadnych szans. Nie można ich użyć, dopóki trwa atak. Wystrzelaliby je jak kaczki. Za wszelką cenę trzeba osłonić nasze drony."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_020A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Nasze skarby znajdują się w tym magazynie. Jeśli zniszczą Dante 702, to bez żadnego problemu będą kontrolować przestrzeń powietrzną nad Pyongyang."
+
+REFERENCE           UIPLS_PLAYLIST_CATEGORY_NOTVISIBLE
+LANG_POLISH         "TAJNE"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE
+LANG_POLISH         "TAJNE"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_DESC
+LANG_POLISH         "Ta mapa zawiera TAJNE materiały. Wymagany wyższy poziom uprawnień."
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_CAPS
+LANG_POLISH         "Ta mapa zawiera TAJNE materiały. Wymagany wyższy poziom uprawnień."
+
+ENDMARKER

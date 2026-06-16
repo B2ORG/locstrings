@@ -1,0 +1,487 @@
+// Dumped from fastfile "it_wmd_sr71".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WMD_SR71_BARRACKS
+LANG_ENGLISH        "Caserma"
+
+REFERENCE           WMD_SR71_CLEAR
+LANG_ENGLISH        "Ripulisci"
+
+REFERENCE           WMD_SR71_CLEAR_BARRACKS
+LANG_ENGLISH        "Ripulisci la caserma"
+
+REFERENCE           WMD_SR71_COPILOT_NAME
+LANG_ENGLISH        "Maggiore Thomas"
+
+REFERENCE           WMD_SR71_COVER
+LANG_ENGLISH        "Copertura"
+
+REFERENCE           WMD_SR71_DESTROY
+LANG_ENGLISH        "Fai esplodere."
+
+REFERENCE           WMD_SR71_DESTROY_COMMS
+LANG_ENGLISH        "Distruggi le comunicazioni interne"
+
+REFERENCE           WMD_SR71_DETONATE
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per far esplodere"
+
+REFERENCE           WMD_SR71_ELIMINATE_ENEMIES
+LANG_ENGLISH        "Elimina"
+
+REFERENCE           WMD_SR71_ENEMY_LOCATION
+LANG_ENGLISH        "Posizione nemica"
+
+REFERENCE           WMD_SR71_EVADE_CONVOY
+LANG_ENGLISH        "Guida Kilo One fino al rifugio."
+
+REFERENCE           WMD_SR71_EXIT_SR71
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per uscire"
+
+REFERENCE           WMD_SR71_FIND_COVER
+LANG_ENGLISH        "Raggruppa la squadra sul crinale"
+
+REFERENCE           WMD_SR71_FIRE_THRUSTERS
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per accendere i motori"
+
+REFERENCE           WMD_SR71_GET_TO_BARRACKS
+LANG_ENGLISH        "Ripulisci la caserma e interrompi le comunicazioni"
+
+REFERENCE           WMD_SR71_GUIDE_KILO_TO_INSERTION_POINT
+LANG_ENGLISH        "Guida Kilo One fino al punto d'infiltrazione"
+
+REFERENCE           WMD_SR71_HELP_EVADE_PATROL
+LANG_ENGLISH        "Proteggi Kilo One da "
+
+REFERENCE           WMD_SR71_INSERTION_POINT
+LANG_ENGLISH        "Punto d'infiltrazione"
+
+REFERENCE           WMD_SR71_INTRO_DATE
+LANG_ENGLISH        "^C1Base aerea di Beale, California^C"
+
+REFERENCE           WMD_SR71_INTRO_EXTRA
+LANG_ENGLISH        "^LBlackbird di supporto in movimento, nome in codice: BIGEYE^L"
+
+REFERENCE           WMD_SR71_INTRO_LEVELNAME
+LANG_ENGLISH        "^LTrasmissione n° 9-19. Destinatario: SIERRA^L"
+
+REFERENCE           WMD_SR71_INTRO_LOCATION
+LANG_ENGLISH        "^LOre 05:00,^L ^C18 febbraio 1968^C"
+
+REFERENCE           WMD_SR71_INTRO_NAME
+LANG_ENGLISH        "^LCapo dell'operazione^L ^C1Capitano Mosely^C"
+
+REFERENCE           WMD_SR71_JEEP_ENEMIES
+LANG_ENGLISH        "Elimina i nemici vicino alla jeep"
+
+REFERENCE           WMD_SR71_KILLED_BY_HIT_BY_VEHICLE
+LANG_ENGLISH        "Tieni la squadra lontano dalla strada per evitare che i veicoli la investano."
+
+REFERENCE           WMD_SR71_KILLED_BY_PATROLLER
+LANG_ENGLISH        "Ordina alla squadra di trincerarsi per evitare la pattuglia."
+
+REFERENCE           WMD_SR71_KILLED_BY_VEHICLE
+LANG_ENGLISH        "Ordina alla squadra di trincerarsi per evitare il convoglio."
+
+REFERENCE           WMD_SR71_LIFTOFF
+LANG_ENGLISH        "Muovi ^3[{+movestick}]^7 in giù per decollare"
+
+REFERENCE           WMD_SR71_LOCATE_SQUAD
+LANG_ENGLISH        "Trova Kilo One"
+
+REFERENCE           WMD_SR71_MARK_TARGET
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per segnalare la posizione nemica"
+
+REFERENCE           WMD_SR71_MOVE_CAMERA
+LANG_ENGLISH        "Usa ^3[{+lookstick}]^7 per controllare la visuale"
+
+REFERENCE           WMD_SR71_MOVE_EAST
+LANG_ENGLISH        "Muovi la squadra a est"
+
+REFERENCE           WMD_SR71_MOVE_OFFROAD
+LANG_ENGLISH        "Porta Kilo One al sicuro"
+
+REFERENCE           WMD_SR71_MOVE_SQUAD
+LANG_ENGLISH        "Premi ^3[{+gostand}]^7 per dare ordini alla squadra"
+
+REFERENCE           WMD_SR71_OBJ_SUPPORT
+LANG_ENGLISH        "Supporto"
+
+REFERENCE           WMD_SR71_PLANT
+LANG_ENGLISH        "Piazza gli esplosivi"
+
+REFERENCE           WMD_SR71_PLANT_EXPLOSIVE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per piazzare gli esplosivi"
+
+REFERENCE           WMD_SR71_PRONE_AVOID
+LANG_ENGLISH        "Premi ^3[{+melee}]^7 per ordinare alla squadra di trincerarsi"
+
+REFERENCE           WMD_SR71_REGROUP_POINT
+LANG_ENGLISH        "Raggruppati"
+
+REFERENCE           WMD_SR71_SAFE_SPOT
+LANG_ENGLISH        "rifugio"
+
+REFERENCE           WMD_SR71_SQUAD_LABEL
+LANG_ENGLISH        "Kilo One"
+
+REFERENCE           WMD_SR71_TARGET_ENEMY
+LANG_ENGLISH        "Ordina alla squadra di eliminare le guardie."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_001A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7K.A.D, qui BigEye 6. Richiediamo autorizzazione al decollo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_006A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7BigEye 6, potete decollare."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_007A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, K.A.D. Decolliamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_008A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Controllo sistemi ultimato. Energia per il decollo... pronta. Potete decollare, signore."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_009A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_010A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7K.A.D., ci muoviamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_011A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_012A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7V-1. Alzare il muso."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_013A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7V-1 fatto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_014A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7E... acquistiamo velocità."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_015A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Dentro il carrello."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_016A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Carrello rientrato."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_017A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7K.A.D., qui BigEye. Siamo partiti."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_032A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Affermativo. Li vedo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_034A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo One, qui BigEye 6. Siete sul nostro TRP."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_037A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, andate a nord."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_038A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, andiamo a nord."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_039A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, proseguite verso nord."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_040A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, ci muoviamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_041A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, andate a nord. Passo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_042A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Intesi, andiamo a nord."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_043A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7A sud, Kilo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_044A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_045A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Coordinate a sud segnate."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_046A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, andiamo a sud."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_047A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, andate a sud."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_048A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Andiamo, passo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_049A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, dovete andare a est."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_050A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Siamo in marcia."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_051A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Andate a est."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_052A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_053A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, andate a est."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_054A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_055A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Andate a ovest, Kilo one."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_056A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Andiamo a ovest, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_057A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, dovete andare a ovest."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_058A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto. Ci muoviamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_059A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, andate a ovest."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_060A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_062A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto. Attacchiamo il bersaglio."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_064A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto. Lo elimino."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_065A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Due bersagli avvistati. Uccideteli."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_066A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_067A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, ho due bersagli sul Tac. Eliminateli."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_068A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_069A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Tre nemici a portata di tiro. Eliminateli."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_070A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto. Stabiliamo il contatto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_071A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Contatto. Tre bersagli. Fateli fuori."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_072A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7D'accordo, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_073A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Contatti multipli in vista. Fuoco a volontà."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_074A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_075A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Bersagli multipli. Attaccate il nemico."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_076A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto. Ci muoviamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_077A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, avete compagnia. Sbarazzatevene."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_078A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Bene. Sarà fatto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_079A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Veicolo in movimento sul Tac. È un camion. Distruggetelo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_080A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto. Distruggiamo il camion."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_081A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Veicolo in arrivo. Sembra una jeep."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_082A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7La vediamo. Attacchiamo il contatto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_083A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Veicoli nemici a portata. Fermateli."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_084A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye. Attendete."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_102A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_106A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7BigEye, ci muoviamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_112A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Subito."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_115A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, fermi dove siete."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_116A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Restiamo in posizione."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_117A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ottimo lavoro, Kilo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_118A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, potete andare."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_119A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7L'area è sicura. Ottimo lavoro."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_120A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ora siete al sicuro. Bel lavoro."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_121A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Siete stati grandi."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_122A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Obiettivo raggiunto."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_123A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Bel lavoro, Kilo One."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_124A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ottimo lavoro. Ci muoviamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_125A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Area libera. Bravissimi."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_127A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricognitore Tac, veicoli nemici in avvicinamento. Allontanatevi dalla strada."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_134A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Copilota, bersagli multipli sulla strada! Fai allontanare Kilo da lì!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_135A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, nemici in avvicinamento. Dovete sparire immediatamente!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_136A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7A terra! A terra!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_356A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Copilota, usa l'indicatore di bersaglio per trovare Kilo One sul tac."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_358A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7C'è una struttura, a nord. Falli entrare, copilota."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_365A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Stanno passando vicino alla casa."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_366A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7No, aspetta! Il nemico si è fermato davanti alla casa."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_367A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Il nemico sta entrando. Uscite dal retro e riparatevi sulla scogliera dietro la struttura. Posizione segnata sul tac. Andate."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_368A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Veicolo nemico più avanti, sul lato della strada. È sul tac. Muoversi."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_400A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7BigEye 6, autorizzato al decollo dalla pista 4."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_401A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7K.A.D., confermare il rifornimento con KC-135 nel settore Bravo Six Niner."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_402A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Affermativo, BigEye 6. KC-135 è nel settore. Vi aspetta lì."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_403A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye 6. A terra abbiamo visibilità zero. Dovrete guidarci fino al ripetitore."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_404A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Fanteria nemica in arrivo. Fatela fuori."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_405A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo One, la strada scotta. Uscite dal retro dell'edificio."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_406A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, Kilo One."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_407A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, Kilo One."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_408A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, due bersagli si dirigono verso di voi."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_409A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Fateli fuori!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_410A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ottimo lavoro. Muovetevi."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_411B_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Copilota, grossa pattuglia in avvicinamento."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_413A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Confermato, Kilo One. Siete fuori dal campo visivo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_414A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ottimo lavoro. Muovetevi."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_415A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, Kilo One."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_416A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Raggiungete la caserma. Il primo obiettivo è all'interno."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_417A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye. Ci raggruppiamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_418A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Vi avvicinate alla caserma. Bersagli all'interno. Entrate e ripulite, Kilo One."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_419A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Comunicazioni interne interrotte. La base è al buio. Raggiungiamo il secondo obiettivo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_420A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, Kilo One."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_421A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo One, fanteria in avvicinamento. Rileviamo almeno sei bersagli. È troppo pericoloso."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_422A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Fermi dove siete e occultatevi."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_423A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye... ci nascondiamo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_424A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7K.A.D., Kilo One neutralizzato."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_425A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo One? Rispondete, Kilo One."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_426A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7K.A.D., Kilo One è andata."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_503A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Controlla il tuo indicatore di bersaglio."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_504A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, copilota."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_505A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Controdine, copilota."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_506A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S99_813A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Flashbang!"
+
+REFERENCE           WMD_SR71_ZOOM_IN
+LANG_ENGLISH        "Premi ^3[{+speed_throw}]^7 per avvicinare la visuale"
+
+REFERENCE           WMD_SR71_ZOOM_OUT
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per allontanare la visuale"
+
+ENDMARKER

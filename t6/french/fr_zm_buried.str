@@ -1,0 +1,166 @@
+// Dumped from fastfile "fr_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour utiliser le levier"
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_FRENCH         "Appuyez sur ^3[{+actionslot 1}]^7 pour équiper le Propulseur"
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_FRENCH         "Guillotine"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la silhouette du Remington 870 MCS"
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural AN-94."
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_FRENCH         "Propulseur"
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural Poing taser."
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la Guillotine"
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_FRENCH         "Appuyez sur ^3[{+actionslot 1}]^7 pour équiper la Guillotine"
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural Semtex."
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_FRENCH         "Résonateur sous-marin"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural MP5."
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ouvrir"
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour le Résonateur sous-marin"
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_FRENCH         "Appuyez sur ^3[{+actionslot 1}]^7 pour équiper le Résonateur sous-marin"
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour utiliser le Bouton"
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour le Propulseur"
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour donner un remontant"
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la clé"
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour un remontant"
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_FRENCH         "Maintenez [{+activate}] pour un bonbon"
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour un remontant [Coût : &&1]"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_FRENCH         "Donne..."
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural Colt M16A1."
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_FRENCH         "Débloque..."
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_FRENCH         "Recherche en cours..."
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour donner un bonbon"
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la silhouette du AK74u"
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour un bonbon [Coût : &&1]"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la pièce."
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_FRENCH         "Dessin en cours..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour personnaliser la craie du contour mural"
+
+REFERENCE           ZM_BURIED_WB
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour &&1 Craie"
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural AK74u."
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour faire un voeu."
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural B23R."
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural PDW-57."
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural SVU-AS."
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural M14."
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural Lance-roquettes."
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la silhouette du SVU-AS"
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural Couteau de chasse."
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural Claymore."
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour dessiner le contour mural Remington 870 MCS."
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la silhouette du AN-94"
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la silhouette du PDW-57"
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour utiliser la clochette"
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour la silhouette du Poing taser"
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ramasser la Lanterne."
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour donner un pourboire [Coût : &&1]"
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fouiller"
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_FRENCH         "Vous avez trouvé un interrupteur"
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_FRENCH         "Vous n'avez rien trouvé..."
+
+ENDMARKER

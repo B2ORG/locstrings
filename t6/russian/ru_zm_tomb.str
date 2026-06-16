@@ -1,0 +1,244 @@
+// Dumped from fastfile "ru_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_RUSSIAN        "Нажмите [{+actionslot 1}] или [{+actionslot 2}] чтобы сменить предмет."
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_RUSSIAN        "Вы уже несете часть."
+
+REFERENCE           ZM_TOMB_BOA
+LANG_RUSSIAN        "Вы получили Посох Ветра"
+
+REFERENCE           ZM_TOMB_BOF
+LANG_RUSSIAN        "Вы получили Посох Огня"
+
+REFERENCE           ZM_TOMB_BOL
+LANG_RUSSIAN        "Вы получили Посох Молний"
+
+REFERENCE           ZM_TOMB_BOR
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Громоотвод"
+
+REFERENCE           ZM_TOMB_BOW
+LANG_RUSSIAN        "Вы получили Посох Льда"
+
+REFERENCE           ZM_TOMB_CAP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы запитать помещение генератором 115 [Цена: &&1]"
+
+REFERENCE           ZM_TOMB_CH1
+LANG_RUSSIAN        "Сделайте 115 хэдшотов нормальным зомби"
+
+REFERENCE           ZM_TOMB_CH2
+LANG_RUSSIAN        "Захватите 6 генераторов"
+
+REFERENCE           ZM_TOMB_CH3
+LANG_RUSSIAN        "Потратьте 30000 очков"
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять награду"
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть ящик"
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы выбрать эту награду"
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_RUSSIAN        "Взгляните на медаль чтобы посмотреть испытание"
+
+REFERENCE           ZM_TOMB_CHT
+LANG_RUSSIAN        "Заполните 4 сундука"
+
+REFERENCE           ZM_TOMB_CRA
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы изготовить Посох Ветра"
+
+REFERENCE           ZM_TOMB_CRB
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы собрать Приводной радиомаяк"
+
+REFERENCE           ZM_TOMB_CRF
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы изготовить Посох Огня"
+
+REFERENCE           ZM_TOMB_CRL
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы изготовить Посох Молний"
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы собрать Дрон Максис"
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы изготовить Зомби-щит"
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы собрать Громоотвод"
+
+REFERENCE           ZM_TOMB_CRS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы изготовить Посох"
+
+REFERENCE           ZM_TOMB_CRW
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы изготовить Посох Льда"
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы использовать Дрон Максис"
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Дрон Максис"
+
+REFERENCE           ZM_TOMB_EHT
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы выйти из головы робота"
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_RUSSIAN        "Части граммофона"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_RUSSIAN        "Граммофон должен быть в другом месте"
+
+REFERENCE           ZM_TOMB_INAS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вставить Посох Ветра"
+
+REFERENCE           ZM_TOMB_INFS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вставить Посох Огня"
+
+REFERENCE           ZM_TOMB_INLS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вставить Посох Молний"
+
+REFERENCE           ZM_TOMB_INS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вставить Кристалл элементов"
+
+REFERENCE           ZM_TOMB_INWS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вставить Посох Льда"
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы прослушать аудиожурнал"
+
+REFERENCE           ZM_TOMB_NS
+LANG_RUSSIAN        "Чтобы копать нужна лопата"
+
+REFERENCE           ZM_TOMB_OSO
+LANG_RUSSIAN        "Вы можете нести только один посох"
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы купить Однодюймовый удар [Цена: &&1]"
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы слушать пластинку"
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы положить табличку"
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы положить табличку"
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы поставить Граммофон"
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы катапультироваться"
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы чтобы поменять на Посох Ветра"
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять табличку\n"
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Табличку"
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы поменять на Посох Огня"
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Граммофон"
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы поменять на Посох Льда"
+
+REFERENCE           ZM_TOMB_PULS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы поменять на Посох Молний"
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_RUSSIAN        "Дрон Максис"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_RUSSIAN        "Дрон Максис уже используется"
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_RUSSIAN        "Защитите генераторы"
+
+REFERENCE           ZM_TOMB_RPB
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы купить Перко-колу [Цена: &&1]"
+
+REFERENCE           ZM_TOMB_RPE
+LANG_RUSSIAN        "Шар Вундершипучки сейчас в другом месте"
+
+REFERENCE           ZM_TOMB_RPP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы выпить Перко-колу"
+
+REFERENCE           ZM_TOMB_RPT
+LANG_RUSSIAN        "Вы можете нести не больше &&1 перков."
+
+REFERENCE           ZM_TOMB_RPU
+LANG_RUSSIAN        "Необходимо включить генератор"
+
+REFERENCE           ZM_TOMB_RU
+LANG_RUSSIAN        "Нет нужной пластинки"
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_RUSSIAN        "Вы можете нести только одну лопату"
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Лопату"
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_RUSSIAN        "Части посоха"
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Маячок"
+
+REFERENCE           ZM_TOMB_TELE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть Телепортер"
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть Телепортер [Цена: &&1]"
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_RUSSIAN        "Двигатель танка остывает"
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_RUSSIAN        "Танк двигается"
+
+REFERENCE           ZM_TOMB_TQ
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Дрон Максис"
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы активировать танк [Цена: &&1]"
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы активровать Танк"
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вызвать Танк [Цена: &&1]"
+
+REFERENCE           ZM_TOMB_X2D
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы копать"
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять &&1"
+
+REFERENCE           ZM_TOMB_ZC
+LANG_RUSSIAN        "Необходимо включить генератор"
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_RUSSIAN        "Конверсионный генератор 115 запускается!"
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_RUSSIAN        "Зомби-щит"
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Посох "
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_RUSSIAN        "Конверсионный генератор 115 атакован! "
+
+ENDMARKER

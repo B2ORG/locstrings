@@ -1,0 +1,115 @@
+// Dumped from fastfile "pby_fly".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           VEHICLENAME_CRUSADER_TANK
+LANG_ENGLISH        "크루세이더 전차"
+
+REFERENCE           PBY_FLY_OBJ_EV1
+LANG_ENGLISH        "일상적인 순찰을 계속하십시오."
+
+REFERENCE           PBY_FLY_TUT_INTRO
+LANG_ENGLISH        "PBY 포탑훈련에 오신 것을 환영합니다."
+
+REFERENCE           PBY_FLY_TUT_SWITCH
+LANG_ENGLISH        "포탑을 전환하려면 방향 패드를 사용하십시오."
+
+REFERENCE           PBY_FLY_INTROSCREEN_TITLE
+LANG_ENGLISH        "'블랙캣'"
+
+REFERENCE           PBY_FLY_INTROSCREEN_PLACE
+LANG_ENGLISH        "오키나와 남쪽"
+
+REFERENCE           PBY_FLY_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 4월 3일"
+
+REFERENCE           PBY_FLY_INTROSCREEN_NAME
+LANG_ENGLISH        "상병 로크"
+
+REFERENCE           VEHICLENAME_FLETCHER
+LANG_ENGLISH        "플레처급 구축함"
+
+REFERENCE           PBY_FLY_INTROSCREEN_INFO
+LANG_ENGLISH        "블랙캣 전대 VPB-54"
+
+REFERENCE           PBY_FLY_OBJ_EV2_PTBOATS
+LANG_ENGLISH        "일본군 초계정을 막으십시오.[&&1대 파괴됨]"
+
+REFERENCE           PBY_FLY_OBJ_EV2
+LANG_ENGLISH        "일본 상선을 파괴하십시오.[&&1대 남음]"
+
+REFERENCE           PBY_FLY_PBY_NAME_B
+LANG_ENGLISH        "해머헤드"
+
+REFERENCE           PBY_FLY_OBJ_EV3B
+LANG_ENGLISH        "함대의 구원 요청에 응답하십시오."
+
+REFERENCE           PBY_FLY_OBJ_EV3
+LANG_ENGLISH        "기지로 귀환하십시오."
+
+REFERENCE           VEHICLENAME_SHERMAN_TANK
+LANG_ENGLISH        "셔먼 전차"
+
+REFERENCE           PBY_FLY_OBJ_EV4
+LANG_ENGLISH        "모든 잠재적 생존자를 구출하십시오.[&&1명 구출됨]"
+
+REFERENCE           PBY_FLY_MERCHANT
+LANG_ENGLISH        "상선:"
+
+REFERENCE           PBY_FLY_SWITCH_FRONT
+LANG_ENGLISH        "기수쪽 포탑으로 전환하려면 [{+activate}]를 누르십시오."
+
+REFERENCE           PBY_FLY_SWITCH_RIGHT
+LANG_ENGLISH        "우측 포탑으로 전환하려면 [{+activate}]를 누르십시오."
+
+REFERENCE           PBY_FLY_OBJ_EV5
+LANG_ENGLISH        "하늘에서 일본군 제로기를 제거하십시오."
+
+REFERENCE           PBY_FLY_SWITCH_LEFT
+LANG_ENGLISH        "좌측 포탑으로 전환하려면 [{+activate}]를 누르십시오."
+
+REFERENCE           VEHICLENAME_ARMORED_CAR
+LANG_ENGLISH        "장갑차"
+
+REFERENCE           PBY_FLY_SWITCH_REAR
+LANG_ENGLISH        "배면 포탑으로 전환하려면 [{+activate}]를 누르십시오."
+
+REFERENCE           PBY_FLY_RESCUE
+LANG_ENGLISH        "생존자를 구출하려면 [{+activate}]를 누르십시오."
+
+REFERENCE           PBY_FLY_ADS_HINT
+LANG_ENGLISH        "조준기를 사용하려면 [{+speed_throw}]를 누르고 계십시오."
+
+REFERENCE           PBY_FLY_PBY_NAME_A
+LANG_ENGLISH        "만타레이"
+
+REFERENCE           PBY_FLY_PBY_SQUAD
+LANG_ENGLISH        "VPB 54 - 블랙캣"
+
+REFERENCE           PBY_FLY_SURVIVOR
+LANG_ENGLISH        "생존자:"
+
+REFERENCE           PBY_FLY_PTBOAT
+LANG_ENGLISH        "초계정:"
+
+REFERENCE           PBY_FLY_ZEROES
+LANG_ENGLISH        "제로:"
+
+REFERENCE           PBY_FLY_X
+LANG_ENGLISH        "x"
+
+REFERENCE           PBY_FLY_OBJ_EV3B_ZEROES
+LANG_ENGLISH        "일본군 제로기를 막으십시오.[&&1대 파괴됨]"
+
+REFERENCE           PBY_FLY_CANNON
+LANG_ENGLISH        "20mm 포를 발사하려면 [{+frag}]를 누르십시오."
+
+REFERENCE           VEHICLENAME_BUFFALO
+LANG_ENGLISH        "버팔로"
+
+REFERENCE           VEHICLENAME_T34_TANK
+LANG_ENGLISH        "T34 전차"
+
+ENDMARKER

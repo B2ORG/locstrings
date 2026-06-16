@@ -1,0 +1,970 @@
+// Dumped from fastfile "it_common_zombie".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PT_BACK_FOR_MAP
+LANG_ENGLISH        "Premi il pulsante BACK per visualizzare la mappa"
+
+REFERENCE           ZM_PT_DEATH_CARD
+LANG_ENGLISH        "Raccogli il tuo segnalatore morte per recuperare l'equipaggiamento perduto"
+
+REFERENCE           ZM_PT_ENTER_NML
+LANG_ENGLISH        "Prossima fermata: TERRA DI NESSUNO"
+
+REFERENCE           ZM_PT_MACHINES_ON
+LANG_ENGLISH        "Ora tutte le macchinette dei bonus sono in funzione"
+
+REFERENCE           ZM_PT_MONEY_DROP
+LANG_ENGLISH        "Premi il tasto D giù per lasciare denaro ai tuoi compagni"
+
+REFERENCE           ZM_PT_PISTOL_LOW_AMMO
+LANG_ENGLISH        "La tua pistola ha quasi esaurito le munizioni. Trova un'arma migliore."
+
+REFERENCE           ZM_PT_PLAYER_DOWN
+LANG_ENGLISH        "Uomo a terra, uomo a terra! Chiedi ai tuoi compagni di rianimarti"
+
+REFERENCE           ZM_PT_PLAYER_NEEDS_REVIVING
+LANG_ENGLISH        "Uno dei tuoi compagni è a terra e deve essere rianimato!"
+
+REFERENCE           ZM_PT_REINFORCEMENTS
+LANG_ENGLISH        "Premi il tasto D su per usare l'abilità speciale"
+
+REFERENCE           ZM_PT_REPAIR_BOARDS
+LANG_ENGLISH        "Ricostruisci le barriere alle finestre per rallentare gli zombi"
+
+REFERENCE           ZM_PT_SECRET_WEAPONS
+LANG_ENGLISH        "Alcune casse contengono armi segrete"
+
+REFERENCE           ZM_PT_UNLOCK_DOORS
+LANG_ENGLISH        "Apri le porte per esplorare nuove aree"
+
+REFERENCE           ZM_PT_WALL_WEAPONS
+LANG_ENGLISH        "Esamina le pareti per trovare armi migliori e munizioni"
+
+REFERENCE           ZM_PT_WEAPON_BOX
+LANG_ENGLISH        "Usa la mappa per trovare la scatola misteriosa"
+
+REFERENCE           ZM_PT_WEAPON_BOX2
+LANG_ENGLISH        "Usa la luce blu per trovare la scatola misteriosa"
+
+REFERENCE           ZM_PT_WHY_DONT_YOU_BUY_WEAPONS_PART1
+LANG_ENGLISH        "Devi migliorare la tua arma!"
+
+REFERENCE           ZM_PT_WHY_DONT_YOU_BUY_WEAPONS_PART2
+LANG_ENGLISH        "Ottieni armi migliori dalle pareti!"
+
+REFERENCE           ZM_PT_ZOMBIE_BREAKOUT
+LANG_ENGLISH        "ATTENZIONE! Invasione di zombi al Cosmodromo!"
+
+REFERENCE           ZOMBIE_ABILITY_AIRSTRIKE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Attacco aereo [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_AIRSTRIKE_USED
+LANG_ENGLISH        "Abilità Attacco aereo utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_ARTILLERY
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Artiglieria [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_ARTILLERY_USED
+LANG_ENGLISH        "Abilità Artiglieria utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_CLOAK
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Invisibilità [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_CLOAK_USED
+LANG_ENGLISH        "Abilità Invisibilità utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_DOGS
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Cani [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_DOGS_USED
+LANG_ENGLISH        "Abilità Cani utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_ENDURANCE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Bomba RC [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_ENDURANCE_USED
+LANG_ENGLISH        "Abilità Resistenza utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_HELI_USED
+LANG_ENGLISH        "Abilità Elicottero utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_HELICOPTER
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Elicottero [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_NAPALM
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Napalm [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_NAPALM_USED
+LANG_ENGLISH        "Abilità Napalm utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_PORTAL
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Portale [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_PORTAL_USED
+LANG_ENGLISH        "Abilità Portale utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_RCBOMB
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Bomba RC [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_RCCAR_USED
+LANG_ENGLISH        "Abilità Bomba radiocomandata utilizzata"
+
+REFERENCE           ZOMBIE_ABILITY_TIMEDISTORTION
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Distorsione temporale [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_TURRET
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Torretta [primo utilizzo: 500]\nAggiuntivo [costo: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_TURRET_USED
+LANG_ENGLISH        "Abilità Torretta utilizzata"
+
+REFERENCE           ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare il teletrasporto"
+
+REFERENCE           ZOMBIE_AIRSTRIKE_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Attacco aereo in arrivo vicino alla tua posizione"
+
+REFERENCE           ZOMBIE_AIRSTRIKE_NOT_AVAILABLE
+LANG_ENGLISH        "Attacco aereo non disponibile"
+
+REFERENCE           ZOMBIE_AK74U_UPGRADED
+LANG_ENGLISH        "AK74fu2"
+
+REFERENCE           ZOMBIE_APE_ENTRY
+LANG_ENGLISH        "ATTENZIONE! RIENTRO SCIMMIA IMMINENTE!"
+
+REFERENCE           ZOMBIE_ARTILLERY_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Artiglieria in arrivo vicino alla tua posizione"
+
+REFERENCE           ZOMBIE_ARTILLERY_NOT_AVAILABLE
+LANG_ENGLISH        "Artiglieria non disponibile"
+
+REFERENCE           ZOMBIE_AUG_GL_UPGRADED
+LANG_ENGLISH        "AUG con lanciagranate potenziato"
+
+REFERENCE           ZOMBIE_AUG_UPGRADED
+LANG_ENGLISH        "AUG-50M3"
+
+REFERENCE           ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per attivare la torretta automatica [costo: &&1]"
+
+REFERENCE           ZOMBIE_AWARDS_AND_TITLES
+LANG_ENGLISH        "Premi e titoli"
+
+REFERENCE           ZOMBIE_BACK
+LANG_ENGLISH        "Indietro"
+
+REFERENCE           ZOMBIE_BARRACKS
+LANG_ENGLISH        "Caserma"
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Hai già comprato Bouncing Betty"
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Premi ^3[{+actionslot 4}]^7 e poi ^3[{+attack}]^7 per piazzare una Bouncing Betty"
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per comprare Bouncing Betty [costo: 1000 - una volta sola]"
+
+REFERENCE           ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per costruire il ponte [costo: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per riacquistare la barriera [costo: 10]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per riacquistare la barriera [costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per riacquistare la barriera [costo: 20]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per riacquistare la barriera [costo: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per rimuovere le macerie [costo: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'area [costo: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta [costo: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_TRAP
+LANG_ENGLISH        "Tieni premuto [{+activate}] per attivare la trappola [costo: &&1]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per ricostruire la barriera"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per ricostruire la barriera [ricompensa: 10]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per ricostruire la barriera [ricompensa: 20]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per ricostruire la barriera [ricompensa: 30]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per ricostruire la barriera [ricompensa: 40]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per ricostruire la barriera [ricompensa: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare la barriera di fiamme [costo: 500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'armadio [costo: 1000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'armadio [costo: 1500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'armadio [costo: 2000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire l'armadio [costo: 500]"
+
+REFERENCE           ZOMBIE_CALLING_LANDER
+LANG_ENGLISH        "Richiamo modulo lunare "
+
+REFERENCE           ZOMBIE_CHAINSAW_PICKUP
+LANG_ENGLISH        "Motoseghe infernali!"
+
+REFERENCE           ZOMBIE_CHALLENGES
+LANG_ENGLISH        "Sfide"
+
+REFERENCE           ZOMBIE_CHALLENGES_DONE
+LANG_ENGLISH        "Nuovo testo"
+
+REFERENCE           ZOMBIE_CHINA_LAKE_UPGRADED
+LANG_ENGLISH        "China Beach"
+
+REFERENCE           ZOMBIE_CLAYMORE_ALREADY_PURCHASED
+LANG_ENGLISH        "Hai già comprato Claymore"
+
+REFERENCE           ZOMBIE_CLAYMORE_HOWTO
+LANG_ENGLISH        "Premi ^3[{+actionslot 4}]^7 e poi ^3[{+attack}]^7 per piazzare una Claymore"
+
+REFERENCE           ZOMBIE_CLAYMORE_PURCHASE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per comprare Claymore [Costo: 1000]"
+
+REFERENCE           ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Prima bisogna aprire il cancello"
+
+REFERENCE           ZOMBIE_CLOAK_NOT_AVAILABLE
+LANG_ENGLISH        "Invisibilità non disponibile"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per usare la carrucola [costo: 1000]"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare la carrucola"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "Prima è necessario attivare la fune"
+
+REFERENCE           ZOMBIE_COMMANDO_UPGRADED
+LANG_ENGLISH        "Predatore"
+
+REFERENCE           ZOMBIE_COOLDOWN_WAIT
+LANG_ENGLISH        "Ricarica in corso"
+
+REFERENCE           ZOMBIE_COOP
+LANG_ENGLISH        "Cooperativa"
+
+REFERENCE           ZOMBIE_CREDITS
+LANG_ENGLISH        "Riconoscimenti"
+
+REFERENCE           ZOMBIE_CROSSBOW_EXPLOSIVE_UPGRADED
+LANG_ENGLISH        "Lawton terribile"
+
+REFERENCE           ZOMBIE_CROSSBOW_UPGRADED
+LANG_ENGLISH        "Lawton terribile"
+
+REFERENCE           ZOMBIE_CZ75_DW_UPGRADED
+LANG_ENGLISH        "Calamity e Jane"
+
+REFERENCE           ZOMBIE_CZ75_UPGRADED
+LANG_ENGLISH        "Calamity"
+
+REFERENCE           ZOMBIE_DOGS_NOT_AVAILABLE
+LANG_ENGLISH        "Cani non disponibili"
+
+REFERENCE           ZOMBIE_DOOR_ACTIVATE_COUNTER
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per attivare il conteggio uccisioni [costo: &&1]"
+
+REFERENCE           ZOMBIE_DRAGUNOV_UPGRADED
+LANG_ENGLISH        "Disassemblatore D115"
+
+REFERENCE           ZOMBIE_EARNED_AIRSTRIKE
+LANG_ENGLISH        "Attacco aereo ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_ARTILLERY
+LANG_ENGLISH        "Artiglieria ottenuta"
+
+REFERENCE           ZOMBIE_EARNED_CLOAK
+LANG_ENGLISH        "Invisibilità ottenuta"
+
+REFERENCE           ZOMBIE_EARNED_DOGS
+LANG_ENGLISH        "Cani ottenuti"
+
+REFERENCE           ZOMBIE_EARNED_ENDURANCE
+LANG_ENGLISH        "Resistenza ottenuta"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER
+LANG_ENGLISH        "Elicottero ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER_COMLINK
+LANG_ENGLISH        "Elicottero comunicatore ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER_X2
+LANG_ENGLISH        "Elicottero x2 ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_NAPALM
+LANG_ENGLISH        "Napalm ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_PORTAL
+LANG_ENGLISH        "Portale ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_RADAR
+LANG_ENGLISH        "Radar ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_RCBOMB
+LANG_ENGLISH        "RC-XD ottenuto"
+
+REFERENCE           ZOMBIE_EARNED_TURRET
+LANG_ENGLISH        "Torretta ottenuta"
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per azionare l'interruttore"
+
+REFERENCE           ZOMBIE_ENDURANCE_NOT_AVAILABLE
+LANG_ENGLISH        "Resistenza non disponibile"
+
+REFERENCE           ZOMBIE_ENFIELD_UPGRADED
+LANG_ENGLISH        "Enfield potenziato"
+
+REFERENCE           ZOMBIE_EXTRA_LIFE
+LANG_ENGLISH        "Vita extra assegnata\n"
+
+REFERENCE           ZOMBIE_FAMAS_UPGRADED
+LANG_ENGLISH        "G16-GL35"
+
+REFERENCE           ZOMBIE_FIRE_SALE_COST
+LANG_ENGLISH        "Premi ^3&&1^7 per un'arma casuale [costo: 10]"
+
+REFERENCE           ZOMBIE_FNFAL_UPGRADED
+LANG_ENGLISH        "VITTORIA EPICA"
+
+REFERENCE           ZOMBIE_FREEZEGUN
+LANG_ENGLISH        "L'urlo dell'inverno"
+
+REFERENCE           ZOMBIE_FREEZEGUN_UPGRADED
+LANG_ENGLISH        "La furia dell'inverno"
+
+REFERENCE           ZOMBIE_G11_LPS_UPGRADED
+LANG_ENGLISH        "Generatore G115"
+
+REFERENCE           ZOMBIE_G11_UPGRADED
+LANG_ENGLISH        "Generatore G115"
+
+REFERENCE           ZOMBIE_GALIL_UPGRADED
+LANG_ENGLISH        "Lamento"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "GAME OVER"
+
+REFERENCE           ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per prendere la tua arma potenziata"
+
+REFERENCE           ZOMBIE_HAS_ABILITY
+LANG_ENGLISH        "Possiedi già questa abilità"
+
+REFERENCE           ZOMBIE_HELICOPTER_COMLINK_INBOUND
+LANG_ENGLISH        "Elicottero comunicatore in arrivo"
+
+REFERENCE           ZOMBIE_HELICOPTER_COMLINK_NOT_AVAILABLE
+LANG_ENGLISH        "Elicottero comunicatore non disponibile"
+
+REFERENCE           ZOMBIE_HELICOPTER_INBOUND
+LANG_ENGLISH        "Elicottero in arrivo"
+
+REFERENCE           ZOMBIE_HELICOPTER_NOT_AVAILABLE
+LANG_ENGLISH        "Elicottero non disponibile"
+
+REFERENCE           ZOMBIE_HELICOPTER_X2_INBOUND
+LANG_ENGLISH        "Elicottero x2 in arrivo"
+
+REFERENCE           ZOMBIE_HELICOPTER_X2_NOT_AVAILABLE
+LANG_ENGLISH        "Elicottero x2 non disponibile"
+
+REFERENCE           ZOMBIE_HK21_UPGRADED
+LANG_ENGLISH        "Oscillatore H115"
+
+REFERENCE           ZOMBIE_HS10_UPGRADED
+LANG_ENGLISH        "Typhoid e Mary"
+
+REFERENCE           ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "È necessario attivare il teletrasporto"
+
+REFERENCE           ZOMBIE_ITHACA_UPGRADED
+LANG_ENGLISH        "Raid"
+
+REFERENCE           ZOMBIE_KNIFE_BALLISTIC_UPGRADED
+LANG_ENGLISH        "Rifibrillatore Krauss"
+
+REFERENCE           ZOMBIE_L96A1_UPGRADED
+LANG_ENGLISH        "Isolatore L115"
+
+REFERENCE           ZOMBIE_LANDER_HAS_ARRIVED
+LANG_ENGLISH        "Modulo atterrato e pronto all'uso"
+
+REFERENCE           ZOMBIE_LANDER_LAUNCH_IN
+LANG_ENGLISH        "Lancio lunare tra "
+
+REFERENCE           ZOMBIE_LEADERBOARDS
+LANG_ENGLISH        "Classifiche"
+
+REFERENCE           ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "Collegamento attivato"
+
+REFERENCE           ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per collegare il teletrasporto al computer centrale"
+
+REFERENCE           ZOMBIE_M14_UPGRADED
+LANG_ENGLISH        "Mnesia"
+
+REFERENCE           ZOMBIE_M16_UPGRADED
+LANG_ENGLISH        "Sfondacrani"
+
+REFERENCE           ZOMBIE_M1911_UPGRADED
+LANG_ENGLISH        "Mustang e Sally"
+
+REFERENCE           ZOMBIE_M202_FLASH_UPGRADED
+LANG_ENGLISH        "Tristo mietitore potenziato"
+
+REFERENCE           ZOMBIE_M72_LAW_UPGRADED
+LANG_ENGLISH        "M72 Anarchy"
+
+REFERENCE           ZOMBIE_MAC11_UPGRADED
+LANG_ENGLISH        "MAC11 potenziato"
+
+REFERENCE           ZOMBIE_MAIN_MENU
+LANG_ENGLISH        "Menu principale"
+
+REFERENCE           ZOMBIE_MISSION_SELECT
+LANG_ENGLISH        "Scegli missione"
+
+REFERENCE           ZOMBIE_MP40_UPGRADED
+LANG_ENGLISH        "Afterburner"
+
+REFERENCE           ZOMBIE_MP5K_UPGRADED
+LANG_ENGLISH        "Kollider MP115"
+
+REFERENCE           ZOMBIE_MPL_UPGRADED
+LANG_ENGLISH        "MPL-LF"
+
+REFERENCE           ZOMBIE_MUTATORS
+LANG_ENGLISH        "Modificatori"
+
+REFERENCE           ZOMBIE_NAPALM_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Napalm in arrivo vicino alla tua posizione"
+
+REFERENCE           ZOMBIE_NAPALM_NOT_AVAILABLE
+LANG_ENGLISH        "Napalm non disponibile"
+
+REFERENCE           ZOMBIE_NEED_POWER
+LANG_ENGLISH        "Prima devi azionare l'interruttore!"
+
+REFERENCE           ZOMBIE_OPTIONS
+LANG_ENGLISH        "Opzioni"
+
+REFERENCE           ZOMBIE_PARIS_TRANSPORTER_ACTIVATED
+LANG_ENGLISH        "Trasporto attivo"
+
+REFERENCE           ZOMBIE_PARIS_TRANSPORTER_WAITING
+LANG_ENGLISH        "Trasporto in attesa di tutti i giocatori"
+
+REFERENCE           ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per usare la torretta [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_BANDOLIER
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Can-dolier [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Birra analcolica Double Tap [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Speed Cola [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per comprare "
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Jugger-Nog [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Pack-a-Punch [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Rianimatore [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE_SOLO
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Rianimatore [costo: &&1]"
+
+REFERENCE           ZOMBIE_PERK_STOPPINGPOWER
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Damage-ade [costo: &&1]"
+
+REFERENCE           ZOMBIE_PLAYER_ABILITIES
+LANG_ENGLISH        "Abilità giocatore"
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Zombi abbattuto!"
+
+REFERENCE           ZOMBIE_PM63_UPGRADED
+LANG_ENGLISH        "Tokyo e Rose"
+
+REFERENCE           ZOMBIE_PORTAL_NOT_AVAILABLE
+LANG_ENGLISH        "Portale non disponibile"
+
+REFERENCE           ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare il collegamento al computer centrale"
+
+REFERENCE           ZOMBIE_POWERCELL_DROPOFF
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per inserire la cella energetica"
+
+REFERENCE           ZOMBIE_POWERCELL_PICKUP
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per raccogliere la cella energetica"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Punteggio raddoppiato: "
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Eliminazione istantanea: "
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Munizioni al massimo!"
+
+REFERENCE           ZOMBIE_POWERUP_MINIGUN
+LANG_ENGLISH        "Minigun!"
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Nuclearizzazione zombi!"
+
+REFERENCE           ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per aprire la porta"
+
+REFERENCE           ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare l'ascensore [costo: 500]"
+
+REFERENCE           ZOMBIE_PYTHON_UPGRADED
+LANG_ENGLISH        "Cobra"
+
+REFERENCE           ZOMBIE_RADAR_NOT_AVAILABLE
+LANG_ENGLISH        "Radar non disponibile"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Premi ^3&&1^7 per un'arma casuale [costo: 650]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Premi ^3&&1^7 per un'arma casuale [costo: 750]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Premi ^3&&1^7 per un'arma casuale [costo: 850]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Premi ^3&&1^7 per un'arma casuale [costo: 950]"
+
+REFERENCE           ZOMBIE_RAY_GUN_UPGRADED
+LANG_ENGLISH        "Pistola a raggi X2 di Porter"
+
+REFERENCE           ZOMBIE_RCBOMB_NOT_AVAILABLE
+LANG_ENGLISH        "RC-XD non disponibile"
+
+REFERENCE           ZOMBIE_REVIVING_SOLO
+LANG_ENGLISH        "Rianimazione in corso... "
+
+REFERENCE           ZOMBIE_REWARD
+LANG_ENGLISH        "Ricompensa:"
+
+REFERENCE           ZOMBIE_ROTTWEIL72_UPGRADED
+LANG_ENGLISH        "Ade"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Round"
+
+REFERENCE           ZOMBIE_ROUND_AIRSTRIKE
+LANG_ENGLISH        "Attacco aereo disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_ARTILLERY
+LANG_ENGLISH        "Artiglieria disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Che il massacro abbia inizio"
+
+REFERENCE           ZOMBIE_ROUND_CLOAK
+LANG_ENGLISH        "Invisibilità disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_DOGS
+LANG_ENGLISH        "Cani disponibili al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "Scampato al massacro"
+
+REFERENCE           ZOMBIE_ROUND_ENDURANCE
+LANG_ENGLISH        "Resistenza disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_HELICOPTER
+LANG_ENGLISH        "Elicottero disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_NAPALM
+LANG_ENGLISH        "Napalm disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_PORTAL
+LANG_ENGLISH        "Portale disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_RCBOMB
+LANG_ENGLISH        "RC-XD disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_TIMEDISTORTION
+LANG_ENGLISH        "Distorsione temporale disponibile al round &&1"
+
+REFERENCE           ZOMBIE_ROUND_TURRET
+LANG_ENGLISH        "Torretta disponibile al round &&1"
+
+REFERENCE           ZOMBIE_RPK_UPGRADED
+LANG_ENGLISH        "Circuito di risonanza R115"
+
+REFERENCE           ZOMBIE_SOLO
+LANG_ENGLISH        "Singolo"
+
+REFERENCE           ZOMBIE_SOLO_LIFE_LOST
+LANG_ENGLISH        "Vita perduta, rianimazione giocatore"
+
+REFERENCE           ZOMBIE_SPAS_UPGRADED
+LANG_ENGLISH        "SPAZ-24"
+
+REFERENCE           ZOMBIE_SPECTRE_UPGRADED
+LANG_ENGLISH        "Phantom"
+
+REFERENCE           ZOMBIE_START_TPAD
+LANG_ENGLISH        "Torna al nucleo"
+
+REFERENCE           ZOMBIE_SURVIVED_NONE
+LANG_ENGLISH        "Sei sopravvissuto per 0 round"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Sei sopravvissuto per 1 round"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Sei sopravvissuto per &&1 round"
+
+REFERENCE           ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "Il teletrasporto si sta ricaricando"
+
+REFERENCE           ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per teletrasportarti al computer centrale [costo: 1500]"
+
+REFERENCE           ZOMBIE_TESLA_GUN
+LANG_ENGLISH        "Wunderwaffe DG-2"
+
+REFERENCE           ZOMBIE_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "Wunderwaffe DG-3 JZ\n"
+
+REFERENCE           ZOMBIE_THUNDERGUN_UPGRADED
+LANG_ENGLISH        "Cannone Zeus"
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per scambiare armi"
+
+REFERENCE           ZOMBIE_TRAP_ACTIVE
+LANG_ENGLISH        "La trappola è attiva."
+
+REFERENCE           ZOMBIE_TRAP_COOLDOWN
+LANG_ENGLISH        "La trappola si sta ricaricando."
+
+REFERENCE           ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare la botola [costo: 1000]"
+
+REFERENCE           ZOMBIE_TURRET_NOT_AVAILABLE
+LANG_ENGLISH        "Torretta non disponibile"
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare la torretta a fontana [costo: 750]"
+
+REFERENCE           ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per usare il teletrasporto [costo: &&1]"
+
+REFERENCE           ZOMBIE_VERSUS
+LANG_ENGLISH        "Versus"
+
+REFERENCE           ZOMBIE_WEAPON_AK47
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare AK-47 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AK47_MK
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare AK-47 con GP30 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AK74U
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare AK-74u [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AUG
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Aug [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Coltello Bowie [Costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_BOX_STORE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per riporre l'arma"
+
+REFERENCE           ZOMBIE_WEAPON_CHINA_LAKE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare CHINA_LAKE [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CLAYMORE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Claymore [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_COMMANDO
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare COMMANDO [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CROSSBOW_EXPLOSIVE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare CROSSBOW_EXPLOSIVE [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CZ75DW
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare CZ75DW [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_DRAGUNOV
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Dragunov [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ENFIELD
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare ENFIELD [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FAMAS
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare FAMAS [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FNFAL
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare FNFAL [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FRAG_GRENADE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Granate [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_G11
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare G11 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_GALIL
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare GALIL [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_HK21
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare HK21 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_HS10
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare HS10 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ITHACA
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Stakeout [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_KIPARIS
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Kiparis doppio [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_L96A1
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare L96A1 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M14
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare M14 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M16
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare M16 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M16_GL
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare M16 con M203 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M1911
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare M1911 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M202_FLASH
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare M202 Flash [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M60
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare M60 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M72_LAW
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare M72_LAW [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MAC11
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare MAC-11 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MINIGUN
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Minigun [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MP40
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare MP40 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MP5K
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare MP5K [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MPL
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare MPL [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_P90
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare OLD P90 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_PM63
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare PM63 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_PYTHON
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Python [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Pistola a raggi [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ROTTWEIL72
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Olympia [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_RPK
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare RPK [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SABERTOOTH
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Sabertooth [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SKORPION
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Skorpion [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SPAS
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare SPAS [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SPECTRE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare SPECTRE [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per comprare Granata adesiva [costo: 10]"
+
+REFERENCE           ZOMBIE_WEAPON_STONER63
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Mitragliatrice leggera Stoner 63 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_TESLA
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Pistola Tesla [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_THUNDERGUN
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Pistola Fulminante [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_UZI
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare Uzi [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_WA2000
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per comprare WA-2000 [costo: &&1]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Tieni premuto 3[{+activate}]^7 Arma [&&1], Munizioni [&&2]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO_UPGRADE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 Arma [&&1], Munizioni [&&2],   \n            Munizioni potenziate [4500]"
+
+REFERENCE           ZOMBIE_XP
+LANG_ENGLISH        "PE"
+
+REFERENCE           ZOMBIE_XP_REWARD
+LANG_ENGLISH        "PE maturata"
+
+REFERENCE           ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per azionare la carrucola"
+
+REFERENCE           ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "Bisogna attivare la carrucola per utilizzarla"
+
+REFERENCE           ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per attivare la carrucola [costo: 1500]"
+
+ENDMARKER

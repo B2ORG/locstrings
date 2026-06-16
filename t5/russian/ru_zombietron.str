@@ -1,0 +1,232 @@
+// Dumped from fastfile "ru_zombietron".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIETRON_1ST
+LANG_ENGLISH        "1: &&1"
+
+REFERENCE           ZOMBIETRON_2ND
+LANG_ENGLISH        "2: &&1"
+
+REFERENCE           ZOMBIETRON_3RD
+LANG_ENGLISH        "3: &&1"
+
+REFERENCE           ZOMBIETRON_4TH
+LANG_ENGLISH        "4: &&1"
+
+REFERENCE           ZOMBIETRON_APE_BOSS
+LANG_ENGLISH        "Космическая горилла"
+
+REFERENCE           ZOMBIETRON_ARMORY
+LANG_ENGLISH        "Найдена оружейная"
+
+REFERENCE           ZOMBIETRON_BONUS
+LANG_ENGLISH        "Найдена призовая комната"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND
+LANG_ENGLISH        "Ключевой противник"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND_VICTORY
+LANG_ENGLISH        "Победа!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGMONEY
+LANG_ENGLISH        "Деньги!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGPRIZES
+LANG_ENGLISH        "Большой приз!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_DEAD
+LANG_ENGLISH        "Я еще жив?"
+
+REFERENCE           ZOMBIETRON_BUBBLE_FCUK
+LANG_ENGLISH        "Черт!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_GRUMBLE
+LANG_ENGLISH        "<ВОРЧАНИЕ>"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHA
+LANG_ENGLISH        "ХА-ХА-ХА!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHADOH
+LANG_ENGLISH        "Пока-пока!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_IMBACK
+LANG_ENGLISH        "Я вернулся!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NEXTTIME
+LANG_ENGLISH        "До новых встреч!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOOO
+LANG_ENGLISH        "НЕ-Е-ЕТ!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOTBAD
+LANG_ENGLISH        "Неплохо..."
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHNO
+LANG_ENGLISH        "О нет!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHYEAH
+LANG_ENGLISH        "Ага!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RELAX
+LANG_ENGLISH        "Можно расслабиться!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RICH
+LANG_ENGLISH        "Мы богаты!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_TREASURE
+LANG_ENGLISH        "С-с-сокровище!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WHAT
+LANG_ENGLISH        "Что такое?!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WINNER
+LANG_ENGLISH        "Победа!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE
+LANG_ENGLISH        "Испытание"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_COW
+LANG_ENGLISH        "Паника!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_DOG
+LANG_ENGLISH        "Кто кричал \"Волк!\"?"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_ENGINEER
+LANG_ENGLISH        "Протечка!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_PIG
+LANG_ENGLISH        "Сельди в бочке"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_QUAD
+LANG_ENGLISH        "Жуткие твари"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SERGEI
+LANG_ENGLISH        "Побег из тюрьмы"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SNOW
+LANG_ENGLISH        "Мученик"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB
+LANG_ENGLISH        "Космическая горилла"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED
+LANG_ENGLISH        "Космическая горилла побеждена!"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED2
+LANG_ENGLISH        ". . . . Или . . . . "
+
+REFERENCE           ZOMBIETRON_FATE_EXIT
+LANG_ENGLISH        "Ваша судьба определена"
+
+REFERENCE           ZOMBIETRON_FATE_FIREPOWER
+LANG_ENGLISH        "Высшие силы даровали вам Огневую мощь"
+
+REFERENCE           ZOMBIETRON_FATE_FORTUNE
+LANG_ENGLISH        "Высшие силы даровали вам Удачу и Стойкость\n"
+
+REFERENCE           ZOMBIETRON_FATE_FRIENDSHIP
+LANG_ENGLISH        "Высшие силы даровали вам Дружбу\n"
+
+REFERENCE           ZOMBIETRON_FATE_FURIOUS_FEET
+LANG_ENGLISH        "Высшие силы даровали вам Быстрые ноги"
+
+REFERENCE           ZOMBIETRON_FATE_HURRY
+LANG_ENGLISH        "Высшие силы не будут ждать вечно"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO
+LANG_ENGLISH        "Комната Судьбы"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO2
+LANG_ENGLISH        "Выберите выход, узнайте свою судьбу"
+
+REFERENCE           ZOMBIETRON_GAMEOVER
+LANG_ENGLISH        "Игра окончена"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION1
+LANG_ENGLISH        "Главная цель этой игры - отомстить злобной Космической горилле за смерть принцессы."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION10
+LANG_ENGLISH        "По дороге вам могут встретиться сокровища. Всегда собирайте их."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION11
+LANG_ENGLISH        "Сокровища увеличивают модификатор начисления очков. А за каждые &&1 очков вы получаете дополнительную жизнь."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION12
+LANG_ENGLISH        "Увидите оружие или особый предмет - подбирайте сразу! Они уникальны и эффективны каждое по-своему."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION13
+LANG_ENGLISH        "Теперь следуйте за стрелкой к выходу. И удачи вам в битве с Космической гориллой!"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION2
+LANG_ENGLISH        "Но путь до гориллы будет непростым. Между ней и вами встанет армия оживших мертвецов."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION3
+LANG_ENGLISH        "Главное - не отчаивайтесь! На своем пути вы найдете оружие и сокровища, которые помогут вам справиться с силами Зла!"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION4
+LANG_ENGLISH        "Используйте  для перемещения."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION5
+LANG_ENGLISH        "Используйте  для ведения огня."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION6
+LANG_ENGLISH        "Нажмите , чтобы сбросить бомбу, способную уничтожить большое число врагов."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION7
+LANG_ENGLISH        "Нажмите , чтобы использовать ускорение. Это поможет выбраться из неприятных ситуаций."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION8
+LANG_ENGLISH        "Чтобы пополнить запас бомб, подбирайте предметы, выглядящие как бомбы.\nИх можно будет использовать позже."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION9
+LANG_ENGLISH        "Точно так же можно собирать ускорения. Я разбросаю несколько.\nОбратите внимание, как они подбираются."
+
+REFERENCE           ZOMBIETRON_NAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           ZOMBIETRON_NEXT_PAGE
+LANG_ENGLISH        "^3[{+activate}]^7 СЛЕДУЮЩАЯ СТРАНИЦА"
+
+REFERENCE           ZOMBIETRON_PAGE
+LANG_ENGLISH        "Стр. &&1 из &&2"
+
+REFERENCE           ZOMBIETRON_PICK_A_PATH
+LANG_ENGLISH        "Выберите путь"
+
+REFERENCE           ZOMBIETRON_ROUND
+LANG_ENGLISH        "Раунд: &&1"
+
+REFERENCE           ZOMBIETRON_ROUND_COMPLETE
+LANG_ENGLISH        "Раунд &&1 завершен"
+
+REFERENCE           ZOMBIETRON_SCORE
+LANG_ENGLISH        "Счет: &&1"
+
+REFERENCE           ZOMBIETRON_SKIP_SCENE
+LANG_ENGLISH        "^3[{+activate}]^7 ДАЛЕЕ"
+
+REFERENCE           ZOMBIETRON_SURVIVED_ROUNDS
+LANG_ENGLISH        "Вы выжили в течение &&1 раундов"
+
+REFERENCE           ZOMBIETRON_TELEPORTER
+LANG_ENGLISH        "Зайдите в телепорт, чтобы переместиться на новую арену\n"
+
+REFERENCE           ZOMBIETRON_TITLE
+LANG_ENGLISH        "ЗОМБОТРОН"
+
+REFERENCE           ZOMBIETRON_TUTORIAL1
+LANG_ENGLISH        "Космическая горилла сбежала! В погоню!"
+
+REFERENCE           ZOMBIETRON_TUTORIAL2
+LANG_ENGLISH        "Или зайдите на площадку телепорта для прослушивания базового курса обучения."
+
+REFERENCE           ZOMBIETRON_TUTORIAL3
+LANG_ENGLISH        "Инструкции"
+
+REFERENCE           ZOMBIETRON_WINNER_SKIP
+LANG_ENGLISH        "ПОБЕДИТЕЛЬ: ^3[{+activate}]^7 - ДАЛЕЕ"
+
+ENDMARKER

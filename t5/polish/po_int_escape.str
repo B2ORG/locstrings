@@ -1,0 +1,445 @@
+// Dumped from fastfile "po_int_escape".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_1
+LANG_ENGLISH        "^LTransmisja # 8-5. Kryptonim: DELTA^L"
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_2
+LANG_ENGLISH        "^LMiejsce:^L ^C1POKÓJ 9^C"
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_3
+LANG_ENGLISH        "^LPrzes³uchiwany:^L ^C1Mason, Alex^C"
+
+REFERENCE           INT_ESCAPE_INTROSCREEN_4
+LANG_ENGLISH        "^LWznowienie przes³uchania: 23:00,^L ^C125 lutego 1968^C"
+
+REFERENCE           INT_ESCAPE_LTRIG
+LANG_ENGLISH        "Naciœnij ^3[{+speed_throw}]^7, aby uderzyæ"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_1
+LANG_ENGLISH        "Wniebowst¹pienie 9 18 8 23 8 3 8 22 15 21 17\n6 16 1 7 8 19 10 22 19 23 14 17 14 22 0 12\n8 8 10 7 1 1 22"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_2
+LANG_ENGLISH        "9 19 18 4 6 21 17 14 9 19 8 24 17 24 5 13 11\n20 15 21 24 11 9 12 8 20 21 10 16 23 4 22\n21 4 0 14"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_3
+LANG_ENGLISH        "Wniebowst¹pienie 1 23 9 12 3 13 5 9 22 21 0 21\n10 15 5 17 12 21 18 8 5 13 22 10 2 11 5 11\n8 9 19 23 2 14 17 10 7 15 7 12 21 25 16 25\n0 23 12 23 13 22 8 9 25 4 20 19 11\n14 24 17 9 21 0 2 16 16 1 22 1 20 22 22\n25 0 15 1 1 22 17"
+
+REFERENCE           INT_ESCAPE_OBJECTIVE_4
+LANG_ENGLISH        "Echelon 3  24 20 12 19 17 17 22 19 23 19 4\n0 7 6 7 19 10 12 16 17 6 14 4 3 17 24 20 13\n24 8 16 17 1 24 9 21 15 0 5 15 4 4 23 6 11\n25 14 4 20 4 9 14 18 12 8 7 21 6 4 21 7 21\n4 2 14 3 14 7 18 13 6 22 16 6 1 21 21 15 3\n5 24 9 11 2 10 5 21 4 20 11 19 12 5 12 13\n12 5 17 19 3 14 21 12 15 17 7 7 2 2 21 1\n10 22 13 5"
+
+REFERENCE           INT_ESCAPE_VOX_CRE1_S04_163A_SWIF_M
+LANG_ENGLISH        "^1SWIFT: ^7Co, do *$#%$, jest z tob¹?"
+
+REFERENCE           INT_ESCAPE_VOX_CRE1_S04_163A_SWIF_S_M
+LANG_ENGLISH        "^1SWIFT: ^7Co jest z tob¹, do diab³a?"
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_124A_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7Zróbcie z nim, co chcecie, generale... To prezent ode mnie dla uczczenia naszego nowego porozumienia..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_124B_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7...nasze nowe stosunki..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_125A_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7Tylko... niech cierpi..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_126A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Zazna cierpienia, o jakim mu siê nigdy nie œni³o..."
+
+REFERENCE           INT_ESCAPE_VOX_CUB1_S04_127A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Zaplanowa³em coœ dla ciebie, jankesie..."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_255A_WOOD
+LANG_ENGLISH        "^1MASON: ^7W porz¹dku. Najwy¿sza pora wynosiæ siê st¹d."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_270A_MASO
+LANG_ENGLISH        "^1WOODS: ^7Jeszcze nie..."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_271A_MASO
+LANG_ENGLISH        "^1MASON: ^7Zajmiemy siê jeszcze Dragowiczem."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_316A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nikt nie wysiada."
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_317A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zadowolony, Mason?"
+
+REFERENCE           INT_ESCAPE_VOX_FLA1_S09_318A_MASO_B
+LANG_ENGLISH        "^1MASON: ^7Nie! Jeszcze nie... Najpierw muszê zobaczyæ trupa."
+
+REFERENCE           INT_ESCAPE_VOX_FUL1_INTRO_08A
+LANG_ENGLISH        "^1REZNOW: ^7Jesteœmy braæmi, Mason... Jesteœmy tacy sami."
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_413A_BOWM_B
+LANG_ENGLISH        "^1BOWMAN: ^7Myœlisz, ¿e zdrajca prze¿y³ atak?!"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_414A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeœli tak, to twardy z niego skurwysyn!"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_414A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Jeœli tak, to niez³y z niego twardziel!"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_430A_REZN_M_A
+LANG_ENGLISH        "^1REZNOW: ^7Mason?"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_431A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Reznow. Jak siê wydosta³eœ z Workuty?"
+
+REFERENCE           INT_ESCAPE_VOX_HUE1_S01_432A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Nie s¹dzi³em, ¿e zobaczê ciê ¿ywego..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_001A_WEAV
+LANG_ENGLISH        "^1ŒLEDCZY: ^7To na nic... nie mamy ju¿ czasu!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_002A_INTE
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Teraz nie mo¿emy siê poddaæ. On by³ w Workucie. Wie, jak przet³umaczyæ szyfr. S³ysza³ wiadomoœci, w których podawano lokalizacjê. Ma to gdzieœ w g³owie. Wie, gdzie to jest!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_002B_INTE
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Teraz nie mo¿emy siê poddaæ. On by³ w Workucie. Wie, jak przet³umaczyæ szyfr. S³ysza³ wiadomoœci, w których podawano lokalizacjê. Ma to gdzieœ w g³owie. Wie, gdzie to jest!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_003A_WEAV
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Musimy iœæ do bunkra! Mamy DEFCON 2... Próbowa³eœ wszystkiego..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_004A_INTE
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Jeszcze nie... Mam jeszcze jednego asa w rêkawie."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_005B_WEAV_M
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Zostaw go tutaj. Nie jest tego wart."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_006A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Wynoœ siê st¹d, Weaver. Przeka¿ im, ¿e zawiod³em."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_007A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Chcesz z nim umrzeæ?... Twój wybór."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_008A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Cholera! Dlaczego nie pamiêtasz?!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_009A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Reznow nie ¯YJE, Mason! S³yszysz mnie?!!! Nie ¿yje!!! Weaver ma racjê... nie mamy czasu."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_010A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Wiem, ¿e oni ci to zrobili... Znam ciê... Wiem, ¿e nie jesteœ zdrajc¹."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_010B_HUDS_M_S
+LANG_ENGLISH        "^1HUDSON: ^7Ruscy namieszali ci w g³owie... Znam ciê... Nie jesteœ zdrajc¹."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_015A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Poczekaj chwilê... daj mu odpocz¹æ."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_016A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Kiedy odzyska przytomnoœæ, podwój napiêcie."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_017A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Obiektowi uda³o siê zaimplementowaæ wiedzê niezbêdn¹ do odszyfrowania ci¹gów liczbowych."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_018A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Wiêc w czym problem?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_019A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Jego reakcje na nasze polecenia s¹ sporadyczne i nieprzewidywalne. Wykazuje siê niesamowit¹ odpornoœci¹."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_020A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Dlaczego?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_021A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Jest niezwyk³y... nietypowy. Niewielu ludzi ma tak¹ siln¹ wolê... Z innymi obiektami odnieœliœmy wiêksze sukcesy."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_022A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Jeœli nie wykonuje poleceñ zakodowanych w liczbach, to jest dla mnie bezu¿yteczny..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_023A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Niech gnije... Zabierzcie go do celi."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_050A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ból jest trudny do zniesienia, prawda?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_055B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Dragowicz zrobi³ ci pranie mózgu, ale Reznow mia³ w³asny plan..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_063A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Nigdy nie by³ w Wietnamie. \nPrawdziwy zdrajca z aktami Novy 6 \nzgin¹³ podczas ataku na DPWW."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_082B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Wiktor Reznow nie ¿yje od 5 lat. Zgin¹³ w Workucie podczas ucieczki! Przez te wszystkie lata s¹dzi³eœ, ¿e jest z tob¹ - a by³ tylko w twojej g³owie!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_083A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Ufa³em mu."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_084B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Dlatego siê uda³o... To by³ ich MK-Ultra. Dragowicz zaprogramowa³ ciê, ¿ebyœ zabi³ Kennedy'ego, ale Reznow w tym przeszkodzi³. Chcia³ siê zemœciæ na Dragowiczu. Dragowicz. Krawczenko. Steiner. Kolejne trzy ofiary."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_085B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Masz luki w pamiêci. Okresy, kiedy by³eœ \"zaginionym w akcji\" i nie mogliœmy na ciebie liczyæ. Ale teraz kiedy prze³amaliœmy twoj¹ blokadê po praniu mózgu, odzyskasz utracone wspomnienia."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_085C_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Musimy ruszaæ... Atak Nov¹ 6 nast¹pi ju¿ nied³ugo. Setki agentów, kryj¹cych siê w stolicach wszystkich stanów, uwolni¹ truciznê i zaatakuj¹ ni¹ naszych rodaków."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_086B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Po œmierci Steinera utraciliœmy œlad nadawnych liczb... By³eœ wszystkim, co nam zosta³o..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_087B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7W Workucie zaprogramowano ciê tak, byœ móg³ prze³o¿yæ kody liczbowe. Tylko ty mo¿esz je szybko odszyfrowaæ. Nova 6 to jedna z operacji uœpionych agentów, ale na pewno s¹ inne... o których jeszcze nie wiemy."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_088B_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Mamy transmisje, puszczaliœmy ci je przez wiele godzin, ale nie uda³o nam siê prze³amaæ twojej blokady."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_088C_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Mason, to ostatnia szansa. Na mi³oœæ bosk¹, pos³uchaj jeszcze raz."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_089A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason!... Mason!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_094A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7...[niewyraŸnie] wszystkich agentów. Nasi kubañscy sojusznicy wspania³omyœlnie pozwolili nam zbudowaæ now¹... i sta³¹... stacjê nadawcz¹ na swoim terytorium."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_094B_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7...i sta³¹... stacjê nadawcz¹ na swoim terytorium. "
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_095A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Od tej chwili do rozpoczêcia Projektu Nova wszystkie instrukcje bêd¹ nadawane z Rusa³ki."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_095B_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7...wszystkie instrukcje bêd¹ nadawane z Rusa³ki. "
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_096A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Ruszy³ nasz plan uderzenia w samo serce Zachodu."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_097A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Czekajcie na dalsze instrukcje."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_104B_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Wiem, gdzie jest stacja numeryczna... To statek... Widzia³em go dawno temu... Rusa³ka."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_105A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Gdzie?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_106A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Na Kubie."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_200A_MASO
+LANG_ENGLISH        "^1MASON: ^7Numery... numery... co... one znacz¹?"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_201A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznow ... Gdzie jesteœ?... Reznow..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_202A_MASO
+LANG_ENGLISH        "^1MASON: ^7By³ tam Steiner... Musieliœmy go zabiæ!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_205A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragowicz... Krawczenko... Steiner... ból... o mój Bo¿e, ten ból..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_205B_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragowicz...Krawczenko...Steiner..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_205C_MASO
+LANG_ENGLISH        "^1MASON: ^7Ból... o mój Bo¿e..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_206A_MASO
+LANG_ENGLISH        "^1MASON: ^7Przechodzê do dzia³ania... cel... wyznaczony..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_207A_MASO
+LANG_ENGLISH        "^1MASON: ^7Oswald... wykryty."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_208A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kennedy... John...Fitzgerald. Podobno jest pan najlepszym, co mamy."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_209A_MASO
+LANG_ENGLISH        "^1MASON: ^7By³em zaprogramowany... aby... zabiæ... Steinera... Krawczenkê i Dragowicza!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_210A_HUDS
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Wiktor Reznow nie ¿yje od lat."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_211A_MASO
+LANG_ENGLISH        "^1MASON: ^7Nie!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_212A_HUDS
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Zgin¹³ w Workucie podczas twojej ucieczki!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_213A_MASO
+LANG_ENGLISH        "^1MASON: ^7To nieprawda!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_214A_HUDS
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Przez te wszystkie lata s¹dzi³eœ, ¿e jest z tob¹  -"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_215A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznow... ufa³em ci."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_216A_HUDS
+LANG_ENGLISH        "^1ŒLEDCZY: ^7On by³ tylko w twojej g³owie!"
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_217A_HUDS
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Dlatego to siê uda³o... Dlatego Reznow móg³ prze³amaæ to uwarunkowanie. W Workucie Rosjanie pracowali nad metod¹ kontroli umys³u. Dragowicz zaprogramowa³ ciê, abyœ zabi³ Kennedy'ego, ale Reznow w tym przeszkodzi³. Zamierza³ siê zemœciæ."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_300A_MASO
+LANG_ENGLISH        "^1MASON: ^7Pamiêtam. Workuta... Ahhhh! Workuta..."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_302A_HUDS
+LANG_ENGLISH        "^1MASON: ^7Nigdy nie by³o go w tunelach."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_303A_HUDS
+LANG_ENGLISH        "^1MASON: ^7Nigdy go nie by³o na Wyspie Odrodzenia."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_500A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Kubañscy sojusznicy zgadzaj¹ siê na stworzenie sta³ej stacji nadawczej. Rusa³ka. Zatoka Meksykañska. Projekt Nova ruszy³. Czekaæ na instrukcje."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_501A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Mason. Przygotuj siê do likwidacji: Cel: Kennedy. John Fitzgerald. Polecenie nadrzêdne wobec wszystkich wczeœniejszych instrukcji."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_502A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Mason. Pod¹¿aj za celem. Oczekuj ostatecznych wspó³rzêdnych."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_503A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Oswald wykryty. Wniebowst¹pienie. Mason. Wyeliminuj wyznaczony cel."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_504A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Zaplanowane rozmieszczenie Novy w niebezpieczeñstwie. Przeciek w CIA."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_505A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Wszystkie punkty. Zlikwidowaæ Clarke'a. Priorytet jeden. Oczekuj ostatecznych wspó³rzêdnych."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_506A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Wszystkie punkty. Faza druga."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_507A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Wszystkie punkty. Faza trzecia."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_508A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Wszystkie punkty. Zagro¿enie: unikn¹æ schwytania. Uœpieni agenci zbêdni."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_509A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Sygna³ do aktywacji Novy nied³ugo."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_510A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Mason. Wznowiæ programowanie rozkazów. Odpowiedz."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_511A_MASO
+LANG_ENGLISH        "^1MASON: ^ Echelon. Pentagon. Jeden. Prospero."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_512A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Pentagon. Dwa. Ariel."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_513A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Pentagon. Trzy. Sycorax."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_514A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Uwaga. Zaobserwowano mutacjê Novy. Przed œmierci¹ powoduje martwicê tkanek."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_515A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wniebowst¹pienie. Mason. Lokalizacja. Teksañska Sk³adnica Ksi¹¿ek Szkolnych. 6. piêtro. Karabin Carcano 6.5MM. Dallas. Dealey Plaza. 11.22."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_516A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragowicz. Krawczenko. Steiner. Wszyscy musz¹ zgin¹æ."
+
+REFERENCE           INT_ESCAPE_VOX_INT1_S01_517A_MASO
+LANG_ENGLISH        "^1MASON: ^7Echelon. Uœpiony agent-zdrajca. Mason. Problem z programowaniem. Dragowicz nie ¿yje. Agent œpioch w Pentagonie uruchomiony. Agent œpioch w CIA uruchomiony. Wniebowst¹pienie. Wszystkie punkty. Zlikwidowaæ Masona. Polecenie nadrzêdne wobec wszystkich wczeœniejszych instrukcji."
+
+REFERENCE           INT_ESCAPE_VOX_PEN1_S01_011A_MASO_M_B
+LANG_ENGLISH        "^1MASON: ^7Kiedy go zabijê? "
+
+REFERENCE           INT_ESCAPE_VOX_PEN1_S01_039A_KENN_M
+LANG_ENGLISH        "^1PREZYDENT KENNEDY: ^7Ze strony komunistów grozi nam olbrzymie niebezpieczeñstwo.  \nNasza wolnoœæ... nasz styl ¿ycia - s¹ zagro¿one."
+
+REFERENCE           INT_ESCAPE_VOX_PEN1_S01_040A_KENN_M
+LANG_ENGLISH        "^1PREZYDENT KENNEDY: ^7Nikita Dragowicz."
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_416A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Jest tu Krawczenko!"
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_417A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Têdy! Nie mo¿e siê wymkn¹æ!"
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_418A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason?! Co ty, kurwa, robisz?!! Musimy wyci¹gn¹æ ch³opaków."
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_418A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Mason?! Co ty wyprawiasz?"
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_426B_KRAV_M
+LANG_ENGLISH        "^1KRAWCZENKO: ^7To znowu ty..."
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_427B_KRAV_M
+LANG_ENGLISH        "^1KRAWCZENKO: ^7Powinienem by³ ciê zabiæ w Workucie!"
+
+REFERENCE           INT_ESCAPE_VOX_POW1_S04_440A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Dragowicz. Krawczenko. Steiner. Wszyscy musz¹ zgin¹æ..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_INTRO_03A_A
+LANG_ENGLISH        "^1MASON: ^7Steiner by³ na Wyspie Odrodzenia. Musieliœmy go zabiæ."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_INTRO_04A
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Wy? Wiktor Reznow?"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_INTRO_05A_A
+LANG_ENGLISH        "^1MASON: ^7Chcieliœmy tego samego. Tego samego."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_070A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Znam ciê... Workuta!"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_071A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Nie wiesz..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_072A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Co ci zrobiliœmy..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_079A_REZN_M_B
+LANG_ENGLISH        "^1REZNOW: ^7Nazywam siê Wiktor Reznow."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S02_080A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Nie..."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_150A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Co on robi, do cholery?"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_151A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Zabija wszystkich, którzy stan¹ mu na drodze."
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_153A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7MASON!"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_157A_MASO_A
+LANG_ENGLISH        "^1MASON: ^7Nazywam siê Wiktor Reznow. I zemszczê siê!"
+
+REFERENCE           INT_ESCAPE_VOX_REB1_S03_158A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Mason - NIE!"
+
+REFERENCE           INT_ESCAPE_VOX_RIV1_INTRO_09A_B
+LANG_ENGLISH        "^1MASON: ^7Wci¹¿... s³yszê... te... pieprzone... numery..."
+
+REFERENCE           INT_ESCAPE_VOX_RIV1_INTRO_09A_S_B_S
+LANG_ENGLISH        "^1MASON: ^7Wci¹¿... s³yszê... te... &$#@!%... numery..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_042A_RRD2_M
+LANG_ENGLISH        "^1ROSYJSKI WIÊZIEÑ: ^7Reznow, jesteœ pewien, ¿e temu Amerykaninowi mo¿na ufaæ?"
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_043A_REZN_M_A
+LANG_ENGLISH        "^1REZNOW: ^7Powierzy³bym mu ¿ycie..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_044A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Nie ró¿nimy siê tak bardzo... Jesteœmy ¿o³nierzami bez armii."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_045A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Zdradzeni. Zapomniani. Porzuceni."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S2_046A_REZN_M_A
+LANG_ENGLISH        "^1REZNOV: ^7W Workucie, WSZYSCY jesteœmy braæmi..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S6_255A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Prze¿yjesz... Musisz!"
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S6_400A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Prze¿yjesz... Musisz!"
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S7_274A_MASO
+LANG_ENGLISH        "^1MASON: ^7Krok ósmy, Reznow - Wolnoœæ!"
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S7_275A_REZN_M_B
+LANG_ENGLISH        "^1REZNOW: ^7Dla ciebie, Mason..."
+
+REFERENCE           INT_ESCAPE_VOX_VOR1_S7_276A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Nie dla mnie..."
+
+ENDMARKER

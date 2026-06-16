@@ -1,0 +1,154 @@
+// Dumped from fastfile "po_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść powracacz piekła"
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby skonstruować samolot"
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby skonstruować dodatek Blundergat"
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_POLISH         "Gondola jest aktywna"
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby aktywować pułapkę z wiatraka [koszt: &&1]"
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, aby uruchomić pralkę"
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby skonstruować tarczę zombie"
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby podnieść Blundergat. "
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zatankować samolot"
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby kupić Tommy Gun [Koszt: &&1]"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_POLISH         "Poraź by przeciążyć"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_POLISH         "Część zamontowana w samolocie"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść odkupiciel piekła"
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_POLISH         "Samolot zatankowany"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, aby porazić błyskawicą"
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, aby wsiąść do samolotu"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_POLISH         "Naciśnij ^3[{+gostand}]^7, aby lewitować"
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wezwać gondolę"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby przejść do życia po śmierci"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_POLISH         "Użyj błyskawicy aby włączyć zasilanie"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_POLISH         "Potrzebujesz klucza strażnika"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_POLISH         "Drzwi wymagają zasilania"
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_POLISH         "Pułapka kwasowa jest już dostępna"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_POLISH         "Przytrzymaj [{+activate}], aby zmienić Blundergat w Acidgat"
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_POLISH         "Przytrzymaj [{+activate}], aby wziąć skonwertowaną broń"
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby kupić elektryczną wiśnię [Koszt: &&1]"
+
+REFERENCE           ZM_PRISON_BAD
+LANG_POLISH         "CYKL TRWA..."
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby postawić tarczę"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_POLISH         "Naciśnij ^3[{+melee}]^7, żeby zaatakować tarczą"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_POLISH         "Naciśnij [{+actionslot 1}] lub [{+actionslot 2}], by zmienić element"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_POLISH         "Naciśnij ^3[{+smoke}]^7, żeby rzucić powracacz"
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_POLISH         "Tarcza"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_POLISH         "CYKL ZAKOŃCZONY"
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_POLISH         "Zestaw kwaśny Gat"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_POLISH         "Części samolotu"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, aby uruchomić krzesło elektryczne"
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, aby rozpocząć procedurę startu"
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby otworzyć"
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_POLISH         "Pułapka z wiatraka nie dostępna"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby aktywować pułapkę kwasową [koszt: &&1]"
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby aktywować pułapkę w wieży [koszt: &&1]"
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby skorzystać z gondoli [koszt: &&1]"
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_POLISH         "Gondola potrzebuje zasilania"
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_POLISH         "Gondola się ładuje"
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby podnieść zakwaszacz."
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_POLISH         "Wymagany Blundergat"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_POLISH         "Brak śladów nieumarłych"
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_POLISH         "KONIEC ŻYCIA"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_POLISH         "Już to niesiesz."
+
+ENDMARKER

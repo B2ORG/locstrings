@@ -1,0 +1,82 @@
+// Dumped from fastfile "po_zombie_cosmodrome".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_COSMODROME_DOOR_CLOSED
+LANG_ENGLISH        "Drzwi musz¹ byæ najpierw otwarte"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby u¿yæ l¹downika [Koszt: 250]"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_AT_STATION
+LANG_ENGLISH        "L¹downik jest ju¿ na stacji"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_CALL
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby wezwaæ l¹downik na pozycjê."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_COOLDOWN
+LANG_ENGLISH        "Trwa ch³odzenie l¹downika"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_IN_USE
+LANG_ENGLISH        "L¹downik jest aktualnie u¿ywany."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_INACTIVE
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby aktywowaæ stacjê l¹downika."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_CONNECTIONS
+LANG_ENGLISH        "Brak dostêpnych lokalizacji dla l¹downika."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby udaæ siê na ziemiê niczyj¹ [Koszt: BEZP£ATNE]"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND_WAIT
+LANG_ENGLISH        "Oczekiwanie na po³¹czenie: &&1..."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_NO_MANS_LAND_WAIT_ONE
+LANG_ENGLISH        "Oczekiwanie na po³¹czenie &&1..."
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_ON_WAY
+LANG_ENGLISH        "Wezwano l¹downik"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_REFUEL
+LANG_ENGLISH        "L¹downik pobiera paliwo"
+
+REFERENCE           ZOMBIE_COSMODROME_LANDER_WAITING_FOR_CREW
+LANG_ENGLISH        "Wszyscy gracze musz¹ znaleŸæ siê na pok³adzie l¹downika."
+
+REFERENCE           ZOMBIE_COSMODROME_LAUNCH_AVAILABLE
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby aktywowaæ sekwencjê startow¹."
+
+REFERENCE           ZOMBIE_COSMODROME_NEED_POWER_CENTRIFUGE
+LANG_ENGLISH        "Pu³apka wirowa wymaga zasilania!"
+
+REFERENCE           ZOMBIE_COSMODROME_NEED_POWER_ROCKET
+LANG_ENGLISH        "Pu³apka rakietowa wymaga zasilania!"
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_ACTIVATED
+LANG_ENGLISH        "Rakieta jest aktualnie w u¿yciu."
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_COOLING_DOWN
+LANG_ENGLISH        "Rakieta jest w fazie ch³odzenia."
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_MOVING
+LANG_ENGLISH        "Rakieta jest w ruchu."
+
+REFERENCE           ZOMBIE_COSMODROME_ROCKET_SET
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby ustawiæ rakietê na pozycji."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_AUTHORIZAION
+LANG_ENGLISH        "Do uruchomienia wymagana jest autoryzacja"
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_ONE
+LANG_ENGLISH        "Na platformie brakuje 1 gracza."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_THREE
+LANG_ENGLISH        "Na platformie brakuje 3 graczy."
+
+REFERENCE           ZOMBIE_COSMODROME_WAITING_FOR_TWO
+LANG_ENGLISH        "Na platformie brakuje 2 graczy."
+
+ENDMARKER

@@ -1,0 +1,754 @@
+// Dumped from fastfile "ru_zombie_cod5_asylum".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WAW_WEAPON_30CAL
+LANG_ENGLISH        "\"Браунинг\" M1919"
+
+REFERENCE           WAW_WEAPON_30CAL_UPGRADED
+LANG_ENGLISH        "Ускоритель B115"
+
+REFERENCE           WAW_WEAPON_357MAGNUM
+LANG_ENGLISH        "\"Магнум\" .357"
+
+REFERENCE           WAW_WEAPON_357MAGNUM_UPGRADED
+LANG_ENGLISH        ".357 Плюс 1 K1L-u"
+
+REFERENCE           WAW_WEAPON_ANTITANK_GUNNER
+LANG_ENGLISH        "Стрелок из противотанкового ружья"
+
+REFERENCE           WAW_WEAPON_BAR
+LANG_ENGLISH        "BAR"
+
+REFERENCE           WAW_WEAPON_BAR_BIPOD
+LANG_ENGLISH        "BAR с сошками"
+
+REFERENCE           WAW_WEAPON_BAR_UPGRADED
+LANG_ENGLISH        "Творец вдов"
+
+REFERENCE           WAW_WEAPON_BAZOOKA
+LANG_ENGLISH        "\"Базука\" M9A1"
+
+REFERENCE           WAW_WEAPON_COLT45
+LANG_ENGLISH        "\"Кольт\" M1911"
+
+REFERENCE           WAW_WEAPON_COLT45_UPGRADED
+LANG_ENGLISH        "C-3000 b1at-ch35"
+
+REFERENCE           WAW_WEAPON_FG42
+LANG_ENGLISH        "FG42"
+
+REFERENCE           WAW_WEAPON_FG42_UPGRADED
+LANG_ENGLISH        "\"Импеллер\" 420"
+
+REFERENCE           WAW_WEAPON_FLAMETHROWER_GUNNER
+LANG_ENGLISH        "Огнемет"
+
+REFERENCE           WAW_WEAPON_FRAGGRENADE
+LANG_ENGLISH        "Осколочная"
+
+REFERENCE           WAW_WEAPON_GERMANGRENADE
+LANG_ENGLISH        "Штильгандгранате"
+
+REFERENCE           WAW_WEAPON_GEWEHR43
+LANG_ENGLISH        "Gewehr 43"
+
+REFERENCE           WAW_WEAPON_GEWEHR43_UPGRADED
+LANG_ENGLISH        "Компрессор G115"
+
+REFERENCE           WAW_WEAPON_KAR98K
+LANG_ENGLISH        "Kar98k"
+
+REFERENCE           WAW_WEAPON_KAR98K_SCOPED_SP
+LANG_ENGLISH        "Kar98k с прицелом"
+
+REFERENCE           WAW_WEAPON_KAR98K_UPGRADED
+LANG_ENGLISH        "Армагеддон"
+
+REFERENCE           WAW_WEAPON_M1A1CARBINE
+LANG_ENGLISH        "Карабин М1"
+
+REFERENCE           WAW_WEAPON_M1A1CARBINE_UPGRADED
+LANG_ENGLISH        "\"Виддершинс\" RC-1"
+
+REFERENCE           WAW_WEAPON_M1GARAND
+LANG_ENGLISH        "M1 \"Гаранд\""
+
+REFERENCE           WAW_WEAPON_M1GARAND_GL
+LANG_ENGLISH        "M1 \"Гаранд\" с гранатометом"
+
+REFERENCE           WAW_WEAPON_M1GARAND_UPGRADED
+LANG_ENGLISH        "M1000"
+
+REFERENCE           WAW_WEAPON_M2_FLAMETHROWER
+LANG_ENGLISH        "Огнемет M2"
+
+REFERENCE           WAW_WEAPON_M2_FLAMETHROWER_UPGRADED
+LANG_ENGLISH        "FIW с нитрогенным охлаждением"
+
+REFERENCE           WAW_WEAPON_M7_LAUNCHER
+LANG_ENGLISH        "Гранатомет М7"
+
+REFERENCE           WAW_WEAPON_M7_LAUNCHER_UPGRADED
+LANG_ENGLISH        "\"Сжиматель\""
+
+REFERENCE           WAW_WEAPON_M7_LAUNCHER_UPGRADED_NONADE
+LANG_ENGLISH        "\"Сжиматель\""
+
+REFERENCE           WAW_WEAPON_MG42
+LANG_ENGLISH        "MG42"
+
+REFERENCE           WAW_WEAPON_MG42_UPGRADED
+LANG_ENGLISH        "\"Барракуда\" FU-A11"
+
+REFERENCE           WAW_WEAPON_MINE_BOUNCING_BETTY
+LANG_ENGLISH        "Прыгающая мина"
+
+REFERENCE           WAW_WEAPON_MOLOTOV
+LANG_ENGLISH        "Коктейль Молотова"
+
+REFERENCE           WAW_WEAPON_MOSIN_LAUNCHER
+LANG_ENGLISH        "Винтовка Мосина с подствольным гранатометом"
+
+REFERENCE           WAW_WEAPON_MOSIN_RIFLE_SCOPED_SP
+LANG_ENGLISH        "Винтовка Мосина с прицелом"
+
+REFERENCE           WAW_WEAPON_MP40
+LANG_ENGLISH        "MP40"
+
+REFERENCE           WAW_WEAPON_MP40_UPGRADED
+LANG_ENGLISH        "Форсаж"
+
+REFERENCE           WAW_WEAPON_NO_FRAG_GRENADE
+LANG_ENGLISH        "Основных гранат не осталось"
+
+REFERENCE           WAW_WEAPON_PANZERSCHREK
+LANG_ENGLISH        "Панцершрек"
+
+REFERENCE           WAW_WEAPON_PANZERSCHREK_UPGRADED
+LANG_ENGLISH        "\"Лонгин\""
+
+REFERENCE           WAW_WEAPON_PPSH
+LANG_ENGLISH        "ППШ-41"
+
+REFERENCE           WAW_WEAPON_PPSH_UPGRADED
+LANG_ENGLISH        "\"Жнец\""
+
+REFERENCE           WAW_WEAPON_PTRS41
+LANG_ENGLISH        "ПТРС-41"
+
+REFERENCE           WAW_WEAPON_PTRS41_UPGRADED
+LANG_ENGLISH        "\"Пробиватель\""
+
+REFERENCE           WAW_WEAPON_RAY_GUN
+LANG_ENGLISH        "Лучевая пушка"
+
+REFERENCE           WAW_WEAPON_RAY_GUN_UPGRADED
+LANG_ENGLISH        "Лучемет X2"
+
+REFERENCE           WAW_WEAPON_RIFLEMAN
+LANG_ENGLISH        "Стрелок"
+
+REFERENCE           WAW_WEAPON_SHOTGUN
+LANG_ENGLISH        "M1897 \"Тренч Ган\""
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED
+LANG_ENGLISH        "Двустволка"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP
+LANG_ENGLISH        "Обрез двустволки с прикладом"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP_UPGRADED
+LANG_ENGLISH        "Табакерка"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_DOUBLE_BARRELED_UPGRADED
+LANG_ENGLISH        "24 калибр, дальнобойное"
+
+REFERENCE           WAW_WEAPON_SHOTGUN_UPGRADED
+LANG_ENGLISH        "Кишкодер"
+
+REFERENCE           WAW_WEAPON_SHOTGUNNER
+LANG_ENGLISH        "Стрелок из дробовика"
+
+REFERENCE           WAW_WEAPON_SNIPER
+LANG_ENGLISH        "Снайп. винтовка"
+
+REFERENCE           WAW_WEAPON_SPRINGFIELD
+LANG_ENGLISH        "Спрингфилд"
+
+REFERENCE           WAW_WEAPON_SPRINGFIELD_SCOPED_SP
+LANG_ENGLISH        "\"Спрингфилд\" с прицелом"
+
+REFERENCE           "WAW_WEAPON_STG-44"
+LANG_ENGLISH        "STG-44"
+
+REFERENCE           "WAW_WEAPON_STG-44_UPGRADED"
+LANG_ENGLISH        "Spatz-447 +"
+
+REFERENCE           WAW_WEAPON_SUBMACHINEGUNNER
+LANG_ENGLISH        "Стрелок из пистолета-пулемета"
+
+REFERENCE           WAW_WEAPON_SUPPORTGUNNER
+LANG_ENGLISH        "Стрелок поддержки"
+
+REFERENCE           WAW_WEAPON_TESLA_GUN
+LANG_ENGLISH        "Сверхоружие DG-2"
+
+REFERENCE           WAW_WEAPON_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "Сверхоружие DG-3 JZ"
+
+REFERENCE           WAW_WEAPON_THOMPSON
+LANG_ENGLISH        "Томпсон"
+
+REFERENCE           WAW_WEAPON_THOMPSON_UPGRADED
+LANG_ENGLISH        "Томпсоматика"
+
+REFERENCE           WAW_WEAPON_TYPE100_SMG
+LANG_ENGLISH        "Тип 100"
+
+REFERENCE           WAW_WEAPON_TYPE100_SMG_UPGRADED
+LANG_ENGLISH        "1001 Самурай"
+
+REFERENCE           WAW_WEAPON_TYPE99_RIFLE
+LANG_ENGLISH        "Арисака"
+
+REFERENCE           WAW_WEAPON_TYPE99_RIFLE_SCOPED_SP
+LANG_ENGLISH        "\"Арисака\" с прицелом"
+
+REFERENCE           WAW_WEAPON_TYPE99_RIFLE_UPGRADED
+LANG_ENGLISH        "\"Потрошильщик\""
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы использовать телепорт"
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TRAP
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать ловушку [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_AMMO_BOX
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести максимум боеприпасов [стоимость: все, что у вас есть, не менее 10000]"
+
+REFERENCE           WAW_ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы задействовать автоматическое орудие [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Вы уже купили прыгающие мины"
+
+REFERENCE           WAW_ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Нажмите ^3[{+actionslot 4}]^7, а затем ^3[{+attack}]^7, чтобы установить прыгающую мину"
+
+REFERENCE           WAW_ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Удерживайте^3[{+activate}]^7, чтобы приобрести прыгающую мину [стоимость: 1000 - только один раз ]"
+
+REFERENCE           WAW_ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы построить мост [Cost: 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести барьер [стоимость: 10]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести барьер [стоимость: 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести барьер [стоимость: 20]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести барьер [стоимость: 50]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 1250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 1750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы расчистить мусор [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 2500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 2500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать электрический барьер [стоимость: 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 10]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 20]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 30]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 40]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 50]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать огненный барьер [стоимость: 500]"
+
+REFERENCE           WAW_ZOMBIE_BUY_TESLA
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести орудие Тесла [стоимость: 10]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть кабинет [стоимость: 1000]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы открыть кабинет [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть кабинет [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть кабинет [стоимость: 500]"
+
+REFERENCE           WAW_ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Сначала нужно открыть ворота"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы воспользоваться тросом[стоимость: 1000]"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать трос"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "Сначала нужно задействовать трос"
+
+REFERENCE           WAW_ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы включить питание"
+
+REFERENCE           WAW_ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "Сначала надо включить питание"
+
+REFERENCE           WAW_ZOMBIE_GAME_OVER
+LANG_ENGLISH        "ИГРА ОКОНЧЕНА"
+
+REFERENCE           WAW_ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы взять улучшенное оружие"
+
+REFERENCE           WAW_ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "Требуется активировать телепорт"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Берлин, Германия"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Лечебница Виттенау"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Сентябрь, 1945"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_DATE
+LANG_ENGLISH        "Дата: неизвестно"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_PLACE
+LANG_ENGLISH        "Неподалеку от Бреслау, Германия"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_TIME
+LANG_ENGLISH        "Время: неизвестно"
+
+REFERENCE           WAW_ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "Связь установлена"
+
+REFERENCE           WAW_ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы переместиться к центральному компьютеру"
+
+REFERENCE           WAW_ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы использовать орудие [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Пиф-паф-пиво\" [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Быстроколу\" [стоимость: 3000]"
+
+REFERENCE           WAW_ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Удерживайте  ^3&&1^7, чтобы совершить покупку"
+
+REFERENCE           WAW_ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Джаггер-фанту\" [стоимость: 2500]"
+
+REFERENCE           WAW_ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Улучшайзер\" [стоимость: 5000]"
+
+REFERENCE           WAW_ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Реаниматор\" [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Зомби уничтожен!"
+
+REFERENCE           WAW_ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы установить связь с центральным компьютером"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Удвоение очков:"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Мгновенное убийство:"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Максимум боеприпасов!"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Зомби-бомба!"
+
+REFERENCE           WAW_ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь"
+
+REFERENCE           WAW_ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы вызвать лифт [стоимость: 500]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 650]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 850]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 950]"
+
+REFERENCE           WAW_ZOMBIE_ROUND
+LANG_ENGLISH        "Раунд"
+
+REFERENCE           WAW_ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "И да начнется бойня!"
+
+REFERENCE           WAW_ZOMBIE_ROUND_END
+LANG_ENGLISH        "Выжили в бойне"
+
+REFERENCE           WAW_ZOMBIE_START_TPAD
+LANG_ENGLISH        "Вернитесь к ядру"
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Раундов пережито: 1"
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Раундов пережито: &&1"
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "Телепорт готовится к работе."
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы переместиться к центральному компьютеру [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы торговать оружием"
+
+REFERENCE           WAW_ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать ловушку [стоимость: 1000]"
+
+REFERENCE           WAW_ZOMBIE_UNDEFINED
+LANG_ENGLISH        "затычка"
+
+REFERENCE           WAW_ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать орудие у фонтана [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы использовать телепорт [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Браунинг\" М1919 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Браунинг\" М1919 с сошками [стоимость: 3500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести BAR [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести BAR с сошками [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Базуку\" М9А1 [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести нож Боуи [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести \"Кольт\" [стоимость: 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести \"Кольт Хэви Дьюти\" [стоимость: 100]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести двустволку [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести обрез [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести DP-28 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести DP-28 с сошками [стоимость: 2500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести FG42 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести FG42 с сошками [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести FG42 с прицелом [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести гранату М2 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести Gewehr 43 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести Kar98k [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести Kar98k со штыком [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести Kar98k с прицелом [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести Kar98k со штыком и прицелом [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести карабин М1 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести карабин М1 со штыком [стоимость: 600]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести М1 \"Гаранд\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести М1 \"Гаранд\" со штыком [стоимость: 600]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести М1 \"Гаранд\" с винтовочной гранатой [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести огнемет [стоимость: 3000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести MG42 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести MG42 с сошками [стоимость: 3500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"коктейль Молотова\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести выстрелы для миномета [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку Мосина [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку Мосина [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку Мосина с винтовочной гранатой [стоимость: 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку Мосина с прицелом [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку Мосина с прицелом и штыком [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести MP40 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести пистолет \"Намбу\" [стоимость: 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Панцершрек\" [стоимость: 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести ППШ-41 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести ПТРС-41 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести лучемет [стоимость: 10000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести заряд взрывчатки [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести M1897 \"Тренч Ган\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Спрингфилд\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Спрингфилд\" со штыком [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Спрингфилд\" с прицелом [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Спрингфилд\" с прицелом и штыком [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести STG-44 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести гранату РГД-33 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести гранату-липучку [стоимость: 10]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести Штильгандгранате [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести СВТ-40 [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести \"Магнум\" .357 [стоимость: 100]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_THOMPSON_1200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести автомат Томпсона [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести ТТ-30 [стоимость: 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Тип-100\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести гранату \"Тип-97\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку \"Арисака\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Тип-99\" со штыком [стоимость: 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести ручной пулемет \"Тип-99\" [стоимость: &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести ручной пулемет \"Тип-99\" с сошками [стоимость: 2250]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку \"Арисака\" с прицелом [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести винтовку \"Арисака\" с прицелом и штыком [стоимость: 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести \"Вальтер\" P38 [стоимость: 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы приобрести \"Кольт Зомби\" [стоимость: 25]"
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7:  оружие [^3&&1^7], боеприпасы [&&2]"
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO_UPGRADE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7:  оружие [^3&&1^7], боеприпасы [&&2],   \n             улучшенные боеприпасы [4500]"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать трос"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "Сначала надо задействовать трос"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать трос [стоимость: 1500]"
+
+ENDMARKER

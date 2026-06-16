@@ -1,0 +1,487 @@
+// Dumped from fastfile "ge_wmd_sr71".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WMD_SR71_BARRACKS
+LANG_ENGLISH        "Kaserne"
+
+REFERENCE           WMD_SR71_CLEAR
+LANG_ENGLISH        "Sichern"
+
+REFERENCE           WMD_SR71_CLEAR_BARRACKS
+LANG_ENGLISH        "Sichern Sie die Kaserne."
+
+REFERENCE           WMD_SR71_COPILOT_NAME
+LANG_ENGLISH        "Maj. Thomas"
+
+REFERENCE           WMD_SR71_COVER
+LANG_ENGLISH        "Deckung"
+
+REFERENCE           WMD_SR71_DESTROY
+LANG_ENGLISH        "Detonieren"
+
+REFERENCE           WMD_SR71_DESTROY_COMMS
+LANG_ENGLISH        "Zerstören Sie die interne Kommunikationsanlage"
+
+REFERENCE           WMD_SR71_DETONATE
+LANG_ENGLISH        "Drücken Sie ^3[{+attack}]^7 zum Zünden."
+
+REFERENCE           WMD_SR71_ELIMINATE_ENEMIES
+LANG_ENGLISH        "Ausschalten"
+
+REFERENCE           WMD_SR71_ENEMY_LOCATION
+LANG_ENGLISH        "Feindposition"
+
+REFERENCE           WMD_SR71_EVADE_CONVOY
+LANG_ENGLISH        "Führen Sie Kilo 1 zum Unterschlupf."
+
+REFERENCE           WMD_SR71_EXIT_SR71
+LANG_ENGLISH        "Zum Verlassen ^3[{+activate}]^7 drücken"
+
+REFERENCE           WMD_SR71_FIND_COVER
+LANG_ENGLISH        "Auf dem Grat neu gruppieren"
+
+REFERENCE           WMD_SR71_FIRE_THRUSTERS
+LANG_ENGLISH        "Drücken Sie ^3[{+attack}]^7, um die Triebwerke zu zünden."
+
+REFERENCE           WMD_SR71_GET_TO_BARRACKS
+LANG_ENGLISH        "Räumen Sie die Kasernen und zerstören Sie die Funkstation"
+
+REFERENCE           WMD_SR71_GUIDE_KILO_TO_INSERTION_POINT
+LANG_ENGLISH        "Führen Sie Kilo 1 zum Einstiegspunkt"
+
+REFERENCE           WMD_SR71_HELP_EVADE_PATROL
+LANG_ENGLISH        "Schützen Sie Kilo 1"
+
+REFERENCE           WMD_SR71_INSERTION_POINT
+LANG_ENGLISH        "Einstiegspunkt"
+
+REFERENCE           WMD_SR71_INTRO_DATE
+LANG_ENGLISH        "^C1Beale-Luftwaffenstützpunkt, Kalifornien^C"
+
+REFERENCE           WMD_SR71_INTRO_EXTRA
+LANG_ENGLISH        "^LBlackbird-Aufklärer unterwegs, Codename:  BIGEYE^L"
+
+REFERENCE           WMD_SR71_INTRO_LEVELNAME
+LANG_ENGLISH        "^LÜbertragung Nr. 9-19. Kennung: SIERRA^L"
+
+REFERENCE           WMD_SR71_INTRO_LOCATION
+LANG_ENGLISH        "^L05:00 Uhr,^L ^C118. Februar 1968^C"
+
+REFERENCE           WMD_SR71_INTRO_NAME
+LANG_ENGLISH        "^LEinsatzleitung^L ^C1Captain Mosely^C"
+
+REFERENCE           WMD_SR71_JEEP_ENEMIES
+LANG_ENGLISH        "Schalten Sie Feinde beim Jeep aus."
+
+REFERENCE           WMD_SR71_KILLED_BY_HIT_BY_VEHICLE
+LANG_ENGLISH        "Halten Sie den Trupp von der Straße fern, um nicht auf Fahrzeuge zu treffen"
+
+REFERENCE           WMD_SR71_KILLED_BY_PATROLLER
+LANG_ENGLISH        "Befehlen Sie dem Trupp, sich einzugraben, um der Patrouille aus dem Weg zu gehen."
+
+REFERENCE           WMD_SR71_KILLED_BY_VEHICLE
+LANG_ENGLISH        "Befehlen Sie dem Trupp, sich einzugraben, um dem Konvoi aus dem Weg zu gehen."
+
+REFERENCE           WMD_SR71_LIFTOFF
+LANG_ENGLISH        "Zum Abheben ^3[{+movestick}]^7 nach hinten bewegen"
+
+REFERENCE           WMD_SR71_LOCATE_SQUAD
+LANG_ENGLISH        "Finden Sie Kilo 1"
+
+REFERENCE           WMD_SR71_MARK_TARGET
+LANG_ENGLISH        "^3[{+activate}]^7 drücken, um Feindposition zu markieren"
+
+REFERENCE           WMD_SR71_MOVE_CAMERA
+LANG_ENGLISH        "Für Kamerasteuerung ^3[{+lookstick}]^7 benutzen"
+
+REFERENCE           WMD_SR71_MOVE_EAST
+LANG_ENGLISH        "Führen Sie den Trupp nach Osten"
+
+REFERENCE           WMD_SR71_MOVE_OFFROAD
+LANG_ENGLISH        "Bringen Sie Kilo 1 in Sicherheit."
+
+REFERENCE           WMD_SR71_MOVE_SQUAD
+LANG_ENGLISH        "^3[{+gostand}]^7 drücken, um den Trupp zu kommandieren"
+
+REFERENCE           WMD_SR71_OBJ_SUPPORT
+LANG_ENGLISH        "Helfen"
+
+REFERENCE           WMD_SR71_PLANT
+LANG_ENGLISH        "Ladung platzieren"
+
+REFERENCE           WMD_SR71_PLANT_EXPLOSIVE
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7, um C4 zu platzieren."
+
+REFERENCE           WMD_SR71_PRONE_AVOID
+LANG_ENGLISH        "Drücken Sie ^3[{+melee}]^7, um dem Trupp den Befehl zu geben, sich einzugraben."
+
+REFERENCE           WMD_SR71_REGROUP_POINT
+LANG_ENGLISH        "Formieren Sie sich neu"
+
+REFERENCE           WMD_SR71_SAFE_SPOT
+LANG_ENGLISH        "Unterschlupf"
+
+REFERENCE           WMD_SR71_SQUAD_LABEL
+LANG_ENGLISH        "Kilo 1"
+
+REFERENCE           WMD_SR71_TARGET_ENEMY
+LANG_ENGLISH        "Befehlen Sie dem Trupp, die Wachen auszuschalten."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_001A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7K.A.D., hier BigEye sechs, erbitte Starterlaubnis."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_006A_USC3_F
+LANG_ENGLISH        "^1KOMMANDO: ^7BigEye 6, Sie haben Flugfreigabe."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_007A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Verstanden, K.A.D. Flugfreigabe."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_008A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Systemcheck abgeschlossen. Gehe auf vollen Schub. Ihre Maschine, Sir!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_009A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Verstanden."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_010A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7K.A.D., wir rollen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_011A_USC3_F
+LANG_ENGLISH        "^1KOMMANDO: ^7Verstanden, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_012A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7V-1. Hochziehen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_013A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7V-1 erreicht."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_014A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Und ... Startgeschwindigkeit."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_015A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Fahrwerk rein."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_016A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Fahrwerk rein, check."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_017A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7K.A.D., hier BigEye, sind unterwegs."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_032A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Bestätigt, ich hab sie."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_034A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo 1, hier BigEye Sechs, ich habe Sie im Bild."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_037A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nach Norden, Kilo!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_038A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, nach Norden."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_039A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, weiter nach Norden."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_040A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, sind unterwegs."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_041A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, nach Norden, over."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_042A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, nordwärts."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_043A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nach Süden, Kilo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_044A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_045A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Südliche Koordinaten markiert."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_046A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, südwärts."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_047A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nach Süden, Kilo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_048A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Auf dem Weg, over."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_049A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Sie müssen nach Osten, Kilo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_050A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Wir rücken ab."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_051A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nach Osten."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_052A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_053A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, weiter nach Osten."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_054A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_055A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nach Westen, Kilo 1."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_056A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Bewegen uns westwärts, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_057A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, sie müssen nach Westen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_058A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, sind unterwegs."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_059A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, nach Westen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_060A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Bestätigt."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_062A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden. Greife an."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_064A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden! Schalte ihn aus."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_065A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Zwei Ziele in Sicht, ausschalten!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_066A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_067A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, zwei Ziele auf dem Tac. Werden Sie sie los."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_068A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_069A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Drei Feinde in Reichweite. Eliminieren!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_070A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, initiiere Kontakt!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_071A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kontakt. Drei Ziele. Weg damit!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_072A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Sind schon dabei, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_073A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Mehrere Ziele in Sicht. Feuerfreigabe."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_074A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Roger, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_075A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Mehrere Ziele. Greifen Sie an."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_076A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, greife an."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_077A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Sie haben Gesellschaft, Kilo, schalten Sie sie aus."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_078A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, wir haben sie."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_079A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Tac zeigt ein Fahrzeug, ein fahrender Truck. Ausschalten!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_080A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, greifen den Truck an."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_081A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Fahrzeug nähert sich. Sieht nach Jeep aus."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_082A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Wir sehen ihn. Initiiere Kontakt."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_083A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Feindfahrzeuge in Reichweite. Aufhalten!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_084A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, BigEye. Wir machen das."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_102A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_106A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Schon unterwegs, BigEye."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_112A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Schon dabei."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_115A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nicht weiter, Kilo!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_116A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Halte die Position."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_117A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Sehr gut, Kilo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_118A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Alles sicher, Kilo."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_119A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Gebiet ist sicher. Gute Arbeit."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_120A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Alles gesichert, gut gemacht."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_121A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Sie haben es."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_122A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Ziel erfüllt."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_123A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Gute Arbeit, Kilo 1."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_124A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nett, wir rücken weiter vor."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_125A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Gebiet sicher. Klasse gemacht."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_127A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Aufklärung, ich sehe feindliche Fahrzeuge. Holen Sie die Männer von der Straße."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_134A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Mehrere Ziele auf der Straße. Bringen Sie Kilo da weg!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_135A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, es nähern sich Feinde. Sie müssen sofort verschwinden!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_136A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Runter! Runter!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_356A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Benutzen Sie die Zielanzeige, um Kilo 1 auf dem Tac zu finden."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_358A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Da ist wohl ein Gebäude im Norden. Bringen Sie sie rein."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_365A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Sie fahren am Haus vorbei."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_366A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Halt, nein. Der Feind hat vor dem Haus gehalten."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_367A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Der Feind kommt rein. Gehen Sie hinten raus und auf dem Hügel in Deckung. Position ist auf dem Tac markiert. Los!"
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_368A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Feindfahrzeug voraus, am Straßenrand. Auf dem Tac. Bewegung."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_400A_USC3_F
+LANG_ENGLISH        "^1KOMMANDO: ^7BigEye sechs, Starterlaubnis für Startbahn vier. "
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_401A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7K.A.D., bestätige Auftanken mit KC-135 in Sektor Bravo, Sechs Neun."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_402A_USC3_F
+LANG_ENGLISH        "^1KOMMANDO: ^7Bestätigt, BigEye 6, KC-135 ist im Sektor. Sie werden Sie dort treffen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_403A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, BigEye Sechs. Wir haben am Boden null Sicht. Sie müssen uns zum Kommunikationsrelais führen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_404A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Feindliche Infanterie greift an ... Ausschalten."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_405A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo 1, die Straße ist heiß. Gehen Sie über die Rückseite raus."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_406A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Ganz Negativ, Kilo 1."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_407A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Negativ, Kilo 1."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_408A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo, zwei Ziele sind auf dem Weg zu Ihnen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_409A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Ausschalten."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_410A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Gut gemacht, weiter."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_411B_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Ich sehe eine große Patrouille."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_413A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Bestätigt, Kilo 1, Sie sind außer Sichtweite."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_414A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Gut gemacht, weiter."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_415A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Alles frei, Kilo 1."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_416A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Die Männer sollen zu den Unterkünften. Ziel eins ist drinnen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_417A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, BigEye. Gehen rein."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_418A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Nähern uns den Unterkünften. Mehrere Ziele im Innern, vorstoßen und sichern, Kilo 1."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_419A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Interne Kommunikation unterbrochen. Stützpunkt ist dunkel. Weiter zu Ziel zwei."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_420A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Verstanden, Kilo 1."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_421A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo 1, Infanterie nähert sich, ich zähle sechs Ziele. Zu gefährlich."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_422A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Anhalten und in Deckung. Außer Sichtweite bleiben."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_423A_HUDS_F
+LANG_ENGLISH        "^1HUDSON: ^7Verstanden, BigEye ... gehen in Deckung."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_424A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7K.A.D. - Kilo 1 neutralisiert."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_425A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Kilo 1? Bitte melden, Kilo 1.."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_426A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7K.A.D. - Kilo 1 gefallen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_503A_USC2_F
+LANG_ENGLISH        "^1MAJ. NEITSCH: ^7Die Zielanzeige überprüfen."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_504A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Negativ, Kommando."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_505A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Bitte ignorieren, Ko-Pilot."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S01_506A_USC1_F
+LANG_ENGLISH        "^1CAPT. MOSELY: ^7Negativ."
+
+REFERENCE           WMD_SR71_VOX_WMD1_S99_813A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Blendgranate!"
+
+REFERENCE           WMD_SR71_ZOOM_IN
+LANG_ENGLISH        "Drücken Sie ^3[{+speed_throw}]^7, um Kamera heranzuzoomen"
+
+REFERENCE           WMD_SR71_ZOOM_OUT
+LANG_ENGLISH        "Drücken Sie ^3[{+attack}]^7, um Kamera herauszuzoomen."
+
+ENDMARKER

@@ -1,0 +1,244 @@
+// Dumped from fastfile "ja_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_JAPANESE       "ショベルは1度に1つしか運べない"
+
+REFERENCE           ZM_TOMB_EHT
+LANG_JAPANESE       "^3[{+activate}]^7 で ロボット・ヘッドから出る"
+
+REFERENCE           ZM_TOMB_BOR
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ライトニング・ロッド を拾う"
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで アイス・スタッフと交換"
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ワン・インチ・パンチを購入 [コスト: &&1]"
+
+REFERENCE           ZM_TOMB_NS
+LANG_JAPANESE       "掘るにはショベルが必要"
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ウィンド・スタッフと交換"
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ファイア・スタッフと交換"
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_JAPANESE       "^3[{+activate}]^7 で スタッフ"
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_JAPANESE       "^3[{+activate}]^7 で マキシス・ドローンを使う"
+
+REFERENCE           ZM_TOMB_X2D
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 掘る"
+
+REFERENCE           ZM_TOMB_PULS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ライトニング・スタッフと交換"
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで テレポーターにアクセス [コスト: &&1]"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_JAPANESE       "蓄音機は 別の場所に 置かれている"
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 戦車を呼ぶ [コスト: &&1]"
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_JAPANESE       "マキシス・ドローン"
+
+REFERENCE           ZM_TOMB_RU
+LANG_JAPANESE       "正しい記録が利用不能"
+
+REFERENCE           ZM_TOMB_CH1
+LANG_JAPANESE       "ノーマルゾンビヘッドショットを 115回達成しろ"
+
+REFERENCE           ZM_TOMB_RPP
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで パーク・ア・コーラを飲む"
+
+REFERENCE           ZM_TOMB_CRS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで スタッフを作る"
+
+REFERENCE           ZM_TOMB_INLS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ライトニング・スタッフを入れる"
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで レコードプレイヤーを 再生する"
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 蓄音機を拾う"
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 蓄音機を置く"
+
+REFERENCE           ZM_TOMB_CRF
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ファイア・スタッフを作る"
+
+REFERENCE           ZM_TOMB_RPE
+LANG_JAPANESE       "ワンダーフィズ・オーブは 現在他の場所にあるようだ"
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで &&1"
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 戦車を起動 [コスト: &&1]"
+
+REFERENCE           ZM_TOMB_INAS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ウィンド・スタッフを入れる"
+
+REFERENCE           ZM_TOMB_INFS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ファイア・スタッフを入れる"
+
+REFERENCE           ZM_TOMB_RPB
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで パーク・ア・コーラを買う [コスト:&&1]"
+
+REFERENCE           ZM_TOMB_CRA
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ウィンド・スタッフを作る"
+
+REFERENCE           ZM_TOMB_CRB
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで アーティレリー・ホーミング・ビーコン を作る"
+
+REFERENCE           ZM_TOMB_INWS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで アイス・スタッフを入れる"
+
+REFERENCE           ZM_TOMB_INS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで エレメンタル・クリスタルを入れる"
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ライトニング・ロッドを作る"
+
+REFERENCE           ZM_TOMB_CH3
+LANG_JAPANESE       "30000 ポイント消費しろ"
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで マキシス・ドローンを作る"
+
+REFERENCE           ZM_TOMB_ZC
+LANG_JAPANESE       "パワーをオンにする必要がある"
+
+REFERENCE           ZM_TOMB_CAP
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで115 ジェネレータで エリアにパワーを 供給する [コスト:&&1]"
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ゾンビ・シールドを作る"
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで アーティラリー・ホーミング・ビーコン を取る"
+
+REFERENCE           ZM_TOMB_TQ
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで マキシス・ドローンを使う"
+
+REFERENCE           ZM_TOMB_BOF
+LANG_JAPANESE       "ファイア・スタッフを入手した"
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで エジェクト"
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで マキシス・ドローンを拾う"
+
+REFERENCE           ZM_TOMB_CRW
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで アイス・ロッドを作る"
+
+REFERENCE           ZM_TOMB_CRL
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ライトニング・スタッフを作る"
+
+REFERENCE           ZM_TOMB_BOW
+LANG_JAPANESE       "アイス・スタッフを入手した"
+
+REFERENCE           ZM_TOMB_BOL
+LANG_JAPANESE       "ライトニング・スタッフを入手した"
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_JAPANESE       "115 コンバージョン・ジェネレーターは パワーアップ中"
+
+REFERENCE           ZM_TOMB_BOA
+LANG_JAPANESE       "ウィンド・スタッフを入手した"
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで タブレットを拾う"
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_JAPANESE       "ミュージカル・パーツ"
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_JAPANESE       "スタッフ・パーツ"
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_JAPANESE       "ゾンビシールド"
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでショベルを拾う"
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_JAPANESE       "エンジンをクールダウン中"
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_JAPANESE       "A 115 コンバージョン ジェネレーターが 攻撃されています"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_JAPANESE       "マキシス・ドローン 使用中"
+
+REFERENCE           ZM_TOMB_OSO
+LANG_JAPANESE       "スタッフは1度に1つしか運べない"
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_JAPANESE       "戦車が前進中"
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_JAPANESE       "勲章でチャレンジを確認"
+
+REFERENCE           ZM_TOMB_CH2
+LANG_JAPANESE       "6つの ジェネレーターを キャプチャーしろ"
+
+REFERENCE           ZM_TOMB_TELE
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでテレポーターにアクセス"
+
+REFERENCE           ZM_TOMB_RPU
+LANG_JAPANESE       "パワーをオンにする必要がある"
+
+REFERENCE           ZM_TOMB_CHT
+LANG_JAPANESE       "4つの箱を満たせ"
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 戦車を起動"
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで タブレットを拾う\n"
+
+REFERENCE           ZM_TOMB_RPT
+LANG_JAPANESE       "Perkは1度に &&1 個しかもてない"
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで タブレットを置く"
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで タブレットを置く"
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_JAPANESE       "ジェネレーターを攻撃から守れ"
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 報酬を受け取る"
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 報酬を選択"
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 箱を開ける"
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで音声ログを再生"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_JAPANESE       "[{+actionslot 1}] か [{+actionslot 2}] でアイテム変更"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_JAPANESE       "もうすでに持っています"
+
+ENDMARKER

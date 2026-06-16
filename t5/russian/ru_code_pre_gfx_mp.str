@@ -1,0 +1,211 @@
+// Dumped from fastfile "ru_code_pre_gfx_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLASS_ANTIARMOR
+LANG_ENGLISH        "Штурмовик"
+
+REFERENCE           CLASS_ANTIARMOR_UC
+LANG_ENGLISH        "Штурмовик"
+
+REFERENCE           CLASS_ASSAULT
+LANG_ENGLISH        "Гранатометчик"
+
+REFERENCE           CLASS_ASSAULT_UC
+LANG_ENGLISH        "Гранатометчик"
+
+REFERENCE           CLASS_CLASS
+LANG_ENGLISH        "Класс"
+
+REFERENCE           CLASS_CLASS1
+LANG_ENGLISH        "ПП"
+
+REFERENCE           CLASS_CLASS2
+LANG_ENGLISH        "Мастер ближнего боя"
+
+REFERENCE           CLASS_CLASS3
+LANG_ENGLISH        "Штурмовик"
+
+REFERENCE           CLASS_CLASS4
+LANG_ENGLISH        "Пулеметчик"
+
+REFERENCE           CLASS_CLASS5
+LANG_ENGLISH        "Снайпер"
+
+REFERENCE           CLASS_CLOSEQUARTERS
+LANG_ENGLISH        "Ближний бой"
+
+REFERENCE           CLASS_CLOSEQUARTERS_UC
+LANG_ENGLISH        "Мастер ближнего боя"
+
+REFERENCE           CLASS_CUSTOM1
+LANG_ENGLISH        "Штурмовик"
+
+REFERENCE           CLASS_CUSTOM10
+LANG_ENGLISH        "Индекс престижа 5"
+
+REFERENCE           CLASS_CUSTOM2
+LANG_ENGLISH        "Легкое оружие"
+
+REFERENCE           CLASS_CUSTOM3
+LANG_ENGLISH        "Тяжелое оружие"
+
+REFERENCE           CLASS_CUSTOM4
+LANG_ENGLISH        "Штурмовик: ближний бой"
+
+REFERENCE           CLASS_CUSTOM5
+LANG_ENGLISH        "Снайпер"
+
+REFERENCE           CLASS_CUSTOM6
+LANG_ENGLISH        "Индекс престижа 1"
+
+REFERENCE           CLASS_CUSTOM7
+LANG_ENGLISH        "Индекс престижа 2"
+
+REFERENCE           CLASS_CUSTOM8
+LANG_ENGLISH        "Индекс престижа 3"
+
+REFERENCE           CLASS_CUSTOM9
+LANG_ENGLISH        "Индекс престижа 4"
+
+REFERENCE           CLASS_DEFAULT_ASSAULT
+LANG_ENGLISH        "Штурмовик: стандартный"
+
+REFERENCE           CLASS_DEFAULT_HEAVYGUNNER
+LANG_ENGLISH        "Тяжелое оружие: стандартный"
+
+REFERENCE           CLASS_DEFAULT_SPECOPS
+LANG_ENGLISH        "Легкое оружие: стандартный"
+
+REFERENCE           CLASS_ENGINEER_UC
+LANG_ENGLISH        "Разведка"
+
+REFERENCE           CLASS_GRENADIER
+LANG_ENGLISH        "Гранатометчик"
+
+REFERENCE           CLASS_MARINES_CLASSES_CAPS
+LANG_ENGLISH        "КЛАССЫ МОРПЕХОВ"
+
+REFERENCE           CLASS_NEWPROF
+LANG_ENGLISH        "Вы приобрели новую специализацию:"
+
+REFERENCE           CLASS_OFFLINE_CLASS1
+LANG_ENGLISH        "Подрывник"
+
+REFERENCE           CLASS_OFFLINE_CLASS10
+LANG_ENGLISH        "Снайпер"
+
+REFERENCE           CLASS_OFFLINE_CLASS11
+LANG_ENGLISH        "M1 \"Гаранд\""
+
+REFERENCE           CLASS_OFFLINE_CLASS2
+LANG_ENGLISH        "Лазутчик"
+
+REFERENCE           CLASS_OFFLINE_CLASS3
+LANG_ENGLISH        "Специалист"
+
+REFERENCE           CLASS_OFFLINE_CLASS4
+LANG_ENGLISH        "Корректировщик"
+
+REFERENCE           CLASS_OFFLINE_CLASS5
+LANG_ENGLISH        "Пехотинец"
+
+REFERENCE           CLASS_OFFLINE_CLASS6
+LANG_ENGLISH        "Ветеран"
+
+REFERENCE           CLASS_OFFLINE_CLASS7
+LANG_ENGLISH        "Мститель"
+
+REFERENCE           CLASS_OFFLINE_CLASS8
+LANG_ENGLISH        "Охранник"
+
+REFERENCE           CLASS_OFFLINE_CLASS9
+LANG_ENGLISH        "Страж"
+
+REFERENCE           CLASS_OPFOR_CLASSES_CAPS
+LANG_ENGLISH        "КЛАССЫ ПРОТИВНИКА"
+
+REFERENCE           CLASS_PRESTIGE1
+LANG_ENGLISH        "Польз. 6"
+
+REFERENCE           CLASS_PRESTIGE1_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 6"
+
+REFERENCE           CLASS_PRESTIGE2
+LANG_ENGLISH        "Польз. 7"
+
+REFERENCE           CLASS_PRESTIGE2_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 7"
+
+REFERENCE           CLASS_PRESTIGE3
+LANG_ENGLISH        "Польз. 8"
+
+REFERENCE           CLASS_PRESTIGE3_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 8"
+
+REFERENCE           CLASS_PRESTIGE4
+LANG_ENGLISH        "Польз. 9"
+
+REFERENCE           CLASS_PRESTIGE4_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 9"
+
+REFERENCE           CLASS_PRESTIGE5
+LANG_ENGLISH        "Польз. 10"
+
+REFERENCE           CLASS_PRESTIGE5_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 10"
+
+REFERENCE           CLASS_PRESTIGE_UNCLASSIFY_DESC
+LANG_ENGLISH        "Рассекречивается на уровне престижа &&1."
+
+REFERENCE           CLASS_PRESTIGE_UNLOCK_DESC
+LANG_ENGLISH        "Доступно на уровне престижа &&1."
+
+REFERENCE           CLASS_PROFICIENCY
+LANG_ENGLISH        "Специализация"
+
+REFERENCE           CLASS_PROFICIENCY_EXPERT
+LANG_ENGLISH        "Эксперт"
+
+REFERENCE           CLASS_PROFICIENCY_MARKSMAN
+LANG_ENGLISH        "Снайпер"
+
+REFERENCE           CLASS_PROFICIENCY_SHARPSHOOTER
+LANG_ENGLISH        "Стрелок"
+
+REFERENCE           CLASS_PURCHASE_TO_UNLOCK
+LANG_ENGLISH        "Для просмотра испытания сделайте покупку (&&1)"
+
+REFERENCE           CLASS_RIFLEMAN
+LANG_ENGLISH        "Стрелок"
+
+REFERENCE           CLASS_SLOT1_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 1"
+
+REFERENCE           CLASS_SLOT2_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 2"
+
+REFERENCE           CLASS_SLOT3_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 3"
+
+REFERENCE           CLASS_SLOT4_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 4"
+
+REFERENCE           CLASS_SLOT5_CAPS
+LANG_ENGLISH        "ПОЛЬЗ. 5"
+
+REFERENCE           CLASS_SNIPER
+LANG_ENGLISH        "Снайпер"
+
+REFERENCE           CLASS_SNIPER_UC
+LANG_ENGLISH        "Снайпер"
+
+REFERENCE           CLASS_SUPPORT
+LANG_ENGLISH        "Поддержка"
+
+REFERENCE           CLASS_SUPPORT_UC
+LANG_ENGLISH        "Поддержка"
+
+ENDMARKER

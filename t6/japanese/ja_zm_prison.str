@@ -1,0 +1,154 @@
+// Dumped from fastfile "ja_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで Hell's Retriever を拾う"
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_JAPANESE       "^3[{+activate}]^7長押しで飛行機を作る"
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_JAPANESE       "^3[{+activate}]^7長押しでブランダーガットのアップグレードを作る"
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_JAPANESE       "ゴンドラ が起動しました"
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでファントラップ起動[コスト: &&1]"
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで洗たく機を起動"
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_JAPANESE       "^3[{+activate}]^7長押しでゾンビシールドを作る"
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ブランダーガットを 拾う"
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_JAPANESE       "^3[{+activate}]^7長押しで飛行機に燃料を補給"
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで Tommy Gun を購入 [コスト: &&1]"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_JAPANESE       "ショックでオーバーロード"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_JAPANESE       "飛行機にパーツが追加された"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_JAPANESE       "^3[{+activate}]^7 で Hell's Redeemer を拾う"
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_JAPANESE       "飛行機に燃料が追加された"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_JAPANESE       "^3[{+attack}]^7 でショック"
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_JAPANESE       "^3[{+activate}]^7 で飛行機に乗る"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_JAPANESE       "^3[{+gostand}]^7 で浮上"
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでゴンドラを呼ぶ"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 「死後の世界」に入る"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_JAPANESE       "ショックで電源を入れる"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_JAPANESE       "Warden のキーが必要"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_JAPANESE       "ドアにエネルギーが足りていない"
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_JAPANESE       "アシッドトラップ使用不能"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_JAPANESE       "[{+activate}] 長押しで ブランダーガットを アシッドガットに変換する"
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_JAPANESE       "[{+activate}] 長押しで 変換した武器を取る"
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで エレキチェリーを購入 [コスト: &&1]"
+
+REFERENCE           ZM_PRISON_BAD
+LANG_JAPANESE       "ループは継続する・・・"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_JAPANESE       "^3[{+attack}]^7 でシールドを配置"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_JAPANESE       "^3[{+melee}]^7 でシールド攻撃"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_JAPANESE       "[{+actionslot 1}] か [{+actionslot 2}] でアイテム変更"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_JAPANESE       "^3[{+smoke}]^7 を押して Retriever を投げる"
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_JAPANESE       "シールド"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_JAPANESE       "ループが崩壊した！"
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_JAPANESE       "アシッドガットキット"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_JAPANESE       "飛行機のパーツ"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_JAPANESE       "^3[{+activate}]^7 で電気イスを起動"
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_JAPANESE       "^3[{+activate}]^7 で離陸開始"
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで開く"
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_JAPANESE       "ファントラップ使用不能"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで アシッドトラップ を起動[コスト: &&1]"
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでタワートラップを起動 [コスト: &&1]"
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでゴンドラ使用[コスト: &&1]"
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_JAPANESE       "ゴンドラにエネルギーが足りていない"
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_JAPANESE       "ゴンドラはリチャージ中"
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで アシッドガットを拾う"
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_JAPANESE       "ブランダーガットが必要"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_JAPANESE       "もう後がないぞ・・・"
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_JAPANESE       "ライフオーバー"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_JAPANESE       "もうすでに持っています"
+
+ENDMARKER

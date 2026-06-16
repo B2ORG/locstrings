@@ -1,0 +1,877 @@
+// Dumped from fastfile "ge_cuba".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUBA_3D_ASSASINATE
+LANG_ENGLISH        "Ausschalten"
+
+REFERENCE           CUBA_3D_BREACH
+LANG_ENGLISH        "Vorstoß"
+
+REFERENCE           CUBA_3D_ENTER
+LANG_ENGLISH        "Einsteigen"
+
+REFERENCE           CUBA_3D_FOLLOW
+LANG_ENGLISH        "Folgen"
+
+REFERENCE           CUBA_3D_MELEE
+LANG_ENGLISH        "Nahkampf"
+
+REFERENCE           CUBA_3D_PICKUP
+LANG_ENGLISH        "Aufnehmen"
+
+REFERENCE           CUBA_3D_POSITION
+LANG_ENGLISH        "Ziel"
+
+REFERENCE           CUBA_3D_SQUAD
+LANG_ENGLISH        "Trupp"
+
+REFERENCE           CUBA_3D_SUPPORT
+LANG_ENGLISH        "Unterstützen"
+
+REFERENCE           CUBA_3D_USE
+LANG_ENGLISH        "Benutzen"
+
+REFERENCE           CUBA_AIRFIELD_RAPPEL
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 zum Abseilen"
+
+REFERENCE           CUBA_AIRFIELD_WARNING1
+LANG_ENGLISH        "Steigen Sie in das Flugzeug und entkommen Sie!"
+
+REFERENCE           CUBA_AIRFIELD_WARNING2
+LANG_ENGLISH        "Hier ist es nicht sicher! In das Flugzeug!"
+
+REFERENCE           CUBA_COMPOUND
+LANG_ENGLISH        "Einrichtung"
+
+REFERENCE           CUBA_CONTEXTUAL_MELEE_HUD
+LANG_ENGLISH        "Drücken Sie hinter der Wache ^3[{+melee}]^7, um sie auszuschalten"
+
+REFERENCE           CUBA_FAIL_BLEW_COVER
+LANG_ENGLISH        "Durch Ihre Aktionen wurde Ihr Team getötet."
+
+REFERENCE           CUBA_FAIL_CARLOS_DEAD
+LANG_ENGLISH        "Carlos ist tot!"
+
+REFERENCE           CUBA_FAIL_CASTRO_KILLED_PLAYER
+LANG_ENGLISH        "Sie wurden von Castro getötet."
+
+REFERENCE           CUBA_FAIL_MORTAR
+LANG_ENGLISH        "Sie sind nicht bei Ihrem Team geblieben."
+
+REFERENCE           CUBA_FAIL_PROTECT
+LANG_ENGLISH        "Sie haben das Flugzeug nicht beschützt."
+
+REFERENCE           CUBA_FAIL_TAKEOFF
+LANG_ENGLISH        "Ihr Trupp wurde ausgelöscht."
+
+REFERENCE           CUBA_GEARUP_HUD
+LANG_ENGLISH        "Drücken Sie ^3[{+activate}]^7, um die Waffenkiste zu öffnen"
+
+REFERENCE           CUBA_HINT_ADS
+LANG_ENGLISH        "Drücken Sie ^3[{+speed_throw}]^7, um die Zielvorrichtung zu benutzen."
+
+REFERENCE           CUBA_HINT_ALT_WEAPON
+LANG_ENGLISH        "Drücken Sie ^3[{+actionslot 3}]^7 für den M203-Granatwerfer"
+
+REFERENCE           CUBA_HINT_DRIVE_DUCK
+LANG_ENGLISH        "Drücken Sie ^3[{+stance}]^7 zum Ducken"
+
+REFERENCE           CUBA_HINT_DRIVE_FORWARD
+LANG_ENGLISH        "Halten Sie ^3[{+attack}]^7 zum Gasgeben"
+
+REFERENCE           CUBA_HINT_DRIVE_REVERSE
+LANG_ENGLISH        "Halten Sie ^3[{+speed_throw}]^7 für den Rückwärtsgang."
+
+REFERENCE           CUBA_INTROSCREEN_DATE
+LANG_ENGLISH        "^L05:00 Uhr, ^L ^C117. April 1961 ^C"
+
+REFERENCE           CUBA_INTROSCREEN_PLACE
+LANG_ENGLISH        "^LOP 40-Team eingeschleust mit^L ^C1Schweinebucht^C^L-Streitkräften in^L ^C1Kuba^C"
+
+REFERENCE           CUBA_INTROSCREEN_TARGET
+LANG_ENGLISH        "^LZiel: Fidel Castro^L"
+
+REFERENCE           CUBA_INTROSCREEN_TEAM
+LANG_ENGLISH        "^LWoods, Bowman, ^L^C1Mason^C ^Ltreffen Kontakt bei Santa Maria^L"
+
+REFERENCE           CUBA_INTROSCREEN_TITLE
+LANG_ENGLISH        "^LÜbertragung Nr. 15-18. Kennung: X-RAY^L"
+
+REFERENCE           CUBA_OBJECTIVE_AAGUN
+LANG_ENGLISH        "Benutzen Sie die ZPU, um die Startbahn zu räumen"
+
+REFERENCE           CUBA_OBJECTIVE_AIRFIELD
+LANG_ENGLISH        "Gelangen Sie zum Flugfeld"
+
+REFERENCE           CUBA_OBJECTIVE_CAR
+LANG_ENGLISH        "Verlassen Sie die Straßen"
+
+REFERENCE           CUBA_OBJECTIVE_COMPOUND
+LANG_ENGLISH        "Finden und erledigen Sie Castro"
+
+REFERENCE           CUBA_OBJECTIVE_ESCAPE
+LANG_ENGLISH        "Entkommen Sie vom Gelände"
+
+REFERENCE           CUBA_OBJECTIVE_PLANE
+LANG_ENGLISH        "Gelangen Sie zum Flugzeug"
+
+REFERENCE           CUBA_OBJECTIVE_PROTECT_PLANE
+LANG_ENGLISH        "Schützen Sie das Flugzeug vor Schaden"
+
+REFERENCE           CUBA_OBJECTIVE_RAPPEL
+LANG_ENGLISH        "Seilen Sie sich zum Flugfeld ab"
+
+REFERENCE           CUBA_OBJECTIVE_STREET
+LANG_ENGLISH        "Entkommen Sie der Polizei"
+
+REFERENCE           CUBA_OBJECTIVE_ZIPLINE
+LANG_ENGLISH        "Dringen Sie mit Hilfe der Seilrutsche in das Gelände ein"
+
+REFERENCE           CUBA_PLAYER_SHOT_PLANE
+LANG_ENGLISH        "Sie haben Ihren Trupp erledigt."
+
+REFERENCE           CUBA_PROPELLER_DEATH
+LANG_ENGLISH        "Kopf runter!"
+
+REFERENCE           CUBA_SKIPTO_AIRFIELD
+LANG_ENGLISH        "Flugfeld"
+
+REFERENCE           CUBA_SKIPTO_ALLEY
+LANG_ENGLISH        "Gasse"
+
+REFERENCE           CUBA_SKIPTO_ASSASINATION
+LANG_ENGLISH        "Castro-Attentat"
+
+REFERENCE           CUBA_SKIPTO_BAR
+LANG_ENGLISH        "Bar"
+
+REFERENCE           CUBA_SKIPTO_CAPTURED
+LANG_ENGLISH        "Eingenommen"
+
+REFERENCE           CUBA_SKIPTO_COMPOUND
+LANG_ENGLISH        "Gelände"
+
+REFERENCE           CUBA_SKIPTO_COURTYARD
+LANG_ENGLISH        "Hof"
+
+REFERENCE           CUBA_SKIPTO_DRIVE
+LANG_ENGLISH        "Fahrt"
+
+REFERENCE           CUBA_SKIPTO_ESCAPE
+LANG_ENGLISH        "Fliehen Sie"
+
+REFERENCE           CUBA_SKIPTO_MANSION
+LANG_ENGLISH        "Anwesen"
+
+REFERENCE           CUBA_SKIPTO_STREET
+LANG_ENGLISH        "Straße"
+
+REFERENCE           CUBA_SKIPTO_ZIPLINE
+LANG_ENGLISH        "Seilrutsche"
+
+REFERENCE           CUBA_SPRINT_HINT
+LANG_ENGLISH        "Drücken Sie ^3[{+breath_sprint}]^7 zum Sprinten"
+
+REFERENCE           CUBA_VOX_CUB1_S01_001A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Woods. Lange nicht gesehen."
+
+REFERENCE           CUBA_VOX_CUB1_S01_007A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Wie kommen wir wieder weg?"
+
+REFERENCE           CUBA_VOX_CUB1_S01_008A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Wir werden auf euch warten. Seht zu, dass ihr da seid."
+
+REFERENCE           CUBA_VOX_CUB1_S01_009A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Ausgezeichnet."
+
+REFERENCE           CUBA_VOX_CUB1_S01_010A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Wir haben Gesellschaft."
+
+REFERENCE           CUBA_VOX_CUB1_S01_017A_MCPT_M
+LANG_ENGLISH        "^1MILIZ-CAPTAIN: ^7Ich sagte, wo kommst du her?"
+
+REFERENCE           CUBA_VOX_CUB1_S01_018A_MCPT_M
+LANG_ENGLISH        "^1MILIZ-CAPTAIN: ^7Ich rede mit dir!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_019A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Okay - alles ist bereit."
+
+REFERENCE           CUBA_VOX_CUB1_S01_019B_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Die Waffen sind bereit."
+
+REFERENCE           CUBA_VOX_CUB1_S01_020A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Tut mir leid wegen der Bar, Carlos."
+
+REFERENCE           CUBA_VOX_CUB1_S01_021A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Kein Problem. Meine Männer kümmern sich um die Leichen."
+
+REFERENCE           CUBA_VOX_CUB1_S01_022A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Nehmt, was ihr braucht."
+
+REFERENCE           CUBA_VOX_CUB1_S01_024A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Gut. Die Straßen sollten leer sein. Die Regierung hat allen Kubanern befohlen, in ihren Häusern zu bleiben und sich kampfbereit zu machen."
+
+REFERENCE           CUBA_VOX_CUB1_S01_025A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Sie rechnen mit der Invasion - nicht mit dem, was wir tun."
+
+REFERENCE           CUBA_VOX_CUB1_S01_026A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Gehen wir ..."
+
+REFERENCE           CUBA_VOX_CUB1_S01_028A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Die Polizei!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_030A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Kommunisten-Hunde! Speichellecker ..."
+
+REFERENCE           CUBA_VOX_CUB1_S01_031A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Aber jetzt sind sie uns im Weg."
+
+REFERENCE           CUBA_VOX_CUB1_S01_032A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Beseitigen! Und die Straße hinauf."
+
+REFERENCE           CUBA_VOX_CUB1_S01_033A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir sind wegen Castro hier."
+
+REFERENCE           CUBA_VOX_CUB1_S01_034A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Gut. Hier muss ich euch verlassen, Freunde."
+
+REFERENCE           CUBA_VOX_CUB1_S01_034B_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Wir sehen uns am Flugplatz! Suerte, Freunde!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_035A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Es geht da lang. Auf dem Weg geht's zu Castros Anlage."
+
+REFERENCE           CUBA_VOX_CUB1_S01_036A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Schieß ihm eine Kugel direkt zwischen die Augen."
+
+REFERENCE           CUBA_VOX_CUB1_S01_037A_CARL_M
+LANG_ENGLISH        "^1CARLOS: ^7Okay, wir sehen uns am Flugplatz. Viel Glück ..."
+
+REFERENCE           CUBA_VOX_CUB1_S01_038A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Für dich auch, Carlos ... Dann los."
+
+REFERENCE           CUBA_VOX_CUB1_S01_040A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Genau nach Plan."
+
+REFERENCE           CUBA_VOX_CUB1_S01_041A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Hoffentlich verstehen die kubanischen Piloten ihr Handwerk - sonst wird das eine kurze Revolution."
+
+REFERENCE           CUBA_VOX_CUB1_S01_043A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Da ist die Anlage. Carlos und seine Leute sollten jeden Moment den Flugplatz angreifen ..."
+
+REFERENCE           CUBA_VOX_CUB1_S01_044A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Das ist das Signal ... Jetzt!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_045A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Einklinken. Es geht los."
+
+REFERENCE           CUBA_VOX_CUB1_S01_200A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Bin festgenagelt!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_201A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sind auf dem Weg!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_202A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sind auf dem Weg!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_204A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Ich kann sie nicht länger aufhalten!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_206A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Okay, Bewegung!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_207A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Hinter uns!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_208A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Hinter uns!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_500A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Die Polizei wird gleich hier sein. Machen wir schnell."
+
+REFERENCE           CUBA_VOX_CUB1_S01_503A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Cool bleiben, Woods. Abwarten."
+
+REFERENCE           CUBA_VOX_CUB1_S01_504A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Bereitmachen, Jungs."
+
+REFERENCE           CUBA_VOX_CUB1_S01_504B_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Hier, mein Freund."
+
+REFERENCE           CUBA_VOX_CUB1_S01_505A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Die Polizei!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_506A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Die Insassen steigen aus - sie tragen Schrotflinten."
+
+REFERENCE           CUBA_VOX_CUB1_S01_507A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Sie rechnen mit der Invasion."
+
+REFERENCE           CUBA_VOX_CUB1_S01_508A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Scheiß auf die Invasion. Wir sind wegen Castro hier."
+
+REFERENCE           CUBA_VOX_CUB1_S01_508A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Wir sind wegen Castro hier."
+
+REFERENCE           CUBA_VOX_CUB1_S01_509A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman, Carlos - Feuerschutz geben. Wir kämpfen uns durch die Straßen vor."
+
+REFERENCE           CUBA_VOX_CUB1_S01_510A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason - zu mir."
+
+REFERENCE           CUBA_VOX_CUB1_S01_511A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Feuer frei!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_512A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman! Nach rechts!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_513A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Schon dabei."
+
+REFERENCE           CUBA_VOX_CUB1_S01_514A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Los - Bewegung!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_515A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Verstärkung!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_516A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, es sind zu viele!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_516A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, es sind zu viele!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_517A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Hier lang - in die Gasse."
+
+REFERENCE           CUBA_VOX_CUB1_S01_518A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman - Rückendeckung!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_519A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zum Wagen!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_520A_MASO
+LANG_ENGLISH        "^1MASON: ^7Na los ... na los."
+
+REFERENCE           CUBA_VOX_CUB1_S01_521A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Beeilung, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_522A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ja, ja."
+
+REFERENCE           CUBA_VOX_CUB1_S01_523A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gas! Los!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_524A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Verdammt!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_525A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Aus dem Weg, verdammt!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_525A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Aus dem Weg, verdammt!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_526A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Straßensperre!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_527A_MASO
+LANG_ENGLISH        "^1MASON: ^7Das seh ich!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_528A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gib Gas, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S01_529A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason, hier drüben."
+
+REFERENCE           CUBA_VOX_CUB1_S01_530A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir dürfen keine Zeit verlieren."
+
+REFERENCE           CUBA_VOX_CUB1_S01_531A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Beeilung."
+
+REFERENCE           CUBA_VOX_CUB1_S01_950A_INTE
+LANG_ENGLISH        "^1VERNEHMER: ^7Wir verlieren ihn. Mason! Sie waren der Miliz entwischt. Die Invasion\nder Schweinebucht hatte begonnen. Sie waren unterwegs zu Castros Anlage ..."
+
+REFERENCE           CUBA_VOX_CUB1_S01_951A_INTE
+LANG_ENGLISH        "^1VERNEHMER: ^7Wir verlieren ihn. Nochmal, wir haben keine Wahl."
+
+REFERENCE           CUBA_VOX_CUB1_S01_952A_MASO
+LANG_ENGLISH        "^1MASON: ^7AARRRGH! Was soll das?"
+
+REFERENCE           CUBA_VOX_CUB1_S01_952A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7AARRRGH! Was soll das?"
+
+REFERENCE           CUBA_VOX_CUB1_S01_953A_MASO
+LANG_ENGLISH        "^1MASON: ^7Oh ja ... Dragovich tat es sicher."
+
+REFERENCE           CUBA_VOX_CUB1_S01_954A_MASO
+LANG_ENGLISH        "^1MASON: ^7Lev Kravchenko. Sadistisch, böse ..."
+
+REFERENCE           CUBA_VOX_CUB1_S01_955A_MASO
+LANG_ENGLISH        "^1MASON: ^7Aber er war nichts verglichen mit Dragovich."
+
+REFERENCE           CUBA_VOX_CUB1_S02_051A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Perfekt. Alles konzentriert sich auf den Flugplatz."
+
+REFERENCE           CUBA_VOX_CUB1_S02_052A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wartet ... Lasst sie passieren."
+
+REFERENCE           CUBA_VOX_CUB1_S02_053A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman - linke Flanke."
+
+REFERENCE           CUBA_VOX_CUB1_S02_054A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, schalte den Turm aus."
+
+REFERENCE           CUBA_VOX_CUB1_S02_055A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Na los."
+
+REFERENCE           CUBA_VOX_CUB1_S02_056A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Hier lang - die Treppe hoch."
+
+REFERENCE           CUBA_VOX_CUB1_S02_057A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sieht aus, als hätten sie uns erwartet."
+
+REFERENCE           CUBA_VOX_CUB1_S02_058A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Castro ist paranoid - aus gutem Grund. Wir versuchen\nseit drei Jahren, an ihn ranzukommen."
+
+REFERENCE           CUBA_VOX_CUB1_S02_059A_MASO
+LANG_ENGLISH        "^1MASON: ^7Heute haben wir damit Erfolg."
+
+REFERENCE           CUBA_VOX_CUB1_S02_060A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Hinein. Los."
+
+REFERENCE           CUBA_VOX_CUB1_S02_061A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S02_062A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, wach auf, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S02_062A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Wach auf, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S02_063A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman - nimm das Dach."
+
+REFERENCE           CUBA_VOX_CUB1_S02_064A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wenn's Ärger gibt, dann schrei."
+
+REFERENCE           CUBA_VOX_CUB1_S02_065A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Erledigt."
+
+REFERENCE           CUBA_VOX_CUB1_S02_066A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Das Ziel sollte da vorn sein."
+
+REFERENCE           CUBA_VOX_CUB1_S02_067A_MASO
+LANG_ENGLISH        "^1MASON: ^7Roger."
+
+REFERENCE           CUBA_VOX_CUB1_S02_068A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Was zum Teufel?"
+
+REFERENCE           CUBA_VOX_CUB1_S02_068A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Was zum Teufel?"
+
+REFERENCE           CUBA_VOX_CUB1_S02_069A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman - was ist los?"
+
+REFERENCE           CUBA_VOX_CUB1_S02_070A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Die B26er! Die bombardieren einfach alles hier!"
+
+REFERENCE           CUBA_VOX_CUB1_S02_071A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ohne Scheiß ..."
+
+REFERENCE           CUBA_VOX_CUB1_S02_071A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Ohne Scheiß ..."
+
+REFERENCE           CUBA_VOX_CUB1_S02_072A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Durchhalten. Keine fünf Minuten ..."
+
+REFERENCE           CUBA_VOX_CUB1_S02_073A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Drinnen bewegt sich was. In Position!"
+
+REFERENCE           CUBA_VOX_CUB1_S02_074A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7So. Bereit, Geschichte zu schreiben?"
+
+REFERENCE           CUBA_VOX_CUB1_S02_075A_MASO
+LANG_ENGLISH        "^1MASON: ^7Tun wir's."
+
+REFERENCE           CUBA_VOX_CUB1_S02_076A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Verrücktes Luder. Er nimmt sie als Geisel und\nsie schützt ihn auch noch?"
+
+REFERENCE           CUBA_VOX_CUB1_S02_076A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Er nimmt sie als Geisel und sie schützt ihn auch noch?"
+
+REFERENCE           CUBA_VOX_CUB1_S02_077A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Castros Anhänger sind ihm alle fanatisch ergeben."
+
+REFERENCE           CUBA_VOX_CUB1_S02_077B_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Castros Anhänger sind Fanatiker. Sie würden für ihn sterben."
+
+REFERENCE           CUBA_VOX_CUB1_S02_078A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Kommunisten ... Die werd ich nie verstehen."
+
+REFERENCE           CUBA_VOX_CUB1_S02_532A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason - schalte ihn aus."
+
+REFERENCE           CUBA_VOX_CUB1_S02_533A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Konvoi voraus. Nicht angreifen."
+
+REFERENCE           CUBA_VOX_CUB1_S02_534A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason - zu mir."
+
+REFERENCE           CUBA_VOX_CUB1_S02_535A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason - zu mir. Wir suchen jeden Raum ab, bis wir Castro haben."
+
+REFERENCE           CUBA_VOX_CUB1_S02_536A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Okay - sammeln."
+
+REFERENCE           CUBA_VOX_CUB1_S02_537A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason. Hier drüben."
+
+REFERENCE           CUBA_VOX_CUB1_S02_538A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Worauf wartest du? Komm schon."
+
+REFERENCE           CUBA_VOX_CUB1_S02_539A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bereit?"
+
+REFERENCE           CUBA_VOX_CUB1_S02_540A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bereit."
+
+REFERENCE           CUBA_VOX_CUB1_S02_541A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman - das Nest ist leer. Wir gehen weiter."
+
+REFERENCE           CUBA_VOX_CUB1_S02_542A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Beeilt euch lieber. Die B26er werfen gleich ihre Bomben ab."
+
+REFERENCE           CUBA_VOX_CUB1_S03_079A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman - das Ziel ist ausgeschaltet."
+
+REFERENCE           CUBA_VOX_CUB1_S03_080A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Schlechte Nachrichten von Carlos. Sie halten kaum durch - die halbe kubanische Armee ist da unten!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_081A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Und die B26er treffen nicht!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_082A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Okay, wir kommen schon."
+
+REFERENCE           CUBA_VOX_CUB1_S03_083A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman! Nach rechts!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_084A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason - zu mir."
+
+REFERENCE           CUBA_VOX_CUB1_S03_085A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7VERDAMMT!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_086A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir müssen hier weg, bevor die verdammten Flugzeuge\nKleinholz aus uns machen!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_086A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Wir müssen hier weg, bevor die verdammten Flugzeuge Kleinholz aus uns machen!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_087A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Los! Raus!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_088A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Das sieht nicht gut aus. Es sind zu viele!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_089A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Carlos ... Was ist los?"
+
+REFERENCE           CUBA_VOX_CUB1_S03_090A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Carlos?"
+
+REFERENCE           CUBA_VOX_CUB1_S03_091A_CARL_F
+LANG_ENGLISH        "^1CARLOS: ^7Ich lass dich doch nicht im Stich, Woods."
+
+REFERENCE           CUBA_VOX_CUB1_S03_092A_CARL_F
+LANG_ENGLISH        "^1CARLOS: ^7Los ... Beeilung, meine Freunde!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_093A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gott schütze dich, Carlos."
+
+REFERENCE           CUBA_VOX_CUB1_S03_094A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Hier lang - in die Zuckerrohrfelder!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_095A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Da ist der Flugplatz."
+
+REFERENCE           CUBA_VOX_CUB1_S03_096A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Hoffentlich hat Carlos die Evakuierung im Griff."
+
+REFERENCE           CUBA_VOX_CUB1_S03_097A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Der lässt uns nicht im Stich."
+
+REFERENCE           CUBA_VOX_CUB1_S03_098A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Die Rebellen kriegen den Arsch versohlt!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_098A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Die Rebellen kriegen den Arsch versohlt!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_099A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir gehen besser runter - einklinken ..."
+
+REFERENCE           CUBA_VOX_CUB1_S03_100A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Los!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_543A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Ich geh zum Hauptgang."
+
+REFERENCE           CUBA_VOX_CUB1_S03_544A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Carlos' Leute sollten hier sein!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_545A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sie kommen - über die östliche Mauer!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_546A_CARL_F
+LANG_ENGLISH        "^1CARLOS: ^7Meine Männer decken eure Flucht."
+
+REFERENCE           CUBA_VOX_CUB1_S03_547A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Durch das Tor. Los!"
+
+REFERENCE           CUBA_VOX_CUB1_S03_548A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Wir haben keine Zeit zu verlieren!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_101A_CARL_F
+LANG_ENGLISH        "^1CARLOS: ^7Woods! Es hat keinen Zweck. Ihr müsst hier verschwinden!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_102A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ist unsere Mitfahrgelegenheit da?"
+
+REFERENCE           CUBA_VOX_CUB1_S04_103A_CARL_F
+LANG_ENGLISH        "^1CARLOS: ^7Das Flugzeug ist bereit ... aber wenn wir abheben, zerfetzen sie uns!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_104A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Eins nach dem anderen, Bruder."
+
+REFERENCE           CUBA_VOX_CUB1_S04_105A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Los geht's ... Bewegung!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_106A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Schnell!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_107A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Lauft!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_108A_CARL
+LANG_ENGLISH        "^1CARLOS: ^7Wir können nicht länger warten!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_110A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Mach schon!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_111A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gib uns Deckung, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_112A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Das Flugzeug muss irgendwie heil bleiben!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_113A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sie versuchen, die Triebwerke zu zerstören!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_114A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Scheiße! Kaliber 50!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_114A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Kaliber 50!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_115A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Woods! Wir haben ein Problem!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_116A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Die Scheiß-Fahrzeuge blockieren die Startbahn!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_116A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Die Scheiß-Fahrzeuge blockieren die Startbahn!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_117A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mist, wir haben nicht genug Platz zum Abheben!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_118A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich erledige das!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_119A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Was hast du vor?"
+
+REFERENCE           CUBA_VOX_CUB1_S04_120A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_121A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Sie sind tot ... Wir haben Sie getötet ..."
+
+REFERENCE           CUBA_VOX_CUB1_S04_122A_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7Nein ... meinen Doppelgänger. Dachten Sie, Ihr Plan wäre geheim?"
+
+REFERENCE           CUBA_VOX_CUB1_S04_123A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7Wir wissen alles ..."
+
+REFERENCE           CUBA_VOX_CUB1_S04_124A_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7Machen Sie mit ihm, was Sie wollen. Betrachten Sie ihn als Geschenk unserer neuen Beziehung ..."
+
+REFERENCE           CUBA_VOX_CUB1_S04_125A_CAST_M
+LANG_ENGLISH        "^1CASTRO: ^7Aber ... sorgen Sie dafür, dass er leidet ..."
+
+REFERENCE           CUBA_VOX_CUB1_S04_126A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7Das wird er - mehr als in seiner dunkelsten Vorstellung ..."
+
+REFERENCE           CUBA_VOX_CUB1_S04_127A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH: ^7Ich habe Pläne für dich, Amerikaner ..."
+
+REFERENCE           CUBA_VOX_CUB1_S04_549A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Schalte die ZPUs aus!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_550A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Die lassen uns nicht kampflos abziehen!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_551A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Raketenwerfer im Turm!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_552A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Scheiße! Werde beschossen!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_552A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Scheiße! Werde beschossen!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_553A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Die Kiste fällt bald auseinander!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_554A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich weiß, Bowman."
+
+REFERENCE           CUBA_VOX_CUB1_S04_555A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, bist du verrückt? Die machen Kleinholz aus dir!"
+
+REFERENCE           CUBA_VOX_CUB1_S04_556A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ich hab keine Wahl, Woods. Dafür bin ich doch hier."
+
+REFERENCE           CUBA_VOX_CUB1_S04_557A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Scheiße, Mason ..."
+
+REFERENCE           CUBA_VOX_CUB1_S04_558A_MASO
+LANG_ENGLISH        "^1MASON: ^7Die Startbahn ist frei."
+
+REFERENCE           CUBA_VOX_CUB1_S04_559A_MASO
+LANG_ENGLISH        "^1MASON: ^7Alles gut. Los - weg hier!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_400A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, schnapp dir das Seil, los!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_401A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, wir müssen los!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_402A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Einklinken!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_403A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, Beeilung!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_404A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, schalte die Raketenwerfer aus!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_405A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, schütz das Flugzeug!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_406A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Diese Raketenwerfer machen uns fertig!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_407A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir sind gleich erledigt, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_408A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Schalte die verdammten Raketenwerfer aus, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_409A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Raketenwerfer!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_410A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir werden getroffen!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_411A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Komm schon, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_412A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Komm schon, Mason!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_413A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Schneller!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_414A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Schneller!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_415A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Immer weiter!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_416A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Immer weiter!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_417A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir müssen hier weg, verdammt. LOS DOCH!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_417A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7LOS DOCH!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_418A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gib mir Deckung!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_419A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7BTR!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_420A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Schalte dieses Kaliber 50 aus!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_421A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Schalte dieses Kaliber 50 aus!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_422A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Die Treppen rauf. Los! Los! Los!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_423A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Gebiet sicher."
+
+REFERENCE           CUBA_VOX_CUB1_S99_424A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Verstanden."
+
+REFERENCE           CUBA_VOX_CUB1_S99_425A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Vorrücken."
+
+REFERENCE           CUBA_VOX_CUB1_S99_426A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gebiet sicher."
+
+REFERENCE           CUBA_VOX_CUB1_S99_427A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, ausschalten!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_700A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Augen geradeaus ..."
+
+REFERENCE           CUBA_VOX_CUB1_S99_701A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir können hier nicht bleiben! Vorrücken!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_702A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Vorrücken!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_703A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Weiter vorrücken!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_704A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir sitzen hier fest!"
+
+REFERENCE           CUBA_VOX_CUB1_S99_705A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wir können hier nicht bleiben."
+
+REFERENCE           CUBA_VOX_CUB1_S99_706A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zusammen bleiben."
+
+REFERENCE           CUBA_VOX_CUB1_S99_707A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Zusammen bleiben."
+
+REFERENCE           CUBA_VOX_CUB1_S99_708A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, geh vor."
+
+REFERENCE           CUBA_ZIPLINE_HUD
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 zur Verwendung der Seilrutsche"
+
+REFERENCE           CUBA_ZPU_FIRE
+LANG_ENGLISH        "Drücken Sie ^3[{+attack}]^7 zum Schießen"
+
+ENDMARKER

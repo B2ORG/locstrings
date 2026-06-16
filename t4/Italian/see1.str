@@ -1,0 +1,109 @@
+// Dumped from fastfile "see1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE1_OBJECTIVE3A
+LANG_ENGLISH        "Elimina tutti i carri nemici (ancora 4)"
+
+REFERENCE           SEE1_OBJECTIVE2
+LANG_ENGLISH        "Scegli un percorso d'avanzamento, SINISTRA o DESTRA"
+
+REFERENCE           SEE1_RIDE_TANK
+LANG_ENGLISH        "Premi [{+activate}] per salire sul carro"
+
+REFERENCE           SEE1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Sopra il loro sangue'"
+
+REFERENCE           SEE1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Alture di Seelow, Germania"
+
+REFERENCE           SEE1_INTROSCREEN_DATE
+LANG_ENGLISH        "18 aprile 1945"
+
+REFERENCE           SEE1_OBJECTIVE1_C
+LANG_ENGLISH        "Salta sul carro Tiger e distruggilo"
+
+REFERENCE           SEE1_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Petrenko"
+
+REFERENCE           SEE1_OBJECTIVE1
+LANG_ENGLISH        "Avanza fino al fiume"
+
+REFERENCE           SEE1_OBJECTIVE11
+LANG_ENGLISH        "Elimina i tedeschi in fuga"
+
+REFERENCE           SEE1_OBJECTIVE4
+LANG_ENGLISH        "Raggiungi gli altri all'ingresso del fienile"
+
+REFERENCE           SEE1_OBJECTIVE5
+LANG_ENGLISH        "Distruggi l'ultimo carro tedesco"
+
+REFERENCE           SEE1_OBJECTIVE6
+LANG_ENGLISH        "Segui Reznov fino al fienile"
+
+REFERENCE           SEE1_OBJECTIVE12
+LANG_ENGLISH        "Raggiungi la stazione ferroviaria"
+
+REFERENCE           SEE1_MANTLE_TANK
+LANG_ENGLISH        "Tieni premuto X per saltare sul carro nemico"
+
+REFERENCE           SEE1_ACHIEVEMENT_UNLOCK
+LANG_ENGLISH        "Obiettivo sbloccato"
+
+REFERENCE           SEE1_OBJECTIVE7
+LANG_ENGLISH        "Avanza lungo la strada"
+
+REFERENCE           SEE1_OBJECTIVE3C
+LANG_ENGLISH        "Elimina tutti i carri nemici (ancora 2)"
+
+REFERENCE           SEE1_OBJECTIVE8
+LANG_ENGLISH        "Entra nell'accampamento tedesco"
+
+REFERENCE           SEE1_USE_MOLOTOV
+LANG_ENGLISH        "Premi [{+smoke}] per lanciare molotov"
+
+REFERENCE           SEE1_OBJECTIVE3B
+LANG_ENGLISH        "Elimina tutti i carri nemici (ancora 3)"
+
+REFERENCE           SEE1_OBJECTIVE9
+LANG_ENGLISH        "Ripulisci l'accampamento tedesco"
+
+REFERENCE           SEE1_OBJECTIVE10A
+LANG_ENGLISH        "Distruggi i semicingolati tedeschi (ancora 2)"
+
+REFERENCE           SEE1_OBJECTIVE10B
+LANG_ENGLISH        "Distruggi i semicingolati tedeschi (ancora 1)"
+
+REFERENCE           SEE1_OBJECTIVE10C
+LANG_ENGLISH        "Distruggi i semicingolati tedeschi "
+
+REFERENCE           SEE1_OBJECTIVE1_B
+LANG_ENGLISH        "Forza le difese tedesche"
+
+REFERENCE           SEE1_OFF_TANK_PC
+LANG_ENGLISH        "Tieni premuto il tasto F per scendere dal carro"
+
+REFERENCE           SEE1_OFF_TANK
+LANG_ENGLISH        "Tieni premuto [{+activate}] per scendere dal carro"
+
+REFERENCE           SEE1_OBJECTIVE3D
+LANG_ENGLISH        "Elimina tutti i carri nemici (ancora 1)"
+
+REFERENCE           SEE1_INTROSCREEN_INFO
+LANG_ENGLISH        "3a armata Shock"
+
+REFERENCE           SEE1_OBJECTIVE3E
+LANG_ENGLISH        "Elimina tutti i carri nemici"
+
+REFERENCE           SEE1_LATER
+LANG_ENGLISH        "Stazione ferroviaria: in partenza per Berlino"
+
+REFERENCE           SEE1_RIDE_TANK_PC
+LANG_ENGLISH        "Tieni premuto il tasto F sul retro del carro per salirci sopra"
+
+REFERENCE           SEE1_MANTLE_TANK_PC
+LANG_ENGLISH        "Tieni premuto il tasto F per saltare sul carro nemico"
+
+ENDMARKER

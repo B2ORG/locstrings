@@ -1,0 +1,61 @@
+// Dumped from fastfile "it_zombie_temple".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TEMPLE_BLOW_GUN
+LANG_ENGLISH        "Cerbottana"
+
+REFERENCE           ZOMBIE_TEMPLE_BLOW_GUN_UPGRADED
+LANG_ENGLISH        "Super cerbottana"
+
+REFERENCE           ZOMBIE_TEMPLE_CALL_ELEVATOR
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per chiamare l'ascensore"
+
+REFERENCE           ZOMBIE_TEMPLE_DESTINATION_NOT_OPEN
+LANG_ENGLISH        "Destinazione chiusa"
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_BLOCKED
+LANG_ENGLISH        "L'ascensore non è utilizzabile se ci sono scimmie nelle vicinanze."
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_BLOCKED_PAP
+LANG_ENGLISH        "L'ascensore non è utilizzabile nel round Pack-a-Punch"
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_PRESSURE_PLATE
+LANG_ENGLISH        "Tu e i tuoi compagni dovete scendere prima di poter salire "
+
+REFERENCE           ZOMBIE_TEMPLE_MINECART_COST
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per usare il carrello minerario [costo: &&1]"
+
+REFERENCE           ZOMBIE_TEMPLE_MINECART_UNAVAVILABLE
+LANG_ENGLISH        "Il carrello minerario è in uso."
+
+REFERENCE           ZOMBIE_TEMPLE_RELEASE_WATER
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per fare uscire l'acqua"
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_ALREADY_PURCHASED
+LANG_ENGLISH        "Hai già comprato Spikemore"
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_HOWTO
+LANG_ENGLISH        "Premi ^3[{+actionslot 4}]^7 e poi ^3[{+attack}]^7 per piazzare una Spikemore"
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_PURCHASE
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per comprare Spikemore [costo: 1000]"
+
+REFERENCE           ZOMBIE_TEMPLE_USE_ELEVATOR
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per usare il modulo [costo: 250]"
+
+REFERENCE           ZOMBIE_TEMPLE_USE_WATER_TRAP
+LANG_ENGLISH        "Non tenere premuto ^3[{+activate}]^7"
+
+REFERENCE           ZOMBIE_TEMPLE_WATER_TRAP_COOL
+LANG_ENGLISH        "Il bacino si riempie"
+
+REFERENCE           ZOMBIE_TEMPLE_WEAPON_SPIKEMORE
+LANG_ENGLISH        "Spikemore"
+
+REFERENCE           ZOMBIE_TEMPLE_WEAPON_SPIKEMORE_PICKUP
+LANG_ENGLISH        "Tieni premuto ^3&&1^7 per raccogliere una Spikemore"
+
+ENDMARKER

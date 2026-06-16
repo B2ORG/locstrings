@@ -1,0 +1,91 @@
+// Dumped from fastfile "pel2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL2_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Atterrissage forcé\""
+
+REFERENCE           PEL2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Terrain d'aviation, Peleliu"
+
+REFERENCE           PEL2_INTROSCREEN_DATE
+LANG_ENGLISH        "15 septembre 1944"
+
+REFERENCE           PEL2_AA_BUNKER
+LANG_ENGLISH        "Attaquez le bunker anti-aérien."
+
+REFERENCE           PEL2_ASSAULT_AIRFIELD
+LANG_ENGLISH        "Attaquez le terrain d'aviation."
+
+REFERENCE           PEL2_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           PEL2_SECURE_MANGROVE_AREA
+LANG_ENGLISH        "Contournez les positions d'artillerie japonaises."
+
+REFERENCE           PEL2_INTROSCREEN_INFO
+LANG_ENGLISH        "1ère division des Marines"
+
+REFERENCE           PEL2_CLEAR_THE_BUILDING
+LANG_ENGLISH        "Sécurisez le bâtiment."
+
+REFERENCE           PEL2_BUNKER_REGROUP
+LANG_ENGLISH        "Mettez-vous à couvert avec votre escouade."
+
+REFERENCE           PEL2_GET_BAZOOKA
+LANG_ENGLISH        "Récupérez le bazooka dans la tranchée."
+
+REFERENCE           PEL2_CLEAR_BUNKERS
+LANG_ENGLISH        "Attaquez les bunkers."
+
+REFERENCE           PEL2_RETRIEVE_FLAME
+LANG_ENGLISH        "Récupérez le lance-flammes."
+
+REFERENCE           PEL2_FLAME_MG
+LANG_ENGLISH        "Effectuez un tir de suppression sur le bunker."
+
+REFERENCE           PEL2_FLAME_BUNKER
+LANG_ENGLISH        "Mettez le feu au bunker."
+
+REFERENCE           PEL2_RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "Appuyez sur [{+actionslot 3}] pour fixer le lance-grenades."
+
+REFERENCE           PEL2_ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "Avancez vers le terrain d'aviation."
+
+REFERENCE           PEL2_BAZOOKA
+LANG_ENGLISH        "Détruisez les chars ennemis au bazooka."
+
+REFERENCE           PEL2_BAZOOKA_1
+LANG_ENGLISH        "Détruisez les chars Type97 avec des bazookas (Reste 1)."
+
+REFERENCE           PEL2_BAZOOKA_2
+LANG_ENGLISH        "Détruisez les chars Type97 avec des bazookas (Reste 2)."
+
+REFERENCE           PEL2_BAZOOKA_3
+LANG_ENGLISH        "Détruisez les chars Type97 avec des bazookas (Reste 3)."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS
+LANG_ENGLISH        "Abattez les servants des canons AA."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_1
+LANG_ENGLISH        "Abattez les servants des canons AA (encore 1 sur 4)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_2
+LANG_ENGLISH        "Abattez les servants des canons AA (encore 2 sur 4)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_3
+LANG_ENGLISH        "Abattez les servants des canons AA (encore 3 sur 4)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_4
+LANG_ENGLISH        "Abattez les servants des canons AA (encore 4 sur 4)"
+
+REFERENCE           PEL2_SECURE_AABUNKER
+LANG_ENGLISH        "Sécurisez le bunker anti-aérien."
+
+REFERENCE           PEL2_COUNTERATTACK
+LANG_ENGLISH        "Repoussez la contre-attaque."
+
+ENDMARKER

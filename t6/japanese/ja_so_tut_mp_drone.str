@@ -1,0 +1,1351 @@
+// Dumped from fastfile "ja_so_tut_mp_drone".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KILLSTREAK_INCREASE_ZOOM
+LANG_JAPANESE       "^3[{+speed_throw}]^7 ズーム"
+
+REFERENCE           KILLSTREAK_M202_FLASH_INBOUND
+LANG_JAPANESE       "グリムリーパー装備"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DESC
+LANG_JAPANESE       " 遠隔操作可能なセントリーガン"
+
+REFERENCE           KILLSTREAK_AMMO_CRATE
+LANG_JAPANESE       "^3&&1^7長押しで弾薬補充"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_CAPS
+LANG_JAPANESE       "セントリーガン"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET
+LANG_JAPANESE       "セントリーガン"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_PROMPT
+LANG_JAPANESE       "^3[{togglescores}]^7でタクティカルビュー"
+
+REFERENCE           SO_RTS_ONE_MINUTE_WARNING
+LANG_JAPANESE       "1分以内に目標を達成しろ"
+
+REFERENCE           KILLSTREAK_RADAR_NOT_AVAILABLE
+LANG_JAPANESE       "UAV使用不能"
+
+REFERENCE           KILLSTREAK_EARNED_AIRSTRIKE
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でローリングサンダー"
+
+REFERENCE           KILLSTREAK_AIRSPACE_FULL
+LANG_JAPANESE       "航空支援使用不能"
+
+REFERENCE           KILLSTREAK_COUNTERUAV_INBOUND
+LANG_JAPANESE       "カウンターUAVが接近中"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DROP_DESC
+LANG_JAPANESE       "セントリーガンを空中投下して配置する"
+
+REFERENCE           KILLSTREAK_EARNED_AUTO_TURRET
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でセントリーガン"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでセントリーガン"
+
+REFERENCE           SO_RTS_SWITCH_UNITS_WIIU_CAROUSEL
+LANG_JAPANESE       "[{+actionslot_carousel_full}]長押しで部隊を切り替える"
+
+REFERENCE           SO_RTS_TUTORIAL_METALSTORM_PKG
+LANG_JAPANESE       "^3[{+speed_throw}]^7でロケット弾を発射し ^3[{+attack}]^7で武器を発射"
+
+REFERENCE           KILLSTREAK_EMP_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでEMPシステム"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DROP
+LANG_JAPANESE       "セントリーガン"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_CAPS
+LANG_JAPANESE       "分隊命令"
+
+REFERENCE           KILLSTREAK_KILLS_U2_DESC
+LANG_JAPANESE       "自分のUAVが上空にいる間に &&1人の敵をキルする"
+
+REFERENCE           KILLSTREAK_NOT_AVAILABLE_EMP_ACTIVE
+LANG_JAPANESE       "EMPがあと&&1秒間有効"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_NOT_USABLE
+LANG_JAPANESE       "この地点でヘルストームは使用できない"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_NOT_AVAILABLE
+LANG_JAPANESE       "セントリーガン使用不能"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_INF_MOVE
+LANG_JAPANESE       "^3[{+smoke}]^7/^3[{+attack}]^7で歩兵部隊を移動させる"
+
+REFERENCE           KILLSTREAK_EARNED_TOW_TURRET
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でSAM陣地"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_TWO_LINES_CAPS
+LANG_JAPANESE       "分隊命令を\n出す"
+
+REFERENCE           KILLSTREAK_MORTAR
+LANG_JAPANESE       "迫撃砲チーム"
+
+REFERENCE           KILLSTREAK_DOGS_NOT_AVAILABLE
+LANG_JAPANESE       "K9部隊使用不能"
+
+REFERENCE           SO_RTS_SECONDS
+LANG_JAPANESE       "秒"
+
+REFERENCE           KILLSTREAK_CAPTURING_CRATE
+LANG_JAPANESE       "奪取中"
+
+REFERENCE           KILLSTREAK_COUNTER_UAV
+LANG_JAPANESE       "カウンターUAV"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_WIIU
+LANG_JAPANESE       "タクティカルビューでは 味方や敵 目標などを より広範に 把握することができます\nタクティカルビュー時の 命令方法は 地上で命令する場合と同様です\n[{togglescores}]でこの視点になります\n地上にいる部隊の 視点に戻りたいときは 十字ボタンをいずれかの方向に 長押しするか カーソルを部隊の メンバーに合わせ[{togglescores}]を押してください"
+
+REFERENCE           KILLSTREAK_SENTRY_TURRET_PICKUP
+LANG_JAPANESE       "^3&&1^7長押しでセントリーガンを拾う"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_DESC
+LANG_JAPANESE       "VTOLのガンナーとして機銃掃射を行える"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_DESC
+LANG_JAPANESE       "クラスター弾を搭載したヘルストームミサイル"
+
+REFERENCE           KILLSTREAK_COUNTERU2_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでカウンターUAV"
+
+REFERENCE           KILLSTREAK_COUNTER_UAV_DESC
+LANG_JAPANESE       "敵のミニマップを一定時間無効にする"
+
+REFERENCE           KILLSTREAK_CHOPPER_GUNNER_NOT_USABLE
+LANG_JAPANESE       "この地点でVTOLは使用できない"
+
+REFERENCE           KILLSTREAK_COUNTERUAV_NOT_AVAILABLE
+LANG_JAPANESE       "カウンターUAV使用不能"
+
+REFERENCE           KILLSTREAK_DOGS_LVL3_DESC
+LANG_JAPANESE       "12頭の軍用犬が敵を倒した"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_INBOUND
+LANG_JAPANESE       "ステルスヘリが接近中"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_WIIU
+LANG_JAPANESE       "アクティブユニットパネルには 利用可能な 部隊が表示されています\n十字ボタンで 部隊の切り替えを 行いましょう\n\n十字ボタンを 任意の方向に押すと 対応した部隊を選択します\n\nまた十字ボタンを任意の方向に 長押しすると その部隊の操作に移ります"
+
+REFERENCE           KILLSTREAK_DOGS_DESC
+LANG_JAPANESE       "軍用犬部隊による攻撃を行う"
+
+REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER
+LANG_JAPANESE       "ヘリコプターが破壊された"
+
+REFERENCE           KILLSTREAK_M220_TOW_DESC
+LANG_JAPANESE       "遠隔操作ロケット弾を発射するランチャー"
+
+REFERENCE           KILLSTREAK_DESTROYED_COUNTERUAV
+LANG_JAPANESE       "カウンターUAVが破壊された"
+
+REFERENCE           KILLSTREAK_M202_FLASH_DROP
+LANG_JAPANESE       "グリムリーパー"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_WIIU_CAROUSEL
+LANG_JAPANESE       "カルーセル([{+actionslot_carousel_full}])を 移動させたい部隊に対応した 方向に押し 部隊を選択してください"
+
+REFERENCE           SO_RTS_INTRUDER_SET
+LANG_JAPANESE       "装置が設置された"
+
+REFERENCE           KILLSTREAK_EARNED_M202_FLASH
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でグリムリーパー"
+
+REFERENCE           KILLSTREAK_DESTROYED_UAV
+LANG_JAPANESE       "UAVが破壊された"
+
+REFERENCE           SO_RTS_INFANTRY_HEAVY_DESC
+LANG_JAPANESE       "重火器および爆発物の入念な訓練を受けた熟練兵"
+
+REFERENCE           KILLSTREAK_EARNED_RCBOMB
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でRC-XD"
+
+REFERENCE           KILLSTREAK_DOGS
+LANG_JAPANESE       "K9部隊"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK
+LANG_JAPANESE       "ステルスヘリ"
+
+REFERENCE           KILLSTREAK_DOGS_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでK9部隊"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING
+LANG_JAPANESE       "カーソルを目標に合わせて^3[{+smoke}]^7を短く\n押すと選択中の部隊がその目標に\n向かいます\nまた^3[{+smoke}]^7を長押しすると全部隊がその目標\nに向かいます"
+
+REFERENCE           KILLSTREAK_EARNED_MORTAR
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でL-ストライク"
+
+REFERENCE           KILLSTREAK_DOGS_INBOUND
+LANG_JAPANESE       "K9部隊が接近中"
+
+REFERENCE           KILLSTREAK_M202_FLASH_DESC
+LANG_JAPANESE       "ロックオン可能なセミオート方式のロケットランチャー"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS2
+LANG_JAPANESE       "ウェイポイントを設置したい箇所に\nカーソルを合わせてください\n[{+smoke}]でウェイポイントが 設置され\n 選択した部隊がそこに自動的に\n移動します\n[{+smoke}]を長押しすると全部隊が設置\nされたウェイポイントに移動します"
+
+REFERENCE           KILLSTREAK_EARNED_COUNTERUAV
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でカウンターUAV"
+
+REFERENCE           KILLSTREAK_EARNED_DOGS
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でK9部隊"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_COMLINK
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でステルスヘリ"
+
+REFERENCE           KILLSTREAK_RECON
+LANG_JAPANESE       "UAV"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_NOT_AVAILABLE
+LANG_JAPANESE       "V-ウォーシップは現在要請不可"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_PLAYER
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でガンシップ"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_GUNNER
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でV-ウォーシップ"
+
+REFERENCE           KILLSTREAK_EARNED_M220_TOW
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でヴァルキリー"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_TARGET
+LANG_JAPANESE       "カーソルでいずれかの歩兵部隊を選択"
+
+REFERENCE           KILLSTREAK_MORTAR_CRATE
+LANG_JAPANESE       "^3&&1^7長押しで迫撃砲チーム"
+
+REFERENCE           KILLSTREAK_EARNED_NAPALM
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でナパーム攻撃"
+
+REFERENCE           KILLSTREAK_M202_FLASH_DROP_DESC
+LANG_JAPANESE       "ロックオン可能なセミオート方式のロケットランチャー"
+
+REFERENCE           SO_RTS_BEGIN_MISSION_CAPS
+LANG_JAPANESE       "ミッション開始"
+
+REFERENCE           KILLSTREAK_EARNED_RADAR
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でUAV"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_DEPLOY
+LANG_JAPANESE       "^3[{+attack}]^7クラスター爆弾を展開"
+
+REFERENCE           KILLSTREAK_AI_TANK_DROP
+LANG_JAPANESE       "A.G.R."
+
+REFERENCE           KILLSTREAK_EARNED_SUPPLY_DROP
+LANG_JAPANESE       "^3[{+actionslot 4}]^7で救援物資"
+
+REFERENCE           SO_RTS_INFANTRY_ELITE_DESC
+LANG_JAPANESE       "ロシアの特殊部隊で訓練を受けた熟練兵"
+
+REFERENCE           KILLSTREAK_MOBILESPAWN_NOT_AVAILABLE
+LANG_JAPANESE       "モバイルスポーン使用不能"
+
+REFERENCE           KILLSTREAK_HACKING_CRATE
+LANG_JAPANESE       "ブービートラップを仕掛けています"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_DESC
+LANG_JAPANESE       "敵のミニマップに表示されないヘリで攻撃する"
+
+REFERENCE           SO_RTS_DELIVERY_NOTAVAIL
+LANG_JAPANESE       "輸送機使用不能:飛行中"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_NOT_AVAILABLE
+LANG_JAPANESE       "ステルスヘリ使用不能"
+
+REFERENCE           SO_RTS_CANNOT_HACK
+LANG_JAPANESE       "暗号化されている ハッキング不能"
+
+REFERENCE           SO_RTS_FIRESTORMPKG_NAME
+LANG_JAPANESE       "ファイアストームROV"
+
+REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER_GUNNER
+LANG_JAPANESE       "V-ウォーシップ破壊"
+
+REFERENCE           KILLSTREAK_MINIGUN_INBOUND
+LANG_JAPANESE       "デスマシーンを装備"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_INBOUND
+LANG_JAPANESE       "ガンシップ接近中"
+
+REFERENCE           SO_RTS_BTN_RTS_CYCLE
+LANG_JAPANESE       "^3[{+actionslot 3}]^7または ^3[{+actionslot 4}]^7で分隊を切り替え"
+
+REFERENCE           KILLSTREAK_HELICOPTER_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでステルスヘリ"
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_ENEMY
+LANG_JAPANESE       "^3[{+smoke}]^7でこの部隊に対する攻撃指示"
+
+REFERENCE           KILLSTREAK_MINIGUN_DESC
+LANG_JAPANESE       "携帯可能なミニガン"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER
+LANG_JAPANESE       "V-ウォーシップ"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_DESC
+LANG_JAPANESE       "攻撃ヘリを操作できる"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでV-ウォーシップ"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_INBOUND
+LANG_JAPANESE       "V-ウォーシップが接近中"
+
+REFERENCE           SO_TUT_MP_DRONE_TUT_START
+LANG_JAPANESE       "チュートリアルは ポーズメニューから\"チュートリアルをスキップ\""
+
+REFERENCE           KILLSTREAK_MOBILESPAWN_INBOUND
+LANG_JAPANESE       "モバイルスポーン接近"
+
+REFERENCE           KILLSTREAK_MINIGUN
+LANG_JAPANESE       "デスマシーン"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER
+LANG_JAPANESE       "ガンシップ"
+
+REFERENCE           KILLSTREAK_MINIGUN_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでデスマシーン"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでガンシップ"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_WIIU
+LANG_JAPANESE       "十字ボタンを 移動させたい部隊に対応した 方向に押し 部隊を選択してください"
+
+REFERENCE           KILLSTREAK_MINIGUN_NOT_AVAILABLE
+LANG_JAPANESE       "デスマシーン使用不能"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_NOT_AVAILABLE
+LANG_JAPANESE       "ガンシップ使用不能"
+
+REFERENCE           SO_TUT_MP_DRONE_ASD_TARGET1
+LANG_JAPANESE       "ASD演習ターゲットが"
+
+REFERENCE           KILLSTREAK_KILLCOUNT_DISPLAY
+LANG_JAPANESE       "&&1キルストリーク！"
+
+REFERENCE           SO_RTS_UNITS_REMAINING
+LANG_JAPANESE       "ストライクフォース\n残り人数"
+
+REFERENCE           KILLSTREAK_M202_FLASH
+LANG_JAPANESE       "グリムリーパー"
+
+REFERENCE           KILLSTREAK_M202_FLASH_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでグリムリーパー"
+
+REFERENCE           KILLSTREAK_M202_FLASH_NOT_AVAILABLE
+LANG_JAPANESE       "グリムリーパー使用不能"
+
+REFERENCE           KILLSTREAK_M220_TOW
+LANG_JAPANESE       "ヴァルキリーロケット"
+
+REFERENCE           KILLSTREAK_M220_TOW_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでヴァルキリーロケット"
+
+REFERENCE           KILLSTREAK_M220_TOW_DROP
+LANG_JAPANESE       "ヴァルキリーロケット"
+
+REFERENCE           KILLSTREAK_M220_TOW_DROP_DESC
+LANG_JAPANESE       "遠隔操作ロケット弾を発射するランチャー"
+
+REFERENCE           SO_RTS_SQUAD_FOLLOW
+LANG_JAPANESE       "^3[{+smoke}]^7で分隊に命令"
+
+REFERENCE           KILLSTREAK_M220_TOW_INBOUND
+LANG_JAPANESE       "ヴァルキリーロケット装備"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでロードスター"
+
+REFERENCE           KILLSTREAK_M220_TOW_NOT_AVAILABLE
+LANG_JAPANESE       "ヴァルキリーロケット使用不能"
+
+REFERENCE           SO_TUT_MP_DRONE_HIGHLIGHT
+LANG_JAPANESE       "選択された部隊の部隊アイコンとその部隊は オレンジ色になります"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_CAPS
+LANG_JAPANESE       "T.ビュー"
+
+REFERENCE           KILLSTREAK_MINIGUN_DROP
+LANG_JAPANESE       "デスマシーン"
+
+REFERENCE           KILLSTREAK_SATELLITE_NOT_AVAILABLE
+LANG_JAPANESE       "オービタルVSAT使用不能"
+
+REFERENCE           KILLSTREAK_MINIGUN_DROP_DESC
+LANG_JAPANESE       "携帯型ミニガン"
+
+REFERENCE           KILLSTREAK_RCBOMB
+LANG_JAPANESE       "RC-XD"
+
+REFERENCE           KILLSTREAK_MORTAR_DESC
+LANG_JAPANESE       "3箇所を指定して迫撃砲での支援砲撃を要請"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DROP
+LANG_JAPANESE       "SAM陣地"
+
+REFERENCE           KILLSTREAK_MORTAR_INBOUND
+LANG_JAPANESE       "迫撃砲攻撃実行中"
+
+REFERENCE           SO_TUT_MP_DRONE_MOVE_SINGLE
+LANG_JAPANESE       "^3[{+smoke}]^7を素早く押すと ハイライトされた部隊のみ移動する"
+
+REFERENCE           KILLSTREAK_MORTAR_NOT_AVAILABLE
+LANG_JAPANESE       "迫撃砲使用不能"
+
+REFERENCE           SO_RTS_INFANTRY_ELITE_NAME
+LANG_JAPANESE       "歩兵(スペツナズ)"
+
+REFERENCE           KILLSTREAK_NAPALM
+LANG_JAPANESE       "ナパーム攻撃"
+
+REFERENCE           KILLSTREAK_NAPALM_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでナパーム攻撃"
+
+REFERENCE           SO_RTS_RTS_MODE
+LANG_JAPANESE       "バトルマップ内で行動中(RTS)"
+
+REFERENCE           KILLSTREAK_DOGS_DESTROYED_CHALLENGE_DESC
+LANG_JAPANESE       "&&1頭の軍用犬をキルする"
+
+REFERENCE           KILLSTREAK_NAPALM_DESC
+LANG_JAPANESE       "線上一帯をナパームで焼き尽くす空爆支援を要請"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD
+LANG_JAPANESE       "エスコート・D"
+
+REFERENCE           KILLSTREAK_NAPALM_NOT_AVAILABLE
+LANG_JAPANESE       "ナパーム攻撃使用不能"
+
+REFERENCE           KILLSTREAK_NULL
+LANG_JAPANESE       ""
+
+REFERENCE           SO_RTS_AIRSTRIKEPKG_DESC
+LANG_JAPANESE       "誘導弾による高威力の空爆支援により 敵に多大な人的被害と物的損害を与える"
+
+REFERENCE           KILLSTREAK_TURRET_MICROWAVE_HACKING
+LANG_JAPANESE       "^3&&1^7長押しでガーディアンをハッキング"
+
+REFERENCE           KILLSTREAK_PRESS_TO_KILLSTREAK
+LANG_JAPANESE       "^3&&1^7で発動"
+
+REFERENCE           KILLSTREAK_RADAR_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでUAV"
+
+REFERENCE           KILLSTREAK_RADAR_INBOUND
+LANG_JAPANESE       "UAVが接近中"
+
+REFERENCE           KILLSTREAK_KILLS_CHALLENGE_DESC
+LANG_JAPANESE       "&&2で&&1キルする"
+
+REFERENCE           KILLSTREAK_RADAR_INCOMING
+LANG_JAPANESE       "UAVを要請:"
+
+REFERENCE           SO_RTS_INTRUDER_DESTROYED
+LANG_JAPANESE       "装置が破壊された"
+
+REFERENCE           KILLSTREAK_RCBOMB_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでRC-XD"
+
+REFERENCE           KILLSTREAK_RCBOMB_DESC
+LANG_JAPANESE       "爆薬を搭載したラジコンカー"
+
+REFERENCE           KILLSTREAK_RCBOMB_INBOUND
+LANG_JAPANESE       "RC-XDが接近中"
+
+REFERENCE           KILLSTREAK_RCBOMB_NOT_AVAILABLE
+LANG_JAPANESE       "RC-XD使用不能"
+
+REFERENCE           KILLSTREAK_RCBOMB_NOT_PLACEABLE
+LANG_JAPANESE       "RC-XDはここには配置不可"
+
+REFERENCE           KILLSTREAK_QRDRONE_NOT_AVAILABLE
+LANG_JAPANESE       "ドラゴンファイア使用不能"
+
+REFERENCE           KILLSTREAK_RECON_DESC
+LANG_JAPANESE       "敵の位置をミニマップ上に表示させる"
+
+REFERENCE           KILLSTREAK_SATELLITE
+LANG_JAPANESE       "オービタルVSAT"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_TWO_LINES_CAPS
+LANG_JAPANESE       "ストライクフォースで\n分隊を選択中"
+
+REFERENCE           SO_RTS_INFRA_LOST
+LANG_JAPANESE       "施設を失った"
+
+REFERENCE           SO_RTS_INFANTRY_HEAVY_NAME
+LANG_JAPANESE       "歩兵(ヘビーガンナー)"
+
+REFERENCE           KILLSTREAK_QRDRONE_DESC
+LANG_JAPANESE       "機銃搭載のドラゴンファイア・ドローン"
+
+REFERENCE           KILLSTREAK_SATELLITE_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでオービタルVSAT"
+
+REFERENCE           SO_RTS_ARGUS_POI
+LANG_JAPANESE       "名前: %1\n解説: %2\n\nチーム: %3"
+
+REFERENCE           KILLSTREAK_SATELLITE_DESC
+LANG_JAPANESE       "敵の位置と向きを知らせてくれる。撃墜不能"
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_2
+LANG_JAPANESE       "味方ユニットのハイライト後に^3[{togglescores}]^7でそのユニットを選択する"
+
+REFERENCE           KILLSTREAK_SATELLITE_INBOUND
+LANG_JAPANESE       "オービタルVSATが有効"
+
+REFERENCE           SO_RTS_TRANSPORT_REFUELING
+LANG_JAPANESE       "給油中"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP
+LANG_JAPANESE       "救援物資"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DESC
+LANG_JAPANESE       "スコアストリーク報酬をランダムで空中投下する"
+
+REFERENCE           SO_RTS_QUAD_DESC
+LANG_JAPANESE       "自律型の強襲航空機"
+
+REFERENCE           SO_RTS_RECONPKG_DESC
+LANG_JAPANESE       "遠隔操作可能な偵察用車両"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでSAM陣地"
+
+REFERENCE           KILLSTREAK_TOW_TURRET
+LANG_JAPANESE       "SAM陣地"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_2
+LANG_JAPANESE       "^3[{+smoke}]^7長押しで全部隊を選択 または選択解除できる"
+
+REFERENCE           SO_RTS_FIRESTORMPKG_DESC
+LANG_JAPANESE       "自律型の強襲車両"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DESC
+LANG_JAPANESE       "航空機を破壊するSAM陣地を空中投下して設置する"
+
+REFERENCE           SO_TUT_MP_DRONE_CLAW_FIRE
+LANG_JAPANESE       "^3[{+attack}]^7長押しでCLAWターレットを撃つ"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DROP_DESC
+LANG_JAPANESE       "航空機を破壊するSAM陣地を空中投下して設置する"
+
+REFERENCE           SO_TUT_MP_DRONE_INTROSCREEN_LINE_2
+LANG_JAPANESE       "北^Lインド^L ヒマーチャル・プラデーシュ"
+
+REFERENCE           SO_RTS_QUADPKG_NAME
+LANG_JAPANESE       "クアッドローターROV"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_NOT_AVAILABLE
+LANG_JAPANESE       "SAM陣地使用不能"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_PICKUP
+LANG_JAPANESE       "^3&&1^7長押しでSAM陣地を拾う"
+
+REFERENCE           SO_RTS_DELIVERY_ARRIVED
+LANG_JAPANESE       "ユニットが到着"
+
+REFERENCE           KILLSTREAK_TURRET_HACKING
+LANG_JAPANESE       "^3&&1^7長押しでセントリーガンをハッキング"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_KILLS_CHALLENGE_DESC
+LANG_JAPANESE       "SAM陣地で&&1機の航空機を破壊"
+
+REFERENCE           SO_RTS_INFANTRY_REG_DESC
+LANG_JAPANESE       "基本トレーニングを受け 標準火器を装備する標準的な兵士"
+
+REFERENCE           KILLSTREAK_M202_FLASH_KILLS_CHALLENGE_DESC
+LANG_JAPANESE       "グリムリーパーで敵のプレイヤーか航空機を&&1キルする"
+
+REFERENCE           KILLSTREAK_EARNED_CHALLENGE_DESC
+LANG_JAPANESE       "&&1を&&2回使用する"
+
+REFERENCE           KILLSTREAK_DESTROYED_CHALLENGE_DESC
+LANG_JAPANESE       "&&1を&&2回破壊する"
+
+REFERENCE           KILLSTREAK_KILLS_U2
+LANG_JAPANESE       "アクション可能情報"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_INBOUND
+LANG_JAPANESE       "救援物資が接近中"
+
+REFERENCE           KILLSTREAK_KILLS_SATELLITE
+LANG_JAPANESE       "空の目"
+
+REFERENCE           KILLSTREAK_KILLS_SATELLITE_DESC
+LANG_JAPANESE       "自分のオービタルVSATが上空にいる間に &&1人の敵をキルする"
+
+REFERENCE           SO_RTS_DOG_NAME
+LANG_JAPANESE       "軍用犬"
+
+REFERENCE           KILLSTREAK_KILLS_COUNTER_U2
+LANG_JAPANESE       "対偵察行動"
+
+REFERENCE           KILLSTREAK_KILLS_COUNTER_U2_DESC
+LANG_JAPANESE       "自分のカウンターUAVが上空にいる間に &&1人の敵をキルする"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでエスコート・D"
+
+REFERENCE           SO_TUT_MP_DRONE_INTROSCREEN_LINE_4
+LANG_JAPANESE       "^L2025年^L5月21日"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_DESC
+LANG_JAPANESE       "エスコート・ドローンの航空支援を受ける"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_INBOUND
+LANG_JAPANESE       "エスコート・D接近中"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_NOT_AVAILABLE
+LANG_JAPANESE       "エスコート・D使用不能"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_GUARD
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でAQ-10エスコート"
+
+REFERENCE           SO_TUT_MP_DRONE_INTROSCREEN_LINE_1
+LANG_JAPANESE       "^Lストライクフォースのチュートリアル^L"
+
+REFERENCE           KILLSTREAK_EARNED_EMP
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でEMPシステム"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_AIRSUPERIORITY_PKG
+LANG_JAPANESE       "新ユニット: 航空支援\n^3[{+actionslot 3}]^7で選択 長押しで操作"
+
+REFERENCE           SO_RTS_TOO_MANY_INFANTRY
+LANG_JAPANESE       "最大数の歩兵部隊がすでに展開済み"
+
+REFERENCE           KILLSTREAK_EMP_NOT_AVAILABLE
+LANG_JAPANESE       "EMPシステム使用不能"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_TWIST_WIIU_REMOTE_CAPS
+LANG_JAPANESE       "分隊命令を\n出す(Wiiリモコンを\nひねる)"
+
+REFERENCE           KILLSTREAK_EMP_INBOUND
+LANG_JAPANESE       "EMPに点火した"
+
+REFERENCE           KILLSTREAK_EMP
+LANG_JAPANESE       "EMPシステム"
+
+REFERENCE           KILLSTREAK_EMP_DESC
+LANG_JAPANESE       "敵の電子機器を一時的に使用不能にする"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_PC
+LANG_JAPANESE       "分隊選択ボタン^3[{+actionslots}]^7を押して 分隊のタイプを選択する"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_CAPS
+LANG_JAPANESE       "ウェイポイントの設置と移動命令"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR
+LANG_JAPANESE       "ロードスター"
+
+REFERENCE           SO_RTS_TUTORIAL_AVAILABLE
+LANG_JAPANESE       "チュートリアルは ミッション・ブリーフィング画面で いつでもリトライできます"
+
+REFERENCE           SO_RTS_OBJ3D_PROTECT
+LANG_JAPANESE       "PROTECT"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_DESC
+LANG_JAPANESE       "レーザー誘導式のミサイルで攻撃できる"
+
+REFERENCE           KILLSTREAK_EARNED_REMOTE_MORTAR
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でロードスター"
+
+REFERENCE           SO_RTS_ROPE_VTOL
+LANG_JAPANESE       "VTOL"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_INBOUND
+LANG_JAPANESE       "ロードスター接近"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_AVAILABLE
+LANG_JAPANESE       "ロードスター使用不能"
+
+REFERENCE           SO_RTS_ON
+LANG_JAPANESE       "オン"
+
+REFERENCE           KILLSTREAK_EARNED_REMOTE_MISSILE
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でヘルストーム"
+
+REFERENCE           KILLSTREAK_AI_TANK_NOT_AVAILABLE
+LANG_JAPANESE       "A.G.R.使用不能"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE
+LANG_JAPANESE       "ハンターキラー"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE
+LANG_JAPANESE       "ヘルストーム"
+
+REFERENCE           SO_RTS_TRANSPORT_PREP
+LANG_JAPANESE       "積載中"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでヘルストーム"
+
+REFERENCE           SO_TUT_MP_DRONE_MOVE_CURSOR_TARGET
+LANG_JAPANESE       "カーソルをターゲットの上に移動させろ 赤いターゲットに注目\n"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_INBOUND
+LANG_JAPANESE       "ヘルストーム接近"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_NOT_AVAILABLE
+LANG_JAPANESE       "ヘルストーム使用不能"
+
+REFERENCE           KILLSTREAK_PLANEMORTAR
+LANG_JAPANESE       "L-ストライク"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_INBOUND
+LANG_JAPANESE       "ハンターキラー接近中"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_NOT_AVAILABLE
+LANG_JAPANESE       "ハンターキラー使用不能"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_BIGDOG_PKG
+LANG_JAPANESE       "新ユニット:CLAW\n^3[{+actionslot 3}]^7で選択 長押しで操作"
+
+REFERENCE           KILLSTREAK_EARNED_MISSILE_DRONE
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でハンターキラー"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでスウォーム"
+
+REFERENCE           KILLSTREAK_EARNED_MISSILE_SWARM
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でスウォーム"
+
+REFERENCE           SO_RTS_OBJ3D_CAPTURE
+LANG_JAPANESE       "SECURE"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM
+LANG_JAPANESE       "スウォーム"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_DESC
+LANG_JAPANESE       "敵兵や敵車両を目がけ飛んで行くドローン"
+
+REFERENCE           SO_TUT_MP_DRONE_MARKER
+LANG_JAPANESE       "各部隊には移動先を示すマーカーが表示される"
+
+REFERENCE           SO_RTS_ALL_FOLLOW
+LANG_JAPANESE       "^3[{+smoke}]^7長押しで全体命令"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでハンターキラー"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_DESC
+LANG_JAPANESE       "強力なハンターキラードローンの群れを要請する"
+
+REFERENCE           SO_RTS_TUTORIAL_QUADROTOR_PKG
+LANG_JAPANESE       "^3[{+speed_throw}]^7で視点をズーム ^3[{+attack}]^7で武器を発射\n^3[{+melee}]^7で自爆"
+
+REFERENCE           KILLSTREAK_EARNED_MOBILESPAWN
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でモバイルスポーン"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_INBOUND
+LANG_JAPANESE       "スウォーム接近"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_NOT_AVAILABLE
+LANG_JAPANESE       "スウォーム使用不能"
+
+REFERENCE           SO_RTS_CODE
+LANG_JAPANESE       "スペシャル"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_PICKUP
+LANG_JAPANESE       "^3&&1^7長押しでガーディアンを拾う"
+
+REFERENCE           KILLSTREAK_EARNED_MICROWAVE_TURRET
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でガーディアン"
+
+REFERENCE           SO_RTS_MISSION_SUCCESS
+LANG_JAPANESE       "ミッション成功"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_NOT_AVAILABLE
+LANG_JAPANESE       "ガーディアン使用不能"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでガーディアン"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET
+LANG_JAPANESE       "ガーディアン"
+
+REFERENCE           SO_RTS_NONE
+LANG_JAPANESE       "NONE"
+
+REFERENCE           KILLSTREAK_DESTROYED_REMOTE_MORTAR
+LANG_JAPANESE       "ロードスター破壊"
+
+REFERENCE           KILLSTREAK_DOGS_LVL2_DESC
+LANG_JAPANESE       "8頭の軍用犬が敵を追い詰める"
+
+REFERENCE           KILLSTREAK_STRAFERUN_NOT_AVAILABLE
+LANG_JAPANESE       "ウォートホッグ使用不能"
+
+REFERENCE           SO_RTS_DELIVERY_REFUEL
+LANG_JAPANESE       "輸送機使用不能:給油中"
+
+REFERENCE           KILLSTREAK_STRAFERUN
+LANG_JAPANESE       "ウォートホッグ"
+
+REFERENCE           KILLSTREAK_STRAFERUN_DESC
+LANG_JAPANESE       "近接航空支援機による機銃掃射が行われる"
+
+REFERENCE           KILLSTREAK_STRAFERUN_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでウォートホッグ"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_INFANTRY_ALLY_HEAVY_PKG
+LANG_JAPANESE       "新ユニット:重装歩兵\n^3[{+actionslot 4}]^7で選択 長押しで操作"
+
+REFERENCE           KILLSTREAK_AI_TANK_DESC
+LANG_JAPANESE       "自動で敵を攻撃するロボット 遠隔操作も可能"
+
+REFERENCE           SO_RTS_POI_ARMORY_DESC
+LANG_JAPANESE       "高度な武器を含む集積武器"
+
+REFERENCE           SO_RTS_INFANTRY_ELITEPKG_NAME
+LANG_JAPANESE       "特殊部隊分隊"
+
+REFERENCE           KILLSTREAK_PLANEMORTAR_DESC
+LANG_JAPANESE       "指定の3箇所をライトニング戦闘機で空爆する"
+
+REFERENCE           KILLSTREAK_QRDRONE_INBOUND
+LANG_JAPANESE       "ドラゴンファイア使用可能"
+
+REFERENCE           KILLSTREAK_PLANEMORTAR_NOT_AVAILABLE
+LANG_JAPANESE       "L-ストライクは使用不能"
+
+REFERENCE           SO_RTS_SQUAD_ICON
+LANG_JAPANESE       "使用可能な分隊の種類と それぞれに何名の分隊員が所属しているかが表示される"
+
+REFERENCE           KILLSTREAK_PLANE_MORTAR_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでL-ストライク"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_DESC
+LANG_JAPANESE       "電磁波を放射し敵にダメージを与える"
+
+REFERENCE           KILLSTREAK_QRDRONE
+LANG_JAPANESE       "ドラゴンファイア"
+
+REFERENCE           KILLSTREAK_QRDRONE_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでドラゴンファイア"
+
+REFERENCE           SO_RTS_TYPE_OTHER
+LANG_JAPANESE       "\"その他\"の分類"
+
+REFERENCE           KILLSTREAK_QRDRONE_NOT_PLACEABLE
+LANG_JAPANESE       "この位置にはドラゴンファイアを配置できない"
+
+REFERENCE           KILLSTREAK_USE_TALON
+LANG_JAPANESE       "^3&&1^7でA.G.R.を展開"
+
+REFERENCE           KILLSTREAK_EARNED_QRDRONE
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でドラゴンファイア"
+
+REFERENCE           KILLSTREAK_AI_TANK_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでA.G.R."
+
+REFERENCE           SO_RTS_DOG_DESC
+LANG_JAPANESE       "敵歩兵を探し出して排除する訓練を受けた軍用犬部隊"
+
+REFERENCE           KILLSTREAK_M32
+LANG_JAPANESE       "ウォーマシーン"
+
+REFERENCE           KILLSTREAK_M32_DROP
+LANG_JAPANESE       "ウォーマシーン"
+
+REFERENCE           KILLSTREAK_M32_DESC
+LANG_JAPANESE       "高速連射が可能なグレネードランチャー"
+
+REFERENCE           KILLSTREAK_M32_DROP_DESC
+LANG_JAPANESE       "セミオートマチックで高速連射できるグレネードランチャー"
+
+REFERENCE           KILLSTREAK_M32_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでウォーマシーン"
+
+REFERENCE           KILLSTREAK_M32_DROP_CRATE
+LANG_JAPANESE       "^3&&1^7長押しでウォーマシーン"
+
+REFERENCE           KILLSTREAK_EARNED_MINIGUN
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でデスマシーン"
+
+REFERENCE           KILLSTREAK_EARNED_M32
+LANG_JAPANESE       "^3[{+actionslot 4}]^7でウォーマシーン"
+
+REFERENCE           KILLSTREAK_TURRET_SENTRY_DISABLE
+LANG_JAPANESE       "^3&&1^7長押しでセントリーガンを無力化"
+
+REFERENCE           SO_RTS_INFANTRY_ELITEPKG_DESC
+LANG_JAPANESE       "特殊部隊分隊には ヘビーガンナーからなる4種類の精鋭部隊が含まれる"
+
+REFERENCE           KILLSTREAK_TURRET_MICROWAVE_DISABLE
+LANG_JAPANESE       "^3&&1^7長押しでガーディアンを無力化"
+
+REFERENCE           SO_RTS_RETRY_MISSION_QUESTION
+LANG_JAPANESE       "このミッションをリトライしますか？"
+
+REFERENCE           KILLSTREAK_M32_INBOUND
+LANG_JAPANESE       "ウォーマシーンを装備"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DISARMING_CRATE
+LANG_JAPANESE       "ブービートラップを解除中"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DISARM_HINT
+LANG_JAPANESE       "^3&&1^7長押しでブービートラップを解除"
+
+REFERENCE           KILLSTREAK_AI_TANK_INBOUND
+LANG_JAPANESE       "A.G.R.が接近中"
+
+REFERENCE           SO_TUT_MP_DRONE_TUT_START2
+LANG_JAPANESE       "を選択すれば いつでもスキップできる"
+
+REFERENCE           KILLSTREAK_AI_TANK_3_ROCKETS
+LANG_JAPANESE       "^3[{+speed_throw}]^7 3 ロケット準備よし"
+
+REFERENCE           KILLSTREAK_AI_TANK_2_ROCKETS
+LANG_JAPANESE       "^3[{+speed_throw}]^7 2 ロケット準備よし"
+
+REFERENCE           KILLSTREAK_AI_TANK_1_ROCKETS
+LANG_JAPANESE       "^3[{+speed_throw}]^7 1 ロケット準備よし"
+
+REFERENCE           KILLSTREAK_AI_TANK_ROCKETS
+LANG_JAPANESE       "^3[{+speed_throw}]^7でロケット発射"
+
+REFERENCE           KILLSTREAK_AI_TANK_GUNS
+LANG_JAPANESE       "^3[{+attack}]^7 マシンガンを撃つ"
+
+REFERENCE           KILLSTREAK_TURRET_KNIFED
+LANG_JAPANESE       "近接攻撃は効果がない"
+
+REFERENCE           SO_RTS_OFF
+LANG_JAPANESE       "オフ"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_USABLE
+LANG_JAPANESE       "この地点でロードスターは使用できない"
+
+REFERENCE           KILLSTREAK_M32_NOT_AVAILABLE
+LANG_JAPANESE       "ウォーマシーン使用不能"
+
+REFERENCE           SO_RTS_UNIT_CANT_MOVE_THERE
+LANG_JAPANESE       "部隊が展開できない地点"
+
+REFERENCE           SO_RTS_INFANTRY_REGPKG_NAME
+LANG_JAPANESE       "通常歩兵分隊"
+
+REFERENCE           SO_RTS_DELIVERY_INCOMMING
+LANG_JAPANESE       "ユニット移送中"
+
+REFERENCE           SO_RTS_INFANTRY_REGPKG_DESC
+LANG_JAPANESE       "通常歩兵分隊には4種類の通常歩兵部隊が含まれる"
+
+REFERENCE           SO_RTS_INFANTRY_SNIPER_NAME
+LANG_JAPANESE       "歩兵(スナイパー)"
+
+REFERENCE           SO_TUT_MP_DRONE_DONE
+LANG_JAPANESE       "チュートリアル完了"
+
+REFERENCE           SO_RTS_INFANTRY_SPEC_SNIPER_DESC
+LANG_JAPANESE       "狙撃用銃器の訓練を受け 狙撃の実績をもつ熟練兵"
+
+REFERENCE           SO_RTS_INFANTRY_CQB_NAME
+LANG_JAPANESE       "歩兵(CQB)"
+
+REFERENCE           SO_RTS_INFANTRY_CQB_DESC
+LANG_JAPANESE       "接近戦に特化した熟練兵"
+
+REFERENCE           SO_RTS_INFANTRY_JUG_NAME
+LANG_JAPANESE       "戦術強襲部隊"
+
+REFERENCE           SO_RTS_ARGUS
+LANG_JAPANESE       "名前: %1\n解説: %2\nタイプ: %3\n耐久力: %4\n装甲: %5\n確認キル: %6\n"
+
+REFERENCE           SO_RTS_INFANTRY_JUG_DESC
+LANG_JAPANESE       "一定のダメージに耐えることができる 重装甲の襲撃部隊"
+
+REFERENCE           SO_RTS_STATUS
+LANG_JAPANESE       "ステータス:"
+
+REFERENCE           SO_RTS_BIGDOG_NAME
+LANG_JAPANESE       "アルファドッグROV"
+
+REFERENCE           SO_RTS_BIGDOG_DESC
+LANG_JAPANESE       "自律型の強襲車両"
+
+REFERENCE           SO_RTS_TYPE_INFANTRY
+LANG_JAPANESE       "歩兵ユニット"
+
+REFERENCE           SO_RTS_TYPE_MECHANIZED
+LANG_JAPANESE       "機械化部隊"
+
+REFERENCE           SO_RTS_TYPE_STATIONARY
+LANG_JAPANESE       "固定ユニット"
+
+REFERENCE           SO_RTS_MOVING
+LANG_JAPANESE       "移動中"
+
+REFERENCE           SO_RTS_DOGPKG_NAME
+LANG_JAPANESE       "アサルト犬"
+
+REFERENCE           SO_RTS_DOGPKG_DESC
+LANG_JAPANESE       "アサルト犬パッケージには 敵兵を探し出して抹殺する3頭の強力な軍用犬が含まれる"
+
+REFERENCE           SO_RTS_AIRSTRIKEPKG_NAME
+LANG_JAPANESE       "対地誘導弾攻撃"
+
+REFERENCE           SO_TUT_MP_DRONE_INTROSCREEN_LINE_3
+LANG_JAPANESE       "^LJSOC^Lストライクフォース"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_WIIU_CAROUSEL
+LANG_JAPANESE       "アクティブユニットパネルには 利用可能な 部隊が表示されています\nカルーセル([{+actionslot_carousel_full}])で 部隊の切り替えを 行いましょう\n\nカルーセルを 任意の方向に押すと 対応した部隊を 選択します\nまたカルーセルを任意の方向に 長押しすると その部隊の操作に移ります"
+
+REFERENCE           SO_RTS_ARGUS_BASE
+LANG_JAPANESE       "ベースチーム: %1\nベース体力: %2\n"
+
+REFERENCE           SO_TUT_MP_DRONE_FPS_TURRET
+LANG_JAPANESE       "^3[{+actionslot 1}]^7長押しでターレットを操作する\n"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_0
+LANG_JAPANESE       "^3[{togglescores}]^7で戦術マップを表示"
+
+REFERENCE           SO_RTS_QUADPKG_DESC
+LANG_JAPANESE       "自律型の強襲航空機"
+
+REFERENCE           SO_TUT_MP_DRONE_ASD_TARGET2
+LANG_JAPANESE       "作戦域に移動されました"
+
+REFERENCE           SO_RTS_QUAD_NAME
+LANG_JAPANESE       "クアッドローターROV"
+
+REFERENCE           SO_RTS_RECONPKG_NAME
+LANG_JAPANESE       "インフィルトレーターROV"
+
+REFERENCE           SO_RTS_MISSION_FAILED
+LANG_JAPANESE       "ミッション失敗"
+
+REFERENCE           SO_RTS_TIME_LEFT
+LANG_JAPANESE       "残り時間:"
+
+REFERENCE           SO_RTS_UNIT_NOTAVAIL
+LANG_JAPANESE       "ユニット使用不能"
+
+REFERENCE           SO_RTS_TOO_MANY_MECHANIZED
+LANG_JAPANESE       "最大数の部隊がすでに展開済み"
+
+REFERENCE           SO_RTS_DEFENDING
+LANG_JAPANESE       "拠点の防衛中"
+
+REFERENCE           SO_RTS_ENGAGED
+LANG_JAPANESE       "敵と接触"
+
+REFERENCE           SO_RTS_FUBAR
+LANG_JAPANESE       "状況不明"
+
+REFERENCE           SO_RTS_PATROLING
+LANG_JAPANESE       "セクターをパトロール中"
+
+REFERENCE           SO_TUT_MP_DRONE_FPS_INF_MOVE
+LANG_JAPANESE       "^3[{+smoke}]^7でアクティブな部隊の歩兵をカーソル位置に移動させる"
+
+REFERENCE           SO_RTS_CONTROLS_CAPS
+LANG_JAPANESE       "操作方法"
+
+REFERENCE           SO_RTS_ENEMY_ARRIVED
+LANG_JAPANESE       "新たな敵の動き"
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_FRIENDLY
+LANG_JAPANESE       "^3[{togglescores}]^7でこの部隊に命令を出す"
+
+REFERENCE           SO_RTS_OBJ_CAPTURE
+LANG_JAPANESE       "敵の重要な建物を占領し 奪取しろ"
+
+REFERENCE           SO_RTS_OBJ3D_DESTROY
+LANG_JAPANESE       "DESTROY"
+
+REFERENCE           SO_RTS_OBJ_DESTROY
+LANG_JAPANESE       "敵の前線基地(FOB)を破壊しろ"
+
+REFERENCE           SO_RTS_INFRA_WON
+LANG_JAPANESE       "施設を確保した"
+
+REFERENCE           SO_RTS_OBJ_PROTECT
+LANG_JAPANESE       "味方の前線基地を防衛しろ"
+
+REFERENCE           SO_RTS_PKG_NOT_READY
+LANG_JAPANESE       "このタイプの部隊は現在使用できません"
+
+REFERENCE           SO_RTS_BTN_RTS_CATALOG_SCROLL
+LANG_JAPANESE       "^3[{+actionslot 3}]^7または^3[{+actionslot 4}]^7でユニット選択"
+
+REFERENCE           SO_RTS_BTN_FPS_FOLLOW
+LANG_JAPANESE       "^3[{+actionslot 2}]^7で分隊員を自分の周りに集める"
+
+REFERENCE           SO_RTS_BTN_RTS_TAKEOVER
+LANG_JAPANESE       "^BBUTTON_MP_CANCELCOMMAND^ でハイライトされた部隊を引き受ける"
+
+REFERENCE           SO_RTS_BTN_RTS_RESET
+LANG_JAPANESE       "^3[{+melee}]^7で基地を中心に戻す"
+
+REFERENCE           SO_RTS_BTN_RTS_MOVE
+LANG_JAPANESE       "^3[{+smoke}]^7で選択した部隊を移動"
+
+REFERENCE           SO_RTS_BTN_FPS_RTSMODE
+LANG_JAPANESE       "^BBUTTON_MP_CANCELCOMMAND^ でバトルマップに戻る"
+
+REFERENCE           SO_RTS_BTN_FPS_RALLY
+LANG_JAPANESE       "^3[{+smoke}]^7で集合地点を設定"
+
+REFERENCE           SO_RTS_BTN_HELP
+LANG_JAPANESE       "^3[{+breath_sprint}]^7でヘルプを表示/非表示\n"
+
+REFERENCE           SO_RTS_FPS_MODE
+LANG_JAPANESE       "部隊単位で行動(FPS)"
+
+REFERENCE           SO_RTS_FASTROPE_HELO
+LANG_JAPANESE       "ヘリ"
+
+REFERENCE           SO_RTS_FASTROPE_VTOL
+LANG_JAPANESE       "VTOL"
+
+REFERENCE           SO_RTS_STANDARD
+LANG_JAPANESE       "現地展開中"
+
+REFERENCE           SO_RTS_INFRA_CONTESTED
+LANG_JAPANESE       "戦闘が継続中"
+
+REFERENCE           SO_RTS_DELIVERY
+LANG_JAPANESE       "移送:"
+
+REFERENCE           SO_RTS_REQUIREMENT
+LANG_JAPANESE       "必須:"
+
+REFERENCE           SO_RTS_PREPTIME
+LANG_JAPANESE       "準備時間:"
+
+REFERENCE           SO_RTS_UNITS
+LANG_JAPANESE       "ユニット数:"
+
+REFERENCE           SO_RTS_OR
+LANG_JAPANESE       "/"
+
+REFERENCE           SO_RTS_TRANSPORT_AVAIL
+LANG_JAPANESE       "輸送機飛行可能"
+
+REFERENCE           SO_TUT_MP_DRONE_OBJ_TUTORIAL
+LANG_JAPANESE       "ストライクフォースのチュートリアルを完了する"
+
+REFERENCE           SO_RTS_TRANSPORT_INFLIGHT
+LANG_JAPANESE       "飛行中"
+
+REFERENCE           SO_RTS_NO_UNITS_FAILURE
+LANG_JAPANESE       "使用可能なストライクフォースチームがないため ブリーフィングルームに戻る"
+
+REFERENCE           SO_RTS_ALLY_BASE_DESTROYED
+LANG_JAPANESE       "味方の前線基地が破壊された"
+
+REFERENCE           SO_RTS_ALLY_BASE_DAMAGE
+LANG_JAPANESE       "味方の前線基地が攻撃を受けている"
+
+REFERENCE           SO_RTS_AUTO_ORDER
+LANG_JAPANESE       "オートオーダー:"
+
+REFERENCE           SO_RTS_AIRSTRIKE_AVAIL
+LANG_JAPANESE       "^3[{+activate}]^7で攻撃開始"
+
+REFERENCE           SO_RTS_AIRSTRIKE_NOTAVAIL
+LANG_JAPANESE       "現在 空爆支援は利用できない"
+
+REFERENCE           SO_RTS_ACTIVE_UNIT_PANEL_CAPS
+LANG_JAPANESE       "アクティブユニットパネル"
+
+REFERENCE           SO_RTS_INTRUDER_ATTACK
+LANG_JAPANESE       "装置が攻撃を受けている"
+
+REFERENCE           SO_RTS_MISSION_TIME_REMAINING_CAPS
+LANG_JAPANESE       "ミッション時間"
+
+REFERENCE           SO_RTS_ACTIVE_UNITS_CAPS
+LANG_JAPANESE       "アクティブな部隊"
+
+REFERENCE           SO_RTS_PLANT_INTRUDER
+LANG_JAPANESE       "^3[{+activate}]^7長押しでネットワークイントルーダーを設置"
+
+REFERENCE           SO_RTS_TACT_MAP
+LANG_JAPANESE       "^3[{togglescores}]^7でタクティカルビュー"
+
+REFERENCE           SO_TUT_MP_DRONE_FPS_INF_ALL_MOVE
+LANG_JAPANESE       "^3[{+smoke}]^7長押しで全部隊をカーソル位置に移動させる"
+
+REFERENCE           SO_RTS_TUTORIAL_BIGDOG_PKG
+LANG_JAPANESE       "^3[{+speed_throw}]^7で視点をズーム ^3[{+attack}]^7で武器を発射\n^3[{+frag}]^7でグレネードランチャーを発射"
+
+REFERENCE           SO_RTS_AIRSTRIKE_AVAILABLE_IN
+LANG_JAPANESE       "空爆支援使用可能まであと"
+
+REFERENCE           SO_RTS_OBJ3D_RESCUE
+LANG_JAPANESE       "レスキュー"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_1
+LANG_JAPANESE       "^3[{+actionslot 2}]^7で歩兵を選択し [{+smoke}]で指揮を行う"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_PC
+LANG_JAPANESE       "タクティカルビューでは 味方や敵 目標などを より広範に 把握することができます\nタクティカルビュー時の 命令方法は 地上で命令する場合と同様です\n\n^3[{togglescores}]^7ボタンでこの視点になります\n\n地上にいる部隊の 視点に戻りたいときは 分隊選択ボタン^3[{+actionslots}]^7を長押しするか カーソルを部隊の メンバーに合わせ^3[{togglescores}]^7ボタンを押してください"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_3
+LANG_JAPANESE       "^3[{+actionslot 2}]^7長押しで最も近い歩兵を選択する"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_CLAW_MOVE
+LANG_JAPANESE       "^3[{+smoke}]^7/^3[{+attack}]^7でCLAW部隊を移動させる"
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_0
+LANG_JAPANESE       "^3[{+smoke}]^7長押しで全ユニットを選択 その後[{+attack}]で指揮を行う"
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_1
+LANG_JAPANESE       "^3[{+actionslot 2}]^7を短く押して歩兵を選択し [{+attack}]で指揮を行う"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_METALSTORM_PKG
+LANG_JAPANESE       "新ユニット: ASD\n^3[{+actionslot 4}]^7で選択 長押しで操作"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_QUADROTOR_PKG
+LANG_JAPANESE       "新ユニット:クアッドローター\n^3[{+actionslot 1}]^7で選択 長押しで操作"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_CLAW
+LANG_JAPANESE       "^3[{+actionslot 2}]^7でCLAW部隊を選択する"
+
+REFERENCE           SO_RTS_OBJ3D_DEFEND
+LANG_JAPANESE       "DEFEND"
+
+REFERENCE           SO_RTS_PLACE
+LANG_JAPANESE       "^3[{+gostand}]^7長押しで配置"
+
+REFERENCE           SO_RTS_TWO_MINUTE_WARNING
+LANG_JAPANESE       "2分以内に目標を達成しろ"
+
+REFERENCE           SO_RTS_SQUAD_SELECTION_CAPS
+LANG_JAPANESE       "分隊選択"
+
+REFERENCE           SO_RTS_RETRY_MISSION_UNIT
+LANG_JAPANESE       "このミッションをリトライするには 別のユニットが必要となる リトライしない場合は ブリーフィングルームに戻る"
+
+REFERENCE           SO_RTS_SQUAD_ICON_CAPS
+LANG_JAPANESE       "部隊アイコンについて"
+
+REFERENCE           SO_RTS_SQUAD_ICON_INFO
+LANG_JAPANESE       "部隊アイコンには 使用可能な部隊の種類と その数が示されています\n選択された部隊の部隊アイコンは オレンジ色になります"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_PC
+LANG_JAPANESE       "アクティブな部隊パネルには 利用可能な分隊タイプが表示される\n分隊選択ボタン^3[{+actionslots}]^7を使って 分隊を切り替えよう\n\n分隊選択ボタン^3[{+actionslots}]^7を押せば 分隊を選択できる\n\n分隊選択ボタン^3[{+actionslots}]^7を長押しすれば その分隊に切り替わる"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS
+LANG_JAPANESE       "移動させたい部隊に\n対応した方向を押し部隊を選択して\nください"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_CAPS
+LANG_JAPANESE       "特定の目標への移動命令"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_ENEMIES_CAPS
+LANG_JAPANESE       "敵への攻撃命令"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_ENEMIES
+LANG_JAPANESE       "カーソルを敵に合わせて^3[{+smoke}]^7を短く\n押すと選択中の部隊がその敵を攻撃\nします\nまた^3[{+smoke}]^7を長押しすると 全部隊がその\n敵を攻撃します"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO
+LANG_JAPANESE       "タクティカルビューでは 味方や敵 目標などを より広範に把握する\nことができます\nタクティカルビュー時の 命令方法は 地上で命令する場合と同様です\n^BBUTTON_MP_CANCELCOMMAND^でこの視点になります\n地上にいる部隊の視点に戻りたい\nときはいずれかの方向\nを 長押しするかカーソルを部隊の\nメンバーに合わせ^BBUTTON_MP_CANCELCOMMAND^を押してください"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_WIIU_CAROUSEL
+LANG_JAPANESE       "タクティカルビューでは 味方や敵 目標などを より広範に 把握することができます\nタクティカルビュー時の 命令方法は 地上で命令する場合と同様です\n[{togglescores}]でこの視点になります\n地上にいる部隊の 視点に戻りたいときはカルーセルをいずれかの方向に 長押しするか カーソルを部隊の メンバーに合わせ[{togglescores}]を押してください"
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_POI
+LANG_JAPANESE       "^3[{+smoke}]^7で部隊にこの地点を制圧させる"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_CAPS
+LANG_JAPANESE       "部隊に命令を出す"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_CAPS
+LANG_JAPANESE       "部隊の選択"
+
+REFERENCE           SO_RTS_RETRY_CURRENT_MISSION_CAPS
+LANG_JAPANESE       "現在のミッションをリトライ"
+
+REFERENCE           SO_RTS_RETRY_MISSION
+LANG_JAPANESE       "ミッションをリトライしますか？"
+
+REFERENCE           SO_TUT_MP_DRONE_FPS_CLAW
+LANG_JAPANESE       "^3[{+actionslot 2}]^7長押しでCLAWを操作する\n"
+
+REFERENCE           SO_RTS_STRATEGIC_VIEWS_CAP
+LANG_JAPANESE       "タクティカルビューについて"
+
+REFERENCE           SO_RTS_COMMANDS_CAPS
+LANG_JAPANESE       "命令"
+
+REFERENCE           SO_RTS_COMMANDS_CONT_CAPS
+LANG_JAPANESE       "命令(続き)"
+
+REFERENCE           SO_RTS_SELECTION_CAPS
+LANG_JAPANESE       "選択"
+
+REFERENCE           SO_RTS_SELECT_SQUADS
+LANG_JAPANESE       "アクティブユニットパネルには利用\n可能な分隊が表示されています\n方向パッドを任意の方向に押すと\n対応した分隊を選択します\nまた任意の方向に長押しするとその\n分隊の操作に移ります"
+
+REFERENCE           SO_RTS_SWITCH_UNITS
+LANG_JAPANESE       "^3[{+actionslots}]^7長押しで部隊を切り替える"
+
+REFERENCE           SO_RTS_CONTINUE_STORY_CAPS
+LANG_JAPANESE       "ストーリー続行"
+
+REFERENCE           SO_RTS_SF_UNITS_REMAINING
+LANG_JAPANESE       "：ストライクフォースチーム残数"
+
+REFERENCE           SO_RTS_REPLAY_TUT_CAPS
+LANG_JAPANESE       "チュートリアルのリプレイ"
+
+REFERENCE           SO_RTS_TUTORIAL_COMPLETE
+LANG_JAPANESE       "チュートリアル完了"
+
+REFERENCE           SO_RTS_MISSILE_HINT
+LANG_JAPANESE       "^3[{+lookstick}]^7でミサイルを操作"
+
+REFERENCE           SO_RTS_SF_NO_UNITS_REMAINING
+LANG_JAPANESE       "ストライクフォースチーム残数ゼロ"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_PS3
+LANG_JAPANESE       "アクティブユニットパネルには利用\n可能な分隊が表示されています\n方向キーを任意の方向に押すと\n対応した分隊を選択します\nまた任意の方向に長押しするとその\n分隊の操作に移ります"
+
+REFERENCE           SO_TUT_MP_DRONE_FPS_INF
+LANG_JAPANESE       "^3[{+actionslot 3}]^7 または ^3[{+actionslot 4}]^7長押し で歩兵を操作する"
+
+REFERENCE           SO_TUT_MP_DRONE_FPS_TACTVIEW
+LANG_JAPANESE       "^3[{togglescores}]^7でタクティカルビュー"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_INF
+LANG_JAPANESE       "^3[{+actionslot 3}]^7または^3[{+actionslot 4}]^7で歩兵部隊を選択する"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_ALL_MOVE
+LANG_JAPANESE       "^3[{+smoke}]^7/^3[{+attack}]^7長押しで全部隊を移動させる"
+
+REFERENCE           SO_TUT_MP_DRONE_TACT_CONTROL
+LANG_JAPANESE       "その状態で^3[{togglescores}]^7で歩兵を操作できる"
+
+REFERENCE           SO_TUT_MP_DRONE_INF_PROMPT
+LANG_JAPANESE       "^3[{+actionslot 3}]^7または^3[{+actionslot 4}]^7長押しで 歩兵を操作する"
+
+REFERENCE           SO_TUT_MP_DRONE_UNSELECT
+LANG_JAPANESE       "全部隊がハイライトされている場合 いずれかの部隊を選択すると解除される"
+
+REFERENCE           SO_TUT_MP_DRONE_UNSELECT_2
+LANG_JAPANESE       "^3[{+actionslot 3}]^7 ^3[{+actionslot 1}]^7 ^3[{+actionslot 4}]^7または^3[{+actionslot 2}]^7で1つの部隊を選択"
+
+REFERENCE           SO_TUT_MP_DRONE_MOVETO
+LANG_JAPANESE       "ハイライトされたエリアに部隊を移動させよう"
+
+REFERENCE           SO_TUT_MP_DRONE_CLAW_GREN
+LANG_JAPANESE       "^3[{+frag}]^7でグレネードを発射する"
+
+REFERENCE           SO_TUT_MP_DRONE_ATTACK_TARGET
+LANG_JAPANESE       "^3[{+smoke}]^7/^3[{+attack}]^7で現在の部隊に演習ターゲットを攻撃するよう指示する"
+
+REFERENCE           SO_TUT_MP_DRONE_ALL_ATTACK_TARGET
+LANG_JAPANESE       "^3[{+smoke}]^7/^3[{+attack}]^7長押しで全部隊に演習ターゲットを攻撃するよう指示する"
+
+ENDMARKER

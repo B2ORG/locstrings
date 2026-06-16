@@ -1,0 +1,1087 @@
+// Dumped from fastfile "po_river".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           RIVER_BARNES
+LANG_ENGLISH        "Barnes"
+
+REFERENCE           RIVER_BOAT_DRIVE
+LANG_ENGLISH        "Aby poprowadziÊ pojazd, wciúnij ^3[{+activate}]^7"
+
+REFERENCE           RIVER_BOAT_ENTRY
+LANG_ENGLISH        "Aby wspiπÊ siÍ na ≥Ûdü, wciúnij ^3[{+attack}]^7"
+
+REFERENCE           RIVER_BOAT_HP
+LANG_ENGLISH        "£”Dè"
+
+REFERENCE           RIVER_BOSS_BOAT_COWARD
+LANG_ENGLISH        "Wroga ≥Ûdü patrolowa nie zosta≥a zdobyta."
+
+REFERENCE           RIVER_CONTROLS_ADS
+LANG_ENGLISH        "Naciúnij ^3[{+melee}]^7, øeby przybliøaÊ i oddalaÊ"
+
+REFERENCE           RIVER_CONTROLS_BOWMAN_REMINDER
+LANG_ENGLISH        "Uøyj ^3[{+frag}]^7 do wystrzelenia pociskÛw z pozycji Bowmana"
+
+REFERENCE           RIVER_CONTROLS_FIRE_MISSILES
+LANG_ENGLISH        "Naciúnij ^3[{+speed_throw}]^7, øeby wystrzeliwaÊ pociski"
+
+REFERENCE           RIVER_CONTROLS_LSTICK
+LANG_ENGLISH        "Uøyj  , aby poruszaÊ\n"
+
+REFERENCE           RIVER_CONTROLS_RB
+LANG_ENGLISH        "Wciúnij ^3[{+frag}]^7, aby Bowman zaczπ≥ strzelaÊ"
+
+REFERENCE           RIVER_CONTROLS_RSTICK
+LANG_ENGLISH        "Uøyj  , aby celowaÊ"
+
+REFERENCE           RIVER_CONTROLS_RTRIG
+LANG_ENGLISH        "Wciúnij ^3[{+attack}]^7, aby strzelaÊ z karabinu maszynowego"
+
+REFERENCE           RIVER_CONTROLS_WOODS_REMINDER
+LANG_ENGLISH        "Uøyj ^3[{+smoke}]^7 do wystrzelenia pociskÛw z pozycji Woodsa"
+
+REFERENCE           RIVER_CUT_ROPE
+LANG_ENGLISH        "Naciúnij ^3[{+melee}]^7, øeby przeciπÊ linÍ"
+
+REFERENCE           RIVER_HEAD_TO_BRIDGE
+LANG_ENGLISH        "Kieruj siÍ w stronÍ mostu. Nied≥ugo nastπpi atak lotniczy."
+
+REFERENCE           RIVER_INTROSCREEN_1
+LANG_ENGLISH        "^LTransmisja # 2-15-4-25. Kryptonim: INDIA^L\n"
+
+REFERENCE           RIVER_INTROSCREEN_2
+LANG_ENGLISH        "^LZaangaøowanie ZSRR potwierdzone. Sowieci dostarczajπ broÒ Wietnamczykom. ^L\n"
+
+REFERENCE           RIVER_INTROSCREEN_3
+LANG_ENGLISH        "^LRadziecki samolot transportowy zosta≥ zestrzelony nad^L ^C1Laosem ^C"
+
+REFERENCE           RIVER_INTROSCREEN_4
+LANG_ENGLISH        "^C1Mason^C ^Li GOS zostali wys≥ani, by odzyskaÊ Novπ 6 z wraku^L"
+
+REFERENCE           RIVER_INTROSCREEN_5
+LANG_ENGLISH        "^L13:00,^L ^C111 lutego 1968^C"
+
+REFERENCE           RIVER_LEWIS
+LANG_ENGLISH        "Lewis"
+
+REFERENCE           RIVER_LT_MISSILES
+LANG_ENGLISH        ""
+
+REFERENCE           RIVER_OBJ_AA_GUNS
+LANG_ENGLISH        "Zniszcz dzia≥a przeciwlotnicze"
+
+REFERENCE           RIVER_OBJ_AA_GUNS_3
+LANG_ENGLISH        "Zniszcz dzia≥o przeciwlotnicze"
+
+REFERENCE           RIVER_OBJ_AFTERMATH
+LANG_ENGLISH        "Steruj ≥odziπ"
+
+REFERENCE           RIVER_OBJ_BOAT_DRAG
+LANG_ENGLISH        "Odetnij linÍ na dziobie"
+
+REFERENCE           RIVER_OBJ_BOAT_DRIVE
+LANG_ENGLISH        "Przeniknij do bazy nieprzyjaciela"
+
+REFERENCE           RIVER_OBJ_BOAT_LANDING
+LANG_ENGLISH        "Przegrupuj siÍ z si≥ami amerykaÒskimi w gÛrze rzeki"
+
+REFERENCE           RIVER_OBJ_BOATJACK
+LANG_ENGLISH        "Zlikwiduj øo≥nierzy NVA w ≥odzi"
+
+REFERENCE           RIVER_OBJ_BOSS_BOAT
+LANG_ENGLISH        "Zaatakuj opancerzonπ ≥Ûdü patrolowπ"
+
+REFERENCE           RIVER_OBJ_BUNKER
+LANG_ENGLISH        "Zniszcz betonowy bunkier"
+
+REFERENCE           RIVER_OBJ_CONTROL_BOAT
+LANG_ENGLISH        "Przejmij kontrolÍ nad ≥odziπ"
+
+REFERENCE           RIVER_OBJ_CUT_ROPE
+LANG_ENGLISH        "Przetnij linÍ"
+
+REFERENCE           RIVER_OBJ_DESTROY
+LANG_ENGLISH        "Zniszcz"
+
+REFERENCE           RIVER_OBJ_DESTROY_TARGETS
+LANG_ENGLISH        "Zniszcz wrogie cele"
+
+REFERENCE           RIVER_OBJ_DRAG_TIE_ROPE
+LANG_ENGLISH        "Przywiπø linÍ"
+
+REFERENCE           RIVER_OBJ_DRAG_TO_CHOPPER
+LANG_ENGLISH        "Idü do úmig≥owca ratunkowego"
+
+REFERENCE           RIVER_OBJ_DRIVE
+LANG_ENGLISH        "Kieruj"
+
+REFERENCE           RIVER_OBJ_DRIVE_BOAT
+LANG_ENGLISH        "P≥yÒ siÍ w gÛrÍ rzeki na miejsce katastrofy"
+
+REFERENCE           RIVER_OBJ_ENGAGE_ENEMY
+LANG_ENGLISH        "Zaatakuj cele"
+
+REFERENCE           RIVER_OBJ_FIGHT_UPHILL
+LANG_ENGLISH        "Zbadaj miejsce katastrofy"
+
+REFERENCE           RIVER_OBJ_FOLLOW
+LANG_ENGLISH        "Idü za"
+
+REFERENCE           RIVER_OBJ_GETAWAY_RAIL
+LANG_ENGLISH        "Ucieknij!"
+
+REFERENCE           RIVER_OBJ_JUNGLE_APPROACH
+LANG_ENGLISH        "Uratuj za≥ogÍ zestrzelonego úmig≥owca"
+
+REFERENCE           RIVER_OBJ_KILL_STREAM_GUYS
+LANG_ENGLISH        "BroÒ miejsca katastrofy "
+
+REFERENCE           RIVER_OBJ_LAND_REGROUP
+LANG_ENGLISH        "Przegrupuj siÍ z øo≥nierzami na brzegu"
+
+REFERENCE           RIVER_OBJ_MEET_AT_DOCK
+LANG_ENGLISH        "Przegrupuj siÍ na nabrzeøu"
+
+REFERENCE           RIVER_OBJ_MISSILES_1
+LANG_ENGLISH        "Zniszcz wyrzutnie rakiet (pozosta≥o 1 z 3)"
+
+REFERENCE           RIVER_OBJ_MISSILES_2
+LANG_ENGLISH        "Zniszcz wyrzutnie rakiet (pozosta≥o 2 z 3)"
+
+REFERENCE           RIVER_OBJ_MISSILES_3
+LANG_ENGLISH        "Zniszcz wyrzutnie rakiet (pozosta≥o 3 z 3)"
+
+REFERENCE           RIVER_OBJ_MISSILES_DONE
+LANG_ENGLISH        "Zniszcz wyrzutnie rakiet"
+
+REFERENCE           RIVER_OBJ_PARK_BOAT
+LANG_ENGLISH        "Znajdü bezpieczne miejsce do zacumowania ≥odzi"
+
+REFERENCE           RIVER_OBJ_PLANE_CRASH_SEARCH
+LANG_ENGLISH        "Przeszukaj miejsce katastrofy"
+
+REFERENCE           RIVER_OBJ_RECAPTURE_PBR
+LANG_ENGLISH        "Wracaj na ≥Ûdü!"
+
+REFERENCE           RIVER_OBJ_REGROUP_BRIDGE
+LANG_ENGLISH        "Przegrupuj siÍ na moúcie"
+
+REFERENCE           RIVER_OBJ_RIVER_PACING
+LANG_ENGLISH        "Dotrzyj na miejsce katastrofy Chinooka"
+
+REFERENCE           RIVER_OBJ_SNIPER_DUEL
+LANG_ENGLISH        "Pokonaj nieprzyjacielskiego snajpera"
+
+REFERENCE           RIVER_OBJ_SNIPER_SUPPORT
+LANG_ENGLISH        "Ubezpieczaj Woodsa i Bowmana, gdy bÍdπ wracaÊ na ≥Ûdü"
+
+REFERENCE           RIVER_OBJ_WOUNDED_MAN
+LANG_ENGLISH        "Uratuj pilota"
+
+REFERENCE           RIVER_OBJ_ZPU
+LANG_ENGLISH        "Zniszcz ZPU"
+
+REFERENCE           RIVER_PILOT
+LANG_ENGLISH        "Pilot Chinooka"
+
+REFERENCE           RIVER_REZNOV
+LANG_ENGLISH        "Reznow"
+
+REFERENCE           RIVER_RT_MACHINE_GUN
+LANG_ENGLISH        ""
+
+REFERENCE           RIVER_TIE_ROPE
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby przywiπzaÊ linÍ"
+
+REFERENCE           RIVER_VOX_RIV1_S01_001A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7To nasz transport. Ruszajmy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_002A_RED1
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Widzia≥em czterech! Gdzie oni sπ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_003A_RED1
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Ostatnia szansa..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_004A_RED1
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Jest wasz."
+
+REFERENCE           RIVER_VOX_RIV1_S01_005A_RED2
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7To za Wilsona. Mia≥ tylko 18 lat!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_006A_PLDR_M
+LANG_ENGLISH        "^1DOW”DCA PLUTONU: ^7Nie uda mu siÍ! RUCHY, RUCHY!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_007A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Widywa≥em gorsze przypadki i wychodzili z tego!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_008A_PLDR_M
+LANG_ENGLISH        "^1DOW”DCA PLUTONU: ^7Tak, ale co zostanie?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_009A_RED3
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Ruszaj dupku!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_009A_RED3_S
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Ruszaj siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_010A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7MASON! Na ≥Ûdü!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_011A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Musimy ruszaÊ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_012A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7MASON! Na pok≥ad. JUØ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_013A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7PrzestaÒ marnowaÊ czas, Mason. W≥aü na pok≥ad!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_014A_RED4_M
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7GOS, prawda? Prawda?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_015A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Nie mog≥o im siÍ udaÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_016A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7£ap za broÒ i nie daj siÍ zabiÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_017A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7M202. Bowman! BroÒ na sterburcie. Mason, prowadzisz."
+
+REFERENCE           RIVER_VOX_RIV1_S01_018A_MASO
+LANG_ENGLISH        "^1MASON: ^7A co z Reznowem?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_019A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Co powiedzia≥eú?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_020A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7BÍdÍ wypatrywa≥ snajperÛw."
+
+REFERENCE           RIVER_VOX_RIV1_S01_021A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7WrÛg na wprost, ostrzeliwujπ nas. Mason, wskazuj cele. Czekamy na twÛj sygna≥. Hej, m≥ody."
+
+REFERENCE           RIVER_VOX_RIV1_S01_022A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7PamiÍtaj, co powiedzia≥em."
+
+REFERENCE           RIVER_VOX_RIV1_S01_023A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Po 4 strza≥ach bÍdziemy musieli prze≥adowaÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_024A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, wskaø mi cele! Czekam!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_025A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7MÛw, gdzie mam strzelaÊ, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_026A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Czekam na twÛj sygna≥, Mason."
+
+REFERENCE           RIVER_VOX_RIV1_S01_027A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prze≥adowa≥em! Czekam na cele."
+
+REFERENCE           RIVER_VOX_RIV1_S01_028A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, wskazuj cele!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_029A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Gdzie mam strzelaÊ, Mason?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_030A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, prze≥adowa≥em!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_031A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Kurwa, Mason, mÛw, w co mam strzelaÊ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_031A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, wystaw mi kogoú do strza≥u!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_032A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prze≥adowujÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_033A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prze≥adowanie."
+
+REFERENCE           RIVER_VOX_RIV1_S01_034A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Czekaj. Prze≥adowujÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_035A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Pusto!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_036A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Koniec amunicji!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_037A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Prze≥adowujÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_038A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7PotrzebujÍ amunicji!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_039A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7MuszÍ prze≥adowaÊ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_040A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Pusto. Prze≥adowujÍ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_041A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7PUSTO!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_042A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ma≥o brakowa≥o!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_043A_MASO
+LANG_ENGLISH        "^1MASON: ^7MuszÍ siÍ tego pozbyÊ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_044A_MASO
+LANG_ENGLISH        "^1MASON: ^7Cholera, sπ wszÍdzie!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_045A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kurwa, omal nie pos≥ali nas na dno!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_045A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Niemal nas zatopili!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_046A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, d≥uøej nie wytrzymamy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_047A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Unik!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_048A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prawie straciliúmy Bowmana!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_049A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7CiÍøki ostrza≥!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_050A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Zabierz nas stπd, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_051A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sπ wszÍdzie!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_052A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Kurwa!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_052A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Cholera!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_053A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, gazu!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_054A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7To koniec!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_055A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Idziemy na dno!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_056A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Toniemy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_057A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Woods!!!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_058A_MASO
+LANG_ENGLISH        "^1MASON: ^7Palimy siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_059A_MASO
+LANG_ENGLISH        "^1MASON: ^7Nabieramy wody."
+
+REFERENCE           RIVER_VOX_RIV1_S01_060A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nie, Mason. To nasi!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_061A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Co robisz?! To nasi øo≥nierze!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_062A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, zabijasz naszych ludzi!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_063A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ostrza≥ sojuszniczy! Ostrza≥ sojuszniczy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_064A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Uwaga, to nasi. To nasi ludzie!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_065A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Wstrzymaj ogieÒ, Mason. Zabijasz naszych øo≥nierzy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_066A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, NIE! To nasi øo≥nierze, kurwa."
+
+REFERENCE           RIVER_VOX_RIV1_S01_066A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, NIE! To nasi øo≥nierze."
+
+REFERENCE           RIVER_VOX_RIV1_S01_067A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7WSTRZYMAJ OGIE—! To nasi!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_068A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Uwaga. Przed nami obÛz wroga, z lewej. RPG!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_069A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mason, wal z g≥Ûwnego dzia≥a!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_070A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Tak, rozpieprz ich!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_070A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Rozwal ich!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_071A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Nie miej litoúci!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_072A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wieøa przed nami!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_073A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wali siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_074A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Uwaga, ostrza≥! Ruchome wyrzutnie rakiet z przodu. Trzy sztuki."
+
+REFERENCE           RIVER_VOX_RIV1_S01_075A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Ruszyli!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_076A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Uwaga!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_077A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, unik!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_078A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gazu, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_079A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Moüdzierz!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_080A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Uwaga!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_081A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7KryÊ siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_082A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ostro na sterburtÍ, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_083A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7ZniszczyÊ ich!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_084A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7PrzygotowaÊ siÍ na uderzenie!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_085A_MASO
+LANG_ENGLISH        "^1MASON: ^7BÍdzie blisko!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_086A_MASO
+LANG_ENGLISH        "^1MASON: ^7Uwaga!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_087A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nie tÍdy, Mason! Musimy rozwaliÊ te moüdzierze!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_088A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nie, Mason. Nie tÍdy. Rozwal wyrzutnie!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_089A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Spokojnie, Mason. Najpierw musimy zniszczyÊ wyrzutnie!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_090A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nie, Mason. Zostaw to na pojazdy."
+
+REFERENCE           RIVER_VOX_RIV1_S01_091A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Nie! Musimy zniszczyÊ te pieprzone moüdzierze."
+
+REFERENCE           RIVER_VOX_RIV1_S01_091A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Nie! Musimy zniszczyÊ te moüdzierze."
+
+REFERENCE           RIVER_VOX_RIV1_S01_092A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Jeszcze nie, Mason. Musimy zajπÊ siÍ tymi wyrzutniami rakiet."
+
+REFERENCE           RIVER_VOX_RIV1_S01_093A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeden z g≥owy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_094A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeden zniszczony!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_095A_MASO
+LANG_ENGLISH        "^1MASON: ^7Tak! Prosto w cel."
+
+REFERENCE           RIVER_VOX_RIV1_S01_096A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7W celu!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_097A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7åwietny strza≥! Jeszcze jeden!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_098A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dalej!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_099A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7To ostatni! Dobrze!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_100A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7GOS!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_101A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dobra robota, przyjacielu."
+
+REFERENCE           RIVER_VOX_RIV1_S01_102A_RED4
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Uda≥o ci siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_103A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nieüle, Mason! A teraz skieruj siÍ na tÍ zaporÍ na rzece. Nasi ch≥opcy siÍ niπ zajmπ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_104A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Tak!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_105A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Liczne cele! Wieøa z przodu, RPG z prawej. M≥ody, nie wychylaj siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_106A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7åwietny strza≥! Wali siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_107A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7RozwaliÊ drani!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_108A_RED4
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Tak trzymaÊ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_109A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Zupe≥nie jak w Workucie, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_110A_RED4
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Kolejna wieøa!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_111A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Po niej!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_112A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Kurwa! ZSU z lewej, z poczwÛrnπ 50-tkπ. Rozniesie nas na strzÍpy."
+
+REFERENCE           RIVER_VOX_RIV1_S01_112A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7ZSU z lewej, z poczwÛrnπ 50-tkπ. Rozniesie nas na strzÍpy."
+
+REFERENCE           RIVER_VOX_RIV1_S01_113A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mason, na co czekasz? Strzelaj!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_114A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7O w mordÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_114A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7To musia≥o boleÊ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_115A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeszcze dwie wieøe na wprost! Ruch na obu skrzyd≥ach."
+
+REFERENCE           RIVER_VOX_RIV1_S01_116A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Wyúlij ich do piek≥a, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_117A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7I gÛwno majπ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_117A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7I gÛwno majπ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_118A_RED4
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Sierøancie, kolejne ZSU!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_119A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dobra! Uwaga, moøe byÊ ich wiÍcej."
+
+REFERENCE           RIVER_VOX_RIV1_S01_120A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Most na wprost. To ≥atwizna."
+
+REFERENCE           RIVER_VOX_RIV1_S01_121A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Patrzcie, jak p≥onπ!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_122A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sampany! Nie pozwÛl im siÍ zbliøyÊ. M≥ody, rozwal skurwieli."
+
+REFERENCE           RIVER_VOX_RIV1_S01_122A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Sampany! Nie pozwÛl im siÍ zbliøyÊ. M≥ody, rozwal skurwieli."
+
+REFERENCE           RIVER_VOX_RIV1_S01_123A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeszcze jeden!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_124A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Tak, to chyba ostatni!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_125A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7NastÍpne ZSU na grani! Szybko!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_126A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7I masz, gnoju!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_126A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7A masz, sukinsynu!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_127A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeszcze dwa Sampany. Wiesz, co robiÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_128A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeszcze jeden!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_129A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Daswidania!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_130A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Kolejny ZSU! Ile oni tego majπ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_130A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Kolejny ZSU!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_131A_MASO
+LANG_ENGLISH        "^1MASON: ^7To musia≥ byÊ ostatni."
+
+REFERENCE           RIVER_VOX_RIV1_S01_132A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Co to jest, do cholery?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_133A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wal ze wszystkiego!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_134A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7To by≥a ich twierdza. Uciekajπ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_135A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zbliøa siÍ coú duøego... Szykujcie siÍ, panowie."
+
+REFERENCE           RIVER_VOX_RIV1_S01_136A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Wietnamczycy! Kuter! Celuj w ty≥! Silnik jest z ty≥u!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_137A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Nie zastanawiaj siÍ, Mason, bo rozniesie nas na strzÍpy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_138A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Pali siÍ! Tak trzymaÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_139A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Trafiliúmy w silnik!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_140A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gubi ropÍ. Silnik wysiad≥. WykoÒcz go!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_141A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Pali siÍ! Dobij go! Szybko!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_142A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7ZawrÛÊ, Mason. Musimy zniszczyÊ ten kuter."
+
+REFERENCE           RIVER_VOX_RIV1_S01_143A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, nie moøemy opuúciÊ tego rejonu. Musimy zniszczyÊ ten kuter!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_144A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Uøyj budynkÛw jako os≥ony, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_145A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Dorwaliúmy go! Dorwaliúmy!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_146A_MASO
+LANG_ENGLISH        "^1MASON: ^7Tylko na tyle ich staÊ?"
+
+REFERENCE           RIVER_VOX_RIV1_S01_257A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Zobaczymy, jak im siÍ to spodoba."
+
+REFERENCE           RIVER_VOX_RIV1_S01_258A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Cholera, straciliúmy jednego! Mason, daj im popaliÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_258A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Cholera, straciliúmy jednego! Mason, daj im popaliÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_262A_RED4_M
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Sir."
+
+REFERENCE           RIVER_VOX_RIV1_S01_263A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7W porzπdku..."
+
+REFERENCE           RIVER_VOX_RIV1_S01_264A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bierzmy siÍ do roboty!"
+
+REFERENCE           RIVER_VOX_RIV1_S01_800A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dzieciak nie da≥ rady. \nKlnÍ siÍ na Boga, øe Woods p≥aka≥, ale nie pozwoli≥, øebyúmy widzieli jego ≥zy."
+
+REFERENCE           RIVER_VOX_RIV1_S01_900A_MASO
+LANG_ENGLISH        "^1MASON: ^7PiÍÊ kilometrÛw stπd CIA zestrzeli≥o samolot transportowy."
+
+REFERENCE           RIVER_VOX_RIV1_S01_901A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lepiej znajdümy NovÍ 6, zanim Sowieci zdπøπ wszystko posprzπtaÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S01_902A_MASO
+LANG_ENGLISH        "^1MASON: ^7Racja... Ruszajmy."
+
+REFERENCE           RIVER_VOX_RIV1_S02_147A_CHI1_F_M
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Wilk 10, tu Ratunkowy 1. Widzimy was. Sektor jest zajÍty. Wycofujemy siÍ"
+
+REFERENCE           RIVER_VOX_RIV1_S02_148A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Przyjπ≥em. Mamy transport powietrzny. Mason, to nasz PZ."
+
+REFERENCE           RIVER_VOX_RIV1_S02_149A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, kieruj siÍ do PZ!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_150A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nie mamy czasu. Szybko, Mason, zanim bÍdzie za pÛüno!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_151A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Ratunkowy 1, tu Centurion 5. Duøo ruchu. PrzerwaÊ ewakuacjÍ! Nie ma czasu!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_152A_CHI1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Niemoøliwe. Mamy tam GOS. Oni zrobiliby to dla nas. Wchodzimy."
+
+REFERENCE           RIVER_VOX_RIV1_S02_153A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7CH-47. Musimy siÍ pospieszyÊ. Chinook zabierze nas do SL Delta Tango."
+
+REFERENCE           RIVER_VOX_RIV1_S02_154A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Woods, ruch! Wschodnia strona rzeki. ZajmÍ siÍ tym."
+
+REFERENCE           RIVER_VOX_RIV1_S02_155A_CHI1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Wilku 10, jesteúmy na miejscu. Centurioni, ostrzelaÊ ich!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_158A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Ratunkowy 1, wycofaj siÍ! Natychmiast siÍ wycofaj. Nie zatrzymamy ich."
+
+REFERENCE           RIVER_VOX_RIV1_S02_159A_CHI1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Wiem."
+
+REFERENCE           RIVER_VOX_RIV1_S02_160A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_161A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ruszajmy."
+
+REFERENCE           RIVER_VOX_RIV1_S02_162A_CHI1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Dostaliúmy! Dostaliúmy! Wilku 10, przetnijcie liny. Spadamy. Spadamy. Przetnijcie liny!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_164A_CHI1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Nie utrzymam siÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_165A_CHI1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7PrzygotowaÊ siÍ na uderzenie!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_166A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Ratunkowy 1 spad≥. ØÛ≥tki wycofa≥y siÍ do drzew."
+
+REFERENCE           RIVER_VOX_RIV1_S02_167A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Przyjπ≥em, Centurion. Moøecie zostaÊ z nami?"
+
+REFERENCE           RIVER_VOX_RIV1_S02_168A_USC1_F_M
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Jasne, Wilku 10. Idücie w gÛrÍ rzeki. Os≥aniamy was."
+
+REFERENCE           RIVER_VOX_RIV1_S02_169A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bowman, bπdü na szpicy. Mason, za kÛ≥ko."
+
+REFERENCE           RIVER_VOX_RIV1_S02_171A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Na razie nie ma øÛ≥tkÛw, ale wrÛcπ. Bπdümy czujni."
+
+REFERENCE           RIVER_VOX_RIV1_S02_172A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Nie ma ruchu. Coú siÍ szykuje. PÛjdziemy z przodu i zobaczymy, co siÍ dzieje."
+
+REFERENCE           RIVER_VOX_RIV1_S02_173A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zrozumia≥em. Bπdücie w kontakcie."
+
+REFERENCE           RIVER_VOX_RIV1_S02_174A_MASO
+LANG_ENGLISH        "^1MASON: ^7Nie podoba mi siÍ to. To moøe byÊ pu≥apka."
+
+REFERENCE           RIVER_VOX_RIV1_S02_175A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nawet nie mrugajcie."
+
+REFERENCE           RIVER_VOX_RIV1_S02_176A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Czysto. Jak sytuacja na dole, Wilku 10?"
+
+REFERENCE           RIVER_VOX_RIV1_S02_177A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jak na razie nic... chwila. Coú jest miÍdzy drzewami."
+
+REFERENCE           RIVER_VOX_RIV1_S02_178A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Cokolwiek tu siÍ sta≥o, przegapiliúmy to."
+
+REFERENCE           RIVER_VOX_RIV1_S02_179A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mamy tu zestrzelonego ptaszka. OdbiÛr."
+
+REFERENCE           RIVER_VOX_RIV1_S02_180A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Nic tu nie ma."
+
+REFERENCE           RIVER_VOX_RIV1_S02_181A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7GÛwno prawda!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_181A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Nie ma mowy!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_182A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Samolot musi byÊ w pobliøu, Mason. Krawczenko jest niedaleko."
+
+REFERENCE           RIVER_VOX_RIV1_S02_183A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Jestem w kanionie, pÛ≥ kilometra na pÛ≥noc od waszej pozycji. ZostanÍ tu. Centurion 3 i 4 sπ na patrolu. Wciπø brak kontaktu."
+
+REFERENCE           RIVER_VOX_RIV1_S02_184A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nie kupujÍ tego. Sπ tam i na nas czekajπ."
+
+REFERENCE           RIVER_VOX_RIV1_S02_185A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bowman. Co siÍ sta≥o?"
+
+REFERENCE           RIVER_VOX_RIV1_S02_186A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Nic tu nie ma. "
+
+REFERENCE           RIVER_VOX_RIV1_S02_187A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jasne."
+
+REFERENCE           RIVER_VOX_RIV1_S02_265A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7W mordÍ!"
+
+REFERENCE           RIVER_VOX_RIV1_S02_266A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Jasna cholera... biedny dzieciak..."
+
+REFERENCE           RIVER_VOX_RIV1_S03_188A_USP1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7WidzÍ was, Wilku 10. Witajcie w raju."
+
+REFERENCE           RIVER_VOX_RIV1_S03_189A_USP1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Nic za wami nie ma. Bπdücie spokojni. Eee... zaczekajcie chwilÍ. Mam coú. Trzymajcie siÍ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_190A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Krawczenko jest w pobliøu. CzujÍ to."
+
+REFERENCE           RIVER_VOX_RIV1_S03_191A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Moøesz powtÛrzyÊ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_192A_MASO
+LANG_ENGLISH        "^1MASON: ^7Krawczenko. Musi byÊ niedaleko."
+
+REFERENCE           RIVER_VOX_RIV1_S03_193A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Takπ mam, kurwa, nadziejÍ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_193A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Mam nadziejÍ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_194A_USP1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Znaleüli to, niedaleko. NakierujÍ was."
+
+REFERENCE           RIVER_VOX_RIV1_S03_195A_USP2_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Mam potwierdzenie wzrokowe. Epicentrum. Dooko≥a pe≥no cia≥ i ≥adunku. Powtarzam..."
+
+REFERENCE           RIVER_VOX_RIV1_S03_196A_USP1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7To wasz samolot, Wilku 10. WynoszÍ siÍ. Do zobaczenia po drugiej stronie."
+
+REFERENCE           RIVER_VOX_RIV1_S03_197A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zaczynamy. PamiÍtajcie o rozkazach. Te komuchy sπ gdzieú tutaj."
+
+REFERENCE           RIVER_VOX_RIV1_S03_198A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Wreszcie, Mason. Nasz klucz do Krawczenki, Steinera, Dragowicza."
+
+REFERENCE           RIVER_VOX_RIV1_S03_199A_USP2_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Wilku 10, tu Centurion 3. Za mnπ. Moøecie tu wylπdowaÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_200A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, kieruj siÍ do brzegu. Nie mamy wiele czasu."
+
+REFERENCE           RIVER_VOX_RIV1_S03_201A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, nie ma czasu do stracenia!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_202A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Na co czekasz?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_203A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, do brzegu!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_204A_USP2_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Mam ograniczone wsparcie. OdlatujÍ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_205A_SLDR_M
+LANG_ENGLISH        "^1AMERYKA—SKI ØO£NIERZ: ^7Jesteúmy do dyspozycji, sir! Gdzie jesteúmy potrzebni?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_206A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Niech jeden z waszych pilnuje ≥odzi. Reszta za mnπ. BIEGIEM!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_207A_USP2_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7PrzyczajÍ siÍ i bÍdÍ was os≥aniaÊ. Coú siÍ tam rusza. Przygotujcie siÍ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_208A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Za mnπ i trzymajcie siÍ razem. Strzelajcie do wszystkiego, co siÍ rusza."
+
+REFERENCE           RIVER_VOX_RIV1_S03_209A_USP2_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Ruch! Centurion 4 i 5, wsparcie powietrzne, szybko!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_210A_USP1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Jakiú ruch! Kierujπ siÍ prosto na was."
+
+REFERENCE           RIVER_VOX_RIV1_S03_211A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nic nie widzimy. Gdzie oni sπ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_214A_USC1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Zbliøajπ siÍ úmig≥owce wroga! Radzieckie Hindy, trzy..."
+
+REFERENCE           RIVER_VOX_RIV1_S03_215A_USC2_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Jakby na nas czekali... [zak≥Ûcenia]"
+
+REFERENCE           RIVER_VOX_RIV1_S03_216A_USC3_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Centurion 4 do bazy. Zg≥oúcie siÍ. Baza, zg≥oúcie siÍ. Zostaliúmy ... [zak≥Ûcenia]"
+
+REFERENCE           RIVER_VOX_RIV1_S03_217A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Specnaz!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_218A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nie rezygnujcie! Hindy odlecia≥y! Wciπø mamy szanse."
+
+REFERENCE           RIVER_VOX_RIV1_S03_219A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Wycofujπ! Uciekajπ!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_220A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Jeszcze wrÛcπ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_221A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7To dlatego Hindy odlecia≥y. Nie chcπ zostawiÊ øadnych dowodÛw."
+
+REFERENCE           RIVER_VOX_RIV1_S03_222A_MASO
+LANG_ENGLISH        "^1MASON: ^7W ≥adowni musia≥a byÊ Nova 6. Krawczenko nie zada≥by sobie tyle trudu na nic."
+
+REFERENCE           RIVER_VOX_RIV1_S03_223A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ten by≥ ostatni."
+
+REFERENCE           RIVER_VOX_RIV1_S03_224A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Musimy wejúÊ na skrzyd≥o, øeby dotrzeÊ do kad≥uba."
+
+REFERENCE           RIVER_VOX_RIV1_S03_225A_MASO
+LANG_ENGLISH        "^1MASON: ^7PÛjdÍ pierwszy."
+
+REFERENCE           RIVER_VOX_RIV1_S03_226A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Spokojnie, Mason."
+
+REFERENCE           RIVER_VOX_RIV1_S03_227A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Przytrzymam z tej strony."
+
+REFERENCE           RIVER_VOX_RIV1_S03_228A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Powoli. Powoli."
+
+REFERENCE           RIVER_VOX_RIV1_S03_229A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Co tu siÍ sta≥o?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_230A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_231A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7BroÒ chemiczna."
+
+REFERENCE           RIVER_VOX_RIV1_S03_232A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Nova 6. Na pewno przedosta≥a siÍ do powietrza po katastrofie."
+
+REFERENCE           RIVER_VOX_RIV1_S03_233A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Granatniki China Lake. Po co Rosjanom amerykaÒska broÒ?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_234A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7To jakaú pu≥apka."
+
+REFERENCE           RIVER_VOX_RIV1_S03_235A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Nova 6 zniknÍ≥a, ale spÛjrzcie tutaj. Mapa terenu. To pewnie obÛz Krawczenki. G≥Íboko na terytorium Laosu."
+
+REFERENCE           RIVER_VOX_RIV1_S03_236A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Krawczenko. On musi umrzeÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_237A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Krawczenko. On musi zginπÊ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_238A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Dobra, Mason. Ruszamy."
+
+REFERENCE           RIVER_VOX_RIV1_S03_239A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7SpÛjrz tam."
+
+REFERENCE           RIVER_VOX_RIV1_S03_240A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman, snajperka. Mason, uøyj China Lake. Poúlij skurwieli do krainy wiecznych ≥owÛw."
+
+REFERENCE           RIVER_VOX_RIV1_S03_240A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Bowman, snajperka. Mason, uøyj China Lake. Poúlij skurwieli do krainy wiecznych ≥owÛw."
+
+REFERENCE           RIVER_VOX_RIV1_S03_241A_MASO
+LANG_ENGLISH        "^1MASON: ^7Robi siÍ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_242A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Tam, nieprzyjacielski kuter. PrÛbujπ zatopiÊ naszπ ≥Ûdü. Uøyj China Lake! Zniszcz kuter."
+
+REFERENCE           RIVER_VOX_RIV1_S03_243A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, uøyj granatnika. Zniszcz ich kuter!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_244A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prawie zatopili naszπ ≥Ûdü!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_245A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7To koniec. Nasza ≥Ûdü tonie."
+
+REFERENCE           RIVER_VOX_RIV1_S03_246A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Kurwa! Hindy wrÛci≥y!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_246A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Hindy wracajπ!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_247A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Trzymaj siÍ, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_248A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Arrrrrrggggghhhhhhhhhh!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_249A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman, Mason. Uda≥o siÍ. Zajmijcie pozycje obronne."
+
+REFERENCE           RIVER_VOX_RIV1_S03_250A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Snajperki. Strzelajcie do pilota! To nasza jedyna szansa!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_251A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7åwietny strza≥, Mason!"
+
+REFERENCE           RIVER_VOX_RIV1_S03_252A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Nie jest ≥atwo. Woods, co robimy?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_253A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Zabierzemy ich ze sobπ."
+
+REFERENCE           RIVER_VOX_RIV1_S03_254A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Jasne, szefie."
+
+REFERENCE           RIVER_VOX_RIV1_S03_255A_USP1_F
+LANG_ENGLISH        "^1AMERYKA—SKI PILOT: ^7Wybaczcie spÛünienie, ch≥opaki. Nie mogliúmy was ostrzec, bo øÛ≥tki mog≥y nas≥uchiwaÊ. Zajmiemy siÍ tym."
+
+REFERENCE           RIVER_VOX_RIV1_S03_256A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Na co czekamy?"
+
+REFERENCE           RIVER_VOX_RIV1_S03_259B_KRAV_M
+LANG_ENGLISH        "^1KRAWCZENKO: ^7Z Workuty."
+
+REFERENCE           RIVER_VOX_RIV1_S03_260A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7MinÍ≥o sporo czasu, Mason."
+
+REFERENCE           RIVER_VOX_RIV1_S03_261A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Musimy nadrobiÊ zaleg≥oúci."
+
+REFERENCE           RIVER_VOX_RIV1_S03_801A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Dragowicz... Krawczenko..."
+
+REFERENCE           RIVER_VOX_RIV1_S99_700A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Zdejmij tych snajperÛw!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_701A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Czysto - ruszaj."
+
+REFERENCE           RIVER_VOX_RIV1_S99_702A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7NaprzÛd!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_703A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7RuszaÊ!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_704A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Uwaga!!!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_705A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Osaczyli nas!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_706A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Osaczyli nas!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_707A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Snajperzy na drzewach!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_708A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Uwaga! Snajperzy na gÛrze!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_709A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Na drzewie - snajper!"
+
+REFERENCE           RIVER_VOX_RIV1_S99_709B_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Snajper w drzewach!"
+
+REFERENCE           RIVER_WARNING_MORTARS
+LANG_ENGLISH        "Uwaga zbliøa siÍ ostrza≥ moüdzierzowy"
+
+REFERENCE           RIVER_WATCH_YOUR_HEAD
+LANG_ENGLISH        "Uwaøaj na g≥owÍ."
+
+ENDMARKER

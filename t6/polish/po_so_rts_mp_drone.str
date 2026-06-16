@@ -1,0 +1,1366 @@
+// Dumped from fastfile "po_so_rts_mp_drone".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SO_RTS_MP_DRONE_ELECTRIC_DAMAGE
+LANG_POLISH         "STACJA ZASILAJĄCA JEST NIEMAL ZNISZCZONA"
+
+REFERENCE           KILLSTREAK_INCREASE_ZOOM
+LANG_POLISH         "^3[{+speed_throw}]^7 Przybliż"
+
+REFERENCE           KILLSTREAK_M202_FLASH_INBOUND
+LANG_POLISH         "Wyposażono w Ponurego Żniwiarza"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DESC
+LANG_POLISH         "Automatyczne działko strażnicze.  Można nim zdalnie sterować."
+
+REFERENCE           KILLSTREAK_AMMO_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać amunicję"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_CAPS
+LANG_POLISH         "DZIAŁKO STRAŻNICZE"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET
+LANG_POLISH         "Działko strażnicze"
+
+REFERENCE           SO_RTS_ONE_MINUTE_WARNING
+LANG_POLISH         "Pozostała minuta na wykonanie celu."
+
+REFERENCE           KILLSTREAK_RADAR_NOT_AVAILABLE
+LANG_POLISH         "BSP jest niedostępny"
+
+REFERENCE           KILLSTREAK_EARNED_AIRSTRIKE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Pędzący Grom"
+
+REFERENCE           KILLSTREAK_AIRSPACE_FULL
+LANG_POLISH         "Wsparcie powietrzne jest niedostępne"
+
+REFERENCE           KILLSTREAK_COUNTERUAV_INBOUND
+LANG_POLISH         "Samolot zakłócający w drodze"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DROP_DESC
+LANG_POLISH         "Działko strażnicze zrzucone z powietrza."
+
+REFERENCE           KILLSTREAK_EARNED_AUTO_TURRET
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Działko strażnicze"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać działko strażnicze"
+
+REFERENCE           SO_RTS_SWITCH_UNITS_WIIU_CAROUSEL
+LANG_POLISH         "PRZYTRZYMAJ ([{+actionslot_carousel_full}]), ŻEBY ZMIENIĆ JEDNOSTKI"
+
+REFERENCE           SO_RTS_TUTORIAL_METALSTORM_PKG
+LANG_POLISH         "^3[{+speed_throw}]^7, ŻEBY WYSTRZELIĆ RAKIETY, I ^3[{+attack}]^7, ŻEBY STRZELIĆ Z BRONI"
+
+REFERENCE           KILLSTREAK_EMP_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Systemy IEM"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_DROP
+LANG_POLISH         "Działko strażnicze"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_CAPS
+LANG_POLISH         "POLECENIA ODDZIAŁU"
+
+REFERENCE           KILLSTREAK_KILLS_U2_DESC
+LANG_POLISH         "Zabij &&1 przeciwników, kiedy twój BSP znajduje się w powietrzu."
+
+REFERENCE           KILLSTREAK_NOT_AVAILABLE_EMP_ACTIVE
+LANG_POLISH         "IEM aktywny przez &&1 sek."
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_NOT_USABLE
+LANG_POLISH         "W tymi miejscu nie można użyć pocisku Hellstorm"
+
+REFERENCE           KILLSTREAK_AUTO_TURRET_NOT_AVAILABLE
+LANG_POLISH         "Działko strażnicze jest nieodstępne"
+
+REFERENCE           KILLSTREAK_EARNED_TOW_TURRET
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Baterię SAM"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_TWO_LINES_CAPS
+LANG_POLISH         "WYDAJ ODDZIAŁOWI\nPOLECENIA"
+
+REFERENCE           KILLSTREAK_MORTAR
+LANG_POLISH         "Drużyna moździerzy"
+
+REFERENCE           KILLSTREAK_DOGS_NOT_AVAILABLE
+LANG_POLISH         "Jednostka K9 nie jest dostępna"
+
+REFERENCE           SO_RTS_SECONDS
+LANG_POLISH         "SEKUNDY"
+
+REFERENCE           KILLSTREAK_CAPTURING_CRATE
+LANG_POLISH         "Zdobywanie skrzyni"
+
+REFERENCE           KILLSTREAK_COUNTER_UAV
+LANG_POLISH         "Samolot zakłócający"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_WIIU
+LANG_POLISH         "Widok taktyczny przedstawia podgląd strategiczny pola bitwy, pozwalający na zapoznanie się z pozycją twoich oddziałów, żołnierzy wroga oraz celów.\n\nDowodzenie oddziałami w widoku taktycznym przebiega w podobny sposób, jak dowodzenie w normalnym widoku.\n\nNaciśnij [{togglescores}], żeby skorzystać z widoku taktycznego.\nAby zamknąć widok taktyczny i powrócić do jednostki, przytrzymaj kierunek na +padzie kierunkowym lub umieść kursor nad członkiem oddziału i naciśnij  [{togglescores}]."
+
+REFERENCE           KILLSTREAK_SENTRY_TURRET_PICKUP
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać działko strażnicze"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_DESC
+LANG_POLISH         "Zostań strzelcem pokładowym samolotu VTOL."
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_DESC
+LANG_POLISH         "Zdalnie sterowany pocisk Hellstorm z bombą kasetową."
+
+REFERENCE           KILLSTREAK_COUNTERU2_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać samolot zakłócający"
+
+REFERENCE           KILLSTREAK_COUNTER_UAV_DESC
+LANG_POLISH         "Tymczasowo wyłącza minimapę nieprzyjaciela."
+
+REFERENCE           KILLSTREAK_CHOPPER_GUNNER_NOT_USABLE
+LANG_POLISH         "W tymi miejscu nie można użyć samolotu VTOL"
+
+REFERENCE           KILLSTREAK_COUNTERUAV_NOT_AVAILABLE
+LANG_POLISH         "Samolot zakłócający niedostępny"
+
+REFERENCE           KILLSTREAK_DOGS_LVL3_DESC
+LANG_POLISH         "12 psów bojowych atakujących przeciwników."
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_INBOUND
+LANG_POLISH         "Śmigłowiec stealth w drodze"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_WIIU
+LANG_POLISH         "Panel aktywnej jednostki pokazuje typy dostępnych oddziałów. Użyj +pada kierunkowego, żeby wybierać i zmieniać oddziały.\n\nKliknięcie dowolnego kierunku na +padzie kierunkowym spowoduje wybranie oddziału.  Przytrzymanie wybranego kierunku na +padzie kierunkowym spowoduje powrót do określonego oddziału."
+
+REFERENCE           KILLSTREAK_DOGS_DESC
+LANG_POLISH         "Psy bojowe atakujące przeciwników."
+
+REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER
+LANG_POLISH         "Zniszczony helikopter"
+
+REFERENCE           KILLSTREAK_M220_TOW_DESC
+LANG_POLISH         "Wyrzutnia ze zdalnie sterowanymi rakietami"
+
+REFERENCE           KILLSTREAK_DESTROYED_COUNTERUAV
+LANG_POLISH         "Samolot zakłócający zniszczony"
+
+REFERENCE           KILLSTREAK_M202_FLASH_DROP
+LANG_POLISH         "Ponury Żniwiarz"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_WIIU_CAROUSEL
+LANG_POLISH         "Kliknij odpowiedni kierunek na karuzeli ([{+actionslot_carousel_full}]), żeby wybrać typ oddziału."
+
+REFERENCE           SO_RTS_INTRUDER_SET
+LANG_POLISH         "URZĄDZENIE ZOSTAŁO WYSŁANE"
+
+REFERENCE           KILLSTREAK_EARNED_M202_FLASH
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Ponurego Żniwiarza"
+
+REFERENCE           KILLSTREAK_DESTROYED_UAV
+LANG_POLISH         "BSP zniszczony"
+
+REFERENCE           SO_RTS_INFANTRY_HEAVY_DESC
+LANG_POLISH         "Weteran, który odbył wydłużone szkolenie w zakresie korzystania z ciężkiego uzbrojenia oraz materiałów wybuchowych."
+
+REFERENCE           KILLSTREAK_EARNED_RCBOMB
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać RC-XD"
+
+REFERENCE           KILLSTREAK_DOGS
+LANG_POLISH         "Jednostka K9"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK
+LANG_POLISH         "Śmigłowiec stealth"
+
+REFERENCE           KILLSTREAK_DOGS_CRATE
+LANG_POLISH         "Przytrzymaj ^3^3&&1^7^7, żeby wybrać jednostkę K9"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING
+LANG_POLISH         "Umieść kursor nad celem i naciśnij ^3[{+smoke}]^7, żeby wysłać wybrany oddział do wskazanego celu.\n\nPrzytrzymaj ^3[{+smoke}]^7, żeby wysłać do celu wszystkie oddziały."
+
+REFERENCE           KILLSTREAK_EARNED_MORTAR
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Grad bomb"
+
+REFERENCE           KILLSTREAK_DOGS_INBOUND
+LANG_POLISH         "Jednostka K9 w drodze"
+
+REFERENCE           KILLSTREAK_M202_FLASH_DESC
+LANG_POLISH         "Półautomatyczna wyrzutnia rakiet z możliwością namierzania celu."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS2
+LANG_POLISH         "Umieść kursor nad wybranym miejscem w świecie gry, żeby umieścić w nim punkt nawigacyjny.\n\nNastępnie naciśnij ^3[{+smoke}]^7, żeby stworzyć punkt nawigacyjny. Wybrany oddział ruszy w kierunku wskazanego punktu nawigacyjnego.\n\nPrzytrzymaj ^3[{+smoke}]^7, żeby wysłać wszystkie oddziały do stworzonego punktu nawigacyjnego."
+
+REFERENCE           KILLSTREAK_EARNED_COUNTERUAV
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Samolot zakłócający"
+
+REFERENCE           KILLSTREAK_EARNED_DOGS
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać jednostkę K9"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_COMLINK
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Śmigłowiec stealth"
+
+REFERENCE           KILLSTREAK_RECON
+LANG_POLISH         "BSP"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_NOT_AVAILABLE
+LANG_POLISH         "Samolot VTOL jest niedostępny"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_PLAYER
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wezwać Śmigłowiec"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_GUNNER
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać samolot VTOL"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_000_SO5_D
+LANG_POLISH         "^1Żołnierz: ^Impuls z wrogiego IEM potwierdzony."
+
+REFERENCE           KILLSTREAK_EARNED_M220_TOW
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Walkirię"
+
+REFERENCE           KILLSTREAK_MORTAR_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać drużynę moździerzy"
+
+REFERENCE           KILLSTREAK_EARNED_NAPALM
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Zrzut napalmu"
+
+REFERENCE           KILLSTREAK_M202_FLASH_DROP_DESC
+LANG_POLISH         "Półautomatyczna wyrzutnia rakiet z możliwością namierzania celu."
+
+REFERENCE           SO_RTS_BEGIN_MISSION_CAPS
+LANG_POLISH         "ROZPOCZNIJ MISJĘ"
+
+REFERENCE           KILLSTREAK_EARNED_RADAR
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać BSP"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_DEPLOY
+LANG_POLISH         "[{+attack}] Użyj bomby kasetowej"
+
+REFERENCE           KILLSTREAK_AI_TANK_DROP
+LANG_POLISH         "A.G.R."
+
+REFERENCE           KILLSTREAK_EARNED_SUPPLY_DROP
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać pakiet wsparcia"
+
+REFERENCE           SO_RTS_MP_DRONE_DISH_DAMAGE
+LANG_POLISH         "ŁĄCZE KOMUNIKACYJNE JEST NIEMAL ZNISZCZONE\n"
+
+REFERENCE           SO_RTS_INFANTRY_ELITE_DESC
+LANG_POLISH         "Weteran wyszkolony w rosyjskich jednostkach specjalnych."
+
+REFERENCE           KILLSTREAK_MOBILESPAWN_NOT_AVAILABLE
+LANG_POLISH         "Ruchome odrodzenie jest niedostępne"
+
+REFERENCE           KILLSTREAK_HACKING_CRATE
+LANG_POLISH         "Przejęcie i zaminowanie skrzyni"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_DESC
+LANG_POLISH         "Wezwij śmigłowiec stealth. Nie jest on widoczny na minimapie przeciwnika."
+
+REFERENCE           SO_RTS_DELIVERY_NOTAVAIL
+LANG_POLISH         "TRANSPORT JEST NIEDOSTĘPNY: WYKONUJE LOT"
+
+REFERENCE           KILLSTREAK_HELICOPTER_COMLINK_NOT_AVAILABLE
+LANG_POLISH         "Śmigłowiec stealth jest niedostępny"
+
+REFERENCE           SO_RTS_CANNOT_HACK
+LANG_POLISH         "ZASZYFROWANE, NIE MOŻNA PRZEJĄĆ KONTROLI"
+
+REFERENCE           SO_RTS_FIRESTORMPKG_NAME
+LANG_POLISH         "Firestorm ROV"
+
+REFERENCE           KILLSTREAK_DESTROYED_HELICOPTER_GUNNER
+LANG_POLISH         "Samolot VTOL zniszczony"
+
+REFERENCE           KILLSTREAK_MINIGUN_INBOUND
+LANG_POLISH         "Wyposażono w Machinę śmierci"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_INBOUND
+LANG_POLISH         "Śmigłowiec w drodze"
+
+REFERENCE           SO_RTS_BTN_RTS_CYCLE
+LANG_POLISH         "^3[{+actionslot 3}]^7 lub ^3[{+actionslot 4}]^7, żeby przeglądać oddziały"
+
+REFERENCE           KILLSTREAK_HELICOPTER_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Śmigłowiec stealth"
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_ENEMY
+LANG_POLISH         "Naciśnij ^3[{+smoke}]^7, żeby wydać polecenie zaatakowania tej jednostki."
+
+REFERENCE           KILLSTREAK_MINIGUN_DESC
+LANG_POLISH         "Twój osobisty Minigun."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER
+LANG_POLISH         "Samolot VTOL"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_DESC
+LANG_POLISH         "Pilotuj śmigłowiec szturmowy."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Samolot VTOL"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUNNER_INBOUND
+LANG_POLISH         "Samolot VTOL drodze"
+
+REFERENCE           KILLSTREAK_MOBILESPAWN_INBOUND
+LANG_POLISH         "Ruchome odrodzenie w drodze"
+
+REFERENCE           KILLSTREAK_MINIGUN
+LANG_POLISH         "Machina śmierci"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER
+LANG_POLISH         "Śmigłowiec"
+
+REFERENCE           KILLSTREAK_MINIGUN_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Machinę Śmierci"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać śmigłowiec bojowy"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_WIIU
+LANG_POLISH         "Kliknij dowolny kierunek na +padzie kierunkowym, aby wybrać typ oddziału. "
+
+REFERENCE           KILLSTREAK_MINIGUN_NOT_AVAILABLE
+LANG_POLISH         "Machina śmierci niedostępna"
+
+REFERENCE           KILLSTREAK_HELICOPTER_PLAYER_NOT_AVAILABLE
+LANG_POLISH         "Śmigłowiec jest niedostępny"
+
+REFERENCE           KILLSTREAK_KILLCOUNT_DISPLAY
+LANG_POLISH         "Seria &&1 ofiar!"
+
+REFERENCE           SO_RTS_UNITS_REMAINING
+LANG_POLISH         "Pozostałe drużyny\ngrupy uderzeniowej"
+
+REFERENCE           KILLSTREAK_M202_FLASH
+LANG_POLISH         "Ponury Żniwiarz"
+
+REFERENCE           KILLSTREAK_M202_FLASH_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7 , żeby wybrać Ponurego Żniwiarza"
+
+REFERENCE           KILLSTREAK_M202_FLASH_NOT_AVAILABLE
+LANG_POLISH         "Ponury Żniwiarz jest niedostępny"
+
+REFERENCE           KILLSTREAK_M220_TOW
+LANG_POLISH         "Rakiety Walkiria"
+
+REFERENCE           KILLSTREAK_M220_TOW_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać rakiety Walkiria"
+
+REFERENCE           KILLSTREAK_M220_TOW_DROP
+LANG_POLISH         "Rakiety Walkiria"
+
+REFERENCE           KILLSTREAK_M220_TOW_DROP_DESC
+LANG_POLISH         "Wyrzutnia ze zdalnie sterowanymi rakietami"
+
+REFERENCE           SO_RTS_SQUAD_FOLLOW
+LANG_POLISH         "NACIŚNIJ ^3[{+smoke}]^7: WYDAJ POLECENIE ODDZIAŁOWI"
+
+REFERENCE           KILLSTREAK_M220_TOW_INBOUND
+LANG_POLISH         "Wyposażono w rakiety Walkiria"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Gwiazdę Polarną"
+
+REFERENCE           KILLSTREAK_M220_TOW_NOT_AVAILABLE
+LANG_POLISH         "Rakiety Walkiria są niedostępne"
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_CAPS
+LANG_POLISH         "WIDOK"
+
+REFERENCE           KILLSTREAK_MINIGUN_DROP
+LANG_POLISH         "Machina śmierci"
+
+REFERENCE           KILLSTREAK_SATELLITE_NOT_AVAILABLE
+LANG_POLISH         "Orbitalny VSAT jest niedostępny"
+
+REFERENCE           KILLSTREAK_MINIGUN_DROP_DESC
+LANG_POLISH         "Twój osobisty Minigun."
+
+REFERENCE           KILLSTREAK_RCBOMB
+LANG_POLISH         "RC-XD"
+
+REFERENCE           KILLSTREAK_MORTAR_DESC
+LANG_POLISH         "Wskaż trzy cele dla ostrzału moździerzowego."
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DROP
+LANG_POLISH         "Bateria SAM"
+
+REFERENCE           KILLSTREAK_MORTAR_INBOUND
+LANG_POLISH         "Zbliża się ostrzał moździerzowy"
+
+REFERENCE           KILLSTREAK_MORTAR_NOT_AVAILABLE
+LANG_POLISH         "Drużyna moździerzy jest niedostępna"
+
+REFERENCE           SO_RTS_INFANTRY_ELITE_NAME
+LANG_POLISH         "Piechota, Spetsnaz"
+
+REFERENCE           KILLSTREAK_NAPALM
+LANG_POLISH         "Zrzut napalmu"
+
+REFERENCE           SO_RTS_MP_DRONE_INTROSCREEN_LINE_2
+LANG_POLISH         "HIMACHAL PRADESH, PÓŁNOCNE ^LINDIE^L"
+
+REFERENCE           KILLSTREAK_NAPALM_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać zrzut napalmu"
+
+REFERENCE           SO_RTS_RTS_MODE
+LANG_POLISH         "Działa na mapie bojowej (RTS)"
+
+REFERENCE           KILLSTREAK_DOGS_DESTROYED_CHALLENGE_DESC
+LANG_POLISH         "Zabij &&1 psów"
+
+REFERENCE           KILLSTREAK_NAPALM_DESC
+LANG_POLISH         "Atak lotniczy z użyciem napalmu."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD
+LANG_POLISH         "Dron eskortujący"
+
+REFERENCE           KILLSTREAK_NAPALM_NOT_AVAILABLE
+LANG_POLISH         "Zrzut napalmu jest niedostępny"
+
+REFERENCE           KILLSTREAK_NULL
+LANG_POLISH         ""
+
+REFERENCE           SO_RTS_AIRSTRIKEPKG_DESC
+LANG_POLISH         "Niszczycielski, naprowadzany na cel nalot, zadający ciężkie obrażenia i powodujący ogromne zniszczenia."
+
+REFERENCE           KILLSTREAK_TURRET_MICROWAVE_HACKING
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby przejąć kontrolę nad Strażnikiem"
+
+REFERENCE           KILLSTREAK_PRESS_TO_KILLSTREAK
+LANG_POLISH         "^3&&1^7, żeby aktywować"
+
+REFERENCE           KILLSTREAK_RADAR_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać BSP"
+
+REFERENCE           KILLSTREAK_RADAR_INBOUND
+LANG_POLISH         "BSP w drodze"
+
+REFERENCE           KILLSTREAK_KILLS_CHALLENGE_DESC
+LANG_POLISH         "Zabij &&1 razy używając: &&2."
+
+REFERENCE           KILLSTREAK_RADAR_INCOMING
+LANG_POLISH         "BSP wezwany przez"
+
+REFERENCE           SO_RTS_INTRUDER_DESTROYED
+LANG_POLISH         "URZĄDZENIE ZOSTAŁO ZNISZCZONE"
+
+REFERENCE           KILLSTREAK_RCBOMB_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać RC-XD"
+
+REFERENCE           KILLSTREAK_RCBOMB_DESC
+LANG_POLISH         "Zdalnie sterowany samochód wypełniony materiałami wybuchowymi."
+
+REFERENCE           KILLSTREAK_RCBOMB_INBOUND
+LANG_POLISH         "RC-XD w drodze"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_001_SO3_D
+LANG_POLISH         "^1Żołnierz: ^7Spóźniliśmy się. Komputer centralny uszkodzony. Baza stracona."
+
+REFERENCE           KILLSTREAK_RCBOMB_NOT_AVAILABLE
+LANG_POLISH         "RC-XD jest niedostępny"
+
+REFERENCE           KILLSTREAK_RCBOMB_NOT_PLACEABLE
+LANG_POLISH         "Nie można umieścić RC-XD w tym miejscu"
+
+REFERENCE           KILLSTREAK_QRDRONE_NOT_AVAILABLE
+LANG_POLISH         "Smoczy ogień jest niedostępny"
+
+REFERENCE           KILLSTREAK_RECON_DESC
+LANG_POLISH         "Wyświetla położenie przeciwników na minimapie"
+
+REFERENCE           KILLSTREAK_SATELLITE
+LANG_POLISH         "Orbitalny VSAT"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_TWO_LINES_CAPS
+LANG_POLISH         "WYBÓR ODDZIAŁÓW\nW GRUPIE UDERZENIOWEJ"
+
+REFERENCE           SO_RTS_INFRA_LOST
+LANG_POLISH         "INFRASTRUKTURA ZOSTAŁA STRACONA"
+
+REFERENCE           SO_RTS_INFANTRY_HEAVY_NAME
+LANG_POLISH         "Piechota, strzelec KM"
+
+REFERENCE           KILLSTREAK_QRDRONE_DESC
+LANG_POLISH         "Zdalnie sterowana jednostka, uzbrojona w lekki karabin maszynowy."
+
+REFERENCE           KILLSTREAK_SATELLITE_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać orbitalny VSAT"
+
+REFERENCE           SO_RTS_ARGUS_POI
+LANG_POLISH         "NAZWA: %1\nOPIS: %2\n\nDRUŻYNA: %3"
+
+REFERENCE           KILLSTREAK_SATELLITE_DESC
+LANG_POLISH         "Pokazuje pozycje wroga oraz kierunki na minimapie. Nie można go zestrzelić."
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_2
+LANG_POLISH         "Naciśnij ^3[{togglescores}]^7 po zaznaczeniu sojuszniczej jednostki, żeby ją wybrać"
+
+REFERENCE           KILLSTREAK_SATELLITE_INBOUND
+LANG_POLISH         "Orbitalny VSAT aktywny"
+
+REFERENCE           SO_RTS_TRANSPORT_REFUELING
+LANG_POLISH         "Tankuje"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP
+LANG_POLISH         "Pakiet wsparcia"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DESC
+LANG_POLISH         "Zrzut losowej serii punktów."
+
+REFERENCE           SO_RTS_QUAD_DESC
+LANG_POLISH         "Zmechanizowany, autonomiczny, szturmowy pojazd latający."
+
+REFERENCE           SO_RTS_RECONPKG_DESC
+LANG_POLISH         "Zmechanizowany, zdalnie działający pojazd zwiadowczy"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać baterię SAM"
+
+REFERENCE           KILLSTREAK_TOW_TURRET
+LANG_POLISH         "Bateria SAM"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_2
+LANG_POLISH         "Przytrzymaj ^3[{+smoke}]^7, żeby wybrać lub zrezygnować z wyboru wszystkich jednostek."
+
+REFERENCE           SO_RTS_FIRESTORMPKG_DESC
+LANG_POLISH         "Zmechanizowany, autonomiczny pojazd szturmowy."
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DESC
+LANG_POLISH         "Bateria SAM dostarczana zrzutem, która może niszczyć samoloty."
+
+REFERENCE           KILLSTREAK_TOW_TURRET_DROP_DESC
+LANG_POLISH         "Bateria SAM dostarczana zrzutem, która może niszczyć samoloty."
+
+REFERENCE           SO_RTS_QUADPKG_NAME
+LANG_POLISH         "Quadrotor ROV"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_NOT_AVAILABLE
+LANG_POLISH         "Bateria SAM jest niedostępna"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_PICKUP
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby zabrać baterię SAM"
+
+REFERENCE           SO_RTS_DELIVERY_ARRIVED
+LANG_POLISH         "PRZYBYŁY JEDNOSTKI"
+
+REFERENCE           KILLSTREAK_TURRET_HACKING
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby przejąć kontrolę nad działkiem strażniczym"
+
+REFERENCE           KILLSTREAK_TOW_TURRET_KILLS_CHALLENGE_DESC
+LANG_POLISH         "Zniszcz &&1 samolot, używając baterii SAM."
+
+REFERENCE           SO_RTS_INFANTRY_REG_DESC
+LANG_POLISH         "Zwykły żołnierz, po podstawowym szkoleniu i ze standardowym wyposażeniem."
+
+REFERENCE           KILLSTREAK_M202_FLASH_KILLS_CHALLENGE_DESC
+LANG_POLISH         "Zabij &&1 wrogich graczy lub samolotów korzystając z Ponurego żniwiarza."
+
+REFERENCE           KILLSTREAK_EARNED_CHALLENGE_DESC
+LANG_POLISH         "Użyj &&1 &&2 razy."
+
+REFERENCE           KILLSTREAK_DESTROYED_CHALLENGE_DESC
+LANG_POLISH         "Zniszcz &&1 &&2 razy."
+
+REFERENCE           KILLSTREAK_KILLS_U2
+LANG_POLISH         "Dane do wykorzystania"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_INBOUND
+LANG_POLISH         "Pakiet wsparcia w drodze"
+
+REFERENCE           KILLSTREAK_KILLS_SATELLITE
+LANG_POLISH         "Oczy w przestworzach"
+
+REFERENCE           KILLSTREAK_KILLS_SATELLITE_DESC
+LANG_POLISH         "Zabij &&1 przeciwników, kiedy orbitalny VSAT znajduje się w powietrzu."
+
+REFERENCE           SO_RTS_DOG_NAME
+LANG_POLISH         "Pies obronny"
+
+REFERENCE           KILLSTREAK_KILLS_COUNTER_U2
+LANG_POLISH         "Kontrwywiad"
+
+REFERENCE           KILLSTREAK_KILLS_COUNTER_U2_DESC
+LANG_POLISH         "Zabij &&1 przeciwników, kiedy twój samolot zakłócający znajduje się w powietrzu."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Drona eskortującego"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_DESC
+LANG_POLISH         "Dron eskortujący zapewnia wsparcie z powietrza."
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_INBOUND
+LANG_POLISH         "Dron eskortujący w drodze"
+
+REFERENCE           KILLSTREAK_HELICOPTER_GUARD_NOT_AVAILABLE
+LANG_POLISH         "Dron eskortujący jest niedostępny"
+
+REFERENCE           KILLSTREAK_EARNED_HELICOPTER_GUARD
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać eskortę AQ-10"
+
+REFERENCE           KILLSTREAK_EARNED_EMP
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Systemy IEM"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_AIRSUPERIORITY_PKG
+LANG_POLISH         "Nowa jednostka: WSPARCIE POWIETRZNE\nNaciśnij ^3[{+actionslot 3}]^7, żeby wybrać, lub przytrzymaj, żeby przejąć kontrolę."
+
+REFERENCE           SO_RTS_TOO_MANY_INFANTRY
+LANG_POLISH         "WYSTAWIONO MAKSYMALNĄ LICZBĘ ODDZIAŁÓW PIECHOTY"
+
+REFERENCE           KILLSTREAK_EMP_NOT_AVAILABLE
+LANG_POLISH         "Systemy IEM są niedostępne"
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_TWIST_WIIU_REMOTE_CAPS
+LANG_POLISH         "WYDAJ ODDZIAŁOWI\nPOLECENIA (OBRÓĆ\nPILOTA Wii)"
+
+REFERENCE           KILLSTREAK_EMP_INBOUND
+LANG_POLISH         "IEM odpalony"
+
+REFERENCE           SO_RTS_MP_DRONE_DEFEND_TANK
+LANG_POLISH         "Osłaniaj chłodnię kominową"
+
+REFERENCE           KILLSTREAK_EMP
+LANG_POLISH         "Systemy IEM"
+
+REFERENCE           KILLSTREAK_EMP_DESC
+LANG_POLISH         "Impuls elektromagnetyczny (IEM) powoduje tymczasowe wyłączenie urządzeń elektronicznych."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_PC
+LANG_POLISH         "Naciśnij przycisk wyboru oddziału ^3[{+actionslots}]^7, żeby wybrać typ oddziału."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS_CAPS
+LANG_POLISH         "OKREŚLANIE PUNKTÓW NAWIGACYJNYCH:"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR
+LANG_POLISH         "Gwiazda Polarna"
+
+REFERENCE           SO_RTS_TUTORIAL_AVAILABLE
+LANG_POLISH         "Z samouczka można skorzystać w dowolnym momencie.  Aby go rozpocząć, należy wyświetlić ekran odprawy misji."
+
+REFERENCE           SO_RTS_OBJ3D_PROTECT
+LANG_POLISH         "OSŁANIAJ"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_DESC
+LANG_POLISH         "Oznacz cele dla pocisków, sterując zdalnie Gwiazdą Polarną."
+
+REFERENCE           KILLSTREAK_EARNED_REMOTE_MORTAR
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Gwiazdę Polarną"
+
+REFERENCE           SO_RTS_MP_DRONE_SHIELD_OFFLINE
+LANG_POLISH         "ZEWNĘTRZNY SYSTEM OBRONNY WYŁĄCZONY"
+
+REFERENCE           SO_RTS_ROPE_VTOL
+LANG_POLISH         "VTOL"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_INBOUND
+LANG_POLISH         "Gwiazda Polarna w drodze"
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_AVAILABLE
+LANG_POLISH         "Gwiazda Polarna jest niedostępna"
+
+REFERENCE           SO_RTS_ON
+LANG_POLISH         "WŁ."
+
+REFERENCE           KILLSTREAK_EARNED_REMOTE_MISSILE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Pocisk Hellstorm"
+
+REFERENCE           KILLSTREAK_AI_TANK_NOT_AVAILABLE
+LANG_POLISH         "A.G.R. niedostępny"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE
+LANG_POLISH         "Łowca"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE
+LANG_POLISH         "Pocisk Hellstorm"
+
+REFERENCE           SO_RTS_TRANSPORT_PREP
+LANG_POLISH         "Jest załadowywany"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać pocisk Hellstorm"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_INBOUND
+LANG_POLISH         "Pocisk Hellstorm w drodze"
+
+REFERENCE           KILLSTREAK_REMOTE_MISSILE_NOT_AVAILABLE
+LANG_POLISH         "Pocisk Hellstorm jest niedostępny"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_000_SO5_D
+LANG_POLISH         "^1Żołnierz: ^7Siły nieprzyjaciela wycofują się. Baza jest bezpieczna."
+
+REFERENCE           KILLSTREAK_PLANEMORTAR
+LANG_POLISH         "Grad bomb"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_INBOUND
+LANG_POLISH         "Łowca w drodze"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_NOT_AVAILABLE
+LANG_POLISH         "Łowca jest niedostępny"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_BIGDOG_PKG
+LANG_POLISH         "Nowa jednostka: CLAW\nNaciśnij ^3[{+actionslot 3}]^7, żeby wybrać, lub przytrzymaj, żeby przejąć kontrolę."
+
+REFERENCE           KILLSTREAK_EARNED_MISSILE_DRONE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Łowcę"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Rój"
+
+REFERENCE           KILLSTREAK_EARNED_MISSILE_SWARM
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Rój"
+
+REFERENCE           SO_RTS_OBJ3D_CAPTURE
+LANG_POLISH         "ZABEZPIECZ"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM
+LANG_POLISH         "Rój"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_DESC
+LANG_POLISH         "Dron używany przez piechotę, który wyszukuje i atakuje pobliskie cele lub pojazdy nieprzyjaciela."
+
+REFERENCE           SO_RTS_ALL_FOLLOW
+LANG_POLISH         "PRZYTRZYMAJ ^3[{+smoke}]^7: ROZKAZ DLA WSZYSTKICH"
+
+REFERENCE           KILLSTREAK_MISSILE_DRONE_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Łowcę"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_DESC
+LANG_POLISH         "Wezwij rój zabójczych dronów Łowca."
+
+REFERENCE           SO_RTS_TUTORIAL_QUADROTOR_PKG
+LANG_POLISH         "^3[{+speed_throw}]^7, ŻEBY ZBLIŻYĆ WIDOK, I ^3[{+attack}]^7, ŻEBY STRZELIĆ Z BRONI\n^3[{+melee}]^7, ŻEBY ROZPOCZĄĆ SAMOZNISZCZENIE"
+
+REFERENCE           KILLSTREAK_EARNED_MOBILESPAWN
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Ruchome odrodzenie"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_INBOUND
+LANG_POLISH         "Rój w drodze"
+
+REFERENCE           KILLSTREAK_MISSILE_SWARM_NOT_AVAILABLE
+LANG_POLISH         "Rój jest niedostępny"
+
+REFERENCE           SO_RTS_CODE
+LANG_POLISH         "Specjalny"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_PICKUP
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby zabrać Strażnika"
+
+REFERENCE           KILLSTREAK_EARNED_MICROWAVE_TURRET
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Strażnika"
+
+REFERENCE           SO_RTS_MISSION_SUCCESS
+LANG_POLISH         "MISJA ZAKOŃCZONA"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_NOT_AVAILABLE
+LANG_POLISH         "Strażnik jest niedostępny"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Strażnika"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET
+LANG_POLISH         "Strażnik"
+
+REFERENCE           SO_RTS_NONE
+LANG_POLISH         "BRAK"
+
+REFERENCE           KILLSTREAK_DESTROYED_REMOTE_MORTAR
+LANG_POLISH         "Gwiazda Polarna zniszczona"
+
+REFERENCE           KILLSTREAK_DOGS_LVL2_DESC
+LANG_POLISH         "8 psów bojowych atakujących przeciwników."
+
+REFERENCE           KILLSTREAK_STRAFERUN_NOT_AVAILABLE
+LANG_POLISH         "Warthog jest niedostępny"
+
+REFERENCE           SO_RTS_DELIVERY_REFUEL
+LANG_POLISH         "TRANSPORT JEST NIEDOSTĘPNY: TANKOWANIE"
+
+REFERENCE           KILLSTREAK_STRAFERUN
+LANG_POLISH         "A10F Warthog"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_002_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Misja nieudana. Zarządzam odwrót wszystkich jednostek."
+
+REFERENCE           KILLSTREAK_STRAFERUN_DESC
+LANG_POLISH         "Samolot odrzutowy zapewniający wsparcie z powietrza."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_000_SO1_D
+LANG_POLISH         "^1Żołnierz: ^Impuls z wrogiego IEM potwierdzony."
+
+REFERENCE           KILLSTREAK_STRAFERUN_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Warthoga"
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_INFANTRY_ALLY_HEAVY_PKG
+LANG_POLISH         "Nowa jednostka: ciężka piechota\nNaciśnij ^3[{+actionslot 3}]^7, żeby wybrać, lub przytrzymaj, żeby przejąć kontrolę."
+
+REFERENCE           KILLSTREAK_AI_TANK_DESC
+LANG_POLISH         "Autonomiczny Robot Naziemny (A.G.R) wyszukuje i likwiduje wrogów. Ma zdalne sterowanie."
+
+REFERENCE           SO_RTS_POI_ARMORY_DESC
+LANG_POLISH         "Skład amunicji zawierający zaawansowane uzbrojenie."
+
+REFERENCE           SO_RTS_INFANTRY_ELITEPKG_NAME
+LANG_POLISH         "Oddział sił specjalnych"
+
+REFERENCE           KILLSTREAK_PLANEMORTAR_DESC
+LANG_POLISH         "Rozpocznij Grad bomb w trzech wybranych miejscach."
+
+REFERENCE           KILLSTREAK_QRDRONE_INBOUND
+LANG_POLISH         "Smoczy ogień aktywny"
+
+REFERENCE           KILLSTREAK_PLANEMORTAR_NOT_AVAILABLE
+LANG_POLISH         "Grad bomb jest niedostępny"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_000_SO3_D
+LANG_POLISH         "^1Żołnierz: ^Impuls z wrogiego IEM potwierdzony."
+
+REFERENCE           SO_RTS_SQUAD_ICON
+LANG_POLISH         "Określa typ dostępnego oddziału oraz liczbę jego członków."
+
+REFERENCE           KILLSTREAK_PLANE_MORTAR_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Grad bomb"
+
+REFERENCE           KILLSTREAK_MICROWAVE_TURRET_DESC
+LANG_POLISH         "Urządzenie emitujące mikrofale w postaci stożka promieniowania, które ogłusza i osłabia wrogów."
+
+REFERENCE           KILLSTREAK_QRDRONE
+LANG_POLISH         "Smoczy Ogień"
+
+REFERENCE           KILLSTREAK_QRDRONE_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Smoczy ogień"
+
+REFERENCE           SO_RTS_TYPE_OTHER
+LANG_POLISH         "KLASYFIKACJA \"INNE\""
+
+REFERENCE           KILLSTREAK_QRDRONE_NOT_PLACEABLE
+LANG_POLISH         "W tym miejscu nie można użyć Smoczego ognia"
+
+REFERENCE           KILLSTREAK_USE_TALON
+LANG_POLISH         "^3&&1^7, żeby użyć A.G.R."
+
+REFERENCE           KILLSTREAK_EARNED_QRDRONE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Smoczy ogień"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_001_SO5_D
+LANG_POLISH         "^1Żołnierz: ^7Spóźniliśmy się. Komputer centralny uszkodzony. Baza stracona."
+
+REFERENCE           KILLSTREAK_AI_TANK_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać A.G.R."
+
+REFERENCE           SO_RTS_MP_DRONE_DEFEND_COMM
+LANG_POLISH         "Osłaniaj łącze komunikacyjne"
+
+REFERENCE           SO_RTS_DOG_DESC
+LANG_POLISH         "Jednostka K-9 przeszkolona do szukania i eliminowania jednostek piechoty wroga."
+
+REFERENCE           KILLSTREAK_M32
+LANG_POLISH         "Machina wojenna"
+
+REFERENCE           KILLSTREAK_M32_DROP
+LANG_POLISH         "Machina wojenna"
+
+REFERENCE           KILLSTREAK_M32_DESC
+LANG_POLISH         "Granatnik z trybem ostrzału półautomatycznego."
+
+REFERENCE           KILLSTREAK_M32_DROP_DESC
+LANG_POLISH         "Granatnik z trybem ostrzału półautomatycznego."
+
+REFERENCE           KILLSTREAK_M32_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Machinę wojenną"
+
+REFERENCE           KILLSTREAK_M32_DROP_CRATE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wybrać Machinę wojenną"
+
+REFERENCE           KILLSTREAK_EARNED_MINIGUN
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Machinę śmierci"
+
+REFERENCE           KILLSTREAK_EARNED_M32
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Machinę wojenną"
+
+REFERENCE           KILLSTREAK_TURRET_SENTRY_DISABLE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wyłączyć działko strażnicze"
+
+REFERENCE           SO_RTS_INFANTRY_ELITEPKG_DESC
+LANG_POLISH         "Oddział sił specjalnych składający się z czterech elitarnych jednostek piechoty ze strzelcami operującymi bronią ciężką"
+
+REFERENCE           KILLSTREAK_TURRET_MICROWAVE_DISABLE
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby wyłączyć Strażnika"
+
+REFERENCE           SO_RTS_RETRY_MISSION_QUESTION
+LANG_POLISH         "Czy chcesz powtórzyć misję?"
+
+REFERENCE           KILLSTREAK_M32_INBOUND
+LANG_POLISH         "Machina wojenna wyposażona"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DISARMING_CRATE
+LANG_POLISH         "Rozbrajanie skrzynki pułapki"
+
+REFERENCE           KILLSTREAK_SUPPLY_DROP_DISARM_HINT
+LANG_POLISH         "Przytrzymaj ^3&&1^7, żeby rozbroić zaminowaną skrzynkę"
+
+REFERENCE           KILLSTREAK_AI_TANK_INBOUND
+LANG_POLISH         "A.G.R. w drodze"
+
+REFERENCE           KILLSTREAK_AI_TANK_3_ROCKETS
+LANG_POLISH         "^3[{+speed_throw}]^7 3 Rakiety gotowe"
+
+REFERENCE           KILLSTREAK_AI_TANK_2_ROCKETS
+LANG_POLISH         "^3[{+speed_throw}]^7 2 Rakiety gotowe"
+
+REFERENCE           KILLSTREAK_AI_TANK_1_ROCKETS
+LANG_POLISH         "^3[{+speed_throw}]^7 1 Rakieta gotowa"
+
+REFERENCE           KILLSTREAK_AI_TANK_ROCKETS
+LANG_POLISH         "Wystrzel rakiety^3[{+speed_throw}]^7"
+
+REFERENCE           KILLSTREAK_AI_TANK_GUNS
+LANG_POLISH         "^3[{+attack}]^7 Strzał z karabinów maszynowych"
+
+REFERENCE           KILLSTREAK_TURRET_KNIFED
+LANG_POLISH         "Walka wręcz nie przynosi żadnego efektu"
+
+REFERENCE           SO_RTS_OFF
+LANG_POLISH         "WYŁ."
+
+REFERENCE           KILLSTREAK_REMOTE_MORTAR_NOT_USABLE
+LANG_POLISH         "W tymi miejscu nie można użyć Gwiazdy Polarnej"
+
+REFERENCE           KILLSTREAK_M32_NOT_AVAILABLE
+LANG_POLISH         "Machina wojenna niedostępna"
+
+REFERENCE           SO_RTS_UNIT_CANT_MOVE_THERE
+LANG_POLISH         "NIE MOŻNA WYSŁAĆ JEDNOSTKI DO TEGO MIEJSCA"
+
+REFERENCE           SO_RTS_INFANTRY_REGPKG_NAME
+LANG_POLISH         "Standardowy oddział piechoty"
+
+REFERENCE           SO_RTS_DELIVERY_INCOMMING
+LANG_POLISH         "DOSTAWA JEDNOSTEK W DRODZE"
+
+REFERENCE           SO_RTS_INFANTRY_REGPKG_DESC
+LANG_POLISH         "Standardowy oddział piechoty składający się z czterech jednostek piechoty."
+
+REFERENCE           SO_RTS_INFANTRY_SNIPER_NAME
+LANG_POLISH         "Piechota, snajper"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_001_SO1_D
+LANG_POLISH         "^1Żołnierz: ^7Spóźniliśmy się. Komputer centralny uszkodzony. Baza stracona."
+
+REFERENCE           SO_RTS_INFANTRY_SPEC_SNIPER_DESC
+LANG_POLISH         "Weteran i doświadczony strzelec, który przeszedł szkolenie w zakresie korzystania z karabinów snajperskich."
+
+REFERENCE           SO_RTS_INFANTRY_CQB_NAME
+LANG_POLISH         "Piechota, CQB"
+
+REFERENCE           SO_RTS_INFANTRY_CQB_DESC
+LANG_POLISH         "Weteran specjalizujący się w walkach na bezpośrednim zasięgu."
+
+REFERENCE           SO_RTS_INFANTRY_JUG_NAME
+LANG_POLISH         "Jednostka taktycznego szturmu"
+
+REFERENCE           SO_RTS_ARGUS
+LANG_POLISH         "NAZWA: %1\nOPIS: %2\nTYP: %3\nWYTRZYMAŁOŚĆ: %4\nPANCERZ: %5\nPOTWIERDZONE LIKWIDACJE: %6\n"
+
+REFERENCE           SO_RTS_INFANTRY_JUG_DESC
+LANG_POLISH         "Ciężko opancerzona jednostka szturmowa, mogąca wytrzymać zmasowany atak wroga."
+
+REFERENCE           SO_RTS_STATUS
+LANG_POLISH         "STATUS:"
+
+REFERENCE           SO_RTS_BIGDOG_NAME
+LANG_POLISH         "ALFA DOG ROV"
+
+REFERENCE           SO_RTS_BIGDOG_DESC
+LANG_POLISH         "Zmechanizowany, autonomiczny pojazd szturmowy."
+
+REFERENCE           SO_RTS_TYPE_INFANTRY
+LANG_POLISH         "JEDNOSTKA PIECHOTY"
+
+REFERENCE           SO_RTS_TYPE_MECHANIZED
+LANG_POLISH         "JEDNOSTKA ZMECHANIZOWANA"
+
+REFERENCE           SO_RTS_TYPE_STATIONARY
+LANG_POLISH         "JEDNOSTKA STACJONARNA"
+
+REFERENCE           SO_RTS_MOVING
+LANG_POLISH         "W drodze"
+
+REFERENCE           SO_RTS_DOGPKG_NAME
+LANG_POLISH         "Psy bojowe"
+
+REFERENCE           SO_RTS_DOGPKG_DESC
+LANG_POLISH         "Pakiet Psy bojowe składa się z trzech jednostek K-9, przeszkolonych do szukania i eliminowania jednostek piechoty wroga"
+
+REFERENCE           SO_RTS_AIRSTRIKEPKG_NAME
+LANG_POLISH         "Naprowadzany nalot"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_WIIU_CAROUSEL
+LANG_POLISH         "Panel aktywnej jednostki pokazuje typy dostępnych oddziałów. Użyj karuzeli ([{+actionslot_carousel_full}]), żeby wybierać i zmieniać oddziały.\n\nKliknięcie dowolnego kierunku na karuzeli spowoduje wybranie oddziału.\n\nPrzytrzymanie wybranego kierunku na karuzeli spowoduje powrót do określonego oddziału."
+
+REFERENCE           SO_RTS_ARGUS_BASE
+LANG_POLISH         "BAZA DRUŻYNY: %1\nWYTRZYMAŁOŚĆ BAZY: %2\n"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_0
+LANG_POLISH         "Naciśnij ^3[{togglescores}]^7, żeby użyć mapy taktycznej."
+
+REFERENCE           SO_RTS_QUADPKG_DESC
+LANG_POLISH         "Zmechanizowany, autonomiczny, szturmowy pojazd latający."
+
+REFERENCE           SO_RTS_QUAD_NAME
+LANG_POLISH         "Quadrotor ROV"
+
+REFERENCE           SO_RTS_RECONPKG_NAME
+LANG_POLISH         "Infiltrator ROV"
+
+REFERENCE           SO_RTS_MISSION_FAILED
+LANG_POLISH         "MISJA NIEUDANA"
+
+REFERENCE           SO_RTS_TIME_LEFT
+LANG_POLISH         "POZOSTAŁY CZAS:"
+
+REFERENCE           SO_RTS_UNIT_NOTAVAIL
+LANG_POLISH         "JEDNOSTKA NIEDOSTĘPNA"
+
+REFERENCE           SO_RTS_TOO_MANY_MECHANIZED
+LANG_POLISH         "WYSTAWIONO MAKSYMALNĄ LICZBĘ JEDNOSTEK ZMECHANIZOWANYCH"
+
+REFERENCE           SO_RTS_DEFENDING
+LANG_POLISH         "Broni pozycji"
+
+REFERENCE           SO_RTS_ENGAGED
+LANG_POLISH         "Kontakt z przeciwnikiem"
+
+REFERENCE           SO_RTS_FUBAR
+LANG_POLISH         "Status nieznany"
+
+REFERENCE           SO_RTS_PATROLING
+LANG_POLISH         "Patroluje sektor"
+
+REFERENCE           SO_RTS_CONTROLS_CAPS
+LANG_POLISH         "STER."
+
+REFERENCE           SO_RTS_ENEMY_ARRIVED
+LANG_POLISH         "WYKRYTO NOWĄ AKTYWNOŚĆ PRZECIWNIKA"
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_FRIENDLY
+LANG_POLISH         "Naciśnij ^3[{togglescores}]^7, żeby przejąć dowodzenie nad tą jednostką."
+
+REFERENCE           SO_RTS_OBJ_CAPTURE
+LANG_POLISH         "Zajmij i zabezpiecz infrastrukturę wroga o istotnym znaczeniu"
+
+REFERENCE           SO_RTS_OBJ3D_DESTROY
+LANG_POLISH         "ZNISZCZ"
+
+REFERENCE           SO_RTS_OBJ_DESTROY
+LANG_POLISH         "Zniszcz wysuniętą bazę operacyjną wroga (FOB)"
+
+REFERENCE           SO_RTS_INFRA_WON
+LANG_POLISH         "INFRASTRUKTURA ZOSTAŁA ZABEZPIECZONA"
+
+REFERENCE           SO_RTS_OBJ_PROTECT
+LANG_POLISH         "Broń sojuszniczej, wysuniętej bazy operacyjnej (FOB)"
+
+REFERENCE           SO_RTS_PKG_NOT_READY
+LANG_POLISH         "JEDNOSTKA TEGO TYPU JEST OBECNIE NIEDOSTĘPNA"
+
+REFERENCE           SO_RTS_BTN_RTS_CATALOG_SCROLL
+LANG_POLISH         "^3[{+actionslot 3}]^7 lub ^3[{+actionslot 4}]^7, żeby przewijać listę jednostek"
+
+REFERENCE           SO_RTS_BTN_FPS_FOLLOW
+LANG_POLISH         "^3[{+actionslot 2}]^7, żeby zebrać przy sobie oddział"
+
+REFERENCE           SO_RTS_BTN_RTS_TAKEOVER
+LANG_POLISH         "^BBUTTON_MP_CANCELCOMMAND^, żeby przejąć zaznaczoną jednostkę"
+
+REFERENCE           SO_RTS_BTN_RTS_RESET
+LANG_POLISH         "^3[{+melee}]^7, żeby wypośrodkować na wybranej bazie"
+
+REFERENCE           SO_RTS_BTN_RTS_MOVE
+LANG_POLISH         "^3[{+smoke}]^7, żeby poruszyć wybrane jednostki"
+
+REFERENCE           SO_RTS_MP_DRONE_ENEMY_ARRIVE
+LANG_POLISH         "Przybycie sił przeciwnika"
+
+REFERENCE           SO_RTS_BTN_FPS_RTSMODE
+LANG_POLISH         "^BBUTTON_MP_CANCELCOMMAND^, żeby powrócić do mapy bojowej"
+
+REFERENCE           SO_RTS_BTN_FPS_RALLY
+LANG_POLISH         "^3[{+smoke}]^7, żeby określić punkt zborny"
+
+REFERENCE           SO_RTS_BTN_HELP
+LANG_POLISH         "^3[{+breath_sprint}]^7, żeby wyświetlić/ukryć pomoc dla przycisków\n"
+
+REFERENCE           SO_RTS_FPS_MODE
+LANG_POLISH         "Gra jako jednostka (FPS)"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_INTRO_POWER_000_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Łącze satelitarne, transformator i chłodnia kominowa zasilają drzwi pancerne bazy."
+
+REFERENCE           SO_RTS_FASTROPE_HELO
+LANG_POLISH         "Śmigłowiec"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_001_SO2_D
+LANG_POLISH         "^1Żołnierz: ^7Spóźniliśmy się. Komputer centralny uszkodzony. Baza stracona."
+
+REFERENCE           SO_RTS_FASTROPE_VTOL
+LANG_POLISH         "VTOL"
+
+REFERENCE           SO_RTS_STANDARD
+LANG_POLISH         "Pole ustalone"
+
+REFERENCE           SO_RTS_INFRA_CONTESTED
+LANG_POLISH         "WKRÓTCE ROZPOCZNIE SIĘ BITWA O PRZEJĘCIE KONTROLI NAD INFRASTRUKTURĄ"
+
+REFERENCE           SO_RTS_DELIVERY
+LANG_POLISH         "DOSTAWA:  "
+
+REFERENCE           SO_RTS_MP_DRONE_OBJ_DEFEND
+LANG_POLISH         "OBROŃ FABRYKĘ DRONÓW PRZED ATAKAMI KSO:"
+
+REFERENCE           SO_RTS_REQUIREMENT
+LANG_POLISH         "WYMAGA:  "
+
+REFERENCE           SO_RTS_PREPTIME
+LANG_POLISH         "CZAS PRZYGOTOWANIA:  "
+
+REFERENCE           SO_RTS_UNITS
+LANG_POLISH         "LICZBA JEDNOSTEK:  "
+
+REFERENCE           SO_RTS_OR
+LANG_POLISH         "lub"
+
+REFERENCE           SO_RTS_TRANSPORT_AVAIL
+LANG_POLISH         "TRANSPORT GOTOWY DO LOTU"
+
+REFERENCE           SO_RTS_TRANSPORT_INFLIGHT
+LANG_POLISH         "W drodze"
+
+REFERENCE           SO_RTS_NO_UNITS_FAILURE
+LANG_POLISH         "Nie masz już więcej jednostek w Grupie uderzeniowej. Nastąpi powrót do sali odpraw."
+
+REFERENCE           SO_RTS_ALLY_BASE_DESTROYED
+LANG_POLISH         "SOJUSZNICZA FOB ZOSTAŁA ZNISZCZONA"
+
+REFERENCE           SO_RTS_ALLY_BASE_DAMAGE
+LANG_POLISH         "SOJUSZNICZA FOB JEST ATAKOWANA"
+
+REFERENCE           SO_RTS_AUTO_ORDER
+LANG_POLISH         "AUTOMATYCZNA KOLEJNOŚĆ: "
+
+REFERENCE           SO_RTS_AIRSTRIKE_AVAIL
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, ŻEBY WEZWAĆ NALOT"
+
+REFERENCE           SO_RTS_AIRSTRIKE_NOTAVAIL
+LANG_POLISH         "NALOT JEST OBECNIE NIEDOSTĘPNY"
+
+REFERENCE           SO_RTS_ACTIVE_UNIT_PANEL_CAPS
+LANG_POLISH         "PANEL AKTYWNYCH JEDNOSTEK"
+
+REFERENCE           SO_RTS_INTRUDER_ATTACK
+LANG_POLISH         "URZĄDZENIE JEST ATAKOWANE"
+
+REFERENCE           SO_RTS_MISSION_TIME_REMAINING_CAPS
+LANG_POLISH         "CZAS MISJI"
+
+REFERENCE           SO_RTS_ACTIVE_UNITS_CAPS
+LANG_POLISH         "AKTYWNE JEDNOSTKI"
+
+REFERENCE           SO_RTS_PLANT_INTRUDER
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby umieścić zakłócacz sieci"
+
+REFERENCE           SO_RTS_TACT_MAP
+LANG_POLISH         "NACIŚNIJ ^3[{togglescores}]^7: WIDOK TAKTYCZNY"
+
+REFERENCE           SO_RTS_TUTORIAL_BIGDOG_PKG
+LANG_POLISH         "^3[{+speed_throw}]^7, ŻEBY ZBLIŻYĆ WIDOK , ^3[{+attack}]^7, ŻEBY STRZELIĆ Z BRONI,\n I ^3[{+frag}]^7, ŻEBY STRZELIĆ Z GRANATNIKA"
+
+REFERENCE           SO_RTS_AIRSTRIKE_AVAILABLE_IN
+LANG_POLISH         "NALOT DOSTĘPNY ZA"
+
+REFERENCE           SO_RTS_OBJ3D_RESCUE
+LANG_POLISH         "URATUJ"
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_1
+LANG_POLISH         "Naciśnij ^3[{+actionslot 2}]^7, żeby wybrać piechotę, a następnie naciśnij [{+smoke}], żeby wydać jej rozkaz."
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_PC
+LANG_POLISH         "Widok taktyczny przedstawia podgląd strategiczny pola bitwy, pozwalający na zapoznanie się z pozycją twoich oddziałów, żołnierzy wroga oraz celów.\n\nDowodzenie oddziałami w widoku taktycznym przebiega w podobny sposób, jak dowodzenie w normalnym widoku.\n\nNaciśnij przycisk ^3[{togglescores}]^7, żeby skorzystać z widoku taktycznego.\nAby zamknąć widok taktyczny i powrócić do jednostki, przytrzymaj przycisk wyboru oddziału ^3[{+actionslots}]^7 lub umieść kursor nad członkiem oddziału i naciśnij przycisk ^3[{togglescores}]^7."
+
+REFERENCE           SO_RTS_TUTORIAL_FPS_3
+LANG_POLISH         "Przytrzymaj ^3[{+actionslot 2}]^7, żeby wybrać najbliższą jednostkę piechoty."
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_0
+LANG_POLISH         "Przytrzymaj ^3[{+smoke}]^7, żeby wybrać wszystkie jednostki, a następnie naciśnij [{+attack}], żeby nimi dowodzić."
+
+REFERENCE           SO_RTS_TUTORIAL_RTS_1
+LANG_POLISH         "Naciśnij ^3[{+actionslot 2}]^7, żeby wybrać piechotę, a następnie naciśnij [{+attack}], żeby wydać jej rozkaz."
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_METALSTORM_PKG
+LANG_POLISH         "Nowa jednostka: ASD\nNaciśnij ^3[{+actionslot 3}]^7, żeby wybrać, lub przytrzymaj, żeby przejąć kontrolę."
+
+REFERENCE           SO_RTS_TUTORIAL_NEW_QUADROTOR_PKG
+LANG_POLISH         "Nowa jednostka: QUADROTOR\nNaciśnij ^3[{+actionslot 3}]^7, żeby wybrać, lub przytrzymaj, żeby przejąć kontrolę."
+
+REFERENCE           SO_RTS_OBJ3D_DEFEND
+LANG_POLISH         "BROŃ"
+
+REFERENCE           SO_RTS_PLACE
+LANG_POLISH         "Przytrzymaj ^3[{+gostand}]^7, żeby umieścić"
+
+REFERENCE           SO_RTS_TWO_MINUTE_WARNING
+LANG_POLISH         "Pozostały dwie minuty na wykonanie celu."
+
+REFERENCE           SO_RTS_SQUAD_SELECTION_CAPS
+LANG_POLISH         "WYBÓR ODDZIAŁU"
+
+REFERENCE           SO_RTS_RETRY_MISSION_UNIT
+LANG_POLISH         "Jeśli chcesz powtórzyć misję, będzie to kosztowało kolejną jednostkę. Jeśli jednak zrezygnujesz, to powrócisz do sali odpraw."
+
+REFERENCE           SO_RTS_SQUAD_ICON_CAPS
+LANG_POLISH         "IKONA ODDZIAŁU"
+
+REFERENCE           SO_RTS_SQUAD_ICON_INFO
+LANG_POLISH         "Ikona oddziału informuje o dostępnych typach oddziałów oraz ich liczebności.\nPo wybraniu ikona oddziału zmieni kolor na pomarańczowy."
+
+REFERENCE           SO_RTS_SELECT_SQUADS_PC
+LANG_POLISH         "Panel aktywnych jednostek pokazuje typy dostępnych oddziałów.\nUżyj przycisku wyboru jednostki ^3[{+actionslots}]^7, żeby wybierać i zmieniać oddziały.\n\nWciśnięcie przycisku wyboru oddziału ^3[{+actionslots}]^7 spowoduje wybranie jednostki.\nPrzytrzymanie ^3[{+actionslots}]^7 przeniesie do jednostki."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_WAYPOINTS
+LANG_POLISH         "Naciśnij odpowiedni przycisk kierunku, odpowiadający wybranemu typowi oddziału."
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_CAPS
+LANG_POLISH         "WSKAZYWANIE CELÓW:"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_ENEMIES_CAPS
+LANG_POLISH         "WSKAZYWANIE PRZECIWNIKÓW:"
+
+REFERENCE           SO_RTS_SQUAD_COMMANDS_TARGETING_ENEMIES
+LANG_POLISH         "Umieść kursor nad przeciwnikiem i naciśnij ^3[{+smoke}]^7, żeby wysłać wybrany oddział do ataku.\n\nPrzytrzymaj ^3[{+smoke}]^7, żeby wysłać do ataku wszystkie oddziały."
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO
+LANG_POLISH         "Widok taktyczny przedstawia podgląd strategiczny pola bitwy, pozwalający na zapoznanie się z pozycją twoich oddziałów, żołnierzy wroga oraz celów.\n\nDowodzenie oddziałami w widoku taktycznym przebiega w podobny sposób, jak dowodzenie w normalnym widoku.\n\nNaciśnij ^BBUTTON_MP_CANCELCOMMAND^, żeby skorzystać z widoku taktycznego.\nAby zamknąć widok taktyczny i powrócić do jednostki, przytrzymaj przyciski kierunku lub umieść kursor nad członkiem oddziału i naciśnij ^BBUTTON_MP_CANCELCOMMAND^."
+
+REFERENCE           SO_RTS_TACTICAL_VIEW_INFO_WIIU_CAROUSEL
+LANG_POLISH         "Widok taktyczny przedstawia podgląd strategiczny pola bitwy, pozwalający na zapoznanie się z pozycją twoich oddziałów, żołnierzy wroga oraz celów.\n\nDowodzenie oddziałami w widoku taktycznym przebiega w podobny sposób, jak dowodzenie w normalnym widoku.\n\nNaciśnij [{togglescores}], żeby skorzystać z widoku taktycznego.\nAby zamknąć widok taktyczny i powrócić do jednostki, przytrzymaj ([{+actionslot_carousel_full}]) na karuzeli lub umieść kursor nad członkiem oddziału i naciśnij [{togglescores}]."
+
+REFERENCE           SO_RTS_TACTICAL_INSTRUCTION_POI
+LANG_POLISH         "Naciśnij ^3[{+smoke}]^7, żeby wydać jednostkom polecenie zabezpieczenia tego punktu."
+
+REFERENCE           SO_RTS_ISSUE_COMMANDS_CAPS
+LANG_POLISH         "WYDAJ POLECENIA DLA ODDZIAŁU"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_CAPS
+LANG_POLISH         "WYBÓR ODDZIAŁÓW W GRUPIE UDERZENIOWEJ"
+
+REFERENCE           SO_RTS_RETRY_CURRENT_MISSION_CAPS
+LANG_POLISH         "POWTÓRZ OBECNĄ MISJĘ"
+
+REFERENCE           SO_RTS_RETRY_MISSION
+LANG_POLISH         "Powtórzyć misję?"
+
+REFERENCE           SO_RTS_STRATEGIC_VIEWS_CAP
+LANG_POLISH         "WIDOK TAKTYCZNY"
+
+REFERENCE           SO_RTS_COMMANDS_CAPS
+LANG_POLISH         "ROZKAZ"
+
+REFERENCE           SO_RTS_COMMANDS_CONT_CAPS
+LANG_POLISH         "ROZK.2"
+
+REFERENCE           SO_RTS_SELECTION_CAPS
+LANG_POLISH         "WYBÓR"
+
+REFERENCE           SO_RTS_SELECT_SQUADS
+LANG_POLISH         "Panel aktywnych jednostek pokazuje typy dostępnych oddziałów.\nUżyj przycisków kierunku, żeby wybierać i zmieniać oddziały.\n\nWciśnięcie dowolnego kierunku spowoduje wybranie jednostki.\nPrzytrzymanie przeniesie do jednostki."
+
+REFERENCE           SO_RTS_SWITCH_UNITS
+LANG_POLISH         "PRZYTRZYMAJ ^3[{+actionslots}]^7: ZMIANA JEDN."
+
+REFERENCE           SO_RTS_CONTINUE_STORY_CAPS
+LANG_POLISH         "KONTYNUUJ FABUŁĘ"
+
+REFERENCE           SO_RTS_SF_UNITS_REMAINING
+LANG_POLISH         "POZOSTAŁE DRUŻYNY GRUPY UDERZENIOWEJ"
+
+REFERENCE           SO_RTS_REPLAY_TUT_CAPS
+LANG_POLISH         "POWTÓRZ SAMOUCZEK"
+
+REFERENCE           SO_RTS_TUTORIAL_COMPLETE
+LANG_POLISH         "Samouczek ukończony"
+
+REFERENCE           SO_RTS_MISSILE_HINT
+LANG_POLISH         "Użyj ^3[{+lookstick}]^7, żeby pokierować lotem pocisku"
+
+REFERENCE           SO_RTS_SF_NO_UNITS_REMAINING
+LANG_POLISH         "BRAK DRUŻYN W GRUPIE UDERZENIOWEJ"
+
+REFERENCE           SO_RTS_SELECT_SQUADS_PS3
+LANG_POLISH         "Panel aktywnych jednostek pokazuje typy dostępnych oddziałów.\nUżyj przycisków kierunku, żeby wybierać i zmieniać oddziały.\n\nWciśnięcie dowolnego kierunku spowoduje wybranie jednostki.\nPrzytrzymanie przeniesie do jednostki."
+
+REFERENCE           SO_RTS_MP_DRONE_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"BAZA WIDMO\"^L"
+
+REFERENCE           SO_RTS_MP_DRONE_INTROSCREEN_LINE_3
+LANG_POLISH         "GRUPA UDERZENIOWA ^LJSOC^L"
+
+REFERENCE           SO_RTS_MP_DRONE_INTROSCREEN_LINE_4
+LANG_POLISH         "21 MAJA ^L2025^L"
+
+REFERENCE           SO_RTS_MP_DRONE_DEFEND_COMPUTER
+LANG_POLISH         "Osłaniaj serwer sieciowy przed modułami hakującymi nieprzyjaciela"
+
+REFERENCE           SO_RTS_MP_DRONE_DEFEND_POWER
+LANG_POLISH         "Osłaniaj elektrownię"
+
+REFERENCE           SO_RTS_MP_DRONE_TANK_DAMAGE
+LANG_POLISH         "CHŁODNIA KOMINOWA JEST NIEMAL ZNISZCZONA"
+
+REFERENCE           SO_RTS_MP_DRONE_MAINFRAME_DAMAGE
+LANG_POLISH         "WKRÓTCE NASTĄPI WŁAMANIE DO SERWERA SIECIOWEGO "
+
+REFERENCE           SO_RTS_MP_DRONE_REMAINING
+LANG_POLISH         "WYELIMINUJ POZOSTAŁE SIŁY WROGA"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_000_SO2_D
+LANG_POLISH         "^1Żołnierz: ^Impuls z wrogiego IEM potwierdzony."
+
+REFERENCE           SO_RTS_MP_DRONE_DEFEND
+LANG_POLISH         "OBROŃ OBIEKT"
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_INTRO_1MIN_000_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Transport żołnierzy nieprzyjaciela dotrze za 1 minutę."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_INTRO_PERIMETER_000_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kiedy wszystkie jednostki znajdą się na ziemi, natychmiast przystąpić do zabezpieczenia perymetru."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_INTRO_MAINFRAME_000_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jeśli stracimy obie pozycje, to nieprzyjaciel uzyska dostęp do komputera centralnego."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_000_SO0_D
+LANG_POLISH         "^1Żołnierz: ^7Potwierdzono impuls wrogiego IEM."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_000_SO4_D
+LANG_POLISH         "^1Żołnierz: ^Impuls z wrogiego IEM potwierdzony."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_FAIL_001_SO4_D
+LANG_POLISH         "^1Żołnierz: ^7Spóźniliśmy się. Komputer centralny uszkodzony. Baza stracona."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_000_SO0_D
+LANG_POLISH         "^1Żołnierz: ^7Siły nieprzyjaciela wycofują się. Baza jest bezpieczna."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_000_SO1_D
+LANG_POLISH         "^1Żołnierz: ^7Siły nieprzyjaciela wycofują się. Baza jest bezpieczna."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_000_SO2_D
+LANG_POLISH         "^1Żołnierz: ^7Siły nieprzyjaciela wycofują się. Baza jest bezpieczna."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_000_SO3_D
+LANG_POLISH         "^1Żołnierz: ^7Siły nieprzyjaciela wycofują się. Baza jest bezpieczna."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_000_SO4_D
+LANG_POLISH         "^1Żołnierz: ^7Siły nieprzyjaciela wycofują się. Baza jest bezpieczna."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_001_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Cel misji osiągnięty."
+
+REFERENCE           SO_RTS_MP_DRONE_VOX_VOX_DRO_MISSION_SUCCESS_002_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wszyscy świetnie się spisali."
+
+ENDMARKER

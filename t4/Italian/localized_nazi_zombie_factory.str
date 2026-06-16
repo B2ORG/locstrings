@@ -1,0 +1,535 @@
+// Dumped from fastfile "localized_nazi_zombie_factory".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 2000]"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Round"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il SpringField + baionetta [Costo: 200]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'armadio [Costo: 2000]"
+
+REFERENCE           ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "La carrucola dev'essere attivata prima dell'uso"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Premi &&1 per un'arma casuale [Costo: 950]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Per arma [costo: &&1], per munizioni [costo: &&2], Munizioni potenz. [Costo: 4500]"
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Che l'assalto abbia inizio"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Manicomio di Wittenau "
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'Arisaka [Costo: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Nambu [Costo: 50]"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il BAR [Costo: 1800]"
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "Assalto superato"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 500]"
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "NON SPECIFICATO! IMPOSTA LO SCRIPT _HINT NELL'ENT CORRETTAMENTE!"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Tieni premuto &&1 per ricomprare le tavole [Costo: 10]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Sei sopravvissuto per &&1 turni"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Tieni premuto &&1 per ricomprare le tavole [Costo: 20]"
+
+REFERENCE           ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il PPSh-41 [Costo: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Tieni premuto &&1 per ricomprare le tavole [Costo: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Tieni premuto &&1 per ricomprare le tavole [Costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Mosin-Nagant [Costo: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Tieni premuto &&1 per ricostruire le difese [Ricompensa: 40]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Tokarev TT-30 [Costo: 50]"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la carabina M1 + baionetta [Costo: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Colt Heavy Duty [Costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Tieni premuto &&1 per ripulire i detriti [Costo: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la .357 Magnum [Costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Cost: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta [Costo: 2000]"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la rianimazione [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Colt [Costo: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 200]"
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Premi [{+actionslot 4}], quindi [{+attack}] per piazzare una bouncing betty"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Kar98k [Costo: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Zombi Colt [Costo: 25]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 1250]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Tipo 99 + baionetta [Costo: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Gewehr 43 [Costo: 600]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 2000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'armadio [Costo: 500]"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Ray Gun [Costo: 10000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'armadio [Costo: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Mosin-Nagant + granata [Costo: 1500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'armadio [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Walther P38 [Costo: 50]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Mosin-Nagant [Costo: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il DP-28 [Costo: 2250]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare lo Springfield [Costo: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Kar98k + baionetta [Costo: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la carabina M1 [Costo: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'M1 Garand [Costo: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'M1 Garand + baionetta [Costo: 600]"
+
+REFERENCE           ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "Tieni premuto &&1 per teletrasportarti al mainframe [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'SVT-40 [Costo: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la granata a frammentazione M2 [Costo: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare le molotov [Costo: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il BAR + bipied [Costo: 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la granata adesiva RGD-33 [Costo: 250]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Sei sopravvissuto per 1 turno"
+
+REFERENCE           ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Tieni premuto &&1 per comprare le Stielhandgranate [Costo: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Tipo 97 + granata [Costo: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Kar98k + mirino [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Kar98k + mirino + baionetta [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il fucile a pompa M1897 [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Mosin-Nagant + mirino [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Mosin-Nagant + mirino + baionetta [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la PTRS-41 [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare lo SpringField + mirino [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare lo SpringField + mirino + baionetta [Costo: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Tieni premuto &&1 per ricostruire le difese [Ricompensa: 10]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'Arisaka + mirino [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Tipo 99 + mirino + baionetta [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'MP40 [Costo: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'STG-44 [Costo: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la mitragliatrice leggera Tipo 99 + bipiede [Costo: 2250]"
+
+REFERENCE           ZOMBIE_WEAPON_THOMPSON_1200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Thompson [Costo: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Tipo 100 [Costo: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la doppietta [Costo: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il fucile a pompa a canne mozze [Costo: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il M1919 [Costo: 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'FG42 [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'FG42 + mirino [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'MG42 [Costo: 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la mitragliatrice leggera Tipo 99 [Costo: 1750]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'M1 Garand + granata [Costo: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il M1919 + bipiede [Costo: 3500]"
+
+REFERENCE           ZOMBIE_AMMO_BOX
+LANG_ENGLISH        "Tieni premuto &&1 per comprare Munizioni massime: [Tutti i soldi che hai - minimo 10.000]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il DP-28 + bipiede [Costo: 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'FG42 + bipiede [Costo: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il bazooka M9A1 [Costo: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Tieni premuto &&1 per comprare l'MG42 + bipiede [Costo: 3500]"
+
+REFERENCE           ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Panzerschrek [Costo: 2000]"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Settembre 1945"
+
+REFERENCE           ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il lanciafiamme [Costo: 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare i proiettili di mortaio [Costo: 2000]"
+
+REFERENCE           ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "Tieni premuto &&1 per costruire un ponte [Costo: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Tieni premuto &&1 per comprare le cariche satchel [Costo: 2000]"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Tieni premuto &&1 per attivare la torretta a fontana [Costo: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il coltello Bowie [Costo: 3000]"
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Zombi a terra!"
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Speed Cola [Costo: 3000]"
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la birra analcolica [Costo: 2000]"
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Tieni premuto &&1 per comprare il Jugger-Nog [Costo: 2500]"
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Tieni premuto &&1 per comprare Mano Pesante [Costo: 5000]"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Uccisioni istantanee: "
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Nuclearizzazione zombi!"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Punti doppi: "
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Munizione massime!"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Tieni premuto &&1 per ricostruire le difese [Ricompensa: 20]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Tieni premuto &&1 per ricostruire le difese [Ricompensa: 30]"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "GAME OVER"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Tieni premuto &&1 per ricostruire le difese [Ricompensa: 50]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Premi &&1 per un'arma casuale [Costo: 850]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Premi &&1 per un'arma casuale [Costo: 750]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Premi &&1 per un'arma casuale [Costo: 650]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Tieni premuto &&1 per ricostruire le difese."
+
+REFERENCE           ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "Devi prima dare corrente"
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Tieni premuto &&1 per attivare il muro di fuoco [Costo: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Tieni premuto &&1 per aprire l'area [Costo: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Tieni premuto &&1 per attivare la barriera elettrica [Costo: 1000]"
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Tieni premuto &&1 per comprare le Bouncing Betty  [Costo: 1000 - solo una volta]"
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Hai già acquistato le Bouncing Betty"
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Tieni premuto &&1 per dare corrente"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Berlino, Germania"
+
+REFERENCE           ZOMBIE_BUY_TESLA
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la Tesla Gun [Costo: 10]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Tieni premuto &&1 per comprare la granata adesiva [Costo: 10]"
+
+REFERENCE           ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Tieni premuto &&1 per attivare la carrucola [Costo: 1500]"
+
+REFERENCE           ZOMBIE_ACTIVATE_TRAP
+LANG_ENGLISH        "Tieni premuto &&1 per attivare la trappola [Costo: 750]"
+
+REFERENCE           ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Il cancello deve essere aperto"
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Tieni premuto &&1 per scambiare armi"
+
+REFERENCE           ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Tieni premuto &&1 per attivare la carrucola"
+
+REFERENCE           ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Tieni premuto &&1 per comprare "
+
+REFERENCE           ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "Tieni premuto &&1 per inizializzare la connessione al mainframe"
+
+REFERENCE           ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "Tieni premuto &&1 per collegare il teletrasporto al mainframe"
+
+REFERENCE           ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "Connessione attivata"
+
+REFERENCE           ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "Devi prima attivare il teletrasporto"
+
+REFERENCE           ZOMBIE_START_TPAD
+LANG_ENGLISH        "Torna al nucleo"
+
+REFERENCE           ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "Raffreddamento teletrasporto"
+
+REFERENCE           ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "Tieni premuto &&1 per attivare la trappola [Costo: 1000]"
+
+REFERENCE           ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "Tieni premuto &&1 per aprire la porta"
+
+REFERENCE           ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "Tieni premuto &&1 per attivare l'ascensore [Costo: 500]"
+
+REFERENCE           ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "Tieni premuto [{+activate}] per usare la torretta [Cost: &&1]"
+
+REFERENCE           ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "Press & hold [{+activate}] to activate automatic Turret [Cost &&1]"
+
+REFERENCE           ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "Tieni premuto &&1 per prendere la tua arma potenziata"
+
+REFERENCE           ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "Tieni premuto &&1 per usare il teletrasporto [Costo: 1500]"
+
+REFERENCE           ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "Tieni premuto &&1 per attivare il teletrasporto"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "Tieni premuto &&1 per usare la carrucola [Costo: 1000]"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "La carrucola dev'essere attivata prima dell'uso"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Tieni premuto &&1 per attivare la carrucola"
+
+REFERENCE           ZOMBIE_INTRO_FACTORY_LEVEL_PLACE
+LANG_ENGLISH        "Vicino a Breslau, Germania"
+
+REFERENCE           ZOMBIE_INTRO_FACTORY_LEVEL_TIME
+LANG_ENGLISH        "Ora: sconosciuta"
+
+REFERENCE           ZOMBIE_INTRO_FACTORY_LEVEL_DATE
+LANG_ENGLISH        "Data: sconosciuta"
+
+ENDMARKER

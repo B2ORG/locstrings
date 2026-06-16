@@ -1,0 +1,58 @@
+// Dumped from fastfile "pel1b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_HOLD_POS
+LANG_ENGLISH        "폭격 간에 위치를 사수하십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_FLAME_TANK
+LANG_ENGLISH        "화염방사전차를 보호하십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_WARNING
+LANG_ENGLISH        "이동하기 전에 대전차 진지를 제거해야 합니다."
+
+REFERENCE           PEL1B_INTROSCREEN_TITLE
+LANG_ENGLISH        "'냉혹하게'"
+
+REFERENCE           PEL1B_OBJECTIVE_MOVE_UP
+LANG_ENGLISH        "분대와 함께 이동하십시오."
+
+REFERENCE           PEL1B_INTROSCREEN_DATE
+LANG_ENGLISH        "1944년 9월 16일"
+
+REFERENCE           PEL1B_INTROSCREEN_PLACE
+LANG_ENGLISH        "펠레리우섬, 정상"
+
+REFERENCE           PEL1B_INTROSCREEN_INFO
+LANG_ENGLISH        "제 1해병사단"
+
+REFERENCE           PEL1B_OBJECTIVE_ARTILLERY
+LANG_ENGLISH        "대전차포 진지를 제거하십시오.(&&1곳 남음)"
+
+REFERENCE           PEL1B_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 밀러"
+
+REFERENCE           PEL1B_PLAYER_DISMOUNT
+LANG_ENGLISH        "전차에서 내리려면 [{+usereload}]를 누르십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FLANK
+LANG_ENGLISH        "분대를 따라가십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FOLLOW_FLAME
+LANG_ENGLISH        "화염방사전차를 따라가십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ART_CLEAR
+LANG_ENGLISH        "포 진지에 있는 적을 소탕하십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_CAVE_CLEAR
+LANG_ENGLISH        "야포를 찾으십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_FOLLOW_SQUAD
+LANG_ENGLISH        "분대와 합류하십시오."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ASSAULT_CAVE
+LANG_ENGLISH        "동굴 입구를 공격하십시오."
+
+ENDMARKER

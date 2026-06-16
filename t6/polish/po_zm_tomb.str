@@ -1,0 +1,244 @@
+// Dumped from fastfile "po_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_POLISH         "Możesz mieć tylko jedną łopatę! "
+
+REFERENCE           ZM_TOMB_EHT
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, aby opuścić głowę robota "
+
+REFERENCE           ZM_TOMB_BOR
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby podnieść piorunochron"
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zamienić na Kostur Lodu "
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby kpić jednocalowy poncz [Koszt:&&1]"
+
+REFERENCE           ZM_TOMB_NS
+LANG_POLISH         "Potrzebujesz łopaty by kopać "
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zamienić na Kostur Powietrza"
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zamienić na Kostur Ognia "
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wybrać Kostur"
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, aby użyć drona Maxis"
+
+REFERENCE           ZM_TOMB_X2D
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby kopać "
+
+REFERENCE           ZM_TOMB_PULS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zamienić na Kostur Błyskawic "
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby uzyskać dostęp do teleportera [Koszt: &&1]"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_POLISH         "Gramofon znajduje się gdzieś indziej "
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby przywołać czołg [koszt: &&1] "
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_POLISH         "Dron Maxis"
+
+REFERENCE           ZM_TOMB_RU
+LANG_POLISH         "Właściwa płyta niedostępna "
+
+REFERENCE           ZM_TOMB_CH1
+LANG_POLISH         "Wykonaj 115 zwykłych headshotów."
+
+REFERENCE           ZM_TOMB_RPP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wypić Perk-o-Colę"
+
+REFERENCE           ZM_TOMB_CRS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby stworzyć kostur "
+
+REFERENCE           ZM_TOMB_INLS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby włożyć kostur błyskawic "
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby puścić piosenkę"
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść gramofon"
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby umieścić gramofon"
+
+REFERENCE           ZM_TOMB_CRF
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby stworzyć kostur ognia "
+
+REFERENCE           ZM_TOMB_RPE
+LANG_POLISH         "Wunderfizz Orb znajduje się w innym miejscu "
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - &&1"
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby uruchomić czołg [Koszt: &&1] "
+
+REFERENCE           ZM_TOMB_INAS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby włożyć kostur powietrza "
+
+REFERENCE           ZM_TOMB_INFS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby włożyć kostur ognia"
+
+REFERENCE           ZM_TOMB_RPB
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby kupić Perk-o-Colę [koszt: &&1]"
+
+REFERENCE           ZM_TOMB_CRA
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby stworzyć kostur wiatru. "
+
+REFERENCE           ZM_TOMB_CRB
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zbudować naprowadzanie ostrzału artylerii "
+
+REFERENCE           ZM_TOMB_INWS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby włożyć kostur lodu"
+
+REFERENCE           ZM_TOMB_INS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby włożyć kryształ żywiołów."
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zbudować piorunochron  "
+
+REFERENCE           ZM_TOMB_CH3
+LANG_POLISH         "Wydaj 30000 punktów"
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zbudować drona Maxis  "
+
+REFERENCE           ZM_TOMB_ZC
+LANG_POLISH         "Zasilanie musi być włączone  "
+
+REFERENCE           ZM_TOMB_CAP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby uruchomić zasilanie, używając generatora E115 [koszt: &&1]"
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby zbudować tarczę zombie "
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wziąć naprowadzanie ostrzału artylerii"
+
+REFERENCE           ZM_TOMB_TQ
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wziąć drona Maxis "
+
+REFERENCE           ZM_TOMB_BOF
+LANG_POLISH         "Otrzymałeś kostur ognia "
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby się katapultować."
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby podnieść drona Maxis"
+
+REFERENCE           ZM_TOMB_CRW
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby stworzyć kostur lodu"
+
+REFERENCE           ZM_TOMB_CRL
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby stworzyć kostur błyskawic "
+
+REFERENCE           ZM_TOMB_BOW
+LANG_POLISH         "Otrzymałeś kostur lodu "
+
+REFERENCE           ZM_TOMB_BOL
+LANG_POLISH         "Otrzymałeś kostur błyskawic "
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_POLISH         "Generator konwersji 115 jest właśnie uruchamiany "
+
+REFERENCE           ZM_TOMB_BOA
+LANG_POLISH         "Otrzymałeś kostur wiatru"
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby podnieść tablicę"
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_POLISH         "Kawałki muzyczne"
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_POLISH         "Część kostura"
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_POLISH         "Tarcza zombie"
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wziąć łopatę "
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_POLISH         "Silnik czołgu chłodzi się "
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_POLISH         "Generator konwersji 115 jest atakowany"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_POLISH         "Dron Maxis w użyciu"
+
+REFERENCE           ZM_TOMB_OSO
+LANG_POLISH         "Możesz nieść tylko jeden kostur. "
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_POLISH         "Czołg jest w ruchu "
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_POLISH         "Obejrzyj medal, by zobaczyć wyzwanie"
+
+REFERENCE           ZM_TOMB_CH2
+LANG_POLISH         "Zdobądź 6 generatorów"
+
+REFERENCE           ZM_TOMB_TELE
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby uzyskać dostęp do teleportera "
+
+REFERENCE           ZM_TOMB_RPU
+LANG_POLISH         "Zasilanie musi być włączone  "
+
+REFERENCE           ZM_TOMB_CHT
+LANG_POLISH         "Wypełnij 4 skrzynie"
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby uruchomić czołg"
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby podnieść tablicę\n"
+
+REFERENCE           ZM_TOMB_RPT
+LANG_POLISH         "Możesz korzystać tylko z &&1 atutów"
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby umieścić tablicę "
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby umieścić tablicę "
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_POLISH         "Broń generatorów przed atakiem"
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby zabrać nagrodę "
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wybrać tą nagrodę. "
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć skrzynię"
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby odsłuchać dziennik audio"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_POLISH         "Naciśnij [{+actionslot 1}] lub [{+actionslot 2}], by zmienić element"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_POLISH         "Już to niesiesz."
+
+ENDMARKER

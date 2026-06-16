@@ -1,0 +1,76 @@
+// Dumped from fastfile "fr_zm_highrise".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
+LANG_FRENCH         "Propulseur"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SPRINGPAD
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ajouter la pièce."
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SPRINGPAD
+LANG_FRENCH         "Pièce ajoutée"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
+LANG_FRENCH         "a pris le Propulseur"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
+LANG_FRENCH         "Appuyez sur ^3[{+actionslot 1}]^7 pour utiliser le Propulseur. "
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SLIPGUN
+LANG_FRENCH         "Pièce ajoutée"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le Propulseur. "
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le Propulseur. "
+
+REFERENCE           ZM_HIGHRISE_BUILD_SLIPGUN
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ajouter la pièce."
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
+LANG_FRENCH         "a pris le Sliquificateur"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
+LANG_FRENCH         "Sliquificateur"
+
+REFERENCE           ZM_HIGHRISE_GRAB_KEYS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la clé. "
+
+REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le Sliquificateur. "
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le Sliquificateur. "
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
+LANG_FRENCH         "Appuyez sur ^3[{+actionslot 1}]^7 pour utiliser le Sliquificateur. "
+
+REFERENCE           ZM_HIGHRISE_BUILD_KEYS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour insérer la clé de l'ascenseur."
+
+REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
+LANG_FRENCH         "Pièce ajoutée"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_KEYS
+LANG_FRENCH         "a pris la clé"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
+LANG_FRENCH         "Clé"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la clé. "
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
+LANG_FRENCH         "Appuyez sur ^3[{+actionslot 1}]^7 pour utiliser la clé. "
+
+REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre la boule"
+
+REFERENCE           ZM_HIGHRISE_SQ_PUTDOWN_BALL
+LANG_FRENCH         "Hold ^3[{+activate}]^7 to place ball"
+
+ENDMARKER

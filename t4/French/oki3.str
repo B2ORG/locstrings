@@ -1,0 +1,109 @@
+// Dumped from fastfile "oki3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI3_OBJ4
+LANG_ENGLISH        "Récupérez les munitions des caisses parachutées."
+
+REFERENCE           OKI3_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Point de rupture\""
+
+REFERENCE           OKI3_STARTS_PLANTERS_END
+LANG_ENGLISH        "Événement 4 - Défaite des poseurs de bombe"
+
+REFERENCE           OKI3_INTROSCREEN_DATE
+LANG_ENGLISH        "29 mai 1945"
+
+REFERENCE           OKI3_OBJ2_3
+LANG_ENGLISH        "Éliminez les servants du mortier (reste 3)."
+
+REFERENCE           OKI3_INTROSCREEN_INFO
+LANG_ENGLISH        "1ère division des Marines"
+
+REFERENCE           OKI3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Château Shuri, Okinawa"
+
+REFERENCE           OKI3_OBJ1
+LANG_ENGLISH        "Attaquez le château Shuri."
+
+REFERENCE           OKI3_OBJ2_4
+LANG_ENGLISH        "Éliminez les servants du mortier (reste 4)."
+
+REFERENCE           OKI3_OBJ2_2
+LANG_ENGLISH        "Éliminez les servants du mortier (reste 2)."
+
+REFERENCE           OKI3_OBJ2_1
+LANG_ENGLISH        "Éliminez les servants du mortier (reste 1)."
+
+REFERENCE           OKI3_OBJ2
+LANG_ENGLISH        "Éliminez les servants du mortier."
+
+REFERENCE           OKI3_OBJ5
+LANG_ENGLISH        "Tenez la zone."
+
+REFERENCE           OKI3_OBJ6
+LANG_ENGLISH        "Résistez à la charge Banzai."
+
+REFERENCE           OKI3_STARTS_MORTARPITS
+LANG_ENGLISH        "Événement 2 - Mortiers"
+
+REFERENCE           OKI3_USE_MORTAR
+LANG_ENGLISH        "Maintenez &&1 pour ramasser et prendre l'arme en main"
+
+REFERENCE           OKI3_OBJ4_A
+LANG_ENGLISH        "Prenez le contrôle du tunnel."
+
+REFERENCE           OKI3_TAKE_COVER
+LANG_ENGLISH        "Mettez-vous à couvert."
+
+REFERENCE           OKI3_REGROUP_BY_WALL
+LANG_ENGLISH        "Retrouvez votre escouade."
+
+REFERENCE           OKI3_REGROUP
+LANG_ENGLISH        "Rejoignez la section."
+
+REFERENCE           OKI3_STARTS_AMBUSH
+LANG_ENGLISH        "Événement 1 - Embuscade"
+
+REFERENCE           OKI3_STARTS_COURTYARD
+LANG_ENGLISH        "Événement 4 - Court"
+
+REFERENCE           OKI3_OBJ9
+LANG_ENGLISH        "Demandez par radio un soutien aérien sur les bâtiments est."
+
+REFERENCE           OKI3_OBJ8
+LANG_ENGLISH        "Demandez par radio un soutien aérien sur les bâtiments nord."
+
+REFERENCE           OKI3_OBJ7
+LANG_ENGLISH        "Contrôlez la zone de parachutage dans la cour."
+
+REFERENCE           OKI3_STARTS_PLANTERS
+LANG_ENGLISH        "Événement 3 - Poseurs de bombe"
+
+REFERENCE           OKI3_AIRSTRIKE_HOWTO
+LANG_ENGLISH        "Appuyez sur [{+actionslot 4}], puis sur [{+attack}] pour demander une frappe aérienne."
+
+REFERENCE           OKI3_TAKE_AMMO
+LANG_ENGLISH        "Maintenez &&1 pour ramasser des munitions."
+
+REFERENCE           OKI3_OBJ6A
+LANG_ENGLISH        "Éliminez tous les ennemis de la zone."
+
+REFERENCE           OKI3_HINT_PRONE
+LANG_ENGLISH        "Appuyez sur [{gocrouch}] pour vous accroupir."
+
+REFERENCE           OKI3_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           OKI3_OBJ8_A
+LANG_ENGLISH        "Défendez la zone."
+
+REFERENCE           OKI3_MORTAR_HINT
+LANG_ENGLISH        "Appuyez sur [{+attack}] pour lancer le mortier"
+
+REFERENCE           OKI3_RADIO_INUSE
+LANG_ENGLISH        "La radio est déjà en service"
+
+ENDMARKER

@@ -1,0 +1,1498 @@
+// Dumped from fastfile "ru_afghanistan".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_022A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Надо убрать этого мудака!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_016A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Думаю, не стоит напоминать, что о нашем присутствии никто не должен узнать."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Что ты видел, Вудс?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Лев Кравченко."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_02_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Представление начинается, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_003A_KRAV_M
+LANG_RUSSIAN        "^1Кравченко: ^7Иди в жопу."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Здесь - можно.  Они поддерживали моджахедов так же, как и мы."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_092A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай, Мэйсон.  Залезай в седло!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_061A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Будь здесь."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Рахман, это Вудс. И Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Как раз направляемся в лагерь моджахедов."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_085A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Ты что, сбил этот вертолет из миномета?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_002A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Песок, песок, один гребаный песок."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_025A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Сваливаем отсюда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Думаешь, китайцам можно доверять?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_085A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Ты что, сбил этот долбаный вертолет из миномета?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_002A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Песок, песок, один дурацкий песок."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_033A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Чуть не задело!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_063A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Я прикрою нас с севера."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Связной Хадсона уже идет."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_016A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Сраный БТР уничтожит оружейный склад на базе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_008A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Они понимают, если в Афганистане победит Россия, Китай будет следующим."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_015A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Да!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7У противника БТР!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_008A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Хватай припасы у красных флагов!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Правый фланг!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_009A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Русских никто не любит, да?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7У них нет опыта обращения с нашим оружием."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_019A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Вперед, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7И бронетехника.  К этому ваши люди готовы?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_082A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вы должны защитить базу! Любой ценой!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_04_001A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ты ж меня знаешь. Я никого не люблю."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_012A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Кудя тебя понесло?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_011A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Точняк. Ну поехали."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_04_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Советую тебе не высовываться."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_046A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Отбейте склад боеприпасов."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_001A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Спокойно, Чжао. Оружие мы доставили."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Теперь, о твоих обязательствах."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_007A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Я отведу вас к лидеру моджахедов. Он поможет вам разыскать Рауля Менендеса."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_033A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Русские что, половину танков сюда прислали?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_009A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7У нас свежие лошади.  Вы поедете за нами."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_025A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Все хорошо... Тс-с..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_006A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Вперед! Уничтожить их!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_012A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Ты куда собрался?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_065A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Русские войска прорвались в долину.  Они приближаются к базе моджахедов."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_011A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Вот так.  Поехали."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_023A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Ты веришь в свой план, американец?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_016A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Зачем?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7А я-то и не в курсе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_004A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7На кой черт это тебе надо?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_026A_MUJ0_D
+LANG_RUSSIAN        "^1Моджахед: ^7Взять его!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_004A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7На кой это тебе надо?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_008A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Оружие даст им преимущество."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_016A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Этот БТР уничтожит оружейный склад на базе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_03_005A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Мало ли что..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_001A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Не отстаем от Чжао!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_008A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Надо спешить... Мы считаем, русские вот-вот начнут штурм лагеря."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_011A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Эй! Не отвлекайся от боя, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, поддай газку!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_003A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Русская бронетехника замечена к западу от базы."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_024A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Какого хера?! Твою мать, это Кравченко!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Так сойдет."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_013A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Черт, Мэйсон, а поживее коняга идти не может?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_013A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, а поживее лошадь идти не может?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_053A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7О, ты в него попал!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_030A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Предоставим их моджахедам. Нам надо сосредоточиться на технике!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_004A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Опять сраные цифры мерещатся?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_027A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Проход перекрыт.  Пора уходить."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_041A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Склад боеприпасов по левой стороне."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7А у нас есть. Наше место на линии фронта."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_004A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Дурацкий план.  Речь, между прочим, идет о русской армии.  Они возьмут вас грубой силой."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_1_05_014A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон.  Это Хадсон.  Вы встретились с Чжао?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_010A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Моджахеды одни не продержатся."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Если Россия узнает о нашем вмешательстве в Афганистане, будут серьезные последствия."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Об этом узнают, только если нас схватят."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_001A_REZN_D
+LANG_RUSSIAN        "^1Резнов: ^7Кравченко."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7А этому уж точно не бывать."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_022A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Вперед, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_029A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7А это сложнее, чем мы думали! Вертушки сбрасывают пехоту прямо у лагеря!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_089A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Блин, да у тебя лошадь вместо оружия, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_056A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7От него больше проблем не будет."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7По коням, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_083A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Скажи ему, пусть лучше готовит нам информацию о Менендесе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_044A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Вражеская пехота держит пещеру!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_008A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Если русские и правда планируют атаку, помощь вам явно не помешает."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_001A_REZN_D
+LANG_RUSSIAN        "^1Резнов: ^7Кравченко... должен умереть."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Вперед!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_011A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вы со мной?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_020A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Охеренно!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_003A_RAHM_D
+LANG_RUSSIAN        "^1Рахман: ^7Это я знаю. Наши люди защищают эти горы."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_022A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Нам нужна твоя помощь в соседнем проходе, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_082A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Мы всем жопы надерем, как всегда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мы наняли пару специалистов в качестве советников."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_021A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7У него даже в ЦРУ свои люди есть."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_098A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7(вздох)"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_015A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Избавься от вертолетов, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7А вот и они."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Я с ним разберусь! За мной!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_015A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Надо остановить БТР, пока он не дошел до базы."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_003A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мои лучшие люди."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_001A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7С этой стороны, Мэйсон... Взорвешь сейчас и сам окажешься в западне."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_02_004A_RAHM_D
+LANG_RUSSIAN        "^1Рахман: ^7Нам нужно оружие.  А не солдаты."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_094A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Брось, если бы это был он, тебе не кажется, что он бы на чуток задержался?  Хоть объяснил бы, что творится."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_016A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давайте-ка уточним. Мы отражаем атаку русских, вы сообщаете нам все, что знаете о Менендесе?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_023A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Моджахеды без нас не продержатся!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_053A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вы должны любой ценой его отбить!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_001A_RAHM_D
+LANG_RUSSIAN        "^1Рахмаан: ^7Наша база здесь."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_014A_MASO_M
+LANG_RUSSIAN        "^1Mason: ^7Ya shoulda moved, fucker!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_002A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7При любой атаке враг сможет попасть в долину только через узкие ущелья."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_01_004A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Говенный план.  Речь, между прочим, идет о русской армии.  Они возьмут вас грубой силой. У них будет численное преимущество..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_022A_RAHM_D
+LANG_RUSSIAN        "^1Рахмаан: ^7Русские приступили к штурму."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_061A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Мы очистили долину от этих гадов."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_024A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Это не просто вера, Чжао..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_043A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Спешиваемся. Пойдем пешком."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_025A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Приступим."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_009A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Я могу убить тебя быстро."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_033A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Чуть не задело!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_027A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Надо спешить.  Мы должны помешать им войти в долину."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_002A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7А может ты пойдешь к черту и не будешь мешать?  У меня с этой мразью незаконченный разговор."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Правда, Вудс.  Все путем."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_03_034A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_057A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Этому конец."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Хадсон. Ведем огонь по русской пехоте в западном проходе! Техники пока не видно."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_009A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Склады боеприпасов отмечены красными флагами!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Приближается русская пехота!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Через развалины пробирается БТР."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_008A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Идет русская техника!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_015A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Куба... Ангола... Страны третьего мира..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_008A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Уничтожь эту хрень, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_008A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Уничтожь ее, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_009A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Мы должны не пустить их в долину!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_048A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Нужно, чтобы ни одна сраная машина сюда больше не прошла."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_010A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Одной винтовки тут мало, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_011A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Хватай Стингер из оружейного склада!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_039A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Ты где, Мейсон?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_063A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Наверх!  Здание с красным флагом!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_036A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7На востоке замечены русские вертолеты."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Броня слишком толстая! Понадобится Стингер!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_010A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Пара мин, и этим машинам трындец!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_006A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Их надо остановить, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_010A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Пара мин, и этим машинам конец!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_091A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Не любишь ты вертушки, правда, Мэйсон?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ставь мины, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_013A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Постарайся установить их на пути техники."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_010A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Рассказывай о Менендесе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_085A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Продолжать бой!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_086A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Минометная группа уничтожена, Хадсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_087A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Хадсон, минометы уничтожены."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_05_001A_MUJ0_D
+LANG_RUSSIAN        "^1Моджахед: ^7ПОБЕДНЫЙ КРИК МОДЖАХЕДОВ"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_087A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Хадсон, минометы уничтожены."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_014A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Тебе лучше самому все увидеть."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_081A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Передай Рахману, что мне насрать на его озабоченность."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_099A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Черт, Мэйсон.  Да ты терминатор!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_018A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7БТРу крышка!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_020A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Круто!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_02_011A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Поехали!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_027A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вертолеты нейтрализованы."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_037A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Моджахеды доложили, что с севера идут вражеские танки."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_023A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Сюда едет еще один БТР!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_031A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Техника разбита.  Уходим."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_025A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Грубая сила и численное преимущество?  Ты ведь этого и ждал."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_024A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Твою мать! Еще БТР!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_024A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Быстрее, идем."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_022A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Ты храбрый воин, американец."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_024A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Еще один БТР на подходе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_007L_REZN_D
+LANG_RUSSIAN        "^1Резнов: ^7Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_017A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Теперь их двое!  Давай, Мэйсон!  Уничтожить их!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Твой отец клялся, что нас спас Виктор Резнов, но никто больше его не видел."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Резнов..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_058A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Они тут повсюду, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_017A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Теперь их двое!  Давай, Мэйсон!  Уничтожить их!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_027A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Но! Но!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_021A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Молодец, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_041A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Больше здесь делать нечего... Уходим."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_047A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7С пехотой моджахеды разберутся."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_048A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Нужно, чтобы ни одна сраная машина сюда больше не прошла."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Все еще движется!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_049A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, установи подрывной заряд в проходе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_050A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Заряд установлен!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_005A_RAHM_D
+LANG_RUSSIAN        "^1Рахмаан: ^7Нет. Это вы были и всегда будете нашим истинным врагом."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_018A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Совсем мимо!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_033A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ты себя подорвать захотел?!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_003A_KRAV_S
+LANG_RUSSIAN        "^1Кравченко: ^7Иди ты..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_035A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Отойди на безопасное расстояние."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_036A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ты слишком близко, Мэйсон.  Иди сюда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мы воевали с русскими на вашей стороне!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_004A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Нет!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_037A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон.  Подойди сюда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Сваливай быстрее!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Тебе не кажется что лучше оказаться по эту сторону долины?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_053A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Взрывай, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_054A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Неплохо."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_055A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хадсон.  Западный проход перекрыт.  Здесь техника точно не пройдет."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_056A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Очень вовремя."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_069A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Базу атакуют!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_057A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Разведка сообщает о вражеских вертолетах к северу от долины."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_030A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7С севера летит еще одна группа русских вертушек!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_065A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Серьезно, Мейсон?  Крупнее цели не бывает!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_031A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Разведка сообщает о русских вертолетах к западу от долины."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_032A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7С запада приближается группа вражеских вертолетов."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_034A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7С востока приближаются вражеские вертушки."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_056A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Русские прорываются в долину с востока."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_038A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7С севера к долине идут русские танки."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_042A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Видим еще одну танковую колонну русских на востоке."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_052A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Русские захватили склад боеприпасов моджахедов на востоке!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_059A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не подпускайте противника к базе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_020A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай, брат!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_089A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вперед в атаку."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_031A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7BTR rolled right through."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_090A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Уничтожить их."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_091A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Уничтожить их во что бы то ни стало."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_016A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Живучая машина!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_060A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Так точно, Хадсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_061A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Поехали! Но!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, РПГ! Взрывай мосты!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_077A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вражеские танки обстреливают базу!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_012A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вас понял, Хадсон.  Иду на перехват."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_038A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Иди сюда и взорви этот заряд."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_013A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Предоставьте это нам, Хадсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_014A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Сбить все вертолеты!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_012A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон.  Возвращайся на базу.  У нас проблема."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_016A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Сбивай этих русских!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_016A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Сбивай этих русских!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_017A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Вот разлетались!  Огонь, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_017A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Вот разлетались!  Огонь, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_027A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Иду на помощь моджахедам."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_008A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Мосты приводят их прямо сюда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_064A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, найди лошадь."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_019A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Хватит дергаться, мать твою!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_008A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Гребаные мосты приводят их прямо сюда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_019A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Хватит дергаться!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_063A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пешком идти долговато..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_020A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Сейчас прикончим мразь!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_020A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Сейчас прикончим!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_049A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Покажи им!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_083A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Ого, Мэйсон.  Кто бы знал, что ты такой кровожадный!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_021A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Твою ж мать!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_017A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Тебе нужна лошадь, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_028A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Я обеспечу защиту прохода."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ликвидировать УАЗы!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_083A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Ого, Мэйсон.  Кто бы знал, что ты такой кровожадный!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_021A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Да ты издеваешься!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_022A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ему конец!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_023A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Вот это, блин, попадание!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_023A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Отлично!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_024A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Сейчас рухнет!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_025A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хадсон.  Русские вертолеты сбиты."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_026A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хадсон.  Вертолеты сбиты."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_028A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, надо избавиться от танков!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_029A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Танки все еще идут, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Русский, который промыл мозги моему отцу?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_016A_MASO_M
+LANG_RUSSIAN        "^1Мэйсон: ^7Живучая машина!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_030A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Огонь по танкам!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_032A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Убрать их!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_033A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Русские, твою мать, половину своих танков сюда прислали!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_029A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Остальных предоставь моджахедам."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_064A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай еще!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_065A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Серьезно, Мейсон?  Крупнее цели не бывает!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_037A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Хватит херней маяться, Мэйсон!  Прикончи гада!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_037A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Хватит дурью маяться, Мэйсон!  Сбей его!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_033A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Тс-с!  Тс-с!  Тс-с!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_051A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Танк уничтожен!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_052A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Молодец, Мэйсон.  Танк ликвидирован."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_054A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Порвал его."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_054A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Порвал его."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_058A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Неплохо ты его, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_055A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Вот как надо взрывать гребаный танк."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Вражеская пехота на подходе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_055A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Вот как надо взрывать танк."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_018A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Менендес хочет увидеть мир в огне."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_006A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Не дать им отойти от реки!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_059A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Отлично."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс, может, допрос лучше мне провести?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_060A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Хадсон, танки уничтожены."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_061A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Танки уничтожены, Хадсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_062A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Хадсон.  Танки ликвидированы."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_063A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Танки уничтожены."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_042A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Здесь верхом невозможно проехать."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_017A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Видимо, с этим придется разбираться мне."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_045A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Уничтожить их!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_088A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Хадсон, склад боеприпасов наш."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_008A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Тебя закопают по шею, завернут тебе веки и бросят жариться в пустыне."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_065A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Моджахеды отступают!  Надо помешать русским захватить плацдарм."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_054A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Вы нужны нам на западе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_013A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Стреляй по сраному мосту из РПГ!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_055A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Отправляйтесь к северу от долины и помогите моджахедам!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_057A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Куда ни плюнь, везде русские."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_059A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Я разберусь с этой хренью на западе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_009A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Хватит фигней страдать, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_059A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Я разберусь с западом."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_001A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Не отставай, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_081A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вы нужны нам на базе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_061A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Будь здесь."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_063A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Пойду намылю пару задниц к северу от долины."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_070A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Оборона моджахедов слабеет, Мэйсон.  Эта база под угрозой."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_017A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Пора уходить."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_071A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мы можем потерять базу!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_072A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Моджахеды не смогут дальше удерживать базу."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_073A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Моджахеды не могут сдерживать атаку!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_013A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Уходи оттуда!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_074A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вертолеты обстреливают ракетами нашу линию обороны!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_081A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Передай Рахману, что мне насрать на его озабоченность."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_099A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Да ты терминатор, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_075A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Русские вертолеты прорвались. Они ведут ракетный огонь по базе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_029A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Справимся, Хадсон.  Смотри не упускай его из виду.  Он нам нужен!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_076A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7В нас стреляют вертолеты. Они прямо над базой!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_026A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Они на нашей стороне!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_078A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Танки противника прямо перед базой!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_008A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон!  Убрать их!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_012A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Твою ж мать!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_079A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Русские танки подошли к нам вплотную!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_080A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вы должны вернуться на базу и дать им отпор!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_087A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Они даже обосраться не успели, брат!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_087A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Они даже опомниться не успели, брат!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_01_001A_RAHM_D
+LANG_RUSSIAN        "^1Рахмаан: ^7Без воды и укрытия ты продержишься день... Если повезет."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_005A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Я их чувствовал. Но они уже исчезли."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_089A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Да у тебя лошадь вместо оружия, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_091A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Не любишь ты гребаные вертушки, правда, Мэйсон?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_093A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Может, хоть что-нибудь нам оставишь?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_094A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Не прицеливаясь?  Молодец, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_094A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Не прицеливаясь?  Молодец, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_096A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Решил побить все рекорды, Мэйсон?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_002A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Моджахедов прижали."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_097A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7А ты дотошный... это уж точно."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_062A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давным-давно я узнал о русских одну важную вещь..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_03_097A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7А ты дотошный... это уж точно."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_040A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ты нужен нам здесь."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_01_007A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Сюда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_002A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7За мной."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_026A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7На этом все.  Идем."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_032A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Стой на месте!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_028A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ну же, Мэйсон... Нас ждут дела поважнее."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7У моджахедов по всей долине есть склады боеприпасов."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_012A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7А-а-а!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_014A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7Ya shoulda moved!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_016A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Иди нахер!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_023A_MUJ0_D
+LANG_RUSSIAN        "^1Моджахед: ^7Руки вверх!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_016A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Подловил тебя!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_062A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Мэйсон. У моджахедов есть лошади по всей долине."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_025A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Смотри, куда стреляешь, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_026A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Твою мать, они на нашей стороне!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_002A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7А может ты пойдешь нахер?  У меня с этой мразью незаконченный разговор."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_013A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Еще раз, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_014A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Еще одно попадание, и ему конец!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_017A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай, Мэйсон! Прикончи их!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_084A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Пехота десантируется!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_024A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Я направляюсь к следующему проходу на помощь моджахедам."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_085A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Не дадим им приземлиться!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_086A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Огонь по вертушкам, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, займи высоту!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай на выступы.  Надо помочь моджахедам."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Порви их, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_006A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Не дать им отойти от реки!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Убрать их."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_009A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Что у тебя со взрывчаткой?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_001A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Какого хера?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_010A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хватит на то, чтобы половину долины снести."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_011A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Действуй."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_013A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Стреляй по мосту из РПГ!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_014A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Мост, Мэйсон!  Запусти в него гребаную ракету!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_021A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ладно... Пошли."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_014A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Мост, Мэйсон!  Запусти в него ракету!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_015A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Охрененно!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_096A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Отлично.  Русские распознали в вас американцев?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_093A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ха!  Ну вот!  Ты совсем как твой старик.  Нет, это был не он."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_097A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Э... Хадсон, что-то не так со связью."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_098A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Козел."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_080A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мулла Рахман озабочен.  Он думает, что мы проигрываем."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_082A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Мы победим, как и всегда."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_028A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон. Ты уверен, что вы справитесь?  Рахман хочет покинуть лагерь."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_012A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс.  Мэйсон.  Они бросили на нас все свои силы!  Враги по всей долине!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_025A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Сваливаем отсюда нахрен."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_026A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Я не этого хотел."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_05_027A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_014A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Куда идет это оружие?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_006A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ты."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_013A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Какая проблема?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_001A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Черт... Мэйсон, тебе стоит на это взглянуть."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_001A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон, тебе стоит на это взглянуть."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_010A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Это еще не конец."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_034A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7Yeah, Mason!  You smoked that BTR."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_003A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Ах ты двуличная мразь!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_002A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Русские хотят в последний раз показать грубую силу."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_2_04_071A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давайте!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_048A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Быстрее!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_018A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Идем."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_16_01_050A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Покончим с этим!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_019A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_021A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Подведи нас поближе к танку!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_022A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Надо убрать этого гада!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_018A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Найди другую лошадь!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_023A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Вот. Лови!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Кравченко!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_3_01_008A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7А-а-а!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_004A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7А-а-а!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_004A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Да. Мудак, который меня убил."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_020A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Он гораздо могущественнее, чем ты думаешь."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_004A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Да. Тот самый, который меня убил."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_025A_MUJ1_D
+LANG_RUSSIAN        "^1Моджахед: ^7Он сказал - руки вверх!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_08_005A_REZN_D
+LANG_RUSSIAN        "^1Резнов: ^7Кравченко... должен умереть."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_024A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Что за?..  Да это... Кравченко!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_025A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Кусок говна..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_025A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Вот кусок..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_002A_RAHM_D
+LANG_RUSSIAN        "^1Рахмаан: ^7Менендес сказал, ты должен страдать."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_026A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Конечно, он замешан!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_002A_REZN_D
+LANG_RUSSIAN        "^1Резнов: ^7Смерть ему."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_026A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Говенные воспоминания нахлынули... Ты в порядке, брат?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_026A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Плохие воспоминания нахлынули...  Ты как, брат?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7И что ты для него делаешь?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_4_09_004A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Опять цифры мерещатся?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_028A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пару раз, знаешь, я кое-что подмечал...  Был у него такой вид, когда он осматривал комнату.  И тут глазом не успеешь моргнуть как... ох, блин... Жду не дождусь, когда он заговорит по-русски..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_029A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Резнов... хитрюга  Виктор!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_04_094A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Come on, if you think it was him, don't you think he would have stuck around for a bit, huh?  Maybe explain some things?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_011A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Я продаю ему оружие."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_003A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Я бросил тебя подыхать во Вьетнаме, сержант Вудс.  Ты должен быть мертв."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Вертолет оторвался. Он направляется к базе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Моджахеды без нас оружейный склад не удержат."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_02_005A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Американцы не любят пачкать руки в Афганистане... Что вас сюда привело-то на самом деле?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_001A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мой друг Рахман сказал, ты ведешь дела с неким сальвадорцем по имени Рауль Менендес."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_13_02_027A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ты веришь в возмездие?.. А?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_005A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Ты даже не представляешь, что Менендес со мной сделает, если я заговорю."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_014A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Твою ж мать! К базе направляется БТР!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_006A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Думаешь, ты выйдешь отсюда живым?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Это территория моджахедов, детка."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Как-то не по-советски ты поступаешь, брат."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_013A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Советский Союз подыхает.  Теперь все решают деньги."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_028A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Но, пошла!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_019A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ну, этому не бывать."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_022A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Херня.  Он нам мозги трахает."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_021A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пора уходить. Идем."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_022A_HUDS_S
+LANG_RUSSIAN        "^1Хадсон: ^7Фигня.  Он нам мозги пудрит."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_03_024A_MUJ1_D
+LANG_RUSSIAN        "^1Моджахед: ^7Ни с места!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_001A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Какого черта ты вытворяешь?!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_5_04_003A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Ах ты двуличная тварь!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_005A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Фрэнк!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_6_02_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Если это был он, надолго он не задержался."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_014A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон! Ты не туда идешь!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_061A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Мы очистили долину от этих гадов."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_7_03_063A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Что бы ты с ними ни делал... Они все равно возвращаются."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_003A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Не отставай."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_004A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Догоняй, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Догоняй, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_006A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Держись ко мне ближе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_007A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Сюда, за мной."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_008A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Не отставай, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_010A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7А ну вернись! Этот бой еще не окончен."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_015A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Нам пора уходить!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_016A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Больше делать нечего. Уходим!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_020A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Идем, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_014A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7К базе направляется БТР!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_023A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пора уходить!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_030A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7С ними покончено.  Идем..."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_032A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Взрывай. Сделаем так, чтобы здесь техника больше не прошла."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_034A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Отойди, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_039A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Где тебя черти носят, Мэйсон?"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_02_042A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Задание выполнено.  Пора уходить, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_011A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ставь мину на пути машин!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_001A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Не отставай, Мэйсон... Следуй за нами."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7УАЗы ведут обстрел склада оружия!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_003A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Надо спешить! Склад атакуют!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Оружейный склад атакуют!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_006A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Надо помешать им захватить склад!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_019A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пешком не дойдешь. Давай верхом, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_009A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Моджахедам нужна помощь!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_001A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7That tank's making a move on the base!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_011A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Помоги моджахедам, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Не подпускать их к базе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_013A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Моджахеды терпят поражение.  Помоги им, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_008A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Уничтожь технику с помощью мин!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_018A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Я разберусь с БТР, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_009A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Устанавливай мины, Мэйсон!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_019A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Его надо остановить!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_020A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Моджахедам нужна наша помощь в следующем проходе!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_021A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Без нас они потеряют оборонительные позиции!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_025A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Я помогу моджахедам в следующем проходе."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_038A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7Get that Hind, Mason!  Gotta bring him down."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_026A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Я иду на защиту следующего прохода."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_029A_ZHAO_D
+LANG_RUSSIAN        "^1Чжао: ^7Я направляюсь к проходу!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_020A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7Get a horse!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_030A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7Mason, we lost a weapons cache."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_032A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Оружейный склад на базе уничтожен, Мэйсон."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_033A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Надо было остановить этот БТР."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_035A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7That BTR picked the wrong people to mess with today."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_036A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пора возвращаться к Чжао... Надеюсь, он еще живой."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_03_037A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Чжао нужна наша помощь, Мэйсон.  По коням."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Уничтожить их, пока они не добрались до базы!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_007A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Пара мин, и этим машинам трындец!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_007A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Пара мин, и этим машинам конец!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_010A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Постарайся установить их на пути техники."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_022A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Спокойно... Вот так."
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_023A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ого!!!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_024A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Спокойно!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_026A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Быстрее!  Давай!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_029A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Покажи на что способен!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_030A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давай гони! Давай!"
+
+REFERENCE           AFGHANISTAN_VOX_VOX_AFG_9_04_031A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ого!"
+
+ENDMARKER

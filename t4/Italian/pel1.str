@@ -1,0 +1,61 @@
+// Dumped from fastfile "pel1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1_OBJECTIVE2A
+LANG_ENGLISH        "Forza le difese giapponesi."
+
+REFERENCE           PEL1_INTROSCREEN_PLACE
+LANG_ENGLISH        "White Beach, Peleliu"
+
+REFERENCE           PEL1_OBJECTIVE1
+LANG_ENGLISH        "Assalto alla spiaggia."
+
+REFERENCE           PEL1_INTROSCREEN_DATE
+LANG_ENGLISH        "15 settembre 1944"
+
+REFERENCE           PEL1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Scarsa resistenza'"
+
+REFERENCE           PEL1_INTROSCREEN_INFO
+LANG_ENGLISH        "1a divisione marine"
+
+REFERENCE           PEL1_OBJECTIVE2B
+LANG_ENGLISH        "Apriti un varco nel bunker giapponese."
+
+REFERENCE           PEL1_OBJECTIVE1A
+LANG_ENGLISH        "Richiedi i razzi d'assalto sulle difese giapponesi negli alberi."
+
+REFERENCE           PEL1_OBJECTIVE2C
+LANG_ENGLISH        "Libera il bunker giapponese."
+
+REFERENCE           PEL1_OBJECTIVE2D
+LANG_ENGLISH        "Raggiungi la tua squadra."
+
+REFERENCE           PEL1_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           PEL1_ROCKETS_AVAIL
+LANG_ENGLISH        "I razzi d'assalto sono disponibili."
+
+REFERENCE           PEL1_ROCKETS_ALWAYS_AVAIL
+LANG_ENGLISH        "Ora i razzi d'assalto possono essere usati a volontà contro le postazioni nemiche."
+
+REFERENCE           PEL1_ROCKET_HOWTO
+LANG_ENGLISH        "Premi [{+actionslot 4}] e poi [{+attack}] per richiedere\ni razzi contro le difese giapponesi."
+
+REFERENCE           PEL1_OBJECTIVE2E
+LANG_ENGLISH        "Elimina le truppe giapponesi vicino al mortaio."
+
+REFERENCE           PEL1_OBJECTIVE2F
+LANG_ENGLISH        "Richiedi i razzi d'assalto sui carri giapponesi. (2 di 2)"
+
+REFERENCE           PEL1_OBJECTIVE2G
+LANG_ENGLISH        "Richiedi i razzi d'assalto sui carri giapponesi. (1 di 2)"
+
+REFERENCE           PEL1_OBJECTIVE2H
+LANG_ENGLISH        "Richiedi i razzi d'assalto sui carri giapponesi."
+
+ENDMARKER

@@ -1,0 +1,109 @@
+// Dumped from fastfile "oki3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI3_OBJ4
+LANG_ENGLISH        "Zdob¹dŸ amunicjê ze zrzutu zaopatrzenia."
+
+REFERENCE           OKI3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Punkt prze³amania'"
+
+REFERENCE           OKI3_STARTS_PLANTERS_END
+LANG_ENGLISH        "WYDARZENIE 4 - Koniec walki osadników"
+
+REFERENCE           OKI3_INTROSCREEN_DATE
+LANG_ENGLISH        "29 maja 1945"
+
+REFERENCE           OKI3_OBJ2_3
+LANG_ENGLISH        "Wyeliminuj obsady moŸdzierzy - pozosta³y 3."
+
+REFERENCE           OKI3_INTROSCREEN_INFO
+LANG_ENGLISH        "1. Dywizja Marines"
+
+REFERENCE           OKI3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Zamek Shuri, Okinawa"
+
+REFERENCE           OKI3_OBJ1
+LANG_ENGLISH        "Zaatakuj zamek Shuri."
+
+REFERENCE           OKI3_OBJ2_4
+LANG_ENGLISH        "Wyeliminuj obsady moŸdzierzy - pozosta³y 4."
+
+REFERENCE           OKI3_OBJ2_2
+LANG_ENGLISH        "Wyeliminuj obsady moŸdzierzy - pozosta³y 2."
+
+REFERENCE           OKI3_OBJ2_1
+LANG_ENGLISH        "Wyeliminuj obsady moŸdzierzy - pozosta³a 1."
+
+REFERENCE           OKI3_OBJ2
+LANG_ENGLISH        "Wyeliminuj obsady moŸdzierzy."
+
+REFERENCE           OKI3_OBJ5
+LANG_ENGLISH        "Utrzymaj obszar."
+
+REFERENCE           OKI3_OBJ6
+LANG_ENGLISH        "Broñ siê przed atakiem Banzai."
+
+REFERENCE           OKI3_STARTS_MORTARPITS
+LANG_ENGLISH        "Wydarzenie 2 - Gniazda moŸdzierzy"
+
+REFERENCE           OKI3_USE_MORTAR
+LANG_ENGLISH        "Przytrzymaj &&1, aby podnieœæ i przygotowaæ pocisk"
+
+REFERENCE           OKI3_OBJ4_A
+LANG_ENGLISH        "WejdŸ do tunelu i oczyœæ go."
+
+REFERENCE           OKI3_TAKE_COVER
+LANG_ENGLISH        "Ukryj siê."
+
+REFERENCE           OKI3_REGROUP_BY_WALL
+LANG_ENGLISH        "Spotkaj siê z oddzia³em."
+
+REFERENCE           OKI3_REGROUP
+LANG_ENGLISH        "Spotkaj siê z oddzia³em."
+
+REFERENCE           OKI3_STARTS_AMBUSH
+LANG_ENGLISH        "Wydarzenie 1 - Zasadzka"
+
+REFERENCE           OKI3_STARTS_COURTYARD
+LANG_ENGLISH        "Wydarzenie 4 - Dziedziniec"
+
+REFERENCE           OKI3_OBJ9
+LANG_ENGLISH        "U¿yj radia, by wezwaæ wsparcie powietrzne, jako cel wskazuj¹c wschodni budynek."
+
+REFERENCE           OKI3_OBJ8
+LANG_ENGLISH        "U¿yj radia, by wezwaæ wsparcie powietrzne, jako cel wskazuj¹c pó³nocny budynek."
+
+REFERENCE           OKI3_OBJ7
+LANG_ENGLISH        "Zabezpiecz zrzut na dziedziñcu."
+
+REFERENCE           OKI3_STARTS_PLANTERS
+LANG_ENGLISH        "Wydarzenie 3 - Osadnicy"
+
+REFERENCE           OKI3_AIRSTRIKE_HOWTO
+LANG_ENGLISH        "Naciœnij [{+actionslot 4}], a nastêpnie [{+attack}], aby wezwaæ atak z powietrza"
+
+REFERENCE           OKI3_TAKE_AMMO
+LANG_ENGLISH        "Przytrzymaj &&1, aby zabraæ amunicjê"
+
+REFERENCE           OKI3_OBJ6A
+LANG_ENGLISH        "Wyeliminuj wszystkich nieprzyjació³ w okolicy."
+
+REFERENCE           OKI3_HINT_PRONE
+LANG_ENGLISH        "Naciœnij [{gocrouch}], aby kucn¹æ"
+
+REFERENCE           OKI3_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Miller"
+
+REFERENCE           OKI3_OBJ8_A
+LANG_ENGLISH        "Broñ obszaru."
+
+REFERENCE           OKI3_MORTAR_HINT
+LANG_ENGLISH        "Naciœnij [{+attack}], aby rzuciæ pociskiem"
+
+REFERENCE           OKI3_RADIO_INUSE
+LANG_ENGLISH        "Radio jest ju¿ w u¿yciu."
+
+ENDMARKER

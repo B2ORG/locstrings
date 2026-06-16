@@ -1,0 +1,58 @@
+// Dumped from fastfile "oki2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Stanali e bruciali'"
+
+REFERENCE           OKI2_OBJ_1
+LANG_ENGLISH        "Assalto al rilievo di Wana"
+
+REFERENCE           OKI2_INTROSCREEN_WHO
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           OKI2_INTROSCREEN_DATE
+LANG_ENGLISH        "14 maggio 1945"
+
+REFERENCE           OKI2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Rilievo di Wana, Okinawa"
+
+REFERENCE           OKI2_OBJ_2_4
+LANG_ENGLISH        "Elimina i cannoni 200 mm (ancora 4)"
+
+REFERENCE           OKI2_INTROSCREEN_WHAT
+LANG_ENGLISH        "1a divisione marine"
+
+REFERENCE           OKI2_OBJ_2
+LANG_ENGLISH        "Elimina i cannoni 200 mm"
+
+REFERENCE           OKI2_OBJ_2_2
+LANG_ENGLISH        "Elimina i cannoni 200 mm (ancora 2)"
+
+REFERENCE           OKI2_OBJ_2_3
+LANG_ENGLISH        "Elimina i cannoni 200 mm (ancora 3)"
+
+REFERENCE           OKI2_OBJ_2_1
+LANG_ENGLISH        "Elimina i cannoni 200 mm (ancora 1)"
+
+REFERENCE           OKI2_DESTROY_GUN
+LANG_ENGLISH        "Tieni premuto [{+activate}] per piazzare la carica."
+
+REFERENCE           OKI2_OBJ_4
+LANG_ENGLISH        "Trova l'entrata del bunker"
+
+REFERENCE           OKI2_OBJ_5
+LANG_ENGLISH        "Libera il bunker"
+
+REFERENCE           OKI2_OBJ_3
+LANG_ENGLISH        "Rendezvous con il sergente"
+
+REFERENCE           OKI2_SATCHEL_HINT1
+LANG_ENGLISH        "Premi [{+actionslot 3}] per selezionare la carica satchel."
+
+REFERENCE           OKI2_SATCHEL_HINT2
+LANG_ENGLISH        "Premi [{+toggleads_throw}] per lanciare la carica satchel. Premi [{+attack}] per farla esplodere."
+
+ENDMARKER

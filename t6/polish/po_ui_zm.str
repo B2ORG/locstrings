@@ -1,0 +1,925 @@
+// Dumped from fastfile "po_ui_zm".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED_DESC
+LANG_POLISH         "Mnożnik szybkości, z jaką gracz przechodzi nad obiektami."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_CAPS
+LANG_POLISH         "EDYCJA WYPOSAŻENIA KLASY"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT
+LANG_POLISH         "Pobrano tryb niestandardowy"
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_DESC
+LANG_POLISH         "Ustaw szybkostrzelność broni gracza."
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED
+LANG_POLISH         "SZYB. PCHNIĘĆ NOŻEM"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_PRO
+LANG_POLISH         "ATUTY PRO"
+
+REFERENCE           CUSTOM_FAST
+LANG_POLISH         "SZYBKI"
+
+REFERENCE           CUSTOM_BOMB_TIMER
+LANG_POLISH         "ZEGAR BOMBY"
+
+REFERENCE           CUSTOM_PERK_ROF_DESC
+LANG_POLISH         "Mnożnik szybkości, z jaką strzela broń gracza."
+
+REFERENCE           CUSTOM_OPT_HARDCORE_DESC
+LANG_POLISH         "Przełącza tryb Hardcore. Hardcore: ograniczony HUD, broń bardziej zabójcza, włączony ostrzał sojuszniczy."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_8
+LANG_POLISH         "8 SEKUND"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT PEWNA RĘKA"
+
+REFERENCE           CUSTOM_PERK_KNIFE_WORK_DESC
+LANG_POLISH         "Ustaw mnożnik szybkości pchnięcia nożem."
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME_DESC
+LANG_POLISH         "Mnożnik szybkości przeładowania broni przez gracza."
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT PEWNA RĘKA PRO"
+
+REFERENCE           CUSTOM_CLASS_INCORRECT
+LANG_POLISH         "Musisz mieć przynajmniej jedną klasę Operacji i jedną Komunistów"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME
+LANG_POLISH         "CZAS PRZEŁADOWANIA"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY_DESC
+LANG_POLISH         "Gracze będą czekać na odrodzenie w kolejnej fali. Jeśli ustawiono również opóźnienie odradzania, gracz musi czekać do następnej fali."
+
+REFERENCE           CUSTOM_PERK_SCOUT_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT ZWIADOWCA"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT ZWINNE RĘCE PRO"
+
+REFERENCE           CUSTOM_PERK_ROF
+LANG_POLISH         "SZYBKOST."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_DESC
+LANG_POLISH         "Zmień opcje życia i zdrowia gracza."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT PODWÓJNY STRZAŁ"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DESC
+LANG_POLISH         "Włączaj i wyłączaj atuty oraz modyfikuj je."
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES
+LANG_POLISH         "WŁASNE KLASY"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_6_CAPS
+LANG_POLISH         "6 FLAG"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED_DESC
+LANG_POLISH         "Mnożnik prędkości poruszania się gracza."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_POLISH         "Wrogowie zawsze widoczni na radarze."
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT ZWINNE RĘCE"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT
+LANG_POLISH         "MNOŻNIK SPRINTU"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER
+LANG_POLISH         "RC-XD ZEGAR AUTODESTRUKCJI"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_85
+LANG_POLISH         "0,85 SEKUNDY"
+
+REFERENCE           CUSTOM_PERK_SCOUT_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT ZWIADOWCA PRO"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME
+LANG_POLISH         "DODATKOWY CZAS"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED
+LANG_POLISH         "MNOŻNIK PRĘD. RUCHU"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_POLISH         "RADAR ZAWSZE WŁ."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_15
+LANG_POLISH         "15 SEKUND"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME_DESC
+LANG_POLISH         "Sekundy dodawane do podstawowego czasu, w którym gracz może wstrzymać oddech."
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DISABLED_DESC
+LANG_POLISH         "Twórz własne klasy do swojego trybu. Możesz wybrać edytor klas, gdy ustawiona jest opcja \"Własne klasy\"."
+
+REFERENCE           CUSTOM_OPT_KILLCAM
+LANG_POLISH         "DOPUŚĆ KILLCAM"
+
+REFERENCE           CUSTOM_FILESHARE_CGM_HIGHLIGHTED
+LANG_POLISH         "Wybierz ten tryb, aby rozegrać go ze wszystkimi niestandardowymi ustawieniami."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION_DESC
+LANG_POLISH         "Liczba zabitych potrzebna do zmniejszenia każdej serii ofiar."
+
+REFERENCE           CUSTOM_FILESHARE_CANT_SELECT
+LANG_POLISH         "Można wybrać wyłącznie zapisane własne tryby gry."
+
+REFERENCE           CUSTOM_FILESHARE_UPLOAD
+LANG_POLISH         "Ukończono zapis w plikach udostępnianych"
+
+REFERENCE           CUSTOM_CUSTOMIZED_CAPS
+LANG_POLISH         "ZMODYFIKOWANY"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING
+LANG_POLISH         "USZKODZENIA PANCERZA"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DESC
+LANG_POLISH         "Ilość czasu dodanego do bieżącego czasu, gdy obiekt zostanie zniszczony. Dogrywka jest wyłączona, gdy ustawiony jest czas nieograniczony."
+
+REFERENCE           CUSTOM_PERK_MARATHON_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT MARATOŃCZYK"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT_DESC
+LANG_POLISH         "Mnożnik sekund, podczas których gracz może poruszać się sprintem."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION
+LANG_POLISH         "OBRAŻENIA OD OGNIA"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME
+LANG_POLISH         "CZAS WYKRWAWIANIA SIĘ"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT DRUGA SZANSA"
+
+REFERENCE           CUSTOM_SAVE_CHANGES
+LANG_POLISH         "ZAPISZ W PLIKACH"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT DRUGA SZANSA PRO"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_POLISH         "Zmień ilość czasu przed rozpoczęciem gry."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION_DESC
+LANG_POLISH         "Procent obrażeń od ognia powodowanych u gracza."
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME_DESC
+LANG_POLISH         "Ilość sekund, podczas których gracz się wykrwawia przed odrodzeniem."
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME
+LANG_POLISH         "CZAS REANIMACJI"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT WAGA LEKKA"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT WAGA LEKKA PRO"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME_DESC
+LANG_POLISH         "Sekundy potrzebne na reanimację powalonego gracza."
+
+REFERENCE           CUSTOM_VALUE_FLAGS_3_CAPS
+LANG_POLISH         "3 FLAGI"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD
+LANG_POLISH         "ROZRZUT BRONI"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD_DESC
+LANG_POLISH         "Procent oryginalnego rozrzutu broni (mniejszy procent, mniejszy rozrzut)."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION
+LANG_POLISH         "REDUKCJA SERII OFIAR"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ PRZECIWODŁAMKOWY PRO"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT CZUJNOŚĆ"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT DOŚWIADCZONY"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT DOŚWIADCZONY PRO"
+
+REFERENCE           CUSTOM_OPT_HEADSHOT_ONLY_DESC
+LANG_POLISH         "Przy włączonym ustawieniu, obrażenia powodowane z broni palnej są zadawane wyłącznie za sprawą strzałów w głowę. Obrażenia powodowane przez noże, serie ofiar oraz eksplozje funkcjonują normalnie."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED_DESC
+LANG_POLISH         "Mnożnik szybkości ADS."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT WOJAK PRO"
+
+REFERENCE           CUSTOM_ENABLE_PERKS_CAPS
+LANG_POLISH         "DOPUŚĆ ATUTY"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION
+LANG_POLISH         "PRZEBIJALNOŚĆ POCISKU"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION_DESC
+LANG_POLISH         "Mnożnik głębokości, na jaką pocisk wejdzie w powierzchnię."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED
+LANG_POLISH         "DODAJE SZYBKOŚCI"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED
+LANG_POLISH         "SZYBKOŚĆ ZMIANY BRONI"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING_DESC
+LANG_POLISH         "Dodatkowe zniszczenia (procent) w walce przeciwko samolotom i wieżyczkom."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_35
+LANG_POLISH         "35 SEKUND"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_DESC
+LANG_POLISH         "Ustaw mnożnik szybkości ADS."
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT_DESC
+LANG_POLISH         "Skonfiguruj atuty pro związane z tym slotem."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_TITLE
+LANG_POLISH         "MODYFIKUJ PRZECIWODŁAMKOWY"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION
+LANG_POLISH         "OBRAŻ. OD WYBUCHÓW"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION_DESC
+LANG_POLISH         "Procent obrażeń od wybuchów powodowanych u gracza."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT WOJAK"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT SZYBKA ZMIANA"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_DESC
+LANG_POLISH         "Zmień mnożniki szybkości zmiany broni."
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED_DESC
+LANG_POLISH         "Mnożnik szybkości zmiany broni."
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED
+LANG_POLISH         "SZYBKOŚĆ PRZECHODZENIA"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED_DESC
+LANG_POLISH         "Mnożnik szybkości, z jaką gracz wykonuje pchnięcia nożem."
+
+REFERENCE           CUSTOM_PERK_HACKER_PRO_TITLE
+LANG_POLISH         "MODYFIKUJ ATUT HAKER PRO"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED
+LANG_POLISH         "SZYBKOŚĆ INTERAKCJI"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED_DESC
+LANG_POLISH         "Mnożnik czasu trwania interakcji gracza."
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED
+LANG_POLISH         "SZYBKOŚĆ REGENERACJI ZDROWIA"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_35
+LANG_POLISH         "1,35 SEKUNDY"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED_DESC
+LANG_POLISH         "Mnożnik szybkości, z jaką gracz odzyskuje zdrowie."
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED_DESC
+LANG_POLISH         "Prędkość poruszania się klasy"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION
+LANG_POLISH         "REDUKCJA ODRZUTU"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED
+LANG_POLISH         "SZYBKOŚĆ RUCHU"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION_DESC
+LANG_POLISH         "Procentowe zmniejszenie odrzutu wynikającego z postrzału."
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION
+LANG_POLISH         "ZMNIEJSZENIE WSTRZĄSU"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION_DESC
+LANG_POLISH         "Procent aplikowanego wstrząsu."
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE
+LANG_POLISH         "OBRAŻENIA OD UPADKU"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE_DESC
+LANG_POLISH         "Z jakiej wysokości może spaść gracz, by nie odnieść obrażeń."
+
+REFERENCE           CUSTOM_PERK_SLOT_HINT
+LANG_POLISH         "Twoje zmiany będą miały wpływ na wszystkie atuty w twojej grze."
+
+REFERENCE           CUSTOM_PERK_SLOT_DESC
+LANG_POLISH         "Dostosuj atuty, które są związane z tym slotem."
+
+REFERENCE           CUSTOM_PERK_NO_EDIT_DESC
+LANG_POLISH         "Brak wartości dostępnych do edycji w tym atucie."
+
+REFERENCE           CUSTOM_DAMAGE_DESC
+LANG_POLISH         "Modyfikuje obrażenia zadawane przez klasę bronią palną oraz bronią niepowodującą wybuchów."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_15
+LANG_POLISH         "0,15 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_35
+LANG_POLISH         "0,35 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_5
+LANG_POLISH         "0,5 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_65
+LANG_POLISH         "0,65 SEKUNDY"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS
+LANG_POLISH         "PREMIA PRZYWÓDCY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1
+LANG_POLISH         "1 SEKUNDA"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_15
+LANG_POLISH         "1,15 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_65
+LANG_POLISH         "1,65 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_85
+LANG_POLISH         "1,85 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2
+LANG_POLISH         "2 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3
+LANG_POLISH         "3 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_4
+LANG_POLISH         "4 SEKUNDY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_5
+LANG_POLISH         "5 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_6
+LANG_POLISH         "6 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_7
+LANG_POLISH         "7 SEKUND"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DISABLED_DESC
+LANG_POLISH         "Wymuszenie odrodzenia jest zawsze włączone, gdy ustawiono opóźnienie fal odradzania. "
+
+REFERENCE           CUSTOM_VALUE_SECONDS_9
+LANG_POLISH         "9 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_10
+LANG_POLISH         "10 SEKUND"
+
+REFERENCE           CUSTOM_NUM_KILLS_THIS_KILLSTREAK_DESC
+LANG_POLISH         "Serię ofiar ustawiono na tę liczbę likwidacji"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_20
+LANG_POLISH         "20 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_25
+LANG_POLISH         "25 SEKUND"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE
+LANG_POLISH         "PUNKTACJA SAMOBÓJSTWA"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_30
+LANG_POLISH         "30 SEKUND"
+
+REFERENCE           CUSTOM_OPT_HARDCORE
+LANG_POLISH         "TRYB HARDCORE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_40
+LANG_POLISH         "40 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_45
+LANG_POLISH         "45 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_50
+LANG_POLISH         "50 SEKUND"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY
+LANG_POLISH         "OPÓŹNIENIE FAL ODRADZANIA"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_55
+LANG_POLISH         "55 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_60
+LANG_POLISH         "60 SEKUND"
+
+REFERENCE           CUSTOM_VALUE_KILLS_1
+LANG_POLISH         "1 ZABITY"
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS_DESC
+LANG_POLISH         "Premia punktowa za strzał w głowę."
+
+REFERENCE           CUSTOM_ROUND_LIMIT_DESC
+LANG_POLISH         "Liczba rund do rozegrania przed zakończeniem gry."
+
+REFERENCE           CUSTOM_VALUE_KILLS_2
+LANG_POLISH         "2 ZABITYCH"
+
+REFERENCE           CUSTOM_VALUE_KILLS_3
+LANG_POLISH         "3 ZABITYCH"
+
+REFERENCE           CUSTOM_VALUE_100_PER_DEFAULT
+LANG_POLISH         "100% (DOMYŚLNIE)"
+
+REFERENCE           CUSTOM_REVERT_TO_DEFAULT
+LANG_POLISH         "DOMYŚLNE"
+
+REFERENCE           CUSTOM_GAME_TIME_LIMIT_DESC
+LANG_POLISH         "Ilość minut do zakończenia rundy."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME_DESC
+LANG_POLISH         "Czas życia Sztabu."
+
+REFERENCE           CUSTOM_GAME_SCORE_LIMIT_DESC
+LANG_POLISH         "Liczba punktów do zdobycia przed zakończeniem rundy."
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_CAPS
+LANG_POLISH         "OPCJE TRYBU GRY"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_CAPS
+LANG_POLISH         "OPCJE OGÓLNE"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_CAPS
+LANG_POLISH         "EDYTOR KLAS"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR
+LANG_POLISH         "EDYTOR SERII OFIAR"
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_POLISH         "TYLKO ST. W GŁOWĘ"
+
+REFERENCE           CUSTOM_PERK_EDITOR_CAPS
+LANG_POLISH         "EDYTOR ATUTÓW"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CAPS
+LANG_POLISH         "COFNIJ ZMIANY"
+
+REFERENCE           CUSTOM_SAVE_DESC
+LANG_POLISH         "Chcesz zapisać zmiany w trybie gry?"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DISABLED_DESC
+LANG_POLISH         "Nie możesz ustawić dogrywki, gdy limit czasu jest nieograniczony."
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_3
+LANG_POLISH         "3 RUNDY"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_5
+LANG_POLISH         "5 RUND"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_7
+LANG_POLISH         "7 RUND"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_9
+LANG_POLISH         "9 RUND"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DESC
+LANG_POLISH         "Stwórz własne klasy do twojego trybu."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_CAPS
+LANG_POLISH         "LIMIT PRZEJĘĆ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_1_CAPS
+LANG_POLISH         "1 FLAGA"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_2_CAPS
+LANG_POLISH         "2 FLAGI"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_4_CAPS
+LANG_POLISH         "4 FLAGI"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_8_CAPS
+LANG_POLISH         "8 FLAG"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_10_CAPS
+LANG_POLISH         "10 FLAG"
+
+REFERENCE           CUSTOM_OPT_KILLCAM_DESC
+LANG_POLISH         "Wyłącz/włącz killcam."
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT
+LANG_POLISH         "DOPUŚĆ SPRINT"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT_DESC
+LANG_POLISH         "Wyłącz/włącz możliwość sprintu graczy."
+
+REFERENCE           CUSTOM_OPT_SPECTATE
+LANG_POLISH         "OBSERWACJA"
+
+REFERENCE           CUSTOM_OPT_SPECTATE_DESC
+LANG_POLISH         "Określ, jak gracze mają się oglądać, gdy nie mogą się już odradzać."
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS
+LANG_POLISH         "OPCJE ODRODZANIA"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS_DESC
+LANG_POLISH         "Zmień opcje odradzania dla danego trybu gry."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS
+LANG_POLISH         "OPCJE ŻYCIA I ZDROWIA"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES_DESC
+LANG_POLISH         "Liczba żyć, po wyczerpaniu których gracz nie będzie mógł się odradzać."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_CAPS
+LANG_POLISH         "OPCJE ŻYCIA I ZDROWIA"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS
+LANG_POLISH         "OPCJE DRUŻYNY"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_CUSTOM_DESC
+LANG_POLISH         "Tempo regeneracji zdrowia rannego gracza."
+
+REFERENCE           CUSTOM_TEAM_OPTIONS_DESC
+LANG_POLISH         "Zmień opcje drużyny dla tego typu gry."
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS
+LANG_POLISH         "OPCJE OBSERWACJI"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS_DESC
+LANG_POLISH         "Dostosuj opcje obserwacji dla tego trybu gry."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY
+LANG_POLISH         "OPÓŹNIENIE ODRADZANIA"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_DESC
+LANG_POLISH         "Wybierz własny tryb gry zapisany w udostępnianych plikach."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY_DESC
+LANG_POLISH         "Ustaw czas oczekiwania gracza na odrodzenie."
+
+REFERENCE           CUSTOM_RULES_FORCE_RESPAWN
+LANG_POLISH         "WYMUSZENIE ODRADZANIA"
+
+REFERENCE           CUSTOM_REDUCED
+LANG_POLISH         "ZREDUKOWANE"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DESC
+LANG_POLISH         "Gdy włączona, gracz automatycznie odrodzi się po śmierci (nie będzie musiał aktywować odrodzenia). Zawsze włączona, gdy ustawiono opóźnienie fal odradzania."
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES
+LANG_POLISH         "LICZBA ŻYĆ"
+
+REFERENCE           CUSTOM_MAX_HEALTH
+LANG_POLISH         "MAKS. ZDROWIE"
+
+REFERENCE           CUSTOM_ROUND_SWITCH
+LANG_POLISH         "PRZEŁĄCZNIK RUNDY"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DESC
+LANG_POLISH         "Stan zdrowia każdego gracza. Włączenie klas własnych spowoduje wyłączenie tego ustawienia."
+
+REFERENCE           CUSTOM_HEALTH_REGEN
+LANG_POLISH         "REGENERACJA ZDROWIA"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DISABLED_DESC
+LANG_POLISH         "Nie można ustawić maksymalnego poziomu zdrowia, gdy są wykorzystywane klasy własne."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DESC
+LANG_POLISH         "Szybkość odzyskiwania zdrowia przez rannego gracza. Włączenie klas własnych spowoduje wyłączenie tego ustawienia."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DISABLED_DESC
+LANG_POLISH         "Nie można ustawić globalnej regeneracji poziomu zdrowia, gdy są wykorzystywane klasy własne."
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE
+LANG_POLISH         "OSTRZAŁ SOJUSZNICZY"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE_DESC
+LANG_POLISH         "Opcja określająca, czy twoi partnerzy mogą zadawać obrażenia członkom własnej drużyny. Jeśli jest włączona i ustawiono liczbę \"żyć\", zgony spowodowane przez twoją własną drużynę nie będą powodować odjęcia żadnych \"żyć\"."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_CAPS
+LANG_POLISH         "LIMIT ZWYCIĘSTW RUNDOWYCH"
+
+REFERENCE           CUSTOM_CTF_IDLE_FLAG_RETURN_TIME_DESC
+LANG_POLISH         "Czas w sek., w którym flaga leży, zanim powróci do bazy. Jeśli ustawiono Bez ograniczeń, to Powrót po dotknięciu będzie stale dostępny."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_5
+LANG_POLISH         "1,5 SEKUNDY"
+
+REFERENCE           CUSTOM_NUM_KILLS_IN_USE_DESC
+LANG_POLISH         "Kolejna seria ofiar wykorzystuję tę liczbę zabić."
+
+REFERENCE           CUSTOM_CTF_ENEMY_CARRIER_VISIBLE_DESC
+LANG_POLISH         "Określa, czy zdradzać pozycje wrogów podczas niesienia flagi. Ustaw na opóźnienie, by uaktualniać pozycje przeciwników raz na jakiś czas."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DESC
+LANG_POLISH         "Po włączeniu tej opcji upuszczona flaga wraca do bazy, jeśli zostanie dotknięta przez drużynę właścicieli."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DISABLED_DESC
+LANG_POLISH         "Powrót po dotknięciu jest zawsze dostępny w nielimitowanym czasie powrotu flagi."
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS
+LANG_POLISH         "PREMIA ZA STRZAŁ W GŁOWĘ"
+
+REFERENCE           CUSTOM_ROUND_LIMIT
+LANG_POLISH         "LIMIT RUND"
+
+REFERENCE           CUSTOM_ROUND_SWITCH_DESC
+LANG_POLISH         "Liczba rund do rozegrania, zanim drużyny zmienią strony."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_DESC
+LANG_POLISH         "Ilość flag, które musi zdobyć drużyna, zanim skończy się runda."
+
+REFERENCE           CUSTOM_BOMB_TIMER_DESC
+LANG_POLISH         "Czas do wybuchu bomby."
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME
+LANG_POLISH         "CZAS PODŁOŻENIA"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME_DESC
+LANG_POLISH         "Czas podkładania bomby."
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME
+LANG_POLISH         "CZAS ROZBROJENIA"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME_DESC
+LANG_POLISH         "Czas rozbrajania bomby po jej podłożeniu."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME
+LANG_POLISH         "CZAS ISTNIENIA SZTABU"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY
+LANG_POLISH         "OPÓŹN. AKTYWACJI SZTABU"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY_DESC
+LANG_POLISH         "Czas oczekiwania na wybór nowego Sztabu."
+
+REFERENCE           CUSTOM_CLASSIC_HQ
+LANG_POLISH         "ZWYKŁY TRYB SZTAB"
+
+REFERENCE           CUSTOM_CLASSIC_HQ_DESC
+LANG_POLISH         "Sztab nie może zostać zniszczony po zdobyciu go i będzie pozostawać w każdym nowym miejscu przez określony czas podczas walki obu drużyn o jego przejęcie."
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER
+LANG_POLISH         "ZEGAR WSPÓLNEJ BOMBY"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER_DESC
+LANG_POLISH         "Jeśli opcja jest ustawiona na 'tak', zegar bomby zostanie przeniesiony po rozbrojeniu."
+
+REFERENCE           CUSTOM_MULTI_BOMB
+LANG_POLISH         "WIELE BOMB"
+
+REFERENCE           CUSTOM_MULTI_BOMB_DESC
+LANG_POLISH         "Włącz akcje z kilkoma bombami!"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DISABLED_DESC
+LANG_POLISH         "Edytuj, jakie serie ofiar otrzymują gracze. Możesz wybrać edytor serii ofiar, gdy ustawiono \"Własne serie ofiar\"."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_DESC
+LANG_POLISH         "Liczba rund, które musi wygrać drużyna, zanim zakończy się gra."
+
+REFERENCE           CUSTOM_HEALTH
+LANG_POLISH         "ZDROWIE"
+
+REFERENCE           CUSTOM_ALLOW_PLAYER_CLASSES_CAPS
+LANG_POLISH         "DOPUŚĆ KLASY GRACZA"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES_CAPS
+LANG_POLISH         "WŁASNE KLASY"
+
+REFERENCE           CUSTOM_ALL
+LANG_POLISH         "WSZYSTKIE"
+
+REFERENCE           CUSTOM_ALLIES
+LANG_POLISH         "SOJUSZNICY"
+
+REFERENCE           CUSTOM_SPRINT_SPEED
+LANG_POLISH         "SZYBKOŚĆ SPRINTU"
+
+REFERENCE           CUSTOM_TITLE
+LANG_POLISH         "TYTUŁ"
+
+REFERENCE           CUSTOM_DAMAGE
+LANG_POLISH         "OBRAŻEŃ"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT
+LANG_POLISH         "EDYCJA WYPOSAŻENIA KLASY"
+
+REFERENCE           CUSTOM_HEALTH_REGENERATION
+LANG_POLISH         "REGENERACJA ZDROWIA"
+
+REFERENCE           CUSTOM_VAMPIRISM
+LANG_POLISH         "WAMPIRYZM"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_DESC
+LANG_POLISH         "Zmień opcje gry dla własnego trybu rozgrywki."
+
+REFERENCE           CUSTOM_NORMAL
+LANG_POLISH         "NORMALNY"
+
+REFERENCE           CUSTOM_VERY_SLOW
+LANG_POLISH         "BARDZO WOLNY"
+
+REFERENCE           CUSTOM_LOAD_ERROR
+LANG_POLISH         "Wystąpił błąd podczas wczytywania własnego trybu gry."
+
+REFERENCE           CUSTOM_SLOW
+LANG_POLISH         "POWOLNY"
+
+REFERENCE           CUSTOM_VERY_FAST
+LANG_POLISH         "BARDZO SZYBKI"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE
+LANG_POLISH         "OBRAŻ. OD WYBUCHÓW"
+
+REFERENCE           CUSTOM_INCREASED
+LANG_POLISH         "ZWIĘKSZONY"
+
+REFERENCE           CUSTOM_DOUBLE
+LANG_POLISH         "PODWÓJNY"
+
+REFERENCE           CUSTOM_MAXIMUM
+LANG_POLISH         "MAKSIMUM"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME
+LANG_POLISH         "CZAS ROZBRAJANIA"
+
+REFERENCE           CUSTOM_PERKS_BUTTON_TOGGLE_PRO
+LANG_POLISH         "Włącz Atuty Pro"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_BASIC
+LANG_POLISH         "ATUTY PODSTAWOWE"
+
+REFERENCE           CUSTOM_PERK_EDIT
+LANG_POLISH         "EDYTUJ ATUTY ZE SLOTU &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_EDIT
+LANG_POLISH         "EDYTUJ ATUTY PRO ZE SLOTU &&1"
+
+REFERENCE           CUSTOM_PERK_SLOT
+LANG_POLISH         "ATUT &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT
+LANG_POLISH         "ATUT PRO &&1"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_DESC
+LANG_POLISH         "Dostosuj opcje ogólne."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DESC
+LANG_POLISH         "Zdecyduj, jakie serie ofiar dostają gracze."
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY_DESC
+LANG_POLISH         "Procent podstawowego czasu, po jakim gracz odzyskuje zdolność sprintu."
+
+REFERENCE           CUSTOM_GAME_CREATE_CAPS
+LANG_POLISH         "EDYTOR WŁASNEGO TRYBU GRY"
+
+REFERENCE           CUSTOM_SPECIALTY_EDITOR
+LANG_POLISH         "EDYTOR ATUTÓW"
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP
+LANG_POLISH         "Edytuj atrybuty, broń i atuty klasy własnej."
+
+REFERENCE           CUSTOM_DISABLE_PERKS_CAPS
+LANG_POLISH         "NIE DOPUSZCZAJ ATUTÓW"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY
+LANG_POLISH         "ODPOCZYNEK PO SPRINCIE"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME_DESC
+LANG_POLISH         "Czas potrzebny na rozbrojenie sprzętu i wieżyczek."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2_POINT_5
+LANG_POLISH         "2,5 SEKUNDY"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE
+LANG_POLISH         "PUNKTACJA ASYSTY"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3_POINT_5
+LANG_POLISH         "3,5 SEKUNDY"
+
+REFERENCE           CUSTOM_NUM_KILLS
+LANG_POLISH         "WYMAGANA LICZBA OFIAR"
+
+REFERENCE           CUSTOM_EXTRA_TIME_CAPS
+LANG_POLISH         "DOGRYWKA"
+
+REFERENCE           CUSTOM_OPS
+LANG_POLISH         "OPER"
+
+REFERENCE           CUSTOM_COMMUNISTS
+LANG_POLISH         "KOMUNIŚCI"
+
+REFERENCE           CUSTOM_BUTTON_SAVE_FILESHARE
+LANG_POLISH         "^BBUTTON_INTERACT^ Zapisz na serwerze udostępniającym pliki"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE
+LANG_POLISH         "PUNKTACJA ZA ZABICIA"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE_DESC
+LANG_POLISH         "Liczba punktów przyznanych za zabicia przeciwnika."
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE_DESC
+LANG_POLISH         "Liczba punktów przyznawanych za asystę. Ustaw na domyślne, aby używać normalnej punktacji za asysty."
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE
+LANG_POLISH         "PUNKTACJA ŚMIERCI"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE_DESC
+LANG_POLISH         "Liczba punktów odjętych za zgon."
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE_DESC
+LANG_POLISH         "Liczba punktów odjętych za samobójstwo."
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS_DESC
+LANG_POLISH         "Premia za zabicia dla przywódcy."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK
+LANG_POLISH         "WYBIERZ SERIĘ OFIAR"
+
+REFERENCE           CUSTOM_SELECT_FROM_FILESHARE_DESC
+LANG_POLISH         "Wybierz własny tryb gry z udostępnianych plików."
+
+REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
+LANG_POLISH         "ROZEGRAJ TRYB BEZ ZAPISYWANIA"
+
+REFERENCE           CUSTOM_TITLE_DESC
+LANG_POLISH         "To jest nazwa własnej klasy."
+
+REFERENCE           CUSTOM_SPRINT_SPEED_DESC
+LANG_POLISH         "O ile szybciej porusza się klasa podczas sprintu."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_DESC
+LANG_POLISH         "Przywróć wszystkie zmiany niestandardowego trybu gry do ustawień domyślnych."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CONFIRM_TITLE
+LANG_POLISH         "Na pewno chcesz cofnąć wszystkie zmiany niestandardowego trybu gry?"
+
+REFERENCE           CUSTOM_NUM_KILLS_DISABLED_DESC
+LANG_POLISH         "Przed ustawieniem liczby wymaganych zabić, musisz wybrać serię ofiar."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_TITLE
+LANG_POLISH         "WYBIERZ TRYB GRY"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_CAPS
+LANG_POLISH         "CZAS ZDOBYCIA FLAGI"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_DESC
+LANG_POLISH         "Czas potrzebny do zdobycia flagi."
+
+REFERENCE           CUSTOM_CUSTOM_GAME_MODE_CAPS
+LANG_POLISH         "WŁASNY TRYB GRY"
+
+REFERENCE           CUSTOM_WARN_DEMO_SIZE
+LANG_POLISH         "Bardzo długich meczów nie można nagrać w całości."
+
+REFERENCE           CUSTOM_NUM_KILLS_DESC
+LANG_POLISH         "Określ liczbę zabić, które gracz musi osiągnąć z rzędu przed aktywacją serii ofiar."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK_DESC
+LANG_POLISH         "Wybierz serię ofiar przyznawane graczom za uzyskanie określonej liczby zabić pod rząd."
+
+REFERENCE           CUSTOM_VAMPIRISM_DESC
+LANG_POLISH         "Ustaw ilość zdrowia oddawaną graczowi jak odsetek zadanych obrażeń."
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE_DESC
+LANG_POLISH         "Modyfikuje obrażenia zadawane przez klasę za pomocą broni eksplodującej."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_DESC
+LANG_POLISH         "Zmień broń, wyposażenie oraz atuty klasy."
+
+REFERENCE           CUSTOM_HEALTH_DESC
+LANG_POLISH         "Maksymalny poziom zdrowia dla klasy."
+
+REFERENCE           CUSTOM_CUSTOM_CLASS
+LANG_POLISH         "WŁASNE"
+
+REFERENCE           CUSTOM_NO_KILLSTREAK
+LANG_POLISH         "BRAK SERII OFIAR"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER_DESC
+LANG_POLISH         "Włącz/wyłącz zegar autodestrukcji RC-XD"
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP_DISABLED
+LANG_POLISH         "Ta klasa jest wyłączona i nie można jej edytować."
+
+REFERENCE           CUSTOM_PERK_EDITOR_DISABLED_DESC
+LANG_POLISH         "Włącz/wyłącz atuty i modyfikuj zmienne każdego z nich. Możesz wybrać edytor atutów, gdy ustawiono opcję \"Zezwól na atuty\". "
+
+REFERENCE           CUSTOM_RCXD_OPTIONS
+LANG_POLISH         "WŁASNE OPCJE RC-XD"
+
+REFERENCE           CUSTOM_GAME_RECORDING_CAPS
+LANG_POLISH         "NAGRYWANIE GRY"
+
+REFERENCE           CUSTOM_GAME_RECORDING_DESC
+LANG_POLISH         "Włączanie i wyłączanie nagrywania twojej gry."
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_POLISH         "ZEGAR PRZYGOWANIA DO GRY"
+
+ENDMARKER

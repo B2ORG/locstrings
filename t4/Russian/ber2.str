@@ -1,0 +1,46 @@
+// Dumped from fastfile "ber2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER2_INTROSCREEN_INFO
+LANG_ENGLISH        "3-я ударная армия"
+
+REFERENCE           BER2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Берлин, Германия"
+
+REFERENCE           BER2_OBJ_REGROUP
+LANG_ENGLISH        "Встретиться со своим отделением"
+
+REFERENCE           BER2_OBJ_FIGHT_THRU_METRO
+LANG_ENGLISH        "Пробиться через метро"
+
+REFERENCE           BER2_OBJ_MOVE_THRU_STREET
+LANG_ENGLISH        "Продвигаться вверх по улице вместе с танками"
+
+REFERENCE           BER2_INTROSCREEN_DATE
+LANG_ENGLISH        "24 апреля 1945 года"
+
+REFERENCE           BER2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Выселение'"
+
+REFERENCE           BER2_OBJ_CLEAR_BLDGS
+LANG_ENGLISH        "Зачистить здания"
+
+REFERENCE           BER2_OBJ_STAY_WITH_TANK
+LANG_ENGLISH        "Держаться близко к танку"
+
+REFERENCE           BER2_OBJ_DEFEND_SARGE
+LANG_ENGLISH        "Прикрывать Резнова, пока он будет открывать дверь"
+
+REFERENCE           BER2_OBJ_EXECUTE
+LANG_ENGLISH        "Добить раненых немецких солдат"
+
+REFERENCE           BER2_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Петренко"
+
+REFERENCE           BER2_OBJ_GET_TO_METRO
+LANG_ENGLISH        "Спуститься в метро, чтобы укрыться от ракет"
+
+ENDMARKER

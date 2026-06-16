@@ -1,0 +1,166 @@
+// Dumped from fastfile "ja_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで レバーを使用"
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_JAPANESE       "^3[{+actionslot 1}]^7 で トランプル・スチーム を装備"
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_JAPANESE       "ヘッドチョッパー"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで Remington 870 MCS チョーク"
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで AN-94 ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_JAPANESE       "トランプル・スチーム "
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ガルヴァナックル ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ヘッドチョッパー"
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_JAPANESE       "^3[{+actionslot 1}]^7 でヘッドチョッパーを装備"
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで セムテックス ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_JAPANESE       "サブサーフェス・レゾネーター"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで MP5 ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでアンロック"
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで サブサーフェス・レゾネーター"
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_JAPANESE       "^3[{+actionslot 1}]^7 でサブサーフェス・レゾネーターを 使用"
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ボタンを押す"
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで トランプル・スチーム"
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 酒を与える"
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで キー"
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 酒"
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで キャンディ"
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 酒 [コスト: &&1]"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_JAPANESE       "渡しています…"
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで Colt M16A1 ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_JAPANESE       "アンロック中..."
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_JAPANESE       "検索中…"
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで キャンディーを与える"
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで AK74u チョーク"
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで キャンディー [コスト: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで パーツを取る"
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_JAPANESE       "描いています・・・"
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ウォールバイを とる"
+
+REFERENCE           ZM_BURIED_WB
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで チョーク &&1 本"
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで AK74u ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで 願いごとをする"
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで B23R ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで PDW-57 ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで SVU-AS ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで M14 ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで RPG ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで SVU-AS チョーク"
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ボウイナイフ ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで クレイモア ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで Remington 870 MCS ウォールバイを描く"
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで AN-94 チョーク"
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで PDW-57 チョーク"
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ベルを使用"
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ガルヴァナックル チョーク"
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ランタンを拾う"
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_JAPANESE       "^3[{+activate}]^7 長押しでチップ [コスト: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ボディを サーチ"
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_JAPANESE       "スイッチを発見した"
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_JAPANESE       "何も見つからなかった"
+
+ENDMARKER

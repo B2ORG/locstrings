@@ -1,0 +1,166 @@
+// Dumped from fastfile "po_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby użyć dźwigni"
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby zabrać Parową trampolinę"
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_POLISH         "Odcinacz Głów"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do: Remington 870 MCS "
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu AN-94"
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_POLISH         "Parowa trampolina"
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu Galwakastetu"
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - Odcinacz Głów"
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby zabrać Odcinacz Głów"
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu Semteksu"
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_POLISH         "Rezonator Podłoża"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu MP5"
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby otworzyć"
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - Rezonator Podłoża"
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_POLISH         "Przytrzymaj ^3[{+actionslot 1}]^7, aby zabrać Rezonator Podłoża"
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby użyć przycisku"
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - Parowa trampolina"
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby dać alkohol"
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - Klucz."
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - Alkohol"
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - Cukierek"
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby kupić alkohol [koszt: &&1]"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_POLISH         "Podaję..."
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu M16A1"
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_POLISH         "Otwieram..."
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_POLISH         "Wyszukiwanie..."
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby dać cukierek"
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do: AK74u "
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby kupić cukierek [Koszt: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby chwycić część"
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_POLISH         "Rysuje..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do malowania puntu zakupu"
+
+REFERENCE           ZM_BURIED_WB
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do &&1"
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu AK74u"
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby wypowiedzieć życzenie"
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu B23R"
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu PDW-57"
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu SVU-AS"
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu M14"
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu RPG"
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do: SVU-AS "
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu noża Bowi'ego"
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu min Claymore"
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby narysować punkt zakupu Remington 870 MCS"
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do: AN-94 "
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do: PDW-57 "
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby użyć dzwonka"
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7 - kreda do: Galwakastet"
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby podnieść Lampion"
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby dać napiwek [Koszt: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, aby przeszukać ciało"
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_POLISH         "Znaleziono przełącznik"
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_POLISH         "Niczego nie znaleziono..."
+
+ENDMARKER

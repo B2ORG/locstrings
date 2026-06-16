@@ -1,0 +1,109 @@
+// Dumped from fastfile "see1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE1_OBJECTIVE3A
+LANG_ENGLISH        "Zniszcz czo³gi wroga - pozosta³y 4."
+
+REFERENCE           SEE1_OBJECTIVE2
+LANG_ENGLISH        "Wybierz drogê w LEWO lub w PRAWO."
+
+REFERENCE           SEE1_RIDE_TANK
+LANG_ENGLISH        "Naciœnij [{+activate}], aby usi¹œæ na czo³gu"
+
+REFERENCE           SEE1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Ich kraj, ich krew'"
+
+REFERENCE           SEE1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Wzgórza Seelow, Niemcy"
+
+REFERENCE           SEE1_INTROSCREEN_DATE
+LANG_ENGLISH        "18 kwietnia 1945"
+
+REFERENCE           SEE1_OBJECTIVE1_C
+LANG_ENGLISH        "WejdŸ na Tygrysa i zniszcz go."
+
+REFERENCE           SEE1_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Petrenko"
+
+REFERENCE           SEE1_OBJECTIVE1
+LANG_ENGLISH        "Naprzód w kierunku rzeki."
+
+REFERENCE           SEE1_OBJECTIVE11
+LANG_ENGLISH        "Wyeliminuj uciekaj¹cych Niemców."
+
+REFERENCE           SEE1_OBJECTIVE4
+LANG_ENGLISH        "Przegrupuj siê przy wejœciu do stodo³y."
+
+REFERENCE           SEE1_OBJECTIVE5
+LANG_ENGLISH        "Zniszcz ostatni niemiecki czo³g."
+
+REFERENCE           SEE1_OBJECTIVE6
+LANG_ENGLISH        "IdŸ z Reznowem do stodo³y."
+
+REFERENCE           SEE1_OBJECTIVE12
+LANG_ENGLISH        "Przedostañ siê do dworca kolejowego."
+
+REFERENCE           SEE1_MANTLE_TANK
+LANG_ENGLISH        "Naciœnij i przytrzymaj klawisz X, aby wspi¹æ siê na czo³g"
+
+REFERENCE           SEE1_ACHIEVEMENT_UNLOCK
+LANG_ENGLISH        "Odblokowano osi¹gniêcie"
+
+REFERENCE           SEE1_OBJECTIVE7
+LANG_ENGLISH        "Rusz naprzód drog¹."
+
+REFERENCE           SEE1_OBJECTIVE3C
+LANG_ENGLISH        "Zniszcz czo³gi wroga - pozosta³y 2."
+
+REFERENCE           SEE1_OBJECTIVE8
+LANG_ENGLISH        "Wkrocz do niemieckiego obozu."
+
+REFERENCE           SEE1_USE_MOLOTOV
+LANG_ENGLISH        "Naciœnij  [{+smoke}], aby rzuciæ koktajlem Mo³otowa"
+
+REFERENCE           SEE1_OBJECTIVE3B
+LANG_ENGLISH        "Zniszcz czo³gi wroga - pozosta³y 3."
+
+REFERENCE           SEE1_OBJECTIVE9
+LANG_ENGLISH        "Oczyœæ niemiecki obóz."
+
+REFERENCE           SEE1_OBJECTIVE10A
+LANG_ENGLISH        "Zniszcz niemieckie transportery - pozosta³y 2."
+
+REFERENCE           SEE1_OBJECTIVE10B
+LANG_ENGLISH        "Zniszcz niemieckie transportery - pozosta³ 1."
+
+REFERENCE           SEE1_OBJECTIVE10C
+LANG_ENGLISH        "Zniszcz niemieckie transportery."
+
+REFERENCE           SEE1_OBJECTIVE1_B
+LANG_ENGLISH        "Przebij siê przez niemieckie linie obronne."
+
+REFERENCE           SEE1_OFF_TANK_PC
+LANG_ENGLISH        "Naciœnij i przytrzymaj klawisz F, aby opuœciæ czo³g"
+
+REFERENCE           SEE1_OFF_TANK
+LANG_ENGLISH        "Naciœnij i przytrzymaj [{+usereload}], aby opuœciæ czo³g"
+
+REFERENCE           SEE1_OBJECTIVE3D
+LANG_ENGLISH        "Zniszcz czo³gi wroga - pozosta³ 1."
+
+REFERENCE           SEE1_INTROSCREEN_INFO
+LANG_ENGLISH        "3. Armia Uderzeniowa"
+
+REFERENCE           SEE1_OBJECTIVE3E
+LANG_ENGLISH        "Zniszcz wszystkie czo³gi wroga."
+
+REFERENCE           SEE1_LATER
+LANG_ENGLISH        "Dworzec kolejowy: Transport do Berlina"
+
+REFERENCE           SEE1_RIDE_TANK_PC
+LANG_ENGLISH        "Naciœnij i przytrzymaj klawisz F, stoj¹c z ty³u czo³gu, aby nim pokierowaæ"
+
+REFERENCE           SEE1_MANTLE_TANK_PC
+LANG_ENGLISH        "Naciœnij i przytrzymaj klawisz F, aby wspi¹æ siê na czo³g nieprzyjaciela"
+
+ENDMARKER

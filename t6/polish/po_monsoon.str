@@ -1,0 +1,889 @@
+// Dumped from fastfile "po_monsoon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"CELERIUM\"^L"
+
+REFERENCE           MONSOON_CHUTE_DEPLOYED
+LANG_POLISH         "Spadochron rozłożony"
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_2
+LANG_POLISH         "GÓRY HKAKABO RAZI, ^LBIRMA^L"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_HARP_M
+LANG_POLISH         "^1Harper: ^7Tylko spójrz. Menendez ma tu ukrytą całą pieprzoną, prywatną armię."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Powoli i spokojnie."
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_3
+LANG_POLISH         "DAVID MASON // KRYPTONIM: ^L'SEKCJA'^L"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_003A_HARP_S
+LANG_POLISH         "^1Harper: ^7Tak. Spójrz na to."
+
+REFERENCE           MONSOON_HACKING_CHAMBER_DOOR_DONE
+LANG_POLISH         "Przepełnienie bufora wykonane"
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_4
+LANG_POLISH         "GRUPA ZADANIOWA ^LJSOC^L DO WALKI Z TERRORYZMEM"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_038A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Naprzód!"
+
+REFERENCE           MONSOON_OBJ_ESCAPE_LAB
+LANG_POLISH         "Spotkaj się z oddziałem ewakuacyjnym"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_005A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Granat IEM usmaży ich systemy kamuflujące."
+
+REFERENCE           MONSOON_PLAYER_SHIELD_HINT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby wybrać tarczę"
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_5
+LANG_POLISH         "20 KWIETNIA ^L2025^L"
+
+REFERENCE           MONSOON_OBJ_ASD_BOSSES
+LANG_POLISH         "Zniszcz ASD"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_016A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jeszcze raz. Ruszajmy!"
+
+REFERENCE           MONSOON_LIFT_PROMPT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby użyć windy"
+
+REFERENCE           MONSOON_OBJ_OBTAIN_CELERIUM
+LANG_POLISH         "Zdobądź celerium"
+
+REFERENCE           MONSOON_OBJ_DESTROY_ASD
+LANG_POLISH         "Zniszcz ASD"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kubańczycy. Elita. Technika o najwyższej jakości."
+
+REFERENCE           MONSOON_FLIGHT_PATH
+LANG_POLISH         "Oddaliłeś się zbyt daleko od wyznaczonej trasy lotu"
+
+REFERENCE           MONSOON_PROMPT_HARPER_FALL
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7, żeby wysłać sygnał Harperowi"
+
+REFERENCE           MONSOON_OBJ_REACH_LAB
+LANG_POLISH         "Dokonaj rozpoznania bazy"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_020A_HARP_D
+LANG_POLISH         "^1Harper: ^7Za nami! Zbliża się!"
+
+REFERENCE           MONSOON_OBJ_INTRO_LEAP
+LANG_POLISH         "Skocz z klifu, żeby rozpocząć zejście w dół"
+
+REFERENCE           MONSOON_PROMPT_SWING
+LANG_POLISH         "^3[{+lsleft}]^7, żeby ruszyć nadgarstkiem"
+
+REFERENCE           MONSOON_TUTORIAL_WINGSUIT
+LANG_POLISH         "Użyj ^3[{+lookstick}]^7, żeby sterować"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_019A_HARP_S
+LANG_POLISH         "^1Harper: ^7Wieżyczki zablokowały ten obszar!"
+
+REFERENCE           MONSOON_PROMPT_GLOVES_ON
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7 i ^3[{+attack}]^7, żeby złapać"
+
+REFERENCE           MONSOON_TUTORIAL_WINGSUIT_LEGACY
+LANG_POLISH         "Użyj ^3[{+movestick}]^7 do kierowania"
+
+REFERENCE           MONSOON_IDKFA
+LANG_POLISH         "IDKFA..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_013A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Zabezpieczona. Czekamy na twój znak."
+
+REFERENCE           MONSOON_TUTORIAL_WINGSUIT_PC
+LANG_POLISH         "^3[{+breath_sprint}]^7 i ^3[{+lookstick}]^7, żeby utrzymać kąt lotu."
+
+REFERENCE           MONSOON_PROMPT_WINGS
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7 i  ^3[{+attack}]^7, żeby założyć kombinezon."
+
+REFERENCE           MONSOON_OBJ_WINGSUIT_LAND
+LANG_POLISH         "Dotrzyj do SL"
+
+REFERENCE           MONSOON_HACKING_CHAMBER_DOOR_PORT
+LANG_POLISH         "Przekierowuję port..."
+
+REFERENCE           MONSOON_OBJ_DESTROY_DOOR
+LANG_POLISH         "Zniszcz drzwi świątyni."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Przedni pancerz jest zbyt gruby!"
+
+REFERENCE           MONSOON_PROMPT_PLAYER_FALL
+LANG_POLISH         "Naciśnij ^3[{+gostand}]^7, żeby skoczyć"
+
+REFERENCE           MONSOON_PROMPT_GOGGLES_LOOK
+LANG_POLISH         "Używaj ^3[{+lookstick}]^7, żeby się rozgląda."
+
+REFERENCE           MONSOON_ERIK_CONTAINER_HINT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_005A_HARP_M
+LANG_POLISH         "^1Harper: ^7Dobra. Ruszajmy, draniu."
+
+REFERENCE           MONSOON_OBJ_INFILTRATE_LAB
+LANG_POLISH         "Przedostań się do ośrodka badawczego"
+
+REFERENCE           MONSOON_POI_LIFT
+LANG_POLISH         "Winda operacyjna"
+
+REFERENCE           MONSOON_TUTORIAL_TITUS
+LANG_POLISH         "Naciśnij ^3[{+actionslot 3}]^7, żeby wybrać pociski z naprowadzaniem"
+
+REFERENCE           MONSOON_FAIL_HARPER_SWING
+LANG_POLISH         "Nie udało ci się pomóc Harperowi."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_014A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Rozproszyć się! Oczyścić obszar!"
+
+REFERENCE           MONSOON_FAIL_PLAYER_SWING
+LANG_POLISH         "Nie udało ci się uchwycić ściany."
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           MONSOON_ASD_DETECTED
+LANG_POLISH         "Wykryto ASD"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kraken, mówi Harper. Zgłoś się. Nieprzyjaciel szykuje się do opuszczenia tego miejsca. Proszę o wskazówki."
+
+REFERENCE           MONSOON_HACKING_CHAMBER_DOOR
+LANG_POLISH         "Włamuję się"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_014A_HARP_M
+LANG_POLISH         "^1Harper: ^7Te sukinsyny znają się na robocie!"
+
+REFERENCE           MONSOON_JUMP_FAIL
+LANG_POLISH         "Nie udało ci się skoczyć z wyznaczonego punktu odbicia"
+
+REFERENCE           MONSOON_TEMPLE_TUTORIAL
+LANG_POLISH         "Użyj ładunków wybuchowych, żeby zniszczyć drzwi"
+
+REFERENCE           MONSOON_POI_SCANNING
+LANG_POLISH         "Skanowanie..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_010A_HARP_S
+LANG_POLISH         "^1Harper: ^7To po łacinie. 'Dzień serca'... czy coś w tym stylu."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_023A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zróbmy to, Sekcjo."
+
+REFERENCE           MONSOON_POI_HOSTILES
+LANG_POLISH         "Wielu przeciwników"
+
+REFERENCE           MONSOON_OBJ_LAB_DEFEND
+LANG_POLISH         "Osłaniaj obszar"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_HARP_S
+LANG_POLISH         "^1Harper: ^7Tylko spójrz. Menendez ma tu ukrytą... prywatną armię."
+
+REFERENCE           MONSOON_POI_HELI
+LANG_POLISH         "Dron klasy Heli"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_005A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Czas zobaczyć, co Menendez tutaj ukrył."
+
+REFERENCE           MONSOON_POI_SENTRY
+LANG_POLISH         "Automatyczne działko strażnicze"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_013A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Dobra, ty mały draniu... Od teraz pracujesz dla Wuja Sama."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_036A_HARP_D
+LANG_POLISH         "^1Harper: ^7Naprzód! Zlikwidować ich!"
+
+REFERENCE           MONSOON_OBJ_CELERIUM_DRIVE
+LANG_POLISH         "Zdobądź Celerium"
+
+REFERENCE           MONSOON_CHUTE_DEPLOY
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby rozłożyć spadochron"
+
+REFERENCE           MONSOON_CHUTE_FAIL
+LANG_POLISH         "Nie udało ci się na czas otworzyć spadochronu"
+
+REFERENCE           MONSOON_HELI_TURRET
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby użyć wieżyczki"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Raczej dwa miliardy osób, które nigdy nie uwierzą, że ich przywódca to terrorysta. Oni uważają Menendeza za zbawcę."
+
+REFERENCE           MONSOON_PLAYER_ASD_HINT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć siłą"
+
+REFERENCE           MONSOON_OBJ_SALAZAR_CROSBY
+LANG_POLISH         "Spotkaj się z Salazarem i Crosby'm"
+
+REFERENCE           MONSOON_ASD_ANOMALY
+LANG_POLISH         "Wykrywam anomalię..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_016A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ustawcie z nich osłonę!"
+
+REFERENCE           MONSOON_OBJ_LOWER_LABS
+LANG_POLISH         "Przedostań się do położonych niżej laboratoriów"
+
+REFERENCE           MONSOON_OBJ_OPEN_CONTAINER
+LANG_POLISH         "Otwórz kontener"
+
+REFERENCE           MONSOON_OBJ_OPEN_VAULT
+LANG_POLISH         "Otwórz skarbiec"
+
+REFERENCE           MONSOON_RIOTSHIELD_HINT
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby postawić"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Crosby, twoja kolej."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ilu zwolenników może mieć teraz Cordis Die? Jakiś miliard ludzi?"
+
+REFERENCE           MONSOON_NOT_WORTHY
+LANG_POLISH         "Nie jesteś godny"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_028A_HARP_M
+LANG_POLISH         "^1Harper: ^7Świetny pomysł, Salazar. To gówno wybucha naprawdę nieźle!"
+
+REFERENCE           MONSOON_J_5_ACTIVATING
+LANG_POLISH         "Aktywuję J-5..."
+
+REFERENCE           MONSOON_J_5_DEAD
+LANG_POLISH         "J-5 :("
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_026A_HARP_D
+LANG_POLISH         "^1Harper: ^7W lewo!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_004A_HARP_M
+LANG_POLISH         "^1Harper: ^7Czeka ich piekielne rozczarowanie. Tylko tyle mogę powiedzieć."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_004A_HARP_S
+LANG_POLISH         "^1Harper: ^7Czeka ich... rozczarowanie. Tylko tyle mogę powiedzieć."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_009A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Kraken potwierdza. Jednostki naziemne są już w drodze. Zaraz podam przybliżony czas przybycia."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jesteś gotowy, Harper?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dobra. Do mnie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dobrze się rozbujaj."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_047A_HARP_S
+LANG_POLISH         "^1Harper: ^7Nieźle mu dałeś popalić, Sekcjo!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nie chciałbyś tu zawisnąć."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_010A_HARP_D
+LANG_POLISH         "^1Harper: ^7Powierzchnia jest trochę nierówna. Musisz się mocno złapać nanorękawicami."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_011A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dobra, cwaniaku. Twoja kolej."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_012A_HARP_D
+LANG_POLISH         "^1Harper: ^7Gotowy?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jesteś gotowy?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Stać. Nieprzyjaciel ma kamuflaż optyczny."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_014A_HARP_D
+LANG_POLISH         "^1Harper: ^7Czekam na ciebie, skarbie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_017A_CROS_D
+LANG_POLISH         "^1Crosby: ^7Rozkładam spadochron."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Na razie wszystko dobrze."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Naprzód! Musimy się przebić!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_014A_HARP_D
+LANG_POLISH         "^1Harper: ^7Otwieram spadochron!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_017A_HARP_M
+LANG_POLISH         "^1Harper: ^7Chodź, bracie. Musimy się wziąć za to gówno."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_020A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pospiesz się, bracie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_017A_HARP_S
+LANG_POLISH         "^1Harper: ^7Chodź, bracie. Musimy to załatwić."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_013A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Uwaga, zbliżają się najemnicy!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_018A_HARP_D
+LANG_POLISH         "^1Harper: ^7Chodź. Zabierzmy się za to."
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_019A_HARP_D
+LANG_POLISH         "^1Harper: ^7Musimy ruszać, Sekcjo."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_021A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ruszajmy."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_014A_SECT_S
+LANG_POLISH         "^1Sekcja: ^7Nie możemy pozwolić, żeby to się wzbiło w powietrze!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_022A_HARP_D
+LANG_POLISH         "^1Harper: ^7Na co czekasz, człowieku?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_024A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Trzymaj się, Harper!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_001A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Tnij ją!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_018A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zróbmy to, Sekcjo."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kamuflaż optyczny nieprzyjaciela. Nasi technicy muszą poddać go analizie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_007A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Wszystko gra?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Tak. Wszystko ok... Dzięki tobie."
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pełny luz. Jesteśmy najlepsi. Bułka z masłem, skarbie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Weźcie tarcze!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_003A_SALA_D
+LANG_POLISH         "^1Salazar: ^7No seas idiota. Nie lekceważ Raula Menendeza."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Naprzód!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_010A_HARP_D
+LANG_POLISH         "^1Harper: ^7W porządku?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_008A_CROS_D
+LANG_POLISH         "^1Crosby: ^7Jego zwolennicy na pewno tak. A co w ogóle znaczy Cordis Die?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_010A_HARP_M
+LANG_POLISH         "^1Harper: ^7To po łacinie. 'Dzień serca'... czy jakieś podobne gówno."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_009A_CROS_D
+LANG_POLISH         "^1Crosby: ^7Brzmi jak coś szlachetnego."
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Menendez chce, żeby właśnie w to wierzyli jego zwolennicy. Uwierz mi... tak nie jest."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7Panie przodem."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_005A_HARP_S
+LANG_POLISH         "^1Harper: ^7Dobra. Ruszajmy, bracie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Chodź."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Spokojnie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Hej! Zbaczasz z kursu, Sekcjo!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7W prawo, chłopie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Uważaj na drzewa!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_006A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera, człowieku!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_006A_HARP_S
+LANG_POLISH         "^1Harper: ^7Ruszaj, człowieku!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Widziałem świąteczne indyki latające lepiej od ciebie!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zaatakuj od tyłu! Tam są najsłabsze punkty!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_019A_HARP_M
+LANG_POLISH         "^1Harper: ^7Szlag! Pieprzone wieżyczki blokują ten obszar."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Tam! Szczelina w górze!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Rozkładam spadochron."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_016A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Rozkładam spadochron."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_017A_HARP_S
+LANG_POLISH         "^1Harper: ^7To jasne, że nie chcą nas tu widzieć."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_011A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Tak."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Spokojnie! To drużyna ewakuacyjna! Ależ to miły widok dla mych oczu."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kolejna część tego obiektu musi się znajdować pod ziemią."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_013A_HARP_D
+LANG_POLISH         "^1Harper: ^7Przed nami! Właśnie startuje dron!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Salazar. Crosby. Jak wygląda lewa strona?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_002A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Potrzebne nam dokładne informacje o ich możliwościach. Możecie atakować."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_011A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Coś włączyło alarm!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Cśś!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_007A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Sekcjo, widzisz to?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_008A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Tak. Ruszaj, kiedy zlikwiduję wroga."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Atakujemy?"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kraken, mówi Sekcja. Instalacja naziemna zabezpieczona. Ruszamy sprawdzić następny obiekt."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_010A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nie, jeśli nie będzie to potrzebne."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_005A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Słyszałem, jak wspominali coś o 'Karmie'... To może być nazwa cyberbroni."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Najemnicy muszą posiadać bioczujniki. Wiedzą, że tracą ludzi."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_028A_HARP_D
+LANG_POLISH         "^1Harper: ^7Świetne trafienie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_046A_HARP_M
+LANG_POLISH         "^1Harper: ^7Super, do cholery!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_029A_HARP_D
+LANG_POLISH         "^1Harper: ^7Drugi jest mój."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_030A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Doskonale, Sekcjo."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_031A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Ja załatwię drugiego."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_032A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Zjeżdża winda. Są w niej wrogowie."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_033A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Wrogowie w windzie!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_014A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Ten sukinsyn nie może wzbić się w powietrze!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Prosimy o przesłanie jednostki, która zabezpieczy obiekt. Uwaga, po wejściu do środka stracimy łączność."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_015A_HARP_D
+LANG_POLISH         "^1Harper: ^7Salazar! Zniszcz go!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_016A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Jasne!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_017A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Dron zniszczony!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_018A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dobra. Ruszajmy dalej!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_022A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo, musisz zniszczyć te wieżyczki, używając IEM!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_026A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo! Przejmij kontrolę nad systemem uzbrojenia tego uziemionego samolotu."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_027A_HARP_M
+LANG_POLISH         "^1Harper: ^7Użyj przeciwko tym sukinsynom ich własnej broni."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_027A_HARP_S
+LANG_POLISH         "^1Harper: ^7Użyj przeciwko nim ich własnej broni."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_034A_HARP_D
+LANG_POLISH         "^1Harper: ^7Naprzód! Przycisnąć ich!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_035A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Szybko! Naprzód!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_037A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Wycofują się!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_039A_HARP_D
+LANG_POLISH         "^1Harper: ^7Szybko! Uciekają przed nami!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_040A_CROS_D
+LANG_POLISH         "^1Crosby: ^7Atakuję!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_050A_HARP_D
+LANG_POLISH         "^1Harper: ^7Titus nie może celować do wrogów z kamuflażem optycznym!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_024A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo, przywal im z IEM!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_041A_HARP_D
+LANG_POLISH         "^1Harper: ^7IEM ich usmaży!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_023A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo, wyłącz im kamuflaż, używając granatów IEM!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_042A_HARP_M
+LANG_POLISH         "^1Harper: ^7Szybko! Użyj IEM przeciwko tym sukinsynom!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_043A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wieżyczki zniszczone!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_044A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pozostała jeszcze jedna!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_045A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Gotowe! Obie wieżyczki zniszczone!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_046A_HARP_S
+LANG_POLISH         "^1Harper: ^7Tak!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Poinformuj Briggsa. Powiedz, że wchodzimy do środka."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_047A_HARP_M
+LANG_POLISH         "^1Harper: ^7Nieźle mu dałeś popalić, Sekcjo!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_048A_HARP_D
+LANG_POLISH         "^1Harper: ^7Świetnie, człowieku!"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Niech wszyscy... się odsuną!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_007A_BRIG_S
+LANG_POLISH         "^1Adm. Briggs: ^7Cóż, w końcu coś mamy na tego..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7Wysadźmy to."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Cofnąć się."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Patrz, gdzie idziesz. Woda mogła osłabić konstrukcję."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Tak. Nie ma już odwrotu, co?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_003A_HARP_M
+LANG_POLISH         "^1Harper: ^7Jasna cholera. Spójrz na to."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7To, co widzieliśmy na górze, było zaledwie początkiem."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dobra. Wychodź!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_005A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Ściany mają kilka metrów grubości. Wewnątrz stracimy łączność."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kraken, mówi Harper. Potwierdzamy obecność zaawansowanej technologicznie instalacji, znajdującej się pod świątynią..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_024A_HARP_D
+LANG_POLISH         "^1Harper: ^7Może go założysz? Będzie im trudniej cię dostrzec."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_007A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Zbliżają się! Zabierzcie mnie stąd! Wszystko wam powiem!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Salazar, otwórz to."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_001A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Wygląda na opuszczone miejsce."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Mogli je opuścić po naszym ataku."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7Mają ASD!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_005A_HARP_M
+LANG_POLISH         "^1Harper: ^7Sukinsyn!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_005A_HARP_S
+LANG_POLISH         "^1Harper: ^7Sukin..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_016A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Schodami na górę! Szybko!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_017A_HARP_M
+LANG_POLISH         "^1Harper: ^7To jasne jak cholera, że nie chcą nas tu widzieć."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_018A_HARP_D
+LANG_POLISH         "^1Harper: ^7Szybko, człowieku!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_019A_HARP_D
+LANG_POLISH         "^1Harper: ^7Chcesz nacisnąć przycisk?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_020A_CROS_D
+LANG_POLISH         "^1Crosby: ^7Sekcja... To skrót od Sekcji 8, zgadza się?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_021A_HARP_D
+LANG_POLISH         "^1Harper: ^7Daj spokój, frajerze. Czy on wygląda na szalonego?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_022A_HARP_M
+LANG_POLISH         "^1Harper: ^7Sukinsyn! Kolejny ASD!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_022A_HARP_S
+LANG_POLISH         "^1Harper: ^7Uwaga! Kolejny ASD!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_024A_HARP_D
+LANG_POLISH         "^1Harper: ^7Mają kolejne zautomatyzowane wieżyczki!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_025A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Przebić się przez nie!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_027A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Strzel w zbiorniki z azotem!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_028A_HARP_S
+LANG_POLISH         "^1Harper: ^7Świetny pomysł, Salazar. To wybucha naprawdę nieźle!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_029A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dobra. Czysto."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_017A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Tędy. Mechanizm otwierający wymaga dwóch osób."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7To jest technologia produkcji 3D... Komponenty uzbrojenia, pancerz... Menendez przygotowuje się do wojny."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Woods opowiedział nam o bogactwach, jakie Menendez zgromadził przez lata."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Inwestował w technologię zbrojeniową."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_013A_SECT_S
+LANG_POLISH         "^1Sekcja: ^7Dobra, słuchaj, mądralo... Od teraz pracujesz dla Wuja Sama."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ktoś tu jest."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_014A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zobaczmy, co tu jest ukryte..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_015A_HARP_D
+LANG_POLISH         "^1Harper: ^7Otwórz to, Sekcjo."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_010A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Proszę! Nie zabijajcie mnie!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_016A_HARP_D
+LANG_POLISH         "^1Harper: ^7To laboratorium jest związane ze znanym terrorystą. Zacznij mówić ALBO coś ci zrobię."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_012A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Nazywam się Erik Breighner. Jestem magnetometrykiem."
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Tak? A, hm... dlaczego Menendez interesuje się twoją osobą?"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_006A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Sprowadzili mnie tutaj w celu przetwarzania celerium. To niezwykle rzadki minerał, który sprawi, że wszystkie istniejące technologie mikrochipów odejdą w niepamięć."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_008A_HARP_M
+LANG_POLISH         "^1Harper: ^7Padnij. Padnij, kurwa!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_008A_HARP_S
+LANG_POLISH         "^1Harper: ^7Padnij. Padnij!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_014A_HARP_S
+LANG_POLISH         "^1Harper: ^7Ci żołnierze znają się na robocie!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_017A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Utrzymać pozycję!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_018A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Czysto."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dobra, gdzie jest celerium?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_019A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Na twój znak."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_020A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Za mną."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_021A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Musimy się pospieszyć!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_012A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Splątanie kwantowe. To jedno urządzenie ma większą moc obliczeniową niż cała wasza wojskowa infrastruktura."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_004A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Według plotek, krążących po laboratoriach, Menendez planował wykorzystać je do przeprowadzenia cyberataku zakrojonego na dużą skalę."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Admirale Briggs. Dobrze pana widzieć."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_006A_ISAA_D
+LANG_POLISH         "^1Erik: ^7Jeśli Menendez użyje celerium do rozpoczęcia ataku, to nic ani nikt go nie powstrzyma... Mi się nie udało."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Harper, jaka jest sytuacja zespołu wsparcia?!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kraken! Harper prosi o potwierdzenie czasu przybycia zespołu ewakuacyjnego!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kraken, zgłoś się!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_010A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera. Nie odpowiada!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_010A_HARP_S
+LANG_POLISH         "^1Harper: ^7Brak odpowiedzi!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_011A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Musimy się stąd wydostać, ze wsparciem lub bez niego."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7To jeszcze nie koniec!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Pozycje obronne!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_010A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Sekcjo, twoja drużyna może się wycofać."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_011A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7To Briggs."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_003A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Chyba możemy uznać tę misję za wykonaną."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_005A_BRIG_D
+LANG_POLISH         "^1Adm. Briggs: ^7Ciebie również, Sekcjo."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nie wiem, co planuje Menendez, ale celerium jest kluczowym elementem."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_007A_BRIG_M
+LANG_POLISH         "^1Adm. Briggs: ^7Cóż, w końcu coś mamy na tego lachociąga."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7To tylko człowiek, admirale. Chciałby, żebyśmy myśleli, że jest czymś więcej... ale jest tylko żałosną namiastką człowieka."
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+ENDMARKER

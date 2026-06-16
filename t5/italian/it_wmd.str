@@ -1,0 +1,529 @@
+// Dumped from fastfile "it_wmd".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WMD_AVALANCHE
+LANG_ENGLISH        "Valanga di camion"
+
+REFERENCE           WMD_AVALANCHE_TRUCK
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per salire sul camion"
+
+REFERENCE           WMD_BASE
+LANG_ENGLISH        "Base di Yamantau"
+
+REFERENCE           WMD_DOOR_BREACH1
+LANG_ENGLISH        "Irrompi\n"
+
+REFERENCE           WMD_EXPLOSIVE_TIP_HINT
+LANG_ENGLISH        "Premi ^3[{+actionslot 3}]^7 per armare i dardi con punta esplosiva."
+
+REFERENCE           WMD_FREEFALL
+LANG_ENGLISH        "Usa  per controllare la caduta"
+
+REFERENCE           WMD_HOOKUP
+LANG_ENGLISH        "Agganciati"
+
+REFERENCE           WMD_INTRO_DATE
+LANG_ENGLISH        "^LOre 17:00,^L ^C18 febbraio 1968^C"
+
+REFERENCE           WMD_INTRO_EXTRA
+LANG_ENGLISH        "^LSi sospetta che sia il centro di sviluppo del progetto Nova.^L"
+
+REFERENCE           WMD_INTRO_LEVELNAME
+LANG_ENGLISH        "^LTrasmissione n° 0. Destinatario: XRAY^L"
+
+REFERENCE           WMD_INTRO_LOCATION
+LANG_ENGLISH        "^LLa base sovietica è a^L ^C1Yamantau, in URSS.^L"
+
+REFERENCE           WMD_INTRO_NAME
+LANG_ENGLISH        "^C1Hudson^C ^Le Weaver guideranno la squadra nella missione cerca e distruggi nella valle.^L"
+
+REFERENCE           WMD_LEDGE
+LANG_ENGLISH        "Sporgenza vicino all'edificio comunicazioni\n"
+
+REFERENCE           WMD_LEDGE_FAIL
+LANG_ENGLISH        "Non sei riuscito a rimanere con la squadra."
+
+REFERENCE           WMD_OBJ_ESCAPE
+LANG_ENGLISH        "Fuggi dalla struttura di Yamantau."
+
+REFERENCE           WMD_OBJ_FOLLOW
+LANG_ENGLISH        "Segui"
+
+REFERENCE           WMD_OBJ_HOOKUP
+LANG_ENGLISH        "Agganciati"
+
+REFERENCE           WMD_OBJ_INFILTRATE
+LANG_ENGLISH        "Infiltrati nella struttura della Nova 6"
+
+REFERENCE           WMD_OBJ_INSERTION
+LANG_ENGLISH        "Raggiungi gli altri al punto di infiltrazione"
+
+REFERENCE           WMD_OBJ_JUMP_POINT
+LANG_ENGLISH        "Raggiungi il punto di salto"
+
+REFERENCE           WMD_OBJ_PERSONNEL_A
+LANG_ENGLISH        "Neutralizza il personale di sicurezza nell'area."
+
+REFERENCE           WMD_OBJ_PERSONNEL_B
+LANG_ENGLISH        "Neutralizza il personale nell'edificio comunicazioni"
+
+REFERENCE           WMD_OBJ_RADAR
+LANG_ENGLISH        "Disattiva l'edificio delle comunicazioni"
+
+REFERENCE           WMD_OBJ_STEINER
+LANG_ENGLISH        "Trova l'ufficio di Steiner."
+
+REFERENCE           WMD_OBJ_SUBSTATION
+LANG_ENGLISH        "Rifugiati nella stazione secondaria"
+
+REFERENCE           WMD_OBJ_TRUCK
+LANG_ENGLISH        "Fuggi sul camion."
+
+REFERENCE           WMD_PULL_CHUTE
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per azionare il paracadute"
+
+REFERENCE           WMD_RAPPEL
+LANG_ENGLISH        "Calati\n"
+
+REFERENCE           WMD_RAPPEL_LT
+LANG_ENGLISH        "Premi ^3[{+speed_throw}]^7 per calarti"
+
+REFERENCE           WMD_RAPPEL_RT
+LANG_ENGLISH        "Tieni premuto ^3[{+attack}]^7 per frenare"
+
+REFERENCE           WMD_REVEAL
+LANG_ENGLISH        "Premi  in avanti per alzarti"
+
+REFERENCE           WMD_SHOOT_HINGES
+LANG_ENGLISH        "Spara ai cardini della porta"
+
+REFERENCE           WMD_SNOW_AMBUSH
+LANG_ENGLISH        "Imboscata fra le nevi\n"
+
+REFERENCE           WMD_SPRINT_HINT
+LANG_ENGLISH        "Premi ^3[{+breath_sprint}]^7 per correre"
+
+REFERENCE           WMD_START_BASEJUMP
+LANG_ENGLISH        "Salto con paracadute\n"
+
+REFERENCE           WMD_START_BREACH
+LANG_ENGLISH        "Lancio coltello"
+
+REFERENCE           WMD_START_COMSTATION
+LANG_ENGLISH        "Attacca la stazione di comunicazione"
+
+REFERENCE           WMD_STEINER
+LANG_ENGLISH        "Ufficio di Steiner"
+
+REFERENCE           WMD_SUPPORT
+LANG_ENGLISH        "Supporta"
+
+REFERENCE           WMD_TIMER_FAIL
+LANG_ENGLISH        "Non sei riuscito a fuggire in tempo."
+
+REFERENCE           WMD_USE_DESTROY_DISH
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per disattivare il radar"
+
+REFERENCE           WMD_USE_HOOKUP
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per agganciarti"
+
+REFERENCE           WMD_VOX_WMD1_S01_137A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7State giù. Eccoli..."
+
+REFERENCE           WMD_VOX_WMD1_S01_138A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Fermi... Fermi..."
+
+REFERENCE           WMD_VOX_WMD1_S01_139A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Via libera! Arrivano altri soldati. Raggiungete quel posto di guardia, ORA!"
+
+REFERENCE           WMD_VOX_WMD1_S01_140A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7ALT!"
+
+REFERENCE           WMD_VOX_WMD1_S01_141A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Non muovetevi..."
+
+REFERENCE           WMD_VOX_WMD1_S01_143A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ricevuto."
+
+REFERENCE           WMD_VOX_WMD1_S01_144A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye, qui Kilo One. Siamo ancora sul vostro Tac?"
+
+REFERENCE           WMD_VOX_WMD1_S01_145A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Affermativo, Kilo One."
+
+REFERENCE           WMD_VOX_WMD1_S01_146A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7La visibilità è migliorata, iniziamo l'infiltrazione. Raggiungiamo la stazione secondaria."
+
+REFERENCE           WMD_VOX_WMD1_S01_147A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Rilevamento... BigEye vede quattro soldati che entrano nella struttura, passo."
+
+REFERENCE           WMD_VOX_WMD1_S01_148A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye. Entriamo."
+
+REFERENCE           WMD_VOX_WMD1_S01_149A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Il relè è appena sotto di noi. Quattro bersagli."
+
+REFERENCE           WMD_VOX_WMD1_S01_150A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Allora andiamo."
+
+REFERENCE           WMD_VOX_WMD1_S01_151A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Pronto?"
+
+REFERENCE           WMD_VOX_WMD1_S01_152A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Quando vuoi..."
+
+REFERENCE           WMD_VOX_WMD1_S01_155A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye, qui Kilo One. La stazione secondaria è nostra."
+
+REFERENCE           WMD_VOX_WMD1_S01_157A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Kilo One in avvicinamento all'obiettivo."
+
+REFERENCE           WMD_VOX_WMD1_S01_158A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto."
+
+REFERENCE           WMD_VOX_WMD1_S01_159A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo one, bersagli multipli alla stazione radio. Raggiungete la capanna a sud, quindi dirigetevi all'entrata della sala generatori a nord."
+
+REFERENCE           WMD_VOX_WMD1_S01_160A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_VOX_WMD1_S01_164A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Scegline uno."
+
+REFERENCE           WMD_VOX_WMD1_S01_184A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo, due bersagli sono entrati nella sala generatori."
+
+REFERENCE           WMD_VOX_WMD1_S01_185A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye."
+
+REFERENCE           WMD_VOX_WMD1_S01_186A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Harris, Brooks! Andate nella sala comandi e aspettateci."
+
+REFERENCE           WMD_VOX_WMD1_S01_191A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_VOX_WMD1_S01_192A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ottimo lavoro, Kilo one. Avete il controllo del perimetro."
+
+REFERENCE           WMD_VOX_WMD1_S01_193A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye, Kilo One è alla stazione radio."
+
+REFERENCE           WMD_VOX_WMD1_S01_194A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto. La vostra squadra è in posizione alla finestra?"
+
+REFERENCE           WMD_VOX_WMD1_S01_195A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Siamo in posizione."
+
+REFERENCE           WMD_VOX_WMD1_S01_197A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7La via è libera. Hudson, disattiva il relè."
+
+REFERENCE           WMD_VOX_WMD1_S01_198A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson! Trova l'interruttore del relè!"
+
+REFERENCE           WMD_VOX_WMD1_S01_199A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Forza, Hudson! Dobbiamo muoverci!"
+
+REFERENCE           WMD_VOX_WMD1_S01_200A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7BigEye, qui Kilo One. Confermate che il relè è fuori uso? Passo."
+
+REFERENCE           WMD_VOX_WMD1_S01_204A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Non ci metteranno molto a scoprire che siamo qui. Muoviamoci."
+
+REFERENCE           WMD_VOX_WMD1_S01_206A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson! Corri! CORRI!"
+
+REFERENCE           WMD_VOX_WMD1_S01_216A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Lasciamo la ricognizione."
+
+REFERENCE           WMD_VOX_WMD1_S01_219A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, BigEye. Grazie per l'aiuto e state attenti."
+
+REFERENCE           WMD_VOX_WMD1_S01_220A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Affermativo. BigEye, chiudo."
+
+REFERENCE           WMD_VOX_WMD1_S01_222A_BROO_M
+LANG_ENGLISH        "^1BROOKS: ^7Ci vediamo in fondo."
+
+REFERENCE           WMD_VOX_WMD1_S01_306A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Hudson, non dobbiamo farci scoprire. Usa la balestra. Se siamo nei guai, passa ai dardi esplosivi."
+
+REFERENCE           WMD_VOX_WMD1_S01_307A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Kilo One, bersagli multipli in arrivo alla stazione radio!"
+
+REFERENCE           WMD_VOX_WMD1_S01_308A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Hudson! Vattene da li!"
+
+REFERENCE           WMD_VOX_WMD1_S01_427A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto. Sto ricalibrando l'apertura focale. OK, abbiamo la stazione radio sul Tac. Raggiungiamo l'obiettivo successivo."
+
+REFERENCE           WMD_VOX_WMD1_S01_428A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7La struttura principale si trova alla base del crinale."
+
+REFERENCE           WMD_VOX_WMD1_S01_429A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Se esistono prove che la Nova 6 viene usata come arma, sono lì dentro."
+
+REFERENCE           WMD_VOX_WMD1_S01_430A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Capiranno che qualcosa non va, quando taglieremo le comunicazioni con l'esterno."
+
+REFERENCE           WMD_VOX_WMD1_S01_431A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dovremo fare in fretta, o distruggeranno tutte le prove."
+
+REFERENCE           WMD_VOX_WMD1_S01_432A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Occhi aperti."
+
+REFERENCE           WMD_VOX_WMD1_S01_433A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Un bersaglio pattuglia fuori dalla capanna, dentro ce ne sono due."
+
+REFERENCE           WMD_VOX_WMD1_S01_434A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Altri due vicino al camion alla vostra destra... "
+
+REFERENCE           WMD_VOX_WMD1_S01_435A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Un altro al cavalletto destro."
+
+REFERENCE           WMD_VOX_WMD1_S01_436A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7OK, andiamo."
+
+REFERENCE           WMD_VOX_WMD1_S01_437A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7MERDA! È scattato l'allarme!"
+
+REFERENCE           WMD_VOX_WMD1_S01_437A_WEAV_S
+LANG_ENGLISH        "^1WEAVER: ^7È scattato l'allarme!"
+
+REFERENCE           WMD_VOX_WMD1_S01_438A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Fuoco a volontà!!!"
+
+REFERENCE           WMD_VOX_WMD1_S01_439A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Altra fanteria in arrivo!"
+
+REFERENCE           WMD_VOX_WMD1_S01_440A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Hudson! Usa i dardi esplosivi!"
+
+REFERENCE           WMD_VOX_WMD1_S01_441A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Forza! Via! Via! Via!!"
+
+REFERENCE           WMD_VOX_WMD1_S01_442A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Mirare ai cardini!"
+
+REFERENCE           WMD_VOX_WMD1_S01_443A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Attenzione: fra circa tre minuti dovremo raggiungere il KC-135 per rifornirci."
+
+REFERENCE           WMD_VOX_WMD1_S01_444A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_VOX_WMD1_S01_445A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Affermativo, Kilo 1. Tutte le comunicazioni con l'esterno sono interrotte. Silenzio radio confermato."
+
+REFERENCE           WMD_VOX_WMD1_S01_446A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Qui Kilo One, raggiungiamo il primo obiettivo."
+
+REFERENCE           WMD_VOX_WMD1_S01_447A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Allora, signori: siamo in riserva. Usciamo di scena."
+
+REFERENCE           WMD_VOX_WMD1_S01_448A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7RPG sul crinale!"
+
+REFERENCE           WMD_VOX_WMD1_S01_449A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Valanga!!!"
+
+REFERENCE           WMD_VOX_WMD1_S01_450A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Abbiamo perso Harris!"
+
+REFERENCE           WMD_VOX_WMD1_S01_451A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Via! Via! Via!"
+
+REFERENCE           WMD_VOX_WMD1_S01_453A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ti seguo, Hudson. Scegli bene il punto d'atterraggio."
+
+REFERENCE           WMD_VOX_WMD1_S01_900A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Jason Hudson ha guidato l'attacco a Yamantau."
+
+REFERENCE           WMD_VOX_WMD1_S01_901A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì... 20 gradi sotto zero. L'uomo di ghiaccio era nel suo habitat."
+
+REFERENCE           WMD_VOX_WMD1_S01_901A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Sì... 20 gradi sotto zero. L'uomo di ghiaccio era nel suo habitat."
+
+REFERENCE           WMD_VOX_WMD1_S01_902A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7La valanga ha sepolto la base, ma Hudson e Weaver sono riusciti a sopravvivere. Mason era quasi sepolto."
+
+REFERENCE           WMD_VOX_WMD1_S02_454A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Merda... Hanno già iniziato a fare le pulizie! Muoversi!"
+
+REFERENCE           WMD_VOX_WMD1_S02_454A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7Hanno già iniziato a fare le pulizie! Muoversi!"
+
+REFERENCE           WMD_VOX_WMD1_S02_460A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7C'è un MG nella torre!"
+
+REFERENCE           WMD_VOX_WMD1_S02_461A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Tutti dentro!"
+
+REFERENCE           WMD_VOX_WMD1_S02_462A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Qui!"
+
+REFERENCE           WMD_VOX_WMD1_S02_463A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson... Li vedi quei fili?"
+
+REFERENCE           WMD_VOX_WMD1_S02_464A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sì... attraversano tutto l'edificio."
+
+REFERENCE           WMD_VOX_WMD1_S02_465A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hanno minato tutto."
+
+REFERENCE           WMD_VOX_WMD1_S02_466A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Fate in fretta, non abbiamo molto tempo!"
+
+REFERENCE           WMD_VOX_WMD1_S02_467A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Steiner non c'è."
+
+REFERENCE           WMD_VOX_WMD1_S02_469A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Si sta bloccando!"
+
+REFERENCE           WMD_VOX_WMD1_S02_469B_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Le porte si stanno chiudendo!"
+
+REFERENCE           WMD_VOX_WMD1_S02_470A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Che cosa?!?"
+
+REFERENCE           WMD_VOX_WMD1_S02_471A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7Sono Freidrich Steiner."
+
+REFERENCE           WMD_VOX_WMD1_S02_472A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Interferisce con le radio. Sapeva che saremmo venuti qui."
+
+REFERENCE           WMD_VOX_WMD1_S02_473A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7Dragovich sta distruggendo ogni cosa... e persona... collegata al progetto Nova."
+
+REFERENCE           WMD_VOX_WMD1_S02_474A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7Sono sicuro che presto toccherà a me."
+
+REFERENCE           WMD_VOX_WMD1_S02_475A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Che cosa vuoi?"
+
+REFERENCE           WMD_VOX_WMD1_S02_476A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Bersagli in tutti gli Stati Uniti..."
+
+REFERENCE           WMD_VOX_WMD1_S02_477A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7Dragovich ha agenti dormienti sparsi per tutta l'America. Aspettano solo un segnale per rilasciare la Nova 6."
+
+REFERENCE           WMD_VOX_WMD1_S02_478A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7La Nova 6 usata come arma."
+
+REFERENCE           WMD_VOX_WMD1_S02_479A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7I numeri delle trasmissioni... che significano?"
+
+REFERENCE           WMD_VOX_WMD1_S02_480A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7Vi dirò tutto se prometterete di salvarmi."
+
+REFERENCE           WMD_VOX_WMD1_S02_482A_STEI_F_M
+LANG_ENGLISH        "^1STEINER: ^7Mi trovo sull'isola \"Rinascita\", in mezzo al lago d'Aral. A voi la scelta."
+
+REFERENCE           WMD_VOX_WMD1_S02_483A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Dobbiamo andarcene. ORA!"
+
+REFERENCE           WMD_VOX_WMD1_S02_484A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Muoviamoci! Sta per saltare tutto in aria!"
+
+REFERENCE           WMD_VOX_WMD1_S02_485A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Non sappiamo quanto tempo ci rimane!"
+
+REFERENCE           WMD_VOX_WMD1_S02_486A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Via! Muoversi!"
+
+REFERENCE           WMD_VOX_WMD1_S02_487A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Non abbiamo tempo da perdere!"
+
+REFERENCE           WMD_VOX_WMD1_S02_487A_WEAV_S
+LANG_ENGLISH        "^1WEAVER: ^7Non abbiamo tempo da perdere!"
+
+REFERENCE           WMD_VOX_WMD1_S02_488A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Nel camion!"
+
+REFERENCE           WMD_VOX_WMD1_S02_489A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Weaver, tu guida! Io vado all'MG!"
+
+REFERENCE           WMD_VOX_WMD1_S02_490A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Portaci fuori di qui!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_491A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Devo manomettere i cavi!"
+
+REFERENCE           WMD_VOX_WMD1_S02_492A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Fai in fretta, ce li abbiamo addosso!"
+
+REFERENCE           WMD_VOX_WMD1_S02_493A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Solo un minuto!"
+
+REFERENCE           WMD_VOX_WMD1_S02_494A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Non ce l'abbiamo, un minuto!"
+
+REFERENCE           WMD_VOX_WMD1_S02_495A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Andiamo, stupido camion di merda!"
+
+REFERENCE           WMD_VOX_WMD1_S02_495A_WEAV_S
+LANG_ENGLISH        "^1WEAVER: ^7Andiamo, stupido camion!"
+
+REFERENCE           WMD_VOX_WMD1_S02_496A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Weaver, che cazzo stiamo aspettando?!?"
+
+REFERENCE           WMD_VOX_WMD1_S02_497A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ci sono quasi..."
+
+REFERENCE           WMD_VOX_WMD1_S02_498A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7FATTO!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_499A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Spingi sul gas! Vai! VAI!"
+
+REFERENCE           WMD_VOX_WMD1_S02_500A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Oh, cazzo! Viene giù tutta la montagna!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_500A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7Viene giù tutta la montagna!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_501A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Via! VIA!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_502A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7PRESTO!!!"
+
+REFERENCE           WMD_VOX_WMD1_S02_506A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Ci sta guardando dalla telecamera."
+
+REFERENCE           WMD_VOX_WMD1_S99_802A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Copilota, li stai mandando dalla parte sbagliata!"
+
+REFERENCE           WMD_VOX_WMD1_S99_803A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Il bersaglio è dall'altra parte."
+
+REFERENCE           WMD_VOX_WMD1_S99_804A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Copilota, non ci siamo."
+
+REFERENCE           WMD_VOX_WMD1_S99_805A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_VOX_WMD1_S99_806A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto, ci muoviamo."
+
+REFERENCE           WMD_VOX_WMD1_S99_807A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ci muoviamo."
+
+REFERENCE           WMD_VOX_WMD1_S99_808A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ricevuto."
+
+REFERENCE           WMD_VOX_WMD1_S99_809A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7* La strada è libera."
+
+REFERENCE           WMD_VOX_WMD1_S99_810A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7* Area pulita."
+
+REFERENCE           WMD_VOX_WMD1_S99_811A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7* Hudson, piazza le cariche."
+
+REFERENCE           WMD_VOX_WMD1_S99_812A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7* Muoviamoci."
+
+ENDMARKER

@@ -1,0 +1,43 @@
+// Dumped from fastfile "ber1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER1_REGROUP_BERM
+LANG_ENGLISH        "Rejoignez votre escouade."
+
+REFERENCE           BER1_CLEAR_CLOCKTOWER
+LANG_ENGLISH        "Neutralisez les Panzerschreck et les mitrailleuses pour que les chars puissent avancer."
+
+REFERENCE           BER1_CLEAR_RUINS
+LANG_ENGLISH        "Attaquez les défenses allemandes."
+
+REFERENCE           BER1_CLEAR_OFFICE
+LANG_ENGLISH        "Progressez dans l'immeuble de bureaux."
+
+REFERENCE           BER1_ENTER_ASYLUM
+LANG_ENGLISH        "Entrez dans l'asile."
+
+REFERENCE           BER1_CLEAR_ASYLUM
+LANG_ENGLISH        "Sécurisez l'asile."
+
+REFERENCE           BER1_PUSH_GERMANS
+LANG_ENGLISH        "Éliminez les forces allemandes qui se replient."
+
+REFERENCE           BER1_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Anneau d'acier\""
+
+REFERENCE           BER1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Pankow, Allemagne"
+
+REFERENCE           BER1_INTROSCREEN_DATE
+LANG_ENGLISH        "23 avril 1945"
+
+REFERENCE           BER1_INTROSCREEN_INFO
+LANG_ENGLISH        "3e armée de choc"
+
+REFERENCE           BER1_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Petrenko"
+
+ENDMARKER

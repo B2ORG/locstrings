@@ -1,0 +1,457 @@
+// Dumped from fastfile "ru_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Бога ради, народ, соберитесь, вашу мать  Я этот бой не проиграю, и вы тоже."
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_RUSSIAN        "Причал"
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 3}]^7 для выбора задания."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Адмирал на палубе!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_001A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Лейтенант-коммандер Мэйсон, явитесь в командный пункт."
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_RUSSIAN        "Получена карта для ударной группы"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_RUSSIAN        "Дэвид Мэйсон, вас просят зайти в командный пункт."
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы подтвердить выбор задания."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Именно, парни. Иран.  У нас и так проблем хватает, не позволим превратить Персию в шестерку Сил Самообороны."
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы получить доступ к ударной группе."
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_RUSSIAN        "Доложить в командный пункт."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Разрешено и рекомендовано."
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_RUSSIAN        "Осталось подкреплений"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_RUSSIAN        "Авианосец"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_011A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Разрешено и рекомендовано, твою мать."
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_RUSSIAN        "Overflow"
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_RUSSIAN        "Афганистан"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_040A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Проблема в том, что ЦРУ перехватило приказ о ликвидации, отданный самим Раулем Менендесом."
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_RUSSIAN        "Фабрика дронов"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_016A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7В Афгане стало жарко. Русский министр сейчас в Кабуле, переговаривается с их президентом насчет мирного договора."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_011A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7На Спектре находится Данте 702 сверхзвуковой дрон-стелс.  Если база будет захвачена, Пхеньян откроет сезон охоты."
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_RUSSIAN        "Socotra"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_RUSSIAN        "Риск"
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_RUSSIAN        "Сообщение от адмирала Бриггса"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_002A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Спасибо, коммандер Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Ну ладно, Иран мы вроде бы остановили, но смотри, не ошибись.  Если здесь обосремся, Чжао пригласят в Кремль на икру с водкой."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_003A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Час назад Тегеран сделал официальное заявление и присягнул на верность Силам Самообороны.  Китай захватил Средний Восток."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Посмотри, какая красота. Тянь Чжао по кличке Председатель, лидер китайских военных, и командующий войсками коалиции сил самообороны.  Он действует жестко, даже с китайским правительством. Они контролируют его не больше, чем мы. Эта кошка гуляет сама по себе."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_006A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Ну ладно, с Ираном, вроде бы разобрались, но одно я знаю точно.  Если здесь облажаемся, Чжао пригласят в Кремль на икру с водкой."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_M
+LANG_RUSSIAN        "^1Adm. Briggs: ^7Alright... Alright... We're toe to toe with 'em now, alright?  We gotta knock these cocksuckers out cold.  We take just one more territory from them, and we got 'em."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_005A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Если Россия сломается и примкнет к Силам Самообороны, это будет крупнейшая армия на планете.  Именно этого и добивается Менендес: натравливает сверхдержавы друг на друга."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_003A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Посмотри, какая красота. Тянь Чжао по кличке Председатель, лидер китайских военных, и командующий войсками коалиции сил самообороны.  Он действует жестко, даже с китайским правительством. Они контролируют его не больше, чем мы. Эта кошка гуляет сама по себе."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_028A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Этот чертов ботаник - может, единственный наш шанс крякнуть целериевую фигню.  Пошли, заберем его."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_M
+LANG_RUSSIAN        "^1Adm. Briggs: ^7How about that.  Chairman Zhao just sent me his resume.  Cocksucker's looking for a new gig!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_M
+LANG_RUSSIAN        "^1Adm. Briggs: ^7Chairman Zhao's squeezing Russia's balls, real tight.  Commander."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_001A_BRIG_S
+LANG_RUSSIAN        "^1Adm. Briggs: ^7How about that.  Chairman Zhao just sent me his resume.  He's looking for a new gig!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_014A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7ASD будет прикрывать вас снизу.  Мы играем наверняка, так что в этот раз на землю не спускаемся. Только дроны и глаз с небес."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_004A_BRIG_S
+LANG_RUSSIAN        "^1Adm. Briggs: ^7Chairman Zhao's squeezing Russia, real tight.  Commander."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7В данный момент Иран и Индия под угрозой.  Силы Самообороны сделали свой ход.  Пора вступать ОКСО."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_011A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7БПР Спектр играет ключевую роль в защите северной границы Индии.  Для быстрого реагирования придется отправлять десант."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Вот зараза.  Силы Самообороны вот-вот захватят Иран, они кишмя кишат по всей границе Индии."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_S
+LANG_RUSSIAN        "^1Adm. Briggs: ^7You can bet your left... that Chairman Zhao is eyeing a New Dehli penthouse suite right now."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_014A_FOB_D
+LANG_RUSSIAN        "^1Коммандер: ^7Первый удар застал нас врасплох и повредил нашу основную систему обороны. Мы сдержали натиск, но наш полк практически истреблен.  Долго мы не продержимся."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_015A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Это Силы Самообороны, коммандер?"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_030A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Судя по данным с наших спутников, Силы Самообороны стягиваются к северной границе Индии."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_009A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7В свете угрозы покушения, саммит переносится в Майданшахр, 50 миль к западу от Кабула."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_016A_FOB_D
+LANG_RUSSIAN        "^1Коммандер: ^7На нас напали дроны и с земли, и с воздуха…"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_020A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Если это произойдет, БПР Спектр падет, и путь в Индию будет открыт."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_019A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Главная задача противника - уничтожить сеть обороны, нейтрализовав генераторы и спутниковые установки.  Если ему это удастся, мы не сможем помешать врагу проникнуть в центр управления."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это судно битком набито гиперзвуковыми крылатыми ракетами Дунфэн.  До семи Махов. Один удар способен нейтрализовать любой из наших авианосцев, включая Обаму."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7В жизни не видел, чтобы так отстойно справлялись с заданием.  Соберись, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ракеты будут доставлены на эти эсминцы, покрытые углеродными нанотрубками, что делает их невидимыми для наших спутников. Вот почему Харперу пришлось заснять пленку по старинке!  Силы Самообороны планируют ракетный удар по Ирану."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Портативные модули взлома перепрограммируют их систему наведения, и они поджарятся в собственном соку."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_003A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Именно, парни. Иран.  У нас и так проблем хватает, не позволим превратить Персию в шестерку Сил Самообороны."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Система защиты терминала Кеппел основана на одной ракете Дунфэн, расположенной в центральном узле."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_005A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вы получите СВЧ-взрывчатку.  Сверхвысокочастотное излучение повредит систему наведения ракеты."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7С востока и запада периметр защищен лазерами на свободных электронах. Эти лучи способны уничтожить любую ракету ближнего действия.  Они нужны нам, чтобы ликвидировать грузовое судно."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_008A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Ну же!  Соберитесь, народ.  Я этот бой не проиграю, и вы тоже."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_01_008A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Когда система обороны будет нейтрализована, вызывайте Кракена, и мы начнем воздушный удар."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_010A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Мы обеспечиваем прикрытие конвою правительства.  При первых признаках неприятностей, разрешено применение силы."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_M
+LANG_RUSSIAN        "^1Section: ^7Use your quads for aerial surveillance. You'll need those birds, 'cause the bastards'll dig in those mountains."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_012A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7Use your quads for aerial surveillance. You'll need those birds, 'cause they'll dig in those mountains."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_013A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кракен будет следить за каждым вашим шагом и предоставит поддержку по первому требованию."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7К гадалке не ходи,  разворошили мы этих мудаков!  Ладно, присаживайся."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_002A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7К гадалке не ходи,  разворошили мы этих гадов!  Ладно, присаживайся."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Слава богу, Спектр спасли, не то мы все бы уже на китайском балакали.  Что ж, могло быть и хуже."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_004A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Слава богу, Спектр спасли, не то мы все бы уже на китайском балакали.  Что ж, могло быть и хуже."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_007A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Вот зараза.  Силы Самообороны вот-вот захватят Иран, они кишмя кишат по всей границе Индии."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_005A_BRIG_M
+LANG_RUSSIAN        "^1Adm. Briggs: ^7You can bet your left nut that Chairman Zhao is eyeing a New Dehli penthouse suite right now."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Издеваешься?  Ближний Восток на грани краха, афганскую шишку вот-вот пристрелят, а Силы Самообороны все еще ощупывают Индию?"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_001A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Издеваешься?  Ближний Восток на грани краха, афганскую шишку вот-вот пристрелят, а Силы Самообороны все еще ощупывают Индию?"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7А ну, быстро вытащите головы из задницы и наведите порядок."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_003A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Этот сукин сын шлет своих мальчиков в Россию.  Китай потерял контроль, они просят о помощи."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_002A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7А ну, быстро вытащите головы из задницы и наведите порядок."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Народ,  мы тявкнуть не успеем, вкатят нам шах и мат.  Руки в ноги и за дело."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_003A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Слушайте, народ,  мы тявкнуть не успеем, вкатят нам шах и мат.  Пора уже за дело."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Крупные неприятности в опасной близости от нашей задницы.  Мы разобрались с одной территорией, а силы самообороны уже жрут наш обед."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_004A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Крупные неприятности в опасной близости от нас.  Мы разобрались с одной территорией, а Силы Самообороны уже жрут наш обед."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_005A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Мы должны показать Главнокомандующему, что не лыком шиты."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_039A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Мы Морские котики ОКСО.  Помните, через что мы прошли, чтобы попасть сюда, и что потеряет наша страна, если мы облажаемся."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_006A_BRIG_S
+LANG_RUSSIAN        "^1Adm. Briggs: ^7Alright... Alright... We're toe to toe with 'em now, alright?  We gotta knock these... out cold.  We take just one more territory from them, and we got 'em."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Серьезно, Сектор.  В тот день я подплыл слишком быстро к акулам."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_007A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Неплохо, народ. Только давайте без звездной болезни.  Будьте умнее.  Это еще не конец."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_008A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Русский министр иностранных дел официально заявил, что силы самообороны представляют собой страшную угрозу миру и стабильности во всем цивилизованном мире.  Если бы они его-таки поджарили в Афганистане, сегодня этот мир выглядел бы совсем по-другому."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_009A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Это начало конца для сил самообороны. Прибавьте огоньку, и с ублюдками покончено."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Час назад агент Фарид в Йемене узнал, что в местной деревне держат в плену одного из крупнейших международных экспертов по целериевым технологиям."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_013A_BRIG_D
+LANG_RUSSIAN        "^1Adm. Briggs: ^7The brains downstairs haven't been able to crack the Celerium device that we recovered from Myanmar.  This scientist is our best shot."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_021A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Наш объект держат в горах Хагъер, на северо-западном полуострове Сокотра."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_022A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Он может быть в любом из этих поселений.  И где бы он ни был, там кишмя кишат повстанцы."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Захват как по учебнику.  Сделать все надо будет охрененно быстро."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_023A_BRIG_S
+LANG_RUSSIAN        "^1Adm. Briggs: ^7This is a textbook catch and grab.  We got to do this... quick."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_024A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Когда влезешь на скалы, мы пустим туда слезоточивый газ."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_025A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Прочесывайте местность, пока не найдете объект.  Переверните каждый камень."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_026A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Если вдруг свезет, вызывайте Кракена, и коммандер Мэйсон озаботится эвакуацией."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_027A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вы в курсе, адмирал.  Как только я получу сигнал, держитесь до моего прибытия."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_001A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Как вы знаете, вчера Россия официально осудила силы самообороны, и заявила о своей полной поддержке действий вооруженных сил США."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_M
+LANG_RUSSIAN        "^1Adm. Briggs: ^7Ahh!  Don't blow your wad, boys!  We still gotta go to the prom."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_002A_BRIG_S
+LANG_RUSSIAN        "^1Adm. Briggs: ^7Ahh!  Don't... boys!  We still gotta go to the prom."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_004A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Пять минут назад я разговаривал напрямую с президентом.  Она дала добро.  Его надо убрать."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_011A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Убийство Чжао нарушит планы Менендеса по разжиганию войны между Америкой и Силами Самообороны."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Чжао пролетит над Пешаваром завтра, приблизительно в шестнадцать часов.  Наземная операция, старая школа.  Целимся в Чжао из СВВП, ловим и кончаем.  На поддержке куча народу."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Мы только что получили сведения о том, что Чжао вылетит откуда-то из района Исламабада завтра во второй половине дня.  Мы не знаем точно, где он будет, так что разделитесь на четыре группы. Наземная операция, старая школа. Целимся в Чжао из СВВП, ловим и кончаем.  Не промахнитесь."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Удачи, коммандер.  Вот и все. Нужно убрать Чжао, пока Силы Самообороны не заняли Москву.  Облажаетесь - с нашим военным превосходством можно попрощаться."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_4_04_008A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Удачи, командир.  Вот и все. Нужно убрать Чжао, пока Силы Самообороны не заняли Москву.  Одна ошибка, и наше военное превосходство окажется в прошлом."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_002A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Мэйсон, мы ждем вас в командном пункте."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_003A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Лейтенант-коммандер Мэйсон, немедленно явиться в командный пункт."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_004A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Ваша группа снаряжена и готова к инструктажу, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_005A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Хватит в носу ковырять, Мейсон!  А ну, бегом в командный пункт."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_006A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Немедленно явитесь в командный пункт, коммандер.  Это приказ."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_007A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Мэйсон!  Хватит дурью маяться! Дуй в командный пункт."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_008A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Молодец, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_009A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Я знал, что могу на вас положиться, коммандер."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Отлично сработано, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_010A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Молодец, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Вот это зрелище мне по нраву. Твою мать, как по учебнику."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_011A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Вот это зрелище мне по нраву. Прям как по учебнику."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Так вот и надо с этим дерьмом.  Молодец, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_012A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Вот так и надо.  Молодец, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_013A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Хоть в учебники вставляй, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Это что за херня, Мэйсон?  Я от тебя лучшего ждал."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_014A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7В чем дело, Мэйсон?  Я от тебя лучшего ждал."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_015A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7В жизни не видел, чтобы так отстойно справлялись с заданием.  А ну живо соберись, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Твою дивизию, такой охрененной лажи в жизни не видел."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_016A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Твою дивизию, такой лажи в жизни не видел."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Твою мать, да что с тобой, нахрен?  Ну-ка, соберись, сынок."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_017A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Да что с тобой такое?  Ну-ка, соберись, сынок."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_018A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Поговорим об этом фиаско позже, Мэйсон."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_014A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Как отметил адмирал, мы не можем отправить наши реактивные самолеты в их воздушное пространство.  Так что придется использовать вражеские."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Я разочарован и страшно зол…  Ты в курсе, комбинация фиговая."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_03_019A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Я разочарован и расстроен…  Ты в курсе, комбинация фиговая."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Эти эсминцы класса Современный покрыты углеродными нанотрубками, это делает их невидимыми для наших спутников.  Эту пленку Харпер заснял по-старинке!"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_008A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Это точно, Сектор, в тот день я подплыл слишком быстро к акулам..."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_009A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Эти акулы оснащены АСАТ…"
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_010A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7...и сейчас они плавают по Аравийскому морю, а огневой мощи у них хватит, чтобы поджарить половину всех спутников мира."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7А как будешь на палубе, главная задача - обезвредить авианосец."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_013A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Отсюда они контролируют все автоматические оборонительные системы.  Захвати командование их ASD, а потом уничтожь двигатели и энергосистемы кораблей."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_1_02_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Взлетишь на их СВВП прямо с полетной палубы и порешишь целый флот."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_017A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Да ко всему еще… флот все еще там… плывет в Индию."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Эта сука Чжао ускользнул.  Он может воспользоваться своим превосходством, когда захочет. И уж он это сделает.  Мы не можем потерять Индию."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_2_02_018A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Председатель Чжао ускользнул.  Он может воспользоваться своим превосходством, когда захочет. И уж он это сделает.  Мы не можем потерять Индию."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_010A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7БПР Спектр в Северной Корее сейчас под огнем, запрашивают помощь.  Они там окопались, но противников в десять раз больше.  О противнике мало что известно, но очень смахивает на очередные проделки сил самообороны."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7База отлично защищена пулеметными установками.  Ни хрена вражина не сделает, пока их не снимет."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_017A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7База отлично защищена пулеметными установками.  Ничего вражина не сделает, пока их не снимет."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_018A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Ага, но все эти установки контролируются из центра управления.  Один взрыв ЭМИ, и заходи, кто хочет, бери, что хочет."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_019A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Эти дроны - легкая добыча.  Нельзя их запускать во время атаки, их посбивают, как глиняных голубей.  Защищайте дроны любой ценой."
+
+REFERENCE           FRONTEND_VOX_VOX_SFF_3_03_020A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7А самый соус чили вот тут, на складе.  Если они захватят Данте 702, небо Пхеньяна, считай, уже у них."
+
+REFERENCE           UIPLS_PLAYLIST_CATEGORY_NOTVISIBLE
+LANG_RUSSIAN        "СЕКРЕТНО"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE
+LANG_RUSSIAN        "СЕКРЕТНО"
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_DESC
+LANG_RUSSIAN        "Эта карта содержит СЕКРЕТНЫЕ материалы. Требуется более высокий уровень допуска."
+
+REFERENCE           UIPLS_PLAYLIST_NOTVISIBLE_CAPS
+LANG_RUSSIAN        "Эта карта содержит СЕКРЕТНЫЕ материалы. Требуется более высокий уровень допуска."
+
+ENDMARKER

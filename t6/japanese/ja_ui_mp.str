@@ -1,0 +1,925 @@
+// Dumped from fastfile "ja_ui_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED_DESC
+LANG_JAPANESE       "プレイヤーが物を乗り越える速度の倍率"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_CAPS
+LANG_JAPANESE       "クラス装備の編集"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT
+LANG_JAPANESE       "ロードしたカスタムモード"
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_DESC
+LANG_JAPANESE       "プレイヤーの武器の連射速度を調整する"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED
+LANG_JAPANESE       "ナイフ攻撃復帰時間"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_PRO
+LANG_JAPANESE       "プロPERK"
+
+REFERENCE           CUSTOM_FAST
+LANG_JAPANESE       "高速"
+
+REFERENCE           CUSTOM_BOMB_TIMER
+LANG_JAPANESE       "起爆タイマー"
+
+REFERENCE           CUSTOM_PERK_ROF_DESC
+LANG_JAPANESE       "プレイヤーが銃火器を発射する速度の倍率"
+
+REFERENCE           CUSTOM_OPT_HARDCORE_DESC
+LANG_JAPANESE       "HARDCOREモードのオン/オフ切り替え HARDCOREはHUDの表示内容が制限され より危険な武器と味方への誤射が有効になる"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_8
+LANG_JAPANESE       "8秒"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_TITLE
+LANG_JAPANESE       "ステディエイムPERKの変更"
+
+REFERENCE           CUSTOM_PERK_KNIFE_WORK_DESC
+LANG_JAPANESE       "ナイフ攻撃速度の倍率を調整する"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME_DESC
+LANG_JAPANESE       "プレイヤーの武器リロード速度の倍率"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_PRO_TITLE
+LANG_JAPANESE       "ステディエイムプロPERKの変更"
+
+REFERENCE           CUSTOM_CLASS_INCORRECT
+LANG_JAPANESE       "特殊部隊側のクラス 共産国側のクラスがそれぞれ最低1つずつ必要"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME
+LANG_JAPANESE       "リロード時間"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY_DESC
+LANG_JAPANESE       "プレイヤーのリスポーンは 一定時間のディレイをはさんで連続で行われる リスポーンディレイも同時に設定されていると 最短でも次にリスポーンされるタイミングまで待たなければならない"
+
+REFERENCE           CUSTOM_PERK_SCOUT_TITLE
+LANG_JAPANESE       "スカウトPERKの変更"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_PRO_TITLE
+LANG_JAPANESE       "スライハンドプロPERKの変更"
+
+REFERENCE           CUSTOM_PERK_ROF
+LANG_JAPANESE       "連射速度"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_DESC
+LANG_JAPANESE       "プレイヤーのライフおよび体力関連のオプションを調節"
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_TITLE
+LANG_JAPANESE       "ダブルタップPERKの変更"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DESC
+LANG_JAPANESE       "Perkのオン/オフ 各Perkの変数を調整する"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES
+LANG_JAPANESE       "カスタムクラス"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_6_CAPS
+LANG_JAPANESE       "6フラッグ"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED_DESC
+LANG_JAPANESE       "プレイヤーの移動速度の倍率"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_JAPANESE       "敵が常にレーダー上に表示される"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_TITLE
+LANG_JAPANESE       "スライハンドPERKの変更"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT
+LANG_JAPANESE       "ダッシュ倍率"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER
+LANG_JAPANESE       "RC-XD自動破壊タイマー"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_85
+LANG_JAPANESE       "0.85秒"
+
+REFERENCE           CUSTOM_PERK_SCOUT_PRO_TITLE
+LANG_JAPANESE       "スカウトプロPERKの変更"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME
+LANG_JAPANESE       "息止め時間延長"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED
+LANG_JAPANESE       "移動速度倍率"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_JAPANESE       "レーダー常時オン"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_15
+LANG_JAPANESE       "15秒"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME_DESC
+LANG_JAPANESE       "プレイヤーが息を止めていられる時間に追加される秒数"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DISABLED_DESC
+LANG_JAPANESE       "自分に合ったカスタムクラスを作成しよう カスタムクラスがセットされているときに クラス編集を行える"
+
+REFERENCE           CUSTOM_OPT_KILLCAM
+LANG_JAPANESE       "キルカメラ許可"
+
+REFERENCE           CUSTOM_FILESHARE_CGM_HIGHLIGHTED
+LANG_JAPANESE       "このモードを選んで カスタム設定でプレイしましょう"
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION_DESC
+LANG_JAPANESE       "キルストリーク時に引かれるキル数"
+
+REFERENCE           CUSTOM_FILESHARE_CANT_SELECT
+LANG_JAPANESE       "セーブされた カスタム マッチ だけが選択できます"
+
+REFERENCE           CUSTOM_FILESHARE_UPLOAD
+LANG_JAPANESE       "ファイル共有へのセーブ完了"
+
+REFERENCE           CUSTOM_CUSTOMIZED_CAPS
+LANG_JAPANESE       "カスタム"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING
+LANG_JAPANESE       "徹甲弾ダメージ"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DESC
+LANG_JAPANESE       "爆破ポイントが破壊された時に 現在の時間に追加される時間 時間制限がない場合 延長タイムは無効となる"
+
+REFERENCE           CUSTOM_PERK_MARATHON_TITLE
+LANG_JAPANESE       "マラソンPERKの変更"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT_DESC
+LANG_JAPANESE       "プレイヤーがダッシュできる基本秒数の倍率"
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION
+LANG_JAPANESE       "火炎ダメージ"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME
+LANG_JAPANESE       "失血時間"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_TITLE
+LANG_JAPANESE       "セカンドチャンスPERKの変更"
+
+REFERENCE           CUSTOM_SAVE_CHANGES
+LANG_JAPANESE       "変更をファイル共有にセーブ"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_PRO_TITLE
+LANG_JAPANESE       "セカンドチャンスプロPERKの変更"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_JAPANESE       "ゲーム開始までの時間を変更する"
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION_DESC
+LANG_JAPANESE       "プレイヤーに対する火炎ダメージを減少させる"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME_DESC
+LANG_JAPANESE       "プレイヤーが倒れてから失血してリスポーンするまでの秒数"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME
+LANG_JAPANESE       "蘇生時間"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_TITLE
+LANG_JAPANESE       "ライトウェイトPERKの変更"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_PRO_TITLE
+LANG_JAPANESE       "ライトウェイトプロPERKの変更"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME_DESC
+LANG_JAPANESE       "倒れたプレイヤーを蘇生するのにかかる秒数"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_3_CAPS
+LANG_JAPANESE       "3フラッグ"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD
+LANG_JAPANESE       "弾道の広がり"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD_DESC
+LANG_JAPANESE       "基本的な弾道の広がりの割合(低い数値ほど集弾性が高い)"
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION
+LANG_JAPANESE       "キルストリーク軽減"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_PRO_TITLE
+LANG_JAPANESE       "F.ジャケットプロPERKの変更"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_TITLE
+LANG_JAPANESE       "厳戒態勢PERKの変更"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_TITLE
+LANG_JAPANESE       "ハードPERKの変更"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_PRO_TITLE
+LANG_JAPANESE       "ハードプロPERKの変更"
+
+REFERENCE           CUSTOM_OPT_HEADSHOT_ONLY_DESC
+LANG_JAPANESE       "有効にすると 弾丸系の武器はヘッドショット以外でダメージを与えられなくなる ナイフやキルストリーク 爆発によるダメージは通常どおり与えられる"
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED_DESC
+LANG_JAPANESE       "エイム速度の倍率"
+
+REFERENCE           CUSTOM_PERK_HARDLINE_PRO_TITLE
+LANG_JAPANESE       "ハードラインプロPERKの変更"
+
+REFERENCE           CUSTOM_ENABLE_PERKS_CAPS
+LANG_JAPANESE       "PERKの使用許可"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION
+LANG_JAPANESE       "貫通"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION_DESC
+LANG_JAPANESE       "物体に対する弾丸の貫通力の倍率"
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED
+LANG_JAPANESE       "エイム速度"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED
+LANG_JAPANESE       "武器切り替え速度"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING_DESC
+LANG_JAPANESE       "航空機やターレットに対する一定比率の追加ダメージ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_35
+LANG_JAPANESE       "35秒"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_DESC
+LANG_JAPANESE       "エイム速度の倍率を調整する"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT_DESC
+LANG_JAPANESE       "このスロットに関係するプロPerkをカスタマイズ"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_TITLE
+LANG_JAPANESE       "F.ジャケットPERKの変更"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION
+LANG_JAPANESE       "爆発ダメージ"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION_DESC
+LANG_JAPANESE       "プレイヤーに対する爆発ダメージの軽減率"
+
+REFERENCE           CUSTOM_PERK_HARDLINE_TITLE
+LANG_JAPANESE       "ハードラインPERKの変更"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_TITLE
+LANG_JAPANESE       "高速切り替えPERKの変更"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_DESC
+LANG_JAPANESE       "武器切り替え速度の倍率を調整する"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED_DESC
+LANG_JAPANESE       "武器切り替えの速さの倍率"
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED
+LANG_JAPANESE       "乗り越え速度"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED_DESC
+LANG_JAPANESE       "プレイヤーが連続してナイフ攻撃を行う際の 攻撃間隔の倍率"
+
+REFERENCE           CUSTOM_PERK_HACKER_PRO_TITLE
+LANG_JAPANESE       "ハッカープロPERKの変更"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED
+LANG_JAPANESE       "操作速度"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED_DESC
+LANG_JAPANESE       "プレイヤーが対象を操作する際にかかる時間の倍率"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED
+LANG_JAPANESE       "体力回復速度"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_35
+LANG_JAPANESE       "1.35秒"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED_DESC
+LANG_JAPANESE       "プレイヤーの体力が自然回復する速度の倍率"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED_DESC
+LANG_JAPANESE       "クラスことの移動速度"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION
+LANG_JAPANESE       "ダメージキック軽減"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED
+LANG_JAPANESE       "移動速度"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION_DESC
+LANG_JAPANESE       "本来のダメージキックが適用される割合"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION
+LANG_JAPANESE       "シェルショック軽減"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION_DESC
+LANG_JAPANESE       "本来のシェルショックが適用される割合"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE
+LANG_JAPANESE       "落下ダメージ"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE_DESC
+LANG_JAPANESE       "プレイヤーがダメージを受けずに落下できる最大距離"
+
+REFERENCE           CUSTOM_PERK_SLOT_HINT
+LANG_JAPANESE       "カスタム マッチ における全ての Perkが 変更の影響を 受けます"
+
+REFERENCE           CUSTOM_PERK_SLOT_DESC
+LANG_JAPANESE       "このスロットに関係するPerkをカスタマイズ"
+
+REFERENCE           CUSTOM_PERK_NO_EDIT_DESC
+LANG_JAPANESE       "エディットできる値がありません"
+
+REFERENCE           CUSTOM_DAMAGE_DESC
+LANG_JAPANESE       "銃や非爆発系武器のクラスごとのダメージ量を変更する"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_15
+LANG_JAPANESE       "0.15秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_35
+LANG_JAPANESE       "0.35秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_5
+LANG_JAPANESE       "0.5秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_65
+LANG_JAPANESE       "0.65秒"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS
+LANG_JAPANESE       "リーダーボーナス"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1
+LANG_JAPANESE       "1秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_15
+LANG_JAPANESE       "1.15秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_65
+LANG_JAPANESE       "1.65秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_85
+LANG_JAPANESE       "1.85秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2
+LANG_JAPANESE       "2秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3
+LANG_JAPANESE       "3秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_4
+LANG_JAPANESE       "4秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_5
+LANG_JAPANESE       "5秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_6
+LANG_JAPANESE       "6秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_7
+LANG_JAPANESE       "7秒"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DISABLED_DESC
+LANG_JAPANESE       "集団リスポーンディレイが設定されていると 常に強制リスポーンが適用される"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_9
+LANG_JAPANESE       "9秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_10
+LANG_JAPANESE       "10秒"
+
+REFERENCE           CUSTOM_NUM_KILLS_THIS_KILLSTREAK_DESC
+LANG_JAPANESE       "この回数キルすると このキルストリークが使えるようになる"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_20
+LANG_JAPANESE       "20秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_25
+LANG_JAPANESE       "25秒"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE
+LANG_JAPANESE       "自滅スコア"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_30
+LANG_JAPANESE       "30秒"
+
+REFERENCE           CUSTOM_OPT_HARDCORE
+LANG_JAPANESE       "HARDCORE MODE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_40
+LANG_JAPANESE       "40秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_45
+LANG_JAPANESE       "45秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_50
+LANG_JAPANESE       "50秒"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY
+LANG_JAPANESE       "集団リスポーンディレイ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_55
+LANG_JAPANESE       "55秒"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_60
+LANG_JAPANESE       "60秒"
+
+REFERENCE           CUSTOM_VALUE_KILLS_1
+LANG_JAPANESE       "1キル"
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS_DESC
+LANG_JAPANESE       "ヘッドショットへのポイントボーナス"
+
+REFERENCE           CUSTOM_ROUND_LIMIT_DESC
+LANG_JAPANESE       "ゲーム終了までのラウンド数"
+
+REFERENCE           CUSTOM_VALUE_KILLS_2
+LANG_JAPANESE       "2キル"
+
+REFERENCE           CUSTOM_VALUE_KILLS_3
+LANG_JAPANESE       "3キル"
+
+REFERENCE           CUSTOM_VALUE_100_PER_DEFAULT
+LANG_JAPANESE       "100%(デフォルト)"
+
+REFERENCE           CUSTOM_REVERT_TO_DEFAULT
+LANG_JAPANESE       "デフォルトに戻す"
+
+REFERENCE           CUSTOM_GAME_TIME_LIMIT_DESC
+LANG_JAPANESE       "ラウンド終了までの時間(分)"
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME_DESC
+LANG_JAPANESE       "HQが残存する時間"
+
+REFERENCE           CUSTOM_GAME_SCORE_LIMIT_DESC
+LANG_JAPANESE       "ラウンドを終了させるために必要なポイント数"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_CAPS
+LANG_JAPANESE       "ゲームモードのオプション"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_CAPS
+LANG_JAPANESE       "全般オプション"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_CAPS
+LANG_JAPANESE       "クラス・エディター"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR
+LANG_JAPANESE       "キルストリーク・エディター"
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_JAPANESE       "ヘッドのみ"
+
+REFERENCE           CUSTOM_PERK_EDITOR_CAPS
+LANG_JAPANESE       "PERKエディター"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CAPS
+LANG_JAPANESE       "変更を元に戻す"
+
+REFERENCE           CUSTOM_SAVE_DESC
+LANG_JAPANESE       "ゲームモードの変更をセーブしますか？"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DISABLED_DESC
+LANG_JAPANESE       "時間制限がない時に 延長タイムは設定できません"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_3
+LANG_JAPANESE       "3ラウンド"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_5
+LANG_JAPANESE       "5ラウンド"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_7
+LANG_JAPANESE       "7ラウンド"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_9
+LANG_JAPANESE       "9ラウンド"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DESC
+LANG_JAPANESE       "ゲームモード用のカスタムクラスを作成"
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_CAPS
+LANG_JAPANESE       "奪取数の制限"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_1_CAPS
+LANG_JAPANESE       "1 フラッグ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_2_CAPS
+LANG_JAPANESE       "2フラッグ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_4_CAPS
+LANG_JAPANESE       "4フラッグ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_8_CAPS
+LANG_JAPANESE       "8フラッグ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_10_CAPS
+LANG_JAPANESE       "10フラッグ"
+
+REFERENCE           CUSTOM_OPT_KILLCAM_DESC
+LANG_JAPANESE       "キルカメラのオン/オフ切り替え"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT
+LANG_JAPANESE       "ダッシュを許可"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT_DESC
+LANG_JAPANESE       "プレイヤーのダッシュ能力を切り替える"
+
+REFERENCE           CUSTOM_OPT_SPECTATE
+LANG_JAPANESE       "観戦"
+
+REFERENCE           CUSTOM_OPT_SPECTATE_DESC
+LANG_JAPANESE       "リスポーンできなくなったプレイヤーの観戦方式を選択"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS
+LANG_JAPANESE       "リスポーンのオプション"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS_DESC
+LANG_JAPANESE       "ゲームモードのリスポーンのオプションを調節"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS
+LANG_JAPANESE       "ライフ&体力のオプション"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES_DESC
+LANG_JAPANESE       "プレイヤーがリスポーンできなくなるまでの復活可能回数"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_CAPS
+LANG_JAPANESE       "ライフ&体力のオプション"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS
+LANG_JAPANESE       "チームオプション"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_CUSTOM_DESC
+LANG_JAPANESE       "ダメージを受けたプレイヤーが体力を回復する割合"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS_DESC
+LANG_JAPANESE       "このゲームモードのチームオプションを調節"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS
+LANG_JAPANESE       "観戦オプション"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS_DESC
+LANG_JAPANESE       "このゲームモードの観戦オプションを調節"
+
+REFERENCE           CUSTOM_RESPAWN_DELAY
+LANG_JAPANESE       "リスポーンディレイ"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_DESC
+LANG_JAPANESE       "使用する カスタム マッチ をファイル共有から選択して下さい"
+
+REFERENCE           CUSTOM_RESPAWN_DELAY_DESC
+LANG_JAPANESE       "プレイヤーがリスポーンするまでに待たなければいけない時間(秒数)"
+
+REFERENCE           CUSTOM_RULES_FORCE_RESPAWN
+LANG_JAPANESE       "強制リスポーン"
+
+REFERENCE           CUSTOM_REDUCED
+LANG_JAPANESE       "減少"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DESC
+LANG_JAPANESE       "有効にしておくと プレイヤーは死亡後にリスポーンを手動で選択しなくても自動的にリスポーンするようになる 連続リスポーンディレイが設定されていれば 常に有効になっている"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES
+LANG_JAPANESE       "ライフ数"
+
+REFERENCE           CUSTOM_MAX_HEALTH
+LANG_JAPANESE       "最大体力"
+
+REFERENCE           CUSTOM_ROUND_SWITCH
+LANG_JAPANESE       "ラウンドスイッチ"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DESC
+LANG_JAPANESE       "各プレイヤーの体力量 カスタムクラスを有効にすると この設定は使用不可"
+
+REFERENCE           CUSTOM_HEALTH_REGEN
+LANG_JAPANESE       "体力自動回復"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DISABLED_DESC
+LANG_JAPANESE       "カスタムクラスを有効にすると 全体体力最大化は設定できない"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DESC
+LANG_JAPANESE       "ダメージを受けたプレイヤーが体力を回復する割合 カスタムクラスを有効にすると この設定は使用不可"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DISABLED_DESC
+LANG_JAPANESE       "カスタムクラスを有効にすると 全体体力回復は設定できない"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE
+LANG_JAPANESE       "同士討ち"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE_DESC
+LANG_JAPANESE       "チームメイトがチームの仲間にダメージを与えられるかどうかを決定する 有効にしてライフ数を設定すると 味方による死亡はライフ数に影響しなくなる"
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_CAPS
+LANG_JAPANESE       "必要ラウンド勝利数"
+
+REFERENCE           CUSTOM_CTF_IDLE_FLAG_RETURN_TIME_DESC
+LANG_JAPANESE       "フラッグが放置されてから基地に戻ってしまうまでの時間(秒数) 無制限設定の場合 タッチして復帰は有効"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_5
+LANG_JAPANESE       "1.5秒"
+
+REFERENCE           CUSTOM_NUM_KILLS_IN_USE_DESC
+LANG_JAPANESE       "この回数キルすると 別のキルストリークが使えるようになる"
+
+REFERENCE           CUSTOM_CTF_ENEMY_CARRIER_VISIBLE_DESC
+LANG_JAPANESE       "フラッグの運搬中に相手側に位置を知らせるかどうかを指定できる 遅延設定を行なうと 一定時間ごとにしか位置が通知されない"
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DESC
+LANG_JAPANESE       "有効にしておくと 下に落ちたフラッグにそのフラッグ側のチームが触れるとフラッグは基地に戻るようになる"
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DISABLED_DESC
+LANG_JAPANESE       "タッチして復帰は 無制限のフラッグ奪還で有効に設定できる"
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS
+LANG_JAPANESE       "ヘッドショットボーナス"
+
+REFERENCE           CUSTOM_ROUND_LIMIT
+LANG_JAPANESE       "ラウンド制限"
+
+REFERENCE           CUSTOM_ROUND_SWITCH_DESC
+LANG_JAPANESE       "チームが攻守を交代するまでのラウンド数"
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_DESC
+LANG_JAPANESE       "ラウンドを終了するためにチームが奪取しなければいけないフラッグの数"
+
+REFERENCE           CUSTOM_BOMB_TIMER_DESC
+LANG_JAPANESE       "爆弾が爆発するまでの時間"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME
+LANG_JAPANESE       "設置タイム"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME_DESC
+LANG_JAPANESE       "爆弾を設置するのに必要な時間"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME
+LANG_JAPANESE       "解除時間"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME_DESC
+LANG_JAPANESE       "設置された爆弾を解除するのに必要な時間"
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME
+LANG_JAPANESE       "HQライフタイム"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY
+LANG_JAPANESE       "HQ起動ディレイ"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY_DESC
+LANG_JAPANESE       "新しいHQを選択するまでの待ち時間"
+
+REFERENCE           CUSTOM_CLASSIC_HQ
+LANG_JAPANESE       "クラシックHQモード"
+
+REFERENCE           CUSTOM_CLASSIC_HQ_DESC
+LANG_JAPANESE       "設定された持続時間の間 両チームが争うHQは奪取されても破壊されず 新しい場所にそのまま残っている"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER
+LANG_JAPANESE       "共有起爆タイマー"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER_DESC
+LANG_JAPANESE       "有効にすると爆弾を解除しても起爆タイマーの状態は保持されます"
+
+REFERENCE           CUSTOM_MULTI_BOMB
+LANG_JAPANESE       "マルチボム"
+
+REFERENCE           CUSTOM_MULTI_BOMB_DESC
+LANG_JAPANESE       "有効にすると爆弾が複数登場します！"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DISABLED_DESC
+LANG_JAPANESE       "プレイヤーが使用できるキルストリークを編集する カスタムキルストリークが設定されていれば キルストリークの編集を使用できる"
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_DESC
+LANG_JAPANESE       "ゲームに勝つために必要なチームのラウンド勝利数"
+
+REFERENCE           CUSTOM_HEALTH
+LANG_JAPANESE       "体力"
+
+REFERENCE           CUSTOM_ALLOW_PLAYER_CLASSES_CAPS
+LANG_JAPANESE       "プレイヤークラス使用許可"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES_CAPS
+LANG_JAPANESE       "カスタムクラス"
+
+REFERENCE           CUSTOM_ALL
+LANG_JAPANESE       "全て"
+
+REFERENCE           CUSTOM_ALLIES
+LANG_JAPANESE       "連合軍"
+
+REFERENCE           CUSTOM_SPRINT_SPEED
+LANG_JAPANESE       "ダッシュ速度"
+
+REFERENCE           CUSTOM_TITLE
+LANG_JAPANESE       "タイトル"
+
+REFERENCE           CUSTOM_DAMAGE
+LANG_JAPANESE       "ダメージ"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT
+LANG_JAPANESE       "クラス装備の編集"
+
+REFERENCE           CUSTOM_HEALTH_REGENERATION
+LANG_JAPANESE       "体力自動回復"
+
+REFERENCE           CUSTOM_VAMPIRISM
+LANG_JAPANESE       "ヴァンパイア症"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_DESC
+LANG_JAPANESE       "カスタム マッチ のオプションを 設定できます"
+
+REFERENCE           CUSTOM_NORMAL
+LANG_JAPANESE       "ノーマル"
+
+REFERENCE           CUSTOM_VERY_SLOW
+LANG_JAPANESE       "超低速"
+
+REFERENCE           CUSTOM_LOAD_ERROR
+LANG_JAPANESE       "カスタム マッチ のロード中に エラーが発生しました"
+
+REFERENCE           CUSTOM_SLOW
+LANG_JAPANESE       "低速"
+
+REFERENCE           CUSTOM_VERY_FAST
+LANG_JAPANESE       "超高速"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE
+LANG_JAPANESE       "爆発によるダメージ"
+
+REFERENCE           CUSTOM_INCREASED
+LANG_JAPANESE       "増加"
+
+REFERENCE           CUSTOM_DOUBLE
+LANG_JAPANESE       "大"
+
+REFERENCE           CUSTOM_MAXIMUM
+LANG_JAPANESE       "最大"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME
+LANG_JAPANESE       "解除時間"
+
+REFERENCE           CUSTOM_PERKS_BUTTON_TOGGLE_PRO
+LANG_JAPANESE       "プロPerk切り替え"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_BASIC
+LANG_JAPANESE       "基本PERK"
+
+REFERENCE           CUSTOM_PERK_EDIT
+LANG_JAPANESE       "スロット&&1からPERKを変更"
+
+REFERENCE           CUSTOM_PERK_PRO_EDIT
+LANG_JAPANESE       "スロット&&1のプロPERKを編集"
+
+REFERENCE           CUSTOM_PERK_SLOT
+LANG_JAPANESE       "PERK&&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT
+LANG_JAPANESE       "プロPERK&&1"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_DESC
+LANG_JAPANESE       "全般オプションのカスタマイズ"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DESC
+LANG_JAPANESE       "プレイヤーが取得できるキルストリーク効果の編集"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY_DESC
+LANG_JAPANESE       "プレイヤーがダッシュ後に回復するまでの時間を 標準値のパーセンテージで示す"
+
+REFERENCE           CUSTOM_GAME_CREATE_CAPS
+LANG_JAPANESE       "カスタム マッチ エディター"
+
+REFERENCE           CUSTOM_SPECIALTY_EDITOR
+LANG_JAPANESE       "PERKエディター"
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP
+LANG_JAPANESE       "カスタムクラスの属性 武器 Perkを編集する"
+
+REFERENCE           CUSTOM_DISABLE_PERKS_CAPS
+LANG_JAPANESE       "PERKの使用禁止"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY
+LANG_JAPANESE       "ダッシュ回復"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME_DESC
+LANG_JAPANESE       "装備およびターレットを解除するのに要する時間"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2_POINT_5
+LANG_JAPANESE       "2.5秒"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE
+LANG_JAPANESE       "アシストスコア"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3_POINT_5
+LANG_JAPANESE       "3.5秒"
+
+REFERENCE           CUSTOM_NUM_KILLS
+LANG_JAPANESE       "キル数"
+
+REFERENCE           CUSTOM_EXTRA_TIME_CAPS
+LANG_JAPANESE       "延長タイム"
+
+REFERENCE           CUSTOM_OPS
+LANG_JAPANESE       "オプス側"
+
+REFERENCE           CUSTOM_COMMUNISTS
+LANG_JAPANESE       "共産国側"
+
+REFERENCE           CUSTOM_BUTTON_SAVE_FILESHARE
+LANG_JAPANESE       "^BBUTTON_INTERACT^ファイル共有にセーブ"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE
+LANG_JAPANESE       "キルスコア"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE_DESC
+LANG_JAPANESE       "キルにより与えられたポイント数"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE_DESC
+LANG_JAPANESE       "アシストにより与えられたポイント数 通常のアシストスコアを使用するには デフォルトに設定する"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE
+LANG_JAPANESE       "デススコア"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE_DESC
+LANG_JAPANESE       "死んだことで差し引かれたポイント数"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE_DESC
+LANG_JAPANESE       "自滅したことで差し引かれたポイント数"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS_DESC
+LANG_JAPANESE       "リードしているプレイヤーのキルへのポイントボーナス"
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK
+LANG_JAPANESE       "キルストリークの選択"
+
+REFERENCE           CUSTOM_SELECT_FROM_FILESHARE_DESC
+LANG_JAPANESE       "使用する カスタム マッチを ファイル共有から 選択します"
+
+REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
+LANG_JAPANESE       "セーブせずにこのモードでプレイ"
+
+REFERENCE           CUSTOM_TITLE_DESC
+LANG_JAPANESE       "カスタムクラスの名前"
+
+REFERENCE           CUSTOM_SPRINT_SPEED_DESC
+LANG_JAPANESE       "そのクラスがダッシュ時にどの程度速く移動できるか"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_DESC
+LANG_JAPANESE       "カスタム マッチの デフォルト設定 からの変更を 全て元に戻します"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CONFIRM_TITLE
+LANG_JAPANESE       "カスタム マッチ の変更を 全て元に 戻しますか？"
+
+REFERENCE           CUSTOM_NUM_KILLS_DISABLED_DESC
+LANG_JAPANESE       "獲得に必要なキル数を設定する前に キルストリークを選択しなければならない"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_TITLE
+LANG_JAPANESE       "ゲームモード選択"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_CAPS
+LANG_JAPANESE       "フラッグ奪取時間"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_DESC
+LANG_JAPANESE       "フラッグを奪取するのに必要な時間"
+
+REFERENCE           CUSTOM_CUSTOM_GAME_MODE_CAPS
+LANG_JAPANESE       "カスタム マッチ"
+
+REFERENCE           CUSTOM_WARN_DEMO_SIZE
+LANG_JAPANESE       "長すぎるゲームは一部記録されない場合があります"
+
+REFERENCE           CUSTOM_NUM_KILLS_DESC
+LANG_JAPANESE       "このキルストリークが発動するまでに必要なキル数を指定する"
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK_DESC
+LANG_JAPANESE       "プレイヤーが特定数連続でキルした場合に与えられるキルストリークを選択"
+
+REFERENCE           CUSTOM_VAMPIRISM_DESC
+LANG_JAPANESE       "与えるダメージの程度によってプレイヤーに戻される体力の量を決定"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE_DESC
+LANG_JAPANESE       "クラスに応じた爆発系武器のダメージ量を調整"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_DESC
+LANG_JAPANESE       "クラスに応じた武器 装備 Perkを変更する"
+
+REFERENCE           CUSTOM_HEALTH_DESC
+LANG_JAPANESE       "クラスごとの最大体力"
+
+REFERENCE           CUSTOM_CUSTOM_CLASS
+LANG_JAPANESE       "カスタム"
+
+REFERENCE           CUSTOM_NO_KILLSTREAK
+LANG_JAPANESE       "キルストリークなし"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER_DESC
+LANG_JAPANESE       "RC-XD自動破壊タイマーを有効/無効にする"
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP_DISABLED
+LANG_JAPANESE       "このクラスは無効になっているため 編集できない"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DISABLED_DESC
+LANG_JAPANESE       "Perkのオン/オフ 各Perkの変数を調整する Perkを許可されていればPerk編集を行える"
+
+REFERENCE           CUSTOM_RCXD_OPTIONS
+LANG_JAPANESE       "RC-XDカスタムオプション"
+
+REFERENCE           CUSTOM_GAME_RECORDING_CAPS
+LANG_JAPANESE       "ゲーム録画"
+
+REFERENCE           CUSTOM_GAME_RECORDING_DESC
+LANG_JAPANESE       "ゲーム録画をオン/オフにする"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_JAPANESE       "プレマッチタイマー"
+
+ENDMARKER

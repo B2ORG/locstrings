@@ -1,0 +1,61 @@
+// Dumped from fastfile "ber3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3_OBJ4
+LANG_ENGLISH        "Pénétrez dans le Reichtag."
+
+REFERENCE           BER3_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Le coeur du Reich\""
+
+REFERENCE           BER3_OBJ0
+LANG_ENGLISH        "Rejoignez votre escouade."
+
+REFERENCE           BER3_INTROSCREEN_DATE
+LANG_ENGLISH        "30 avril 1945"
+
+REFERENCE           BER3_INTROSCREEN_INFO
+LANG_ENGLISH        "150e division d'infanterie légère"
+
+REFERENCE           BER3_WARP_REICH
+LANG_ENGLISH        "REICHSTAG_STEPS"
+
+REFERENCE           BER3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Reichstag, Berlin"
+
+REFERENCE           BER3_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Petrenko"
+
+REFERENCE           BER3_OBJ1
+LANG_ENGLISH        "Progressez dans les bâtiments."
+
+REFERENCE           BER3_OBJ2
+LANG_ENGLISH        "Prenez la place d'assaut."
+
+REFERENCE           BER3_HINT_PLANT_CHARGE
+LANG_ENGLISH        "Appuyez sur &&1 pour poser les explosifs"
+
+REFERENCE           BER3_OBJ3_4
+LANG_ENGLISH        "Détruisez les canons Flak 88 (plus que 4)"
+
+REFERENCE           BER3_OBJ3_3
+LANG_ENGLISH        "Détruisez les canons Flak 88 (plus que 3)"
+
+REFERENCE           BER3_WARP_INTRO
+LANG_ENGLISH        "INTRO"
+
+REFERENCE           BER3_OBJ3_2
+LANG_ENGLISH        "Détruisez les canons Flak 88 (plus que 2)"
+
+REFERENCE           BER3_OBJ3_1
+LANG_ENGLISH        "Détruisez les canons Flak 88 (plus qu'un)"
+
+REFERENCE           BER3_OBJ3
+LANG_ENGLISH        "Détruisez les canons Flak 88."
+
+REFERENCE           BER3_WARP_PLAZA
+LANG_ENGLISH        "CHARGE_PLAZA"
+
+ENDMARKER

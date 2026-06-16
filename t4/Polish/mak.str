@@ -1,0 +1,52 @@
+// Dumped from fastfile "mak".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MAK_OBJ_PLANTCHARGE
+LANG_ENGLISH        "Pomó¿ Roebuckowi za³o¿yæ ³adunki w bunkrze."
+
+REFERENCE           MAK_OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "Niech ktoœ pomo¿e Roebuckowi za³o¿yæ ³adunki."
+
+REFERENCE           MAK_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Semper Fi'"
+
+REFERENCE           MAK_INTROSCREEN_PLACE
+LANG_ENGLISH        "Atol Makin, Po³udniowy Pacyfik"
+
+REFERENCE           MAK_INTROSCREEN_DATE
+LANG_ENGLISH        "17 sierpnia 1942"
+
+REFERENCE           MAK_PLANTING
+LANG_ENGLISH        "Uzbrajanie..."
+
+REFERENCE           MAK_INTROSCREEN_INFO
+LANG_ENGLISH        "2. Batalion Piechoty Morskiej - NajeŸdŸcy Carlsona"
+
+REFERENCE           MAK_OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "Zabezpiecz wioskê."
+
+REFERENCE           MAK_OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "Spotkaj siê z drugim oddzia³em."
+
+REFERENCE           MAK_OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "PrzejdŸ do punktu ewakuacji."
+
+REFERENCE           MAK_TRUCK_TRIGGER
+LANG_ENGLISH        "Naciœnij ^3&&1^7, aby przedziurawiæ beczkê"
+
+REFERENCE           MAK_TRUCK_HINT
+LANG_ENGLISH        "Obiekty s¹ aktywowane po naciœniêciu ^3[{+usereload}]^7"
+
+REFERENCE           MAK_CONTINUED
+LANG_ENGLISH        "Ci¹g dalszy nast¹pi..."
+
+REFERENCE           MAK_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Miller - Zaginiony w akcji"
+
+REFERENCE           MAK_OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "Uratuj drugi oddzia³."
+
+ENDMARKER

@@ -1,0 +1,418 @@
+// Dumped from fastfile "ru_angola".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LПИРРОВА ПОБЕДА^L"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_001A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Минометы затихли... Они готовятся к атаке!"
+
+REFERENCE           ANGOLA_HINT_MORTAR_PICKUP
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы подобрать минометы"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ПРОВИНЦИЯ КУНЕНЕ, ^LКУНЕНЕ^L"
+
+REFERENCE           ANGOLA_BOARD_BUFFEL_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы залезть на броневик"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "АЛЕКС ^LМЕЙСОН^L"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_FIRST_WAVE
+LANG_RUSSIAN        "Уничтожить первую волну танков"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "^LЦРУ^L ПОДРАЗДЛЕНИЕ СПЕЦОПЕРАЦИЙ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_006A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Как и мы все."
+
+REFERENCE           ANGOLA_CONVOY_WARNING
+LANG_RUSSIAN        "Вы покидаете зону боевых действий"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "2 ИЮЛЯ ^L1986^L"
+
+REFERENCE           ANGOLA_BREAK_LOCK
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы сломать замок"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_006A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Огонь его прикончил."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Держись!"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           ANGOLA_MORTAR_TUTORIAL
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7 чтобы выбрать мины"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_TECHNICAL
+LANG_RUSSIAN        "Уничтожить стрелков у станковых пулеметов"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           ANGOLA_STRAFE_FAIL
+LANG_RUSSIAN        "Конвой был уничтожен. Необходимо ликвидировать больше танков."
+
+REFERENCE           ANGOLA_CALL_FAIL
+LANG_RUSSIAN        "Конвой был уничтожен. Необходимо связаться по рации с Хадсоном."
+
+REFERENCE           ANGOLA_HELI_MG
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7 чтобы открыть огонь из пулемета"
+
+REFERENCE           ANGOLA_BUFFEL_FAIL
+LANG_RUSSIAN        "Конвой был уничтожен. Нужно возглавить штурм."
+
+REFERENCE           ANGOLA_STRAFE_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы запросить поддержку с воздуха"
+
+REFERENCE           ANGOLA_TANK_FAIL
+LANG_RUSSIAN        "Оборона прорвана. Уничтожено недостаточно танков."
+
+REFERENCE           ANGOLA_OBJ_DESTROY_FINAL_WAVE
+LANG_RUSSIAN        "Уничтожить последнюю волну с помощью вертолета Хадсона [&&1 из 3]"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_019A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Я с ними разберусь!"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_TANKS
+LANG_RUSSIAN        "Уничтожить первую волну танков"
+
+REFERENCE           ANGOLA_HELI_STRAFE
+LANG_RUSSIAN        "Используйте ^3[{+movestick}]^3 чтобы отклоняться в стороны"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_010A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Минометный огонь... МПЛА готовятся к атаке."
+
+REFERENCE           ANGOLA_OBJ_DESTROY_MORTAR
+LANG_RUSSIAN        "Уничтожить расчеты минометов"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_RPGS
+LANG_RUSSIAN        "Помешать атаке из РПГ"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_SECOND_WAVE
+LANG_RUSSIAN        "Уничтожить вторую волну танков"
+
+REFERENCE           ANGOLA_OBJ_GET_TO_BUFFEL
+LANG_RUSSIAN        "Забраться на грузовик Савимби"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_018A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон.  Как слышно?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Блин, Мэйсон... Они повредили мне пулемет."
+
+REFERENCE           ANGOLA_OBJ_FOLLOW_BUFFEL
+LANG_RUSSIAN        "Продвигаться с конвоем"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_019A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Ты где, Хадсон?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_012A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Вперед!!!"
+
+REFERENCE           ANGOLA_OBJ_START
+LANG_RUSSIAN        "Приготовиться к атаке МПЛА"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           ANGOLA_CONVOY_FAIL
+LANG_RUSSIAN        "Вы были слишком открыты. Держитесь ближе к конвою."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_008A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Так, захожу еще раз."
+
+REFERENCE           ANGOLA_ABANDON_FAIL
+LANG_RUSSIAN        "Вы бросили конвой."
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7Hudson, they got T-62 tanks in support."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_034A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Мы не можем бросать конвой!"
+
+REFERENCE           ANGOLA_HELI_AIM
+LANG_RUSSIAN        "Цельтесь при помощи ^3[{+lookstick}]^7"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_021A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Знаем.  Савимби ведет контратаку."
+
+REFERENCE           ANGOLA_HELI_ROCKET
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7 для запуска ракет"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_017A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Не смей покидать конвой!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_1_01_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Нет!!!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_003A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Они идут! Они идут, братья мои!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_002A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Мне нужна помощь!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_004A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Мэйсон!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_005A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Савимби, помоги..."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_025A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Люди Савимби скоро должны выйти на связь."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Вот зараза!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7Break!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_036A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Человека не всегда можно спасти."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_030A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Не отходить! Надо защищать конвой!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_009A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Нам надо идти, чтобы не последовать за ним."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_011A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Если им нужен бой, они его получат!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_015A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Не отходи от машин."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_016A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Ты куда собрался, Мэйсон?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Черт, Хадсон!  У противника танки Т-62."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_037A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Я в воздухе к северу от вас. Силы МПЛА направляются к вашей позиции."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_M
+LANG_RUSSIAN        "^1Hudson: ^7He's got balls.  I'll give him that."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7He's got...  I'll give him that."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_023A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Что с Вудсом?  Нам известно его местоположение?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_024A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Его постоянно перебрасывают с места на место."
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_032A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Ты не должен отходить от конвоя!"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_033A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Победить можно только вместе, Мэйсон. Не отходи!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_035A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Ты слишком далеко от конвоя!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_002A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Они готовятся к атаке."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_004A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7В бой, братья мои!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_007A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Мэйсон! Стреляй по минометным расчетам!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_008A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Они за камнями."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7С минометами покончено!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_012A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон, жду твоей команды на поддержку с воздуха."
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_013A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Жду твоего сигнала, Мэйсон!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_014A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Избавься от танков, Хадсон!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_002A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Тебе придется от них избавиться."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_003A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Захожу на атаку."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Твою ж мать!  В меня стреляют с земли!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7I'm taking fire from ground!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_016A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Рано или поздно одному из них повезет!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_017A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Тебя выцеливают пулеметы на грузовике!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Молодец, Хадсон."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_018A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Я не смогу пойти на другой заход, пока ты не избавишься от пулеметов!"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_020A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Пулеметы уничтожены.  Все чисто, Хадсон!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_005A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Там еще остались танки."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7Stray fire took out the chopper guns!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_022A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Заход сделать не смогу..."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_010A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Идем, друг мой!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_023A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Давай на борт, Мэйсон."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_024A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Мэйсон, давай в БТР."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_025A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Мы готовы выдвигаться.  Давай сбоку, Мэйсон."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_011A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Они слабеют! Мы их прикончим!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_001A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Смерть МПЛА!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_003A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Наш путь к победе начался!"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_002A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Найти и добить их всех!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_004A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Мой друг с небес!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_005A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Ты многих сегодня убил, да?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_007A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Где Вудс?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_008A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7МПЛА еще не повержена, идти на спасение слишком рискованно, друзья мои."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_058A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Идти на спасение слишком рискованно, друзья мои."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_009A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Где он?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_010A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Его держит в плену контрабандист из Никарагуа."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_011A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Где?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_012A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Очень опасный человек. Примерно в двух милях к северу. На борту баржи, на реке Кубанго."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_013A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Возможно он уже мертв."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_014A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Пошли, Хадсон."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+ENDMARKER

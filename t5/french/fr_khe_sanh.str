@@ -1,0 +1,880 @@
+// Dumped from fastfile "fr_khe_sanh".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KHE_SANH_INSTRUCT_FT
+LANG_ENGLISH        "Appuyez sur ^3[{+actionslot 3}]^7 pour utiliser le lance-flammes."
+
+REFERENCE           KHE_SANH_INSTRUCTION_BARREL
+LANG_ENGLISH        "Appuyez sur ^3[{+activate}]^7 pour pousser les barils de napalm du haut de la colline."
+
+REFERENCE           KHE_SANH_INSTRUCTION_TANK_GUNFIRE
+LANG_ENGLISH        "Les balles sont inefficaces contre ce véhicule."
+
+REFERENCE           KHE_SANH_INTRO_LINE_FIVE
+LANG_ENGLISH        "^L09h00^L ^C121 janvier 1968^C"
+
+REFERENCE           KHE_SANH_INTRO_LINE_FOUR
+LANG_ENGLISH        "^LAgents^L ^C1Mason^C ^Let Hudson déjà sur le terrain.^L"
+
+REFERENCE           KHE_SANH_INTRO_LINE_ONE
+LANG_ENGLISH        "^LTransmission n°4-5-1-4. Désignation : NOVEMBRE^L"
+
+REFERENCE           KHE_SANH_INTRO_LINE_THREE
+LANG_ENGLISH        "^C1Khe Sanh^C ^Lfournira l'appui pour l'opération.^L "
+
+REFERENCE           KHE_SANH_INTRO_LINE_TWO
+LANG_ENGLISH        "^LLe GOS doit chercher des preuves de l'implication des Soviétiques au^L ^C1Viêtnam.^C"
+
+REFERENCE           KHE_SANH_OBJ_3D_DESTROY
+LANG_ENGLISH        "Détruire"
+
+REFERENCE           KHE_SANH_OBJ_3D_ENTER
+LANG_ENGLISH        "Entrer"
+
+REFERENCE           KHE_SANH_OBJ_3D_FOLLOW
+LANG_ENGLISH        "Suivre"
+
+REFERENCE           KHE_SANH_OBJ_3D_USE
+LANG_ENGLISH        "Utiliser"
+
+REFERENCE           KHE_SANH_OBJ_BREAKTHROUGH
+LANG_ENGLISH        "Repoussez l'ANV."
+
+REFERENCE           KHE_SANH_OBJ_DEFEAT_T55
+LANG_ENGLISH        "Détruisez les chars T-55. [&&1 sur 3 détruit(s)]"
+
+REFERENCE           KHE_SANH_OBJ_DEFEND_KHE
+LANG_ENGLISH        "Défendez Khe Sanh. "
+
+REFERENCE           KHE_SANH_OBJ_GET_JEEP
+LANG_ENGLISH        "Montez dans la jeep."
+
+REFERENCE           KHE_SANH_OBJ_HOLD_THE_LINE
+LANG_ENGLISH        "Tenez la position."
+
+REFERENCE           KHE_SANH_OBJ_HUDSON_SAFETY
+LANG_ENGLISH        "Mettez Hudson à l'abri dans le bunker."
+
+REFERENCE           KHE_SANH_OBJ_REPEL_ASSAULT
+LANG_ENGLISH        "Détruisez les chars T-55. [&&1 sur 6 détruit(s)]"
+
+REFERENCE           KHE_SANH_OBJ_RETAKE_HILL
+LANG_ENGLISH        "Reprenez la colline."
+
+REFERENCE           KHE_SANH_OBJ_SAVE_WOODS
+LANG_ENGLISH        "Sauvez Woods."
+
+REFERENCE           KHE_SANH_OBJ_WOODS_CLEAR_TRENCH
+LANG_ENGLISH        "Dégagez les tranchées."
+
+REFERENCE           KHE_SANH_PROMPT_BARREL
+LANG_ENGLISH        "Appuyez sur ^3[{+activate}]^7 pour mettre un coup de pied."
+
+REFERENCE           KHE_SANH_PROMPT_BARREL_DETONATE
+LANG_ENGLISH        "Appuyez sur ^3[{+attack}]^7 pour déclencher."
+
+REFERENCE           KHE_SANH_PROMPT_CHOKE
+LANG_ENGLISH        "Appuyez plusieurs fois sur ^3[{+activate}]^7 pour riposter."
+
+REFERENCE           KHE_SANH_PROMPT_CHOKE_FLASH
+LANG_ENGLISH        "Appuyez sur ^F^3[{+activate}]^7^F pour riposter."
+
+REFERENCE           KHE_SANH_PROMPT_PICKUP_DETONATOR
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour prendre le détonateur."
+
+REFERENCE           KHE_SANH_TVMISSILE_CONTROLS
+LANG_ENGLISH        "Utilisez ^3[{+lookstick}]^7 pour guider le missile pendant le vol."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_001A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7Je crois qu'il est là..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_002A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_003A_MASO
+LANG_ENGLISH        "^1MASON : ^7T'as une sale mine, Woods."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_003A_MASO_S
+LANG_ENGLISH        "^1MASON : ^7T'as une sale mine, Woods."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_003B_MASO
+LANG_ENGLISH        "^1MASON : ^7T'as vraiment une sale mine, Woods."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_003B_MASO_S
+LANG_ENGLISH        "^1MASON : ^7T'as vraiment une sale mine, Woods."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_004A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7La mine, on s'en branle dans la jungle. C'est le Viêtnam, ma poule !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_004A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS : ^7La mine, on s'en fout dans la jungle. C'est le Viêtnam, ma poule !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_005A_MASO
+LANG_ENGLISH        "^1MASON : ^7Content de te voir !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_006A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7Jason Hudson, CIA. Merci pour votre temps, Sergent."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_007A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7J'ai déjà présenté globalement la situation à Mason..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_008A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Laissez-moi remplir les blancs pour vous..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_009A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7En 64, la CIA a cessé ses opérations clandestines en Asie du Sud-est. Ils ont passé le relais aux Forces Armées."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_010A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7De là est né le GOS du MACV."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_011A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Khe Sanh est une base du Corps des Marines, mais aussi le point de départ de nos opérations transfrontalières."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_012A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Surtout Laos et Cambodge..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_013A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Missions de sabotage, propagande, reconnaissance, sauvetage de prisonniers..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_014A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7La merde habituelle, quoi..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_014A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS : ^7Comme d'hab..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_154A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Ouais, moi aussi..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_155A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Bon..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_500_US0
+LANG_ENGLISH        "^1MARINE US : ^7Allez !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_501_US0
+LANG_ENGLISH        "^1MARINE US : ^7Allez, vite ! "
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_502_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Quel BORDEL !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_502_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Quel BORDEL !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_503_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Attention !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_504_WOOD
+LANG_ENGLISH        "^1WOODS : ^7ATTENTION !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_505_WOOD
+LANG_ENGLISH        "^1WOODS : ^7MEEEERDE !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_505_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7AAAAAAH !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_506_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Raaaaarrrgh !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_507_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Couvre-moi !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_700A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Hudson était hors-jeu et Khe Sanh était assiégé. Mais comme pour Weaver, t'as risqué ta peau pour le sauver."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_701A_MASO
+LANG_ENGLISH        "^1MASON : ^7Hudson était un cube de glace, mais c'est ce que j'appréciais chez lui."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_701A_MASO_S
+LANG_ENGLISH        "^1MASON : ^7Hudson était un cube de glace, mais c'est ce que j'appréciais chez lui."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_702A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7L'objectif principal, c'était de rejoindre Hué, mais vous êtes tous restés défendre Khe Sanh. C'était pas ça, l'objectif."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_703A_MASO
+LANG_ENGLISH        "^1MASON : ^7Vous devez pas connaître Woods. Il savait que Khe Sanh avait besoin de nous. Le choix était fait d'avance."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_704A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Tout doux, Hudson."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S01_705A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Ça va aller, Hudson. Bouge pas..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_015A_RED1
+LANG_ENGLISH        "^1MARINE US : ^7Dégagez la piste ! Dégagez la piste !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_016A_RED1
+LANG_ENGLISH        "^1MARINE US : ^7EN APPROCHE !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_017A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Mason ! Par ici !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_017B_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Mason ! Par ici ! Hudson est touché."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_018A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Il faut le bouger."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_019A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Amène-le au bunker ! Je te couvre. VITE !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_100A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Super journée pour débarquer !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_101A_MASO
+LANG_ENGLISH        "^1MASON : ^7Je viens pour la rencontre avec les Russes !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_102A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ben, ça va devoir attendre !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_103A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On se replie ! On se replie !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_156A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7MERDE !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S02_156A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7AAAAAAH !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_021A_MASO
+LANG_ENGLISH        "^1MASON : ^7Hudson ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_022A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7Je vais bien..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_026A_MASO
+LANG_ENGLISH        "^1MASON : ^7Il faut bouger, Hudson !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_027A_HUDS
+LANG_ENGLISH        "^1HUDSON : ^7Je te suis !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_030A_RED2
+LANG_ENGLISH        "^1MARINE US : ^7Merde... GRENAAAAADE !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_030A_RED2_S
+LANG_ENGLISH        "^1MARINE US : ^7GRENAAAAADE !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_033A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Allez !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_034A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_034A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Merde !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_035A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Allez, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_036A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S03_036A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Merde !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_037A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est pas terminé... On y va !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_038A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Merde ! Des fantassins viennent droit sur nous !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_038A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS : ^7Là ! Des fantassins viennent droit sur nous !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_039A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7On a une rangée de barils de napalm enterrés à vingt mètres environ !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_040A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Appuie là-dessus"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_041A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Mine fougasse, Mason."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_042A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Les forces locales les adorent..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_043A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Utilise-les si besoin."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_044A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ils arrivent, Mason..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_045A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Pas encore..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_046A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Pas encore..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_047A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7ALLEZ !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_048A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Vas-y, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_049A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Tire sur les traînards !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_050A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde, trop tôt ! Ils avancent encore !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_050A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Trop tôt ! Ils avancent encore !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_051A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Trop tard, Mason ! Ils sont presque sur nous !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_052A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Aux mitrailleuses !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_053A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Prends celle de droite !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_054A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Amenez-vous salopards !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_055A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Raaaaarrrgh !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_056A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Allez, qu'ils s'amènent !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_056B_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Amenez-vous, bande de rats !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_057A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Bon sang !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_058A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Prends ce China Lake, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_059A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Faut utiliser des grenades !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_060A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Allez !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_061A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ils percent notre périmètre !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_062A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Pas de fougasse pour les repousser, cette fois."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_063A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Il va falloir improviser, Mason."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_064A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Il en faut plus !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_065A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il faut qu'on les allume !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_066A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Allez, MASON ! Allez !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_104A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde... Des blindés s'amènent ici... T-55 russes !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_104A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Des blindés s'amènent ici... T-55 russes !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_105A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ce China Lake ne fera pas le poids !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_106A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il nous faut un truc plus lourd !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_107A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Avec moi..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_108A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Chars russes... Pas étonnant qu'ils soient en forme !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_109A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Là. Cette roquette LAW va les mettre en pièces."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_110A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Cette roquette va les mettre en pièces."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_111A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Colle-leur ça dessus, Mason."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_112A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde... Ces salauds n'abandonnent pas !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_112A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Ces salauds n'abandonnent pas !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_113A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Allez !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_114A_MAR1_M
+LANG_ENGLISH        "^1MARINE US : ^7On n'a presque plus de munitions ! Il y a une cache d'armes dans le bunker de droite..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_115A_MAR1_M
+LANG_ENGLISH        "^1MARINE US : ^7Bon sang !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_116A_MAR1_M
+LANG_ENGLISH        "^1MARINE US : ^7... Mais on peut pas l'atteindre ! ... Ils ont bloqué notre flanc droit !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_117A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Ces barils... c'est bien du napalm ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_118A_MAR1_M
+LANG_ENGLISH        "^1MARINE US : ^7Ouais... on s'est fait repousser avant d'avoir pu les enterrer."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_119A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Bon à savoir... Marines, tenez votre position."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_120A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7On y va putain."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_120A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS : ^7Allez !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_121A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Allez !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_122A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Prends ce qu'il faut, on attaque le flanc gauche."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_123A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Marines, préparez-vous à avancer !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_124A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Bousillez-les !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_125A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ça devrait les retenir."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_126A_MAR1
+LANG_ENGLISH        "^1MARINE US : ^7Ils lancent un nouvel assaut. Côté sud-est !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_127A_HUDS
+LANG_ENGLISH        "^1HUDSON : ^7Vers le QG !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_128A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Sur la colline !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_129A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Abrite-toi dans les trous !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_130A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7À couvert !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_131A_HUDS
+LANG_ENGLISH        "^1HUDSON : ^7Allez !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_132A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7ATTENTION !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_133A_HUDS
+LANG_ENGLISH        "^1HUDSON : ^7Ce sont nos propres mortiers ! Ils savent pas qu'on est là ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_134A_RED1
+LANG_ENGLISH        "^1MARINE US : ^7Attention ! Deux cinq ! Arrêtez de tirer !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_135A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On continue !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_136A_HUDS
+LANG_ENGLISH        "^1HUDSON : ^7Attention à la mitrailleuse !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_137A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde ! Ils ont Ève !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_139A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ève la destructrice, notre char lance-flammes !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_141A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7D'accord... On s'en charge."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_142A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7L'équipage !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_143A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Je veux ce camion intact !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_144A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Bon sang ! Je peux pas m'approcher !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_146A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Moi qui le prenais pour une femmelette..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_146A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Et moi qui pensais..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_147A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Lance-roquettes !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_148A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Brûle-les, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_149A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7OUAIS !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_150A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Je crois qu'on les a tous eus..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_151A_HUDS
+LANG_ENGLISH        "^1HUDSON : ^7C'est fini..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_152A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Non... C'est juste le début d'autre chose..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_153A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7... Ils vont revenir."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_157A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Prends ce TOW !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_158A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Dans le mille !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_159A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On continue."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_160A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7On n'a plus le temps."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_161A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Putain !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_162A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est le Viêtnam, ma poule."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_402A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Cette roquette va les foutre en l'air."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_403A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Allume-les, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_404A_RED1
+LANG_ENGLISH        "^1MARINE US : ^7Attention ! Deux Cinq ! Cessez de tirer ! Cessez de tirer !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_406A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Maintenant, c'est une jeep !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_407A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Remontez, et montez sur le TOW !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_408A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ce truc est bâti comme un char !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_409A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ouais... mais bien plus facile à manoeuvrer !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_410A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Bowman !!!"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_411A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN : ^7T'as une sale mine, Mason. Content de te voir, Alex. Sérieusement."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_411A_BOWM_M_S
+LANG_ENGLISH        "^1BOWMAN : ^7T'as une sale mine, Mason. Content de te voir, Alex. Sérieusement."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_411B_BOWM_M
+LANG_ENGLISH        "^1BOWMAN : ^7T'as vraiment une sale tronche, Mason."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_412A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Ouais... C'est le Vietnam qui fait ça..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S04_414A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7Jason Hudson, CIA - On est là pour parler de la rencontre avec les Russes au Laos..."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S05_405A_RED3_F
+LANG_ENGLISH        "^1MARINE US : ^7D'autres Viets arrivent ! Infanterie et blindés !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_300A_RED3
+LANG_ENGLISH        "^1PILOTE F4 : ^7Six. Red Rider."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_301A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Quelle est votre position ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_302A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Je ne reçois pas votre signal."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_303A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Pas encore. Et vous, les gars ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_304A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Nom de dieu !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_305A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Cinq-cinq-Zéro-Deux. Non, c'est négatif !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_306A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7On a des tirs d'artillerie sur la piste, six."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_307A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Un-sept, ici Red Rider. À vous."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_308A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Négatif, j'ai commencé mon approche."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_309A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Mayday, mayday."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_310A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Vous approchez, trois-sept."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_311A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Quel est votre statut ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_312A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Tenez bon, deux-neuf. On vous couvre."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_315A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Quelqu'un voit le lance-roquettes ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_316A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Non, vérifiez l'autre côté !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_317A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Négatif. Négatif."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_327A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Ordre annulé. Fichez le camp de là-bas."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_330A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Déplacez-vous d'un kilomètre à l'ouest. On se retrouve là-bas."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_332A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Ajustez vos tirs !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_334A_RED3_S
+LANG_ENGLISH        "^1MARINE US : ^7Où est cet enfoiré d'Arc Light ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_335A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Allez, allez."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_336A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7On y est, six."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_338A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Je refais un passage, restez avec moi."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_342A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Merde. Un tas de mortiers à gauche de la piste."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_343A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Jeeps et camions au nord."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_344A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Il dit qu'ils ont repéré des chars ennemis. Deux kilomètres au nord-est."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_345A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Serrez les fesses !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_346A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Hercules en feu. Au bout de la piste."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_347A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Six, vous m'avez entendu ?"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_348A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Les salopards !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_348A_RED3_S
+LANG_ENGLISH        "^1MARINE US : ^7Les salopards !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_349A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Évitez, je répète, évitez le combat."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_353A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Feu. Juste là-bas."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_357A_RED4
+LANG_ENGLISH        "^1PILOTE F4 : ^7Ok, en attente."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_358A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Répétez, je vous prie."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_359A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Artillerie !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_360A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7En attente. Donnez-moi le feu vert."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_361A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Carburant bas. Arrivée deux minutes."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_363A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Ils doivent avoir toute une division planquée par là !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_363A_RED4_S
+LANG_ENGLISH        "^1MARINE US : ^7Ils doivent avoir toute une division planquée par là !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_366A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7En place, six. En attente."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_367A_F4P1_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Bien reçu, Big 6. Red Rider en approche. 2 minutes. Patientez."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_368A_F4P1_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Attention, Red Rider en position. Baissez la tête."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_368A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Répétez."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_369A_F4P1_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Explosifs puissants sur la cible. Bonne journée. Red Rider, terminé."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_370A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7Bon sang !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_371A_B52R_F
+LANG_ENGLISH        "^1PILOTE B-52 : ^7Arc Light, dans 10 minutes."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_372A_B52R_F
+LANG_ENGLISH        "^1PILOTE B-52 : ^7Arc Light, dans 5 minutes."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_373A_B52R_F
+LANG_ENGLISH        "^1PILOTE B-52 : ^7Arc Light, dans 2 minutes."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_374A_B52R_F
+LANG_ENGLISH        "^1PILOTE B-52 : ^7Arc Light, dans 1 minute."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_384A_B52R
+LANG_ENGLISH        "^1PILOTE B-52 : ^7Arc Light commençons largage."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_390A_B52R
+LANG_ENGLISH        "^1PILOTE B-52 : ^7Arc Light en verrouillage radar."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_508A_RED4
+LANG_ENGLISH        "^1MARINE US : ^7Venez m'aider !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_509A_RED3
+LANG_ENGLISH        "^1MARINE US : ^7OK... à trois !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_900A_RDDJ_F
+LANG_ENGLISH        "^1DJ RADIO : ^7Vous écoutez l'émission psychédélique de l'AFVN, je suis le soldat Zach Johnson, notre boîte postale est le 96309."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_901A_RDDJ_F
+LANG_ENGLISH        "^1DJ RADIO : ^7Envoyez une requête à ce numéro, et quand elle arrive, on l'ouvre comme ça [bruissement de papier], on la lit, on sort le disque, et on le passe à la radio. Comme celui-là... "
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_902A_RDDJ_F
+LANG_ENGLISH        "^1DJ RADIO : ^7Fortunate Son, des CCR."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_903A_RDDJ_F
+LANG_ENGLISH        "^1DJ RADIO : ^7C'est dédié au Sergent Vedder, alias Dennis la Menace, et à tous nos gars du RPO. Vous les aurez."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_904A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Tiens cette position !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_905A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Prends ce LAW, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_906A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Sers-toi des commandes pour guider le TOW !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_907A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Prends cette radio, Mason, et demande une frappe au napalm !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_908A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Tiens-toi prêt !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_909A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Joli !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_910A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Beau tir !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_911A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Tu les as eus !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_912A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Continue !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_913A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ils l'ont senti passer !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_914A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Touché !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_915A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Un de moins !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_916A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Mason ! Fait venir les Phantoms !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_917A_MASO
+LANG_ENGLISH        "^1MASON : ^7VF 143 ! Autorisation Sierra Oscar Golf X-ray. Bombardement prioritaire sur mon ordre !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_918A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Bien reçu, X-ray. VF 143 en attente."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_919A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Affirmatif, X-ray. On y va."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_920A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Coordonnées reçues. Baissez la tête, X-ray."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_921A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Compris, X-ray. On attaque."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_922A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7VF 143. Commençons bombardement."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_923A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Compris, X-ray. En approche pour mitraillage."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_924A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Compris. En attente, X-ray."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_925A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7VF 143 en approche."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_926A_B52R_F
+LANG_ENGLISH        "^1PILOTE F4 : ^7Reçu, X-ray. On vise le secteur."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_927A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Va à ce bunker !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_928A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Il faut détruire les chars !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_929A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Débarrasse-nous des chars !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_930A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Occupe-toi des chars !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_931A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Les chars, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_932A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Les chars... Bousille ces saletés, Mason !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_933A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Détruis ces putains de chars !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_933A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7Détruis ces chars !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_934A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ces foutus chars n'iront nulle part !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_935A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Merde ! D'autres chars !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_935A_WOOD_S
+LANG_ENGLISH        "^1WOODS : ^7D'autres chars !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_936A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7C'est pas terminé."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_937A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Avec moi."
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_938A_WOOD_M
+LANG_ENGLISH        "^1WOODS : ^7Parlez-moi !"
+
+REFERENCE           KHE_SANH_VOX_KHE1_S99_940A_WOOD
+LANG_ENGLISH        "^1WOODS : ^7Ah ben voilà, je préfère ça !"
+
+REFERENCE           KHE_SANH_WOODS_JAM_FAIL
+LANG_ENGLISH        "Woods a été tué !"
+
+ENDMARKER

@@ -1,0 +1,58 @@
+// Dumped from fastfile "sniper".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SNIPER_OBJ_1
+LANG_ENGLISH        "Restez avec le sergent Reznov."
+
+REFERENCE           SNIPER_HINT_CROUCH
+LANG_ENGLISH        "Appuyez sur [{gocrouch}] pour vous accroupir."
+
+REFERENCE           SNIPER_OBJ_2
+LANG_ENGLISH        "Supprimez tous les allemands dans la rue."
+
+REFERENCE           SNIPER_OBJ_3
+LANG_ENGLISH        "Suivez le sergent Reznov."
+
+REFERENCE           SNIPER_OBJ_5
+LANG_ENGLISH        "Couvrez vos camarades avec des tirs de couverture embusqués."
+
+REFERENCE           SNIPER_INTROSCREEN_DATE
+LANG_ENGLISH        "17 septembre 1942"
+
+REFERENCE           SNIPER_INTROSCREEN_PLACE
+LANG_ENGLISH        "Stalingrad, Russie"
+
+REFERENCE           SNIPER_OBJ_6
+LANG_ENGLISH        "Abattez le général Amsel."
+
+REFERENCE           SNIPER_INTROSCREEN_INFO
+LANG_ENGLISH        "Sol. Petrenko"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO2
+LANG_ENGLISH        "62e armée de fusiliers"
+
+REFERENCE           SNIPER_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Vendetta\""
+
+REFERENCE           SNIPER_OBJ_4
+LANG_ENGLISH        "Tuez le tireur embusqué ennemi."
+
+REFERENCE           SNIPER_TO_BE_CONTINUED
+LANG_ENGLISH        "À suivre..."
+
+REFERENCE           SNIPER_GENERAL_ESCAPED
+LANG_ENGLISH        "Le général s'est enfui !"
+
+REFERENCE           SNIPER_REZNOV_KILLED
+LANG_ENGLISH        "Resnov est mort par votre faute."
+
+REFERENCE           SNIPER_JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           SNIPER_EASY_PRONE_DESC
+LANG_ENGLISH        "Appuyez sur [{goprone}] pour vous allonger."
+
+ENDMARKER

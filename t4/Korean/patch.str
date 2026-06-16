@@ -1,0 +1,430 @@
+// Dumped from fastfile "patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_STATSERRORPRESTIGE
+LANG_ENGLISH        "'&&4' 계정의 계급 데이터가 손상된 것 같습니다. 계급이 가장 최근에 백업된 계급으로 복구되었습니다. &&1 레벨 &&2 명성 &&3."
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_A
+LANG_ENGLISH        "지류"
+
+REFERENCE           PATCH_STATSERROR
+LANG_ENGLISH        "'&&4' 계정의 계급 데이터가 손상된 것 같습니다. 계급이 가장 최근에 백업된 계급으로 복구되었습니다. &&1 레벨 &&2."
+
+REFERENCE           PATCH_SUB_PENS
+LANG_ENGLISH        "Sub Pens"
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_A
+LANG_ENGLISH        "부두"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "저장된 게임 데이터가 현재 게임 버전과 호환되지 않습니다. 가장 최근 임무의 시작 부분부터 시작하거나 메뉴로 돌아가주십시오."
+
+REFERENCE           PATCH_DLC_MAP_PACK_3
+LANG_ENGLISH        "지도팩 3"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_TEST
+LANG_ENGLISH        "기능 시험용 지도(개발자 전용)"
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED
+LANG_ENGLISH        "M7 총류탄 발사기  "
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_B
+LANG_ENGLISH        "운동장"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "시스템 연결 게임을 플레이 하려면 모든 사용자의 게임 버전이 동일해야 합니다. Xbox LIVE에 로그인해 최신 업데이트를 설치했는지 확인해주십시오."
+
+REFERENCE           PATCH_SP_UNLOCK_DESC
+LANG_ENGLISH        "온라인 플레이 목록과 조건 매치 게임 설정에서 본 협동 게임 모드를 선택해 플레이 해보십시오."
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_COAST
+LANG_ENGLISH        "좀비 해안"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_FACTORY
+LANG_ENGLISH        "거인이"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_D
+LANG_ENGLISH        "보일러실"
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "다른 색상 사용"
+
+REFERENCE           PATCH_SUBWAY
+LANG_ENGLISH        "Station"
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "본 게임 버전은 이 모드를 온라인에서 플레이 할 수 없습니다."
+
+REFERENCE           PATCH_PLAYER_DOESNT_HAVE_MAP_PACK
+LANG_ENGLISH        "&&2 사용 중지!\n&&1: 지도팩 미소지"
+
+REFERENCE           PATCH_MAKIN_BONUS_MAP
+LANG_ENGLISH        "보너스 마킨섬 지도"
+
+REFERENCE           PATCH_PTRS41_UPGRADED
+LANG_ENGLISH        "PTRS-41"
+
+REFERENCE           PATCH_MAKIN_DAY
+LANG_ENGLISH        "Makin Day"
+
+REFERENCE           PATCH_MAKIN_DAY_CAPS
+LANG_ENGLISH        "MAKIN DAY"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_E
+LANG_ENGLISH        "서쪽 승강장"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_A
+LANG_ENGLISH        "동쪽"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "본 서버는 ^3&&1^7 Mod를 사용하고 있습니다.\n시연을 감상하기 전에 Mod를 불러오셔야 합니다."
+
+REFERENCE           PATCH_GET_DLC
+LANG_ENGLISH        "지도 다운로드"
+
+REFERENCE           PATCH_DLC_MAP_PACK_1
+LANG_ENGLISH        "지도팩 1"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_C
+LANG_ENGLISH        "교량"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_TEST_MAP
+LANG_ENGLISH        "새로 추가된 모든 기능을 볼 수 있는 지도."
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_PARIS
+LANG_ENGLISH        "파리의 좀비"
+
+REFERENCE           PATCH_DLC_MAP_PACK_2
+LANG_ENGLISH        "지도팩 2"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_ASYLUM
+LANG_ENGLISH        "좀비 정신병원"
+
+REFERENCE           PATCH_NAZI_ZOMBIES_CAP
+LANG_ENGLISH        "나치 좀비"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_ASYLUM
+LANG_ENGLISH        "나치 좀비들이 엄청나게 몰려옵니다! 전기충격요법, 화학처리 음료수 등을 활용하고 팀원의 협동심을 발휘해 적들을 무덤으로 돌려보내십시오!"
+
+REFERENCE           PATCH_KNEEDEEP
+LANG_ENGLISH        "Knee Deep"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_D
+LANG_ENGLISH        "우물"
+
+REFERENCE           PATCH_BGATE
+LANG_ENGLISH        "Breach"
+
+REFERENCE           PATCH_NACHTFEUER
+LANG_ENGLISH        "Nightfire"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_A
+LANG_ENGLISH        "동쪽 승강장"
+
+REFERENCE           PATCH_KNEEDEEP_CAPS
+LANG_ENGLISH        "KNEE DEEP"
+
+REFERENCE           PATCH_SUBWAY_CAPS
+LANG_ENGLISH        "STATION"
+
+REFERENCE           PATCH_BGATE_CAPS
+LANG_ENGLISH        "BREACH"
+
+REFERENCE           PATCH_NACHTFEUER_CAPS
+LANG_ENGLISH        "NIGHTFIRE"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_D
+LANG_ENGLISH        "벙커"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_E
+LANG_ENGLISH        "논"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_B
+LANG_ENGLISH        "서비스 스탠드"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_C
+LANG_ENGLISH        "파편 더미"
+
+REFERENCE           PATCH_DOWNLOADABLE_CONTENT_DAMAGED
+LANG_ENGLISH        "다운로드 콘텐츠가 손상되었습니다."
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_FACTORY
+LANG_ENGLISH        "거인이 깨어나고 있습니다. 나치 좀비의 태동지에서 적과 맞서십시오. 이곳이 바로 모든 사건이 일어난 최초의 지역이자 모든 계획이 시작된 곳입니다. 여기서 모든 일을 끝낼 수 있을까요?"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_A
+LANG_ENGLISH        "조차장"
+
+REFERENCE           PATCH_MG42_UPGRADED
+LANG_ENGLISH        "MG42"
+
+REFERENCE           PATCH_STALINGRAD_CAPS
+LANG_ENGLISH        "CORROSION"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_PARIS
+LANG_ENGLISH        "파리의 좀비 설명"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_B
+LANG_ENGLISH        "마을"
+
+REFERENCE           PATCH_ONLINE
+LANG_ENGLISH        "^2online^7"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_THEATER
+LANG_ENGLISH        "좀비 극장"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_THEATER
+LANG_ENGLISH        "또 다른 좀비 단막극의 영화표를 구매해주셔서 감사합니다."
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_COAST
+LANG_ENGLISH        "좀비 해안 설명"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_B
+LANG_ENGLISH        "이물"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_SUMPF
+LANG_ENGLISH        "죽음의 늪"
+
+REFERENCE           PATCH_STALINGRAD
+LANG_ENGLISH        "Corrosion"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_SUMPF
+LANG_ENGLISH        "구더기가 득실거리는 시체가 널린 늪에서, 수 백만 마리의 언데드 일본군이 몰려옵니다. 전략을 세워 적을 방어하며 살아남으십시오!"
+
+REFERENCE           PATCH_BRANDENBURG
+LANG_ENGLISH        "Brandenburg"
+
+REFERENCE           PATCH_KWAI
+LANG_ENGLISH        "Banzai"
+
+REFERENCE           "PATCH_STG-44_UPGRADED"
+LANG_ENGLISH        "STG-44"
+
+REFERENCE           PATCH_BRANDENBURG_CAPS
+LANG_ENGLISH        "BRANDENBURG"
+
+REFERENCE           PATCH_KWAI_CAPS
+LANG_ENGLISH        "BANZAI"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_D
+LANG_ENGLISH        "선미"
+
+REFERENCE           PATCH_SUB_PENS_CAPS
+LANG_ENGLISH        "SUB PENS"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_B
+LANG_ENGLISH        "공장"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_C
+LANG_ENGLISH        "유황 누출지역"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_C
+LANG_ENGLISH        "폭포"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_E
+LANG_ENGLISH        "서쪽"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_C
+LANG_ENGLISH        "항공기 정비실"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_E
+LANG_ENGLISH        "작전실"
+
+REFERENCE           PATCH_360ONLY_MISSINGMAP
+LANG_ENGLISH        "지도를 가지고 있지 않거나 콘텐츠가 손상되었습니다. 본 지도는 Xbox LIVE 마켓플레이스에서 지도팩을 다운로드 하면 얻을 수 있습니다."
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "본 지도를 가지고 있지 않습니다. 본 지도는 PlayStation®Store에서 지도팩을 다운로드 하시면 얻으실 수 있습니다."
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "본 플레이 목록에 필요한 지도팩을 가지고 있지 않습니다. 지도팩을 다운로드하려면 PlayStation®Store를 방문해주십시오."
+
+REFERENCE           PATCH_UNHANDLEDEXCEPTION
+LANG_ENGLISH        "데이터를 읽는 도중에 오류가 발생했습니다. 저장장치가 제대로 연결되어 있는지, 게임 디스크 표면이 깨끗한지 확인해주십시오."
+
+REFERENCE           PATCH_TESLA_GUN
+LANG_ENGLISH        "운데르바페 DG-2"
+
+REFERENCE           PATCH_ZOMBIE_MAPS
+LANG_ENGLISH        "나치 좀비"
+
+REFERENCE           PATCH_ZOMBIE_MAPS_DESC
+LANG_ENGLISH        "단독 모드로 플레이 할 나치 좀비 레벨을 선택하십시오."
+
+REFERENCE           PATCH_CANNOT_FIND_ZONE
+LANG_ENGLISH        "불러오려는 콘텐츠를 찾을 수 없거나 다른 지역용 콘텐츠입니다. 디스크가 깨끗한지, 해당 다운로드 콘텐츠를 가지고 있는지 확인해주십시오."
+
+REFERENCE           PATCH_30CAL_UPGRADED
+LANG_ENGLISH        "브라우닝 M1919"
+
+REFERENCE           PATCH_BAR_UPGRADED
+LANG_ENGLISH        "BAR"
+
+REFERENCE           PATCH_COLT45_UPGRADED
+LANG_ENGLISH        "콜트 M1911"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP_UPGRADED
+LANG_ENGLISH        "단축형 산탄총"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_UPGRADED
+LANG_ENGLISH        "2연발 산탄총"
+
+REFERENCE           PATCH_M1GARAND_UPGRADED
+LANG_ENGLISH        "M1 개런드"
+
+REFERENCE           PATCH_FG42_UPGRADED
+LANG_ENGLISH        "FG42"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_D
+LANG_ENGLISH        "공장"
+
+REFERENCE           PATCH_GEWEHR43_UPGRADED
+LANG_ENGLISH        "게베어 43"
+
+REFERENCE           PATCH_M1A1CARBINE_UPGRADED
+LANG_ENGLISH        "M1A1 카빈"
+
+REFERENCE           PATCH_RUSSIAN_HERO_DESC
+LANG_ENGLISH        "스탈린조차도 차마 눈을 마주치지 못했던 남자, 니콜라이. 그의 눈을 보면 살아있는 모든 생명체를 증오하는 마음에 불타는 남자가 보인다. 니콜라이의 옷장에는 해골이 즐비하고, 그 해골 중 대부분은 아직도 피부가 붙어있다. \n...\n전쟁이 발발하기 전에는 정략결혼, 자신보다 높은 지위의 사람 암살하기 등을 통해 빠르게 출세가도를 달렸다. 하지만 5번째 아내가 수상하게도 니콜라이의 도끼를 사용해 자신의 목을 베어버리자 출세에 제동이 걸리게 되었다. 사람들은 니콜라이의 부인이 당 고위관리와 바람을 피워서 그런 거라고 수군거렸고, 그 불행한 사고 후에 당의 모든 사람들에게 니콜라이는 악명을 떨치게 되었다. 그리고 얼마 지나지 않아 소문은 스탈린의 귀에도 들어갔다. 심지어 스탈린이 니콜라이를 두려워하기도 했다. 전쟁이 발발하자 니콜라이는 최전방에 배치되었고, 그곳에서 자기 연민과 술에 빠져 사람들의 기억 속에서 잊혀졌다. \n...\n니콜라이는 자신의 입김을 비롯한 수많은 무기를 사용할 수 있다.\n"
+
+REFERENCE           PATCH_MP40_UPGRADED
+LANG_ENGLISH        "MP40"
+
+REFERENCE           PATCH_PPSH_UPGRADED
+LANG_ENGLISH        "PPSh-41"
+
+REFERENCE           PATCH_SHOTGUN_UPGRADED
+LANG_ENGLISH        "M1897 산탄총"
+
+REFERENCE           PATCH_357MAGNUM_UPGRADED
+LANG_ENGLISH        "357구경 매그넘"
+
+REFERENCE           PATCH_THOMPSON_UPGRADED
+LANG_ENGLISH        "톰슨"
+
+REFERENCE           PATCH_TYPE100_SMG_UPGRADED
+LANG_ENGLISH        "100식"
+
+REFERENCE           PATCH_TYPE99_RIFLE_UPGRADED
+LANG_ENGLISH        "아리사카"
+
+REFERENCE           PATCH_PANZERSCHREK_UPGRADED
+LANG_ENGLISH        "판저슈렉"
+
+REFERENCE           PATCH_RAY_GUN_UPGRADED
+LANG_ENGLISH        "광선총"
+
+REFERENCE           PATCH_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "운데르바페 DG-2  "
+
+REFERENCE           PATCH_M2_FLAMETHROWER_UPGRADED
+LANG_ENGLISH        "M2 화염방사기  "
+
+REFERENCE           PATCH_KAR98K_UPGRADED
+LANG_ENGLISH        "Kar98k  "
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED_NONADE
+LANG_ENGLISH        "M7 총류탄 발사기  "
+
+REFERENCE           PATCH_JAPANESE_HERO_NAME
+LANG_ENGLISH        "타케오 마사키"
+
+REFERENCE           PATCH_HERO_BIO_CAP
+LANG_ENGLISH        "인물 설명"
+
+REFERENCE           PATCH_AMERICAN_HERO_DESC
+LANG_ENGLISH        "미국의 영웅, 탱크 뎀시. 탱크는 장전된 총, 미녀, 총을 쏠 표적만 있다면 행복한 사나이다. 하지만 자신을 배신한 사람은 창자를 빼내어 탄띠로 쓰는 등 인정사정 봐주지 않는 것으로 유명하다. \n...\n뎀시와 그의 동료들은 펠레리우섬 전투가 벌어지기 몇 일 전에 적에게 생포되어 대나무 우리에 갇힌 후, 세균이 득시글 거리는 물에 반쯤 잠긴 채 2주 동안이나 있었지만, 몸 어딘가에 숨겨놓고 있던 자신의 무공훈장과 머리핀만 가지고 우리를 빠져 나와 적을 모두 물리치고 탈출했다. 그로 인해 이번 임무에 차출되었다. \n...\n뎀시에 관한 전쟁 전과 후의 기록은 전해지지 않고 있다. 오직 탱크 뎀시의 전설, 그리고 그의 업적만이 전해져 내려올 뿐이다.\n"
+
+REFERENCE           PATCH_AMERICAN_HERO_NAME
+LANG_ENGLISH        "탱크 뎀시"
+
+REFERENCE           PATCH_RUSSIAN_HERO_NAME
+LANG_ENGLISH        "니콜라이 베린스키"
+
+REFERENCE           PATCH_JAPANESE_HERO_DESC
+LANG_ENGLISH        "타케오는 국가에 대한 충성, 전사의 참모습과 명예를 지키는 일을 자신의 목숨보다 우선시한다. 그는 묵묵히 자신의 카타나에 신념을 담아 앞을 가로 막는 적을 베어 넘기고 있다. \n...\n타케오는 부유한 집안에서 태어났다. 그의 집안은 수 세기 동안 권력을 가지고 있었으며 명성이 자자한 무사이자 사무라이 집안이다. 그리고 타케오도 집안의 혈통에 따라 무사로 키워졌다. 타케오의 부모는 타케오가 5살 때 길거리에서 자신의 검을 들고 겁에 질린 고양이의 꼬리를 자르며 노는 것을 보고 커서 마사키 집안의 이름을 드높일 거라 예감했다. \n...\n전쟁은 타케오에게 자신보다 천한 사람의 본성을 탐구하고 피에 대한 굶주림을 해소할 수 있는 최고의 기회이다. 타케오의 빠르고 강력한 공격에 희생되는 사람은 모두 그가 깨달음을 얻는데 도움을 주고 있다.\n"
+
+REFERENCE           PATCH_GERMAN_HERO_NAME
+LANG_ENGLISH        "리히토펜 박사"
+
+REFERENCE           PATCH_GERMAN_HERO_DESC
+LANG_ENGLISH        "추축군 통제 하에 있는 모든 전쟁포로수용소의 벽에는 이런 문구가 새겨져 있다. \"군의관을 조심하라.\" 굶주림에 헐떡이더라도, 이질에 걸려서 힘이 없더라도, 총알에 맞아 죽는 한이 있더라도, \"군의관을 조심하라.\"\n\n...\n희생자들이 죽기 전에 극심한 고통을 받아 지르는 비명소리를 좋아해 도살자라 불리는 리히토펜 박사. 리히토펜은 군생활 동안 항상 고문과 심문기술연구의 선봉에 서왔다. 치료가 불가능한 반사회적 이상 성격자인 리히토펜은 자연적인 죽음과 살인을 구분하지 못한다. 사람이 어떤 방법으로 죽던 간에 희생자는 희생자일 뿐이다. \n...\n리헤토펜 박사는 죽기 바로 직전, 공포에 질린 자세를 취하고 있는 박제 동물을 수집하고 있다.\n"
+
+REFERENCE           PATCH_DRUM
+LANG_ENGLISH        "Battery"
+
+REFERENCE           PATCH_DRUM_CAPS
+LANG_ENGLISH        "BATTERY"
+
+REFERENCE           PATCH_VODKA
+LANG_ENGLISH        "Revolution"
+
+REFERENCE           PATCH_VODKA_CAPS
+LANG_ENGLISH        "REVOLUTION"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_A
+LANG_ENGLISH        "거리"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_B
+LANG_ENGLISH        "안뜰"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_C
+LANG_ENGLISH        "수위실"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_D
+LANG_ENGLISH        "공원"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_E
+LANG_ENGLISH        "주차장"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_A
+LANG_ENGLISH        "탄공"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_B
+LANG_ENGLISH        "E 포대"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_C
+LANG_ENGLISH        "취사장"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_D
+LANG_ENGLISH        "탑"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_E
+LANG_ENGLISH        "크레인"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_A
+LANG_ENGLISH        "상점 앞쪽"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_B
+LANG_ENGLISH        "발코니"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_C
+LANG_ENGLISH        "증류소"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_E
+LANG_ENGLISH        "하적장"
+
+REFERENCE           PATCH_LOADMOD_JOIN
+LANG_ENGLISH        "본 서버는 ^3&&1^7 Mod를 사용하고 있습니다.\n시연에 참여하기 전에 Mod를 불러오셔야 합니다."
+
+REFERENCE           PATCH_SERVER_AUTHFAIL
+LANG_ENGLISH        "서버 인증에 실패했습니다. 나중에 다시 시도해주십시오."
+
+REFERENCE           PATCH_BROUGHT_TO_YOU
+LANG_ENGLISH        "Brought to you by..."
+
+REFERENCE           PATCH_UNLOADMOD
+LANG_ENGLISH        "본 서버는 Mod를 실행 중이지 않습니다.\n서버에 참가하기 전에 Mod를 해제해주십시오."
+
+REFERENCE           PATCH_ADD_CURRENT_SERVER_TO_FAVORITES
+LANG_ENGLISH        "현재 서버를 즐겨찾기에 추가"
+
+REFERENCE           PATCH_OFFLINE
+LANG_ENGLISH        "^1offline^7"
+
+ENDMARKER

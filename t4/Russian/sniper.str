@@ -1,0 +1,58 @@
+// Dumped from fastfile "sniper".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SNIPER_OBJ_1
+LANG_ENGLISH        "Оставаться с сержантом Резновым"
+
+REFERENCE           SNIPER_HINT_CROUCH
+LANG_ENGLISH        "Нажмите [{gocrouch}], чтобы принять положение пригнувшись."
+
+REFERENCE           SNIPER_OBJ_2
+LANG_ENGLISH        "Уничтожить всех немцев на улице"
+
+REFERENCE           SNIPER_OBJ_3
+LANG_ENGLISH        "Следовать за сержантом Резновым"
+
+REFERENCE           SNIPER_OBJ_5
+LANG_ENGLISH        "Поддержать товарищей снайперским огнем"
+
+REFERENCE           SNIPER_INTROSCREEN_DATE
+LANG_ENGLISH        "17 сентября 1942 года"
+
+REFERENCE           SNIPER_INTROSCREEN_PLACE
+LANG_ENGLISH        "Сталинград, СССР"
+
+REFERENCE           SNIPER_OBJ_6
+LANG_ENGLISH        "Убить генерала Амзеля"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO
+LANG_ENGLISH        "Рядовой Петренко"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO2
+LANG_ENGLISH        "62-я армия"
+
+REFERENCE           SNIPER_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Вендетта'"
+
+REFERENCE           SNIPER_OBJ_4
+LANG_ENGLISH        "Ликвидировать вражеского снайпера"
+
+REFERENCE           SNIPER_TO_BE_CONTINUED
+LANG_ENGLISH        "Продолжение следует...."
+
+REFERENCE           SNIPER_GENERAL_ESCAPED
+LANG_ENGLISH        "Генерал скрылся!"
+
+REFERENCE           SNIPER_REZNOV_KILLED
+LANG_ENGLISH        "Из-за вас погиб Резнов"
+
+REFERENCE           SNIPER_JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           SNIPER_EASY_PRONE_DESC
+LANG_ENGLISH        "Держите [{goprone}] , чтобы лечь"
+
+ENDMARKER

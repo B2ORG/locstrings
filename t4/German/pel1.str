@@ -1,0 +1,61 @@
+// Dumped from fastfile "pel1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1_OBJECTIVE2A
+LANG_ENGLISH        "Durchbrechen Sie die japanischen Verteidigungen."
+
+REFERENCE           PEL1_INTROSCREEN_PLACE
+LANG_ENGLISH        "White Beach, Peleliu"
+
+REFERENCE           PEL1_OBJECTIVE1
+LANG_ENGLISH        "Greifen Sie den Strand an."
+
+REFERENCE           PEL1_INTROSCREEN_DATE
+LANG_ENGLISH        "15. September 1944"
+
+REFERENCE           PEL1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Geringer Widerstand'"
+
+REFERENCE           PEL1_INTROSCREEN_INFO
+LANG_ENGLISH        "1. Marinedivision"
+
+REFERENCE           PEL1_OBJECTIVE2B
+LANG_ENGLISH        "Verschaffen Sie sich Zutritt zum japanischen Bunker."
+
+REFERENCE           PEL1_OBJECTIVE1A
+LANG_ENGLISH        "Fordern Sie einen Raketenschlag auf die feindliche Küstenlinie an."
+
+REFERENCE           PEL1_OBJECTIVE2C
+LANG_ENGLISH        "Sichern Sie den japanischen Bunker."
+
+REFERENCE           PEL1_OBJECTIVE2D
+LANG_ENGLISH        "Stoßen Sie zu Ihrem Trupp."
+
+REFERENCE           PEL1_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           PEL1_ROCKETS_AVAIL
+LANG_ENGLISH        "Raketenschläge sind jetzt verfügbar."
+
+REFERENCE           PEL1_ROCKETS_ALWAYS_AVAIL
+LANG_ENGLISH        "Raketenschläge können jetzt beliebig gegen feindliche Stellungen eingesetzt werden."
+
+REFERENCE           PEL1_ROCKET_HOWTO
+LANG_ENGLISH        "Drücken Sie [{+actionslot 4}] und dann [{+attack}], um einen\nRaketenschlag gegen die japanische Verteidigung anzufordern."
+
+REFERENCE           PEL1_OBJECTIVE2E
+LANG_ENGLISH        "Schalten Sie die Japaner in den Mörsergruben und in deren Nähe aus."
+
+REFERENCE           PEL1_OBJECTIVE2F
+LANG_ENGLISH        "Fordern Sie Raketenangriffe gegen japanische Panzer an [2 von 2]."
+
+REFERENCE           PEL1_OBJECTIVE2G
+LANG_ENGLISH        "Fordern Sie Raketenangriffe gegen japanische Panzer an [1 von 2]."
+
+REFERENCE           PEL1_OBJECTIVE2H
+LANG_ENGLISH        "Fordern Sie Raketenangriffe gegen japanische Panzer an."
+
+ENDMARKER

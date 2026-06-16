@@ -1,0 +1,889 @@
+// Dumped from fastfile "ru_monsoon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LЦЕЛЕРИЙ^L"
+
+REFERENCE           MONSOON_CHUTE_DEPLOYED
+LANG_RUSSIAN        "Парашют открыт"
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ГОРЫ ХКАБАБО РАЗИ, ^LМЬЯНМАР^L"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Ты посмотри. Да Менендес здесь целую армию сныкал, твою мать."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Медленно и спокойно..."
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "ДЭВИД МЕЙСОН // ПОЗЫВНОЙ: ^LСЕКТОР^L"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_003A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Ты смотри."
+
+REFERENCE           MONSOON_HACKING_CHAMBER_DOOR_DONE
+LANG_RUSSIAN        "Переполнение буфера"
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "АНТИТЕРРОРИСТИЧЕСКАЯ ГРУППА ^LОКСО^L"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_038A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Двигаем!"
+
+REFERENCE           MONSOON_OBJ_ESCAPE_LAB
+LANG_RUSSIAN        "Встретиться с эвакуационной командой"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_005A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7ЭМИ-Гранаты уничтожат их маскировку..."
+
+REFERENCE           MONSOON_PLAYER_SHIELD_HINT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять щит"
+
+REFERENCE           MONSOON_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "20 АПРЕЛЯ ^L2025^L"
+
+REFERENCE           MONSOON_OBJ_ASD_BOSSES
+LANG_RUSSIAN        "Уничтожить все ASD"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_016A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Еще разок, поехали..."
+
+REFERENCE           MONSOON_LIFT_PROMPT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7, чтобы использовать лифт"
+
+REFERENCE           MONSOON_OBJ_OBTAIN_CELERIUM
+LANG_RUSSIAN        "Захватить целерий"
+
+REFERENCE           MONSOON_OBJ_DESTROY_ASD
+LANG_RUSSIAN        "Уничтожить ASD"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7База в двух километрах к югу. Среди развалин храма. Кажется, они готовятся к отправке."
+
+REFERENCE           MONSOON_FLIGHT_PATH
+LANG_RUSSIAN        "Вы слишком сильно отклонились от курса"
+
+REFERENCE           MONSOON_PROMPT_HARPER_FALL
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7, чтобы подать сигнал Харперу"
+
+REFERENCE           MONSOON_OBJ_REACH_LAB
+LANG_RUSSIAN        "Обследовать комплекс"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_020A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сзади!  Ложись!"
+
+REFERENCE           MONSOON_OBJ_INTRO_LEAP
+LANG_RUSSIAN        "Спрыгнуть с обрыва и начать спуск"
+
+REFERENCE           MONSOON_PROMPT_SWING
+LANG_RUSSIAN        "^3[{+lsleft}]^7 - перебросить канат"
+
+REFERENCE           MONSOON_TUTORIAL_WINGSUIT
+LANG_RUSSIAN        "Используйте ^3[{+lookstick}]^7 для управления"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_019A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Турели удерживают весь квадрат!"
+
+REFERENCE           MONSOON_PROMPT_GLOVES_ON
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7 и ^3[{+attack}]^7, чтобы зацепиться"
+
+REFERENCE           MONSOON_TUTORIAL_WINGSUIT_LEGACY
+LANG_RUSSIAN        "Используйте ^3[{+movestick}]^7 чтобы поворачивать"
+
+REFERENCE           MONSOON_IDKFA
+LANG_RUSSIAN        "IDKFA..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_013A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Порядок.  Ждем твоего сигнала."
+
+REFERENCE           MONSOON_TUTORIAL_WINGSUIT_PC
+LANG_RUSSIAN        "Зажав ^3[{+breath_sprint}]^7 используйте ^3[{+lookstick}]^7, чтобы лучше поворачивать."
+
+REFERENCE           MONSOON_PROMPT_WINGS
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7 и ^3[{+attack}]^7, чтобы использовать костюм-крыло"
+
+REFERENCE           MONSOON_OBJ_WINGSUIT_LAND
+LANG_RUSSIAN        "Добраться до зоны посадки"
+
+REFERENCE           MONSOON_HACKING_CHAMBER_DOOR_PORT
+LANG_RUSSIAN        "Перенаправление порта..."
+
+REFERENCE           MONSOON_OBJ_DESTROY_DOOR
+LANG_RUSSIAN        "Разрушить дверь храма"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_006A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7В лоб не возьмем!"
+
+REFERENCE           MONSOON_PROMPT_PLAYER_FALL
+LANG_RUSSIAN        "Нажмите ^3[{+gostand}] ^7, чтобы раскачаться"
+
+REFERENCE           MONSOON_PROMPT_GOGGLES_LOOK
+LANG_RUSSIAN        "^3[{+lookstick}]^7 - осмотреться"
+
+REFERENCE           MONSOON_ERIK_CONTAINER_HINT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_005A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Нам пора, Сектор."
+
+REFERENCE           MONSOON_OBJ_INFILTRATE_LAB
+LANG_RUSSIAN        "Проникнуть в исследовательский центр"
+
+REFERENCE           MONSOON_POI_LIFT
+LANG_RUSSIAN        "Работающий лифт"
+
+REFERENCE           MONSOON_TUTORIAL_TITUS
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 3}]^7 чтобы переключиться на наводящиеся боеприпасы"
+
+REFERENCE           MONSOON_FAIL_HARPER_SWING
+LANG_RUSSIAN        "Вы не смогли помочь Харперу."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_014A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Рассредоточиться! Зачистить территорию!"
+
+REFERENCE           MONSOON_FAIL_PLAYER_SWING
+LANG_RUSSIAN        "Вы не смогли зацепиться за скалу."
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           MONSOON_ASD_DETECTED
+LANG_RUSSIAN        "Обнаружена угроза ASD"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Кракен.  Это Харпер.  Враг готовится покинуть квадрат. Ждем приказов."
+
+REFERENCE           MONSOON_HACKING_CHAMBER_DOOR
+LANG_RUSSIAN        "Взлом..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_014A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Эти солдаты серьезно настроены!"
+
+REFERENCE           MONSOON_JUMP_FAIL
+LANG_RUSSIAN        "Вы не прыгнули с рассчитанной точки"
+
+REFERENCE           MONSOON_TEMPLE_TUTORIAL
+LANG_RUSSIAN        "Уничтожьте дверь с помощью разрывных зарядов"
+
+REFERENCE           MONSOON_POI_SCANNING
+LANG_RUSSIAN        "Сканирование..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_010A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Это латынь.  День сердца... или что-то вроде этого."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_023A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пора за дело, Сектор."
+
+REFERENCE           MONSOON_POI_HOSTILES
+LANG_RUSSIAN        "Множественные цели"
+
+REFERENCE           MONSOON_OBJ_LAB_DEFEND
+LANG_RUSSIAN        "Защищать зону"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_001A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Well look at that.  Menendez got a whole private... army hidden out there."
+
+REFERENCE           MONSOON_POI_HELI
+LANG_RUSSIAN        "Дрон-вертолет"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_005A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Они лучшие из лучших. Они - это мы."
+
+REFERENCE           MONSOON_POI_SENTRY
+LANG_RUSSIAN        "Автоматическая турель"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_013A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Ладно, мелкий засранец!  Теперь ты работаешь на дядю Сэма."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_036A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Вперед, уничтожить их!"
+
+REFERENCE           MONSOON_OBJ_CELERIUM_DRIVE
+LANG_RUSSIAN        "Получить целериевый диск"
+
+REFERENCE           MONSOON_CHUTE_DEPLOY
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы открыть парашют"
+
+REFERENCE           MONSOON_CHUTE_FAIL
+LANG_RUSSIAN        "Вы не смогли вовремя открыть парашют"
+
+REFERENCE           MONSOON_HELI_TURRET
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы использовать турель"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Несколько охранников на крыше. Наемники. Хорошо вооружены."
+
+REFERENCE           MONSOON_PLAYER_ASD_HINT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           MONSOON_OBJ_SALAZAR_CROSBY
+LANG_RUSSIAN        "Встретиться с Салазаром и Кросби"
+
+REFERENCE           MONSOON_ASD_ANOMALY
+LANG_RUSSIAN        "Поиск аномалии..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_016A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Устанавливай, как прикрытие!"
+
+REFERENCE           MONSOON_OBJ_LOWER_LABS
+LANG_RUSSIAN        "Проникнуть в нижнюю лабораторию"
+
+REFERENCE           MONSOON_OBJ_OPEN_CONTAINER
+LANG_RUSSIAN        "Открыть контейнер"
+
+REFERENCE           MONSOON_OBJ_OPEN_VAULT
+LANG_RUSSIAN        "Открыть сейф"
+
+REFERENCE           MONSOON_RIOTSHIELD_HINT
+LANG_RUSSIAN        "Удерживайте [{+attack}] чтобы поставить"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кросби.  Выдвигайся."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Скодько сейчас последователей у Кордис Дие? Где-то с миллиард?"
+
+REFERENCE           MONSOON_NOT_WORTHY
+LANG_RUSSIAN        "Вы не достойны"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_028A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Хитро продумано, Салазар. Эта штука отлично взрывается!"
+
+REFERENCE           MONSOON_J_5_ACTIVATING
+LANG_RUSSIAN        "Активация J-5"
+
+REFERENCE           MONSOON_J_5_DEAD
+LANG_RUSSIAN        "J-5 :("
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_026A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Я налево!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_004A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Кордис Дие ждет страшное разочарование."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_004A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7They've got... a disappointment coming.  That's all I could say."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_009A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Кракен вас понял. Наземная группа отправляется к вам. Время прибытия сообщу."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер, готов?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Так... За мной."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Надо сохранять скорость при размахе."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_047A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Ты его поджарил, Сектор!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_009A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Не хочется сорваться."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_010A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Поверхность немного неровная.  Сильнее прижимай наноперчатки."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_011A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ладно, позер. Твой черед..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_012A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Готов?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_013A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Порядок?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Стоп.  У противника оптический камуфляж."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Тебя жду, сладкий."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_017A_CROS_D
+LANG_RUSSIAN        "^1Кросби: ^7Раскрываю парашют."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Пока все нормально."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Давай! Надо пробиваться!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Раскрываю парашют."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_017A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Быстрее, брат. Нас дело ждет."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_020A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Поживее, брат."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_01_017A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Идем, брат.  Нас ждут дела."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_013A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Наемники на подходе!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пора приступать к делу."
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_019A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Нам пора, Сектор."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_021A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пора уходить."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_014A_SECT_S
+LANG_RUSSIAN        "^1Сектор: ^7Нельзя, чтобы этот гад поднялся в воздух!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Чего мы ждем?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_024A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7У них еще авто-турели!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_001A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Хватит!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пора за дело, Сектор."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Оптические системы противника.  Надо передать техникам на анализ."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_007A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7В порядке?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_013A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Порядок. Благодаря тебе."
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прямо двери на распашку. Их тут побольше минимального расчета. Легче легкого, крошка."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Хватай эти щиты!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_003A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Не надо недооценивать Рауля Менендеса."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Продолжать натиск!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_010A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты как?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_008A_CROS_D
+LANG_RUSSIAN        "^1Кросби: ^7Его последователи явно так и делают. Кстати, а что именно означает Кордис Дие?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_010A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Это латынь.  День сердца... или какая-то херь вроде этого."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_009A_CROS_D
+LANG_RUSSIAN        "^1Кросби: ^7Звучит благородно."
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Менендес хочет, чтобы его последователи так и думали. Поверь мне… это не так."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Дамы вперед."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_005A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Вот так.  Идем, брат."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_02_006A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ну давай уже. Прыгай."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Спокойнее..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты отклоняешься от курса, Сектор!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Правее."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Осторожно, деревья!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_006A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Черт возьми, дружище!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_006A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Ну же, давай!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_007A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Да индейки в День благодарения лучше тебя летают!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_007A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Обойти с фланга!  Слабое место с тыла!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_019A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Черт!  Сраные турели удерживают весь квадрат."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Там! Расщелина в горе!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Раскрываю парашют."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_016A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Раскрываю парашют."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_017A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Ясный пень, нас они сюда пускать не хотели."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_011A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Порядок."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_013A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Отставить! Это спасательная группа! Ох, и заждались мы вас."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Этот комплекс гораздо больше... Под землей."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_013A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прямо по курсу! Дрон взлетает!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_03_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Салазар.  Кросби.  Левую сторону держите?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_002A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Нам нужны точные данные об их возможностях.  Вам разрешено открыть огонь."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_011A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Кто-то поднял тревогу!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Тс-с!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_007A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор, ты это видишь?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_008A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Да... Как его сниму, пошли."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_009A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Идем в открытую?"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кракен.  Это Сектор.  Наземная часть комплекса нейтрализована. Начинаю исследование дополнительных структур."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_010A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Только при необходимости."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_005A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Упоминали нечто под названием Карма…  Должно быть, это название кибер-оружия."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Видимо у наемников есть биодатчики... Они знают, когда у них потери."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_028A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Неплохо."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_046A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Охрененно!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_029A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Второй мой."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_030A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Отлично, Сектор."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_031A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Я займусь другим."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_032A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Лифт опускается.  Противники там."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_033A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Противник в лифте!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_014A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Нам эта сука в воздухе ни к чему!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прошу срочно прислать сюда группу зачистки и сдерживания. Учтите, как мы войдем, связь будет потеряна."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_015A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Салазар! Сними его!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_016A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Есть."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_017A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Дрон сбит!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_018A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Так... Пора выдвигаться."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Бросай в турели ЭМИ-гранаты, Сектор!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_026A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сектор!  Взломай оружейные системы сбитого вертолета."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_027A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Отплатим этим сволочам их собственной монетой."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_027A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Отплатим этим типам их собственной монетой."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_034A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Навались - не давай им вздохнуть!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_035A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Пошли! Пошли!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_037A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Они отступают."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_039A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Давай! Они пытаются сбежать!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_040A_CROS_D
+LANG_RUSSIAN        "^1Кросби: ^7Открываю огонь!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_050A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Титус не может прицелиться в объекты с оптическим камуфляжем!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_024A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Вдарь по ним ЭМИ, Сектор!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_041A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7ЭМИ их поджарят!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_023A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сектор!  Выбей их маскировку ЭМИ!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_042A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вдарим ЭМИ по этим ублюдкам!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_043A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Турель уничтожена!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_044A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Еще одна осталась!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_045A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Есть!  Обе турели готовы!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_046A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Да!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сообщи Бриггсу.  Скажи, мы заходим."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_047A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Ты его поджарил, Сектор!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_04_048A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Молодец, чувак!"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Всем... отойти."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_007A_BRIG_S
+LANG_RUSSIAN        "^1Бриггс: ^7Наконец-то мы на шаг впереди этого Кордис Дие."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Взрываем!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_05_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Назад..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Осторожно.  Половодье могло ослабить конструкцию."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Значит, дороги назад нет, да?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_003A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот срань. Ты смотри, блин."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сверху мы видели только фасад."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_009A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ладно, выходи."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_005A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Толщина стен - несколько метров.  Внутри связи не будет."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_06_007A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Кракен.  Это Харпер.  Подтверждаю. Под храмом находится научный комплекс."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_024A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Тебе бы переодеться.  Они тебя не заметят."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_007A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Они идут!  Помогите мне выбраться отсюда! Я вам все расскажу!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_07_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Салазар.  Открывай."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_001A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Похоже, тут никого..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Возможно, они бросили их, как только мы начали атаку."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7У них ASD!!!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_005A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот... Зараза!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_005A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Вот же..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_016A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Наверх!  Пошли!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_017A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Ясный пень, нас они сюда пускать не хотели."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ну давай уже."
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_019A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Хочешь нажать на кнопку?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_020A_CROS_D
+LANG_RUSSIAN        "^1Кросби: ^7Сектор... Это пссле Сектора 8, да?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_021A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ну давай, Нуб.. Как считаешь, он псих?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_022A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот зараза!  Еще ASD!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_022A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Внимание!  Еще ASD!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_024A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7У них еще авто-турели!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_025A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Прорывайся!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_027A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Целься по бакам с азотом!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_028A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Хитро продумано, Салазар. Эта штука отлично взрывается!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_3_08_029A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ладно... Все чисто."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_017A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Сюда.  Открыть замок могут только два человека."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Это технологии 3D-производства... Компоненты оружия, брони... Менендес готовится к войне."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вудс рассказывал, сколько денег Менендес сделал за все эти годы."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Он вкладывал их в оружейные технологии."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_013A_SECT_S
+LANG_RUSSIAN        "^1Сектор: ^7Ладно, мелкий гаденыш...  Теперь ты работаешь на дядю Сэма."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Здесь кто-то есть."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Посмотрим, что у нас тут прячут..."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_015A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Открывай, Сектор."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_010A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Прошу!  Не убивайте меня!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_016A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Эта лаборатория связана с известным террористом. Начинай говорить, или хуже будет."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_012A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Меня зовут Эрик Брайнер.  Я магнитометрист."
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7И зачем ты нужен Менендесу?"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_006A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Меня привезли сюда для обработки целерия... Это новый редкоземельный элемент, который выведет технологии микрочипов на новый уровень."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_008A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Ложись, нахер! Ложись!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_008A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Ложись.  Ложись!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_014A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Эти солдаты серьезно настроены!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_017A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Держать оборону!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_018A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Все чисто."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Так, где же целерий?"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_019A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Я за тобой."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_020A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7За мной."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_01_021A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Надо спешить!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_012A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Квантовая запутанность. У одного этого устройства вычислительная мощь выше чем у всей вашей военной инфроструктуры."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_004A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7В лаборатории ходили слухи, что Менендес хочет использовать его для массовой кибер-атаки."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Адмирал Бриггс...  Рад вас видеть."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_006A_ISAA_D
+LANG_RUSSIAN        "^1Эрик: ^7Если бы Менендес использовал целериевого червя для начала атаки, его никто не смог бы остановить… Даже я не смог бы."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер!  Как там с нашим подкреплением?!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Кракен!  Харпер запрашивает подтверждение по прибытию подкреплений!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_009A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Кракен!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_010A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Проклятье. Не отвечает!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_010A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Не отвечает!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_02_011A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Придется пробиваться. С подкреплением или без."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_001A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это не конец!"
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Оборонительные позиции."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_010A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Сектор!  Твоей группе пора отдохнуть."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_011A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это Бриггс."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_003A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Думаю, это задание можно считать выполненным."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_005A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Взаимно, Сектор."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Что бы ни планировал Менендес... Ключ к его планам - целерий."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_007A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Наконец-то мы на шаг впереди этого Кордис Дие."
+
+REFERENCE           MONSOON_VOX_VOX_MON_4_03_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Он всего лишь человек, адмирал. Он хочет, чтобы его принимали за нечто большее... Но он ничто, лишь жалкое подобие человека."
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+ENDMARKER

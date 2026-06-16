@@ -1,0 +1,1222 @@
+// Dumped from fastfile "po_la_1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_011A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Musimy uciekać! Atakują nas drony!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Uspokój się!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_010A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Zapewnić osłonę pani prezydent!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_12_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Połącz się przez radio. Sprawdź status pozostałych konwojów."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_042A_HARP_D
+LANG_POLISH         "^1Harper: ^7LAPD próbuje ich bronić, ale mają niewystarczające siły."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kula przeleciała na wylot. Nic ci nie będzie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_007A_JACO_S
+LANG_POLISH         "^1Jacobs: ^7Potrzebuję informacji o odpowiedzi sił lotniczych..."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Sir, nie pomogę panu, dopóki się pan nie uspokoi!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_017A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Powodzenia, Sekcjo. Anderson bez odbioru."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dam ci coś na uśmierzenie bólu."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_013A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kolejne drony zbliżają się z północy!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_009A_PRES_D
+LANG_POLISH         "^1Prezydent: ^7Jones, jak wygląda sytuacja pozostałych konwojów?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_066A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ten konwój musi ruszyć w drogę. Zabierz panią prezydent do środkowego pojazdu!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_007A_HARP_S
+LANG_POLISH         "^1Harper: ^7Kawał su..."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_076A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Czysto. Czysto. Ruszajcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_012A_SAMU_M
+LANG_POLISH         "^1Samuels: ^7Co my mamy zrobić, do cholery?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dam panu coś na ból!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_010A_JONE_D
+LANG_POLISH         "^1Jones: ^7LAPD donosi, że na ulicach jest niebezpiecznie! Setki uzbrojonych po zęby najemników zaatakowało LA!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_007A_HARP_M
+LANG_POLISH         "^1Harper: ^7Sukinsyn..."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_014A_HARP_D
+LANG_POLISH         "^1Harper: ^7Skręć w lewo!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_008A_JOHN_D
+LANG_POLISH         "^1Johnson: ^7Pani prezydent! Drony zniszczyły Air Force One i Marine One! Nie możemy pani ewakuować drogą powietrzną!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_10_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zjedź po linie. Szybko!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_011A_PRES_D
+LANG_POLISH         "^1Prezydent: ^7Jakieś informacje o stratach?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_024A_SAMU_D
+LANG_POLISH         "^1Harper: ^7Wsiadać do pojazdu!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_064A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zbliżają się do ciebie."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_012A_JOHN_D
+LANG_POLISH         "^1Johnson: ^7Śródmieście LA zostało ewakuowane. Wstępne raporty wskazują na straty poniżej przewidywań."
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_07_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7To może być problem. Inni przywódcy G20 zostali zaatakowani na dolnym poziomie autostrady."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_073A_HARP_D
+LANG_POLISH         "^1Harper: ^7Przed nami! Kolejna ciężarówka z KM, z której wysiadają żołnierze!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_013A_PRES_M
+LANG_POLISH         "^1Prezydent: ^7Dzięki Bogu."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_021A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zaczekaj..."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_018A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7110 i 10 są zablokowane."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_013A_PRES_S
+LANG_POLISH         "^1Prezydent: ^7Całe szczęście."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zbliżają się!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_014A_PRES_D
+LANG_POLISH         "^1Prezydent: ^7Mason, jaki jest nasz następny krok?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Pani prezydent, zabieramy panią do schronu Prom Night, pod hotelem Bonaventure w śródmieściu."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dobra! Naprzód!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7Strzelam!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_018A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera, jak my się z tego wywiniemy, Sekcjo?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_067A_HARP_D
+LANG_POLISH         "^1Harper: ^7Skorzystaj z lunety, Sekcjo!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_016A_PRES_D
+LANG_POLISH         "^1Prezydent: ^7Johnson, proszę wysłać żołnierzy na ulice i załatwić sprawę tych dronów."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_005A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7NORAD namierzył ponad dwieście FA38. Są w odległości 5 minut."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_006A_JONE_D
+LANG_POLISH         "^1Jones: ^7Wydaje się, że celem stali się przywódcy G20."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_014A_ANDE_D
+LANG_POLISH         "^1Anderson: ^758. eskadra, Anderson. W drodze."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_007A_JONE_D
+LANG_POLISH         "^1Jones: ^7Pani prezydent, dotarły do nas informacje o śmierci prezydenta Meksyku i premiera Turcji."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_01_019A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7To właśnie planował Menendez. Wyeliminowanie przywódców G20 osłabiłoby kapitalistyczne rządy na całym świecie."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wezmę Stingery i zniszczę część dronów!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_007A_JACO_M
+LANG_POLISH         "^1Jacobs: ^7Jasna cholera! Potrzebuję informacji o odpowiedzi sił lotniczych..."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_009A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7Przybliżony czas?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_01_010A_HARP_D
+LANG_POLISH         "^1Harper: ^7Stingery to nasza jedyna szansa!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_013A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7Powtórz?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_015A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7G-Jeden trafiony."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_016A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7Powtarzam, G-Jeden trafiony."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_017A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7Poważne uszkodzenia strukturalne przy skrzyżowaniu 10-110."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_012A_SAMU_S
+LANG_POLISH         "^1Samuels: ^7Co zrobimy?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_009A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7Trasa Zielona nie jest bezpieczna. Powtarzam, Trasa Zielona nie jest bezpieczna."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_015A_HARP_D
+LANG_POLISH         "^1Harper: ^7Z prawej, Sekcjo. Z prawej."
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_020A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7Proszę o pomoc!"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_DOWN
+LANG_POLISH         "Naciśnij [{+smoke}], żeby się wznieść"
+
+REFERENCE           LA_1_VOX_VOX_LA1_1_02_019A_JACO_D
+LANG_POLISH         "^1Jacobs: ^7Wszystkie konwoje-G muszą opuścić autostrady."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_01_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pani prezydent! Czy jest pani ranna?"
+
+REFERENCE           LA_SHARED_OBJ_STREET
+LANG_POLISH         "Oczyść ulicę"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_016A_HARP_D
+LANG_POLISH         "^1Harper: ^7Z lewej strony. Z lewej strony!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_01_003A_PRES_D
+LANG_POLISH         "^1Prezydent: ^7Upewnij się, że wskażemy drogę pozostałym konwojom!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_01_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Agencie Jones, zabierz ją za osłonę!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_01_004A_JONE_D
+LANG_POLISH         "^1Jones: ^7Zajmujmy się tym, proszę pani!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_01_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pospiesz się, Sekcjo! Atakują nas drony!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_04_085A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Zrozumiałem."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_01_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Przygotować się do ruszenia dalej!"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_4
+LANG_POLISH         "GRUPA ZADANIOWA ^LJSOC^L DO WALKI Z TERRORYZMEM"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Namierzam wiele grup. Odezwę się, kiedy je zobaczę!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_014A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Już tu są, Sekcjo!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Przed nami! Do ataku!"
+
+REFERENCE           LA_SHARED_OBJ_BIG_DOGS_NOHARPER
+LANG_POLISH         "Zniszcz jednostki C.L.A.W. [zniszczono &&1 z 3]"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_04_095A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Musisz nas ochronić przed nimi!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nie przepuść ich!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Uważaj z boku!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7RPG z prawej strony!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zawróć o 90 stopni."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_017A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Widzę wiele grup."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_018A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kontakt na RADARZE z prawej!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_005A_HARP_M
+LANG_POLISH         "^1Harper: ^7Zlikwiduj te przeklęte RPG!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_019A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kontakt na RADARZE z lewej!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_018A_HARP_S
+LANG_POLISH         "^1Harper: ^7Hej!!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_020A_HARP_D
+LANG_POLISH         "^1Harper: ^7Namierzam wiele celów, Sekcjo."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_028A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7KRYJ się!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_022A_HARP_D
+LANG_POLISH         "^1Harper: ^7Atakuj!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Celny strzał!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_023A_HARP_M
+LANG_POLISH         "^1Harper: ^7O tak, do cholery!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_023A_HARP_S
+LANG_POLISH         "^1Harper: ^7O tak!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_024A_HARP_D
+LANG_POLISH         "^1Harper: ^7Rozwal je, Sekcjo."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_025A_HARP_M
+LANG_POLISH         "^1Harper: ^7Zajebisty strzał, brachu!"
+
+REFERENCE           LA_SHARED_OBJ_PROTECT_FAIL
+LANG_POLISH         "Nie udało ci się ochronić pani prezydent."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_025A_HARP_S
+LANG_POLISH         "^1Harper: ^7Świetny strzał, bracie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_026A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dawaj!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_027A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Trafienie!"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_029A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera, Sekcjo! Atakują nas!"
+
+REFERENCE           LA_SHARED_SAM_TURRET_LOCK
+LANG_POLISH         "Podążaj za celem, żeby go namierzyć"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_012A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zniszcz je!!!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_029A_HARP_S
+LANG_POLISH         "^1Harper: ^7Sekcjo! Atakują nas!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_030A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Są wszędzie, Sekcjo!"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"CORDIS DIE\"^L"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_031A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Musisz zniszczyć te drony!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_032A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kierują się w stronę twojej pozycji!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_033A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Sekcjo! Obrały cię za cel!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7To nasza szansa! Zabierz stąd panią prezydent!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_034A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ruszaj! JUŻ!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_04_001A_HARP_M
+LANG_POLISH         "^1Harper: ^7Spieprzaj stamtąd!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zasuwaj do przodu! Kończy im się czas."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_04_001A_HARP_S
+LANG_POLISH         "^1Harper: ^7Uciekaj stamtąd!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_035A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Sekcjo, mówi Anderson. Odpowiadam na sygnał wzywający pomocy. Czekam w gotowości."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_036A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Anderson, wraz z panią prezydent jesteśmy w drodze do Prom Night. Proszę o zapewnienie wsparcia z powietrza."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_037A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Zrozumiałem. Uwaga, wysyłam wszystkie dostępne siły. Większa część mojego oddziału walczy z dronami."
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_038A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zrozumiałem. Jakoś damy sobie radę."
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_082A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ruszam."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_039A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Harper, raport!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_12_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Będziemy walczyć o każdy centymetr drogi."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_040A_HARP_D
+LANG_POLISH         "^1Harper: ^7Najemnicy są w pobliżu autostrady!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_041A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ostrzeliwują z RPG kolejny konwój G20! Tuż z przodu, dolny poziom!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_043A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Agencie Samuels, czy pozostałe pojazdy G20 są sprawne?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_044A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Są unieruchomione na dolnym poziomie."
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_045A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Nie wiem, czy dam radę do nich dotrzeć. Wszędzie są uzbrojeni najemnicy!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_12_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Musimy ruszać, JUŻ!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_065A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zlikwiduj ich!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_046A_HARP_D
+LANG_POLISH         "^1Harper: ^7Co robimy, Sekcjo?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_007A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Chyba jesteś jednym z nich. W twoim kierunku zbliża się około dwudziestu dronów."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_047A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Co robimy?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_048A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Te pojazdy muszą dotrzeć do Prom night!"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_016A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Wyeliminuj strzelców, atakujących z góry!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_010A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Cel namierzony... Strzelam!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_049A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Musimy się pospieszyć, inaczej znajdujący się w nich ludzie zginą."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_010A_HARP_D
+LANG_POLISH         "^1Harper: ^7Tam na dole są dwa opancerzone pojazdy. My pojedziemy pierwszym. Pani prezydent może wsiąść do drugiego."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_083A_HARP_S
+LANG_POLISH         "^1Harper: ^7Strzelają z góry!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_08_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zabierz panią prezydent na dół. Będą was osłaniać."
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_050A_HARP_D
+LANG_POLISH         "^1Harper: ^7Naprzód, naprzód. Szybko!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_005A_HARP_S
+LANG_POLISH         "^1Harper: ^7Zabij wrogów z RPG!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_051A_HARP_D
+LANG_POLISH         "^1Harper: ^7Jesteśmy na ziemi. Wszyscy policzeni."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_072A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kryć się za autobusem!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_064A_HARP_D
+LANG_POLISH         "^1Harper: ^7Najemnicy ustawiają barykadę, z przodu!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_052A_HARP_D
+LANG_POLISH         "^1Harper: ^7Idę się ukryć za dużą ciężarówką."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_053A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kilku najemników w przyczepie dużej ciężarówki. Dolna autostrada, z prawej strony."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_054A_HARP_D
+LANG_POLISH         "^1Harper: ^7Najemnicy w kontenerze na dużej ciężarówce, tuż przed nami. Z prawej strony, dolna autostrada."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_055A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ostrzeliwują nas ze wszystkich stron!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_026A_HARP_D
+LANG_POLISH         "^1Harper: ^7Snajperzy strzelają do nas z wiaduktu!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_056A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Pozostańcie za osłoną! Dam wam sygnał do ruszenia, kiedy będzie czysto!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_057A_HARP_D
+LANG_POLISH         "^1Harper: ^7Z lewej strony! Wróg zjeżdża po linach!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_058A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Widzę ich."
+
+REFERENCE           LA_SHARED_PROTECT_FAIL
+LANG_POLISH         "Nie udało ci się ochronić pani prezydent."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_059A_HARP_D
+LANG_POLISH         "^1Harper: ^7Atakują nas, Sekcjo. Są za kolumnami."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_060A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wyeliminowani."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_081A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wyeliminowani. Naprzód."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_061A_HARP_D
+LANG_POLISH         "^1Harper: ^7Z dużej ciężarówki wysiadają jednostki piechoty nieprzyjaciela!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ostro w prawo! Ostro w prawo!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_062A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Harper! Jest ich zbyt wielu!"
+
+REFERENCE           LA_SHARED_OBJ_TRENCHRUN
+LANG_POLISH         "Nie dopuść, żeby BSP wleciał między pojazdy konwoju"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_063A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Pozostań na pozycji!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_065A_HARP_D
+LANG_POLISH         "^1Harper: ^7Są obok nas. W pobliżu autobusu!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_066A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zbliżają się! Za kolumny!"
+
+REFERENCE           LA_SHARED_SAM_HINT_ADS
+LANG_POLISH         "Przytrzymaj [{+speed_throw}], żeby namierzyć"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_05_003A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Strzelają do nas ze wszystkich stron!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_068A_HARP_D
+LANG_POLISH         "^1Harper: ^7Naładuj każdy strzał i strzelaj na wylot!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_069A_HARP_D
+LANG_POLISH         "^1Harper: ^7RPG! Na dachu autobusu."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_013A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Kiepsko, Sekcjo. Większość miasta zmieniła się w strefę walk."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_070A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera, człowieku! Pomóż nam!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_070A_HARP_S
+LANG_POLISH         "^1Harper: ^7Zniszcz je!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_073A_SNIP_D
+LANG_POLISH         "^1Komputer karabinu snajperskiego: ^7Gotowy do strzału."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_077A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ruszam."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_078A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kolejne ciężarówki z KM zbliżają się z prawej strony."
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_079A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zajmę się nimi."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_080A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pozostało kilku wrogów. Zlikwiduj ich!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_083A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera! Strzelają z góry!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_084A_HARP_M
+LANG_POLISH         "^1Harper: ^7Na wiadukcie są snajperzy."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_084A_HARP_S
+LANG_POLISH         "^1Harper: ^7Mają snajperów na wiadukcie."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_011A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo, chodź tu szybko!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_017A_SECT_S
+LANG_POLISH         "^1Sekcjo: ^7Ktoś musi nas osłaniać!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_085A_HARP_D
+LANG_POLISH         "^1Harper: ^7Za znakami!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_028A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Zginiemy, jeśli nie zlikwidujesz tych snajperów, strzelających z góry!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_086A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Czysto. Do pojazdów!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Osłaniać panią prezydent!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zabij ich strzelców!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Osłaniać panią prezydent!"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_GUN
+LANG_POLISH         "Naciśnij [{+attack}], żeby strzelić z działek"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Pozostań za osłoną!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_087A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nie ruszaj się, dopóki nie powiem."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_025A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pani prezydent zginie za dziesięć sekund, jeśli nie zabijesz snajperów znajdujących się na wiadukcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_027A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nie wytrzymamy dziesięciu sekund, jeśli ich nie zabijesz."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_028A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zginiemy, jeśli nie zabijesz snajperów znajdujących się na wiadukcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_025A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Pani prezydent zginie za dziesięć sekund, jeśli nie zabijesz snajperów znajdujących się na wiadukcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_026A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Zabij snajperów, strzelających do nas z góry!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_027A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Zginiemy w ciągu dziesięciu sekund, jeśli ich nie zabijesz"
+
+REFERENCE           LA_SHARED_LEFT_COMBAT
+LANG_POLISH         "Opuściłeś strefę walk"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Snajperzy! Na dwunastej! Na wiadukcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Czysto!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_12_004A_HARP_M
+LANG_POLISH         "^1Harper: ^7Szlag! Wsparcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_04_029A_HARP_D
+LANG_POLISH         "^1Harper: ^7RPG! Wysoko, z lewej strony!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_088A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dobra, Jones! Naprzód, już!"
+
+REFERENCE           LA_SHARED_PROTECT_FAIL_VEHICLE
+LANG_POLISH         "Nie udało ci się ochronić pani prezydent."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ruszać!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_089A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Szybko!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zniszczyć je!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_096A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Trasa Niebieska bezpieczna. Powtarzam, Trasa Niebieska bezpieczna."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Jones, jesteś gotowy?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_010A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kolejni przed nami!"
+
+REFERENCE           LA_SHARED_OBJ_STREET_REGROUP
+LANG_POLISH         "Dołącz do prezydenta USA"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_011A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kryć się za pojazdem!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nie wychylać się!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_013A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dobra robota, ludzie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_014A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Niech wszyscy wsiądą do IAV!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Natychmiast wyeliminuj tych snajperów!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_013A_HARP_S
+LANG_POLISH         "^1Harper: ^7Z drogi!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_090A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Naprzód! Liderom G20 w tym pojeździe kończy się czas."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_016A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Szybciej! Oni długo nie wytrzymają!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_017A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Cholera! Ktoś musi nas osłaniać!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_018A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nie dopuszczaj ich do konwoju!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_020A_JONE_D
+LANG_POLISH         "^1Jones: ^7Strzały snajperów odwracają uwagę najemników od pojazdów G20!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_021A_JONE_D
+LANG_POLISH         "^1Jones: ^7Losy tej walki jeszcze mogą się odwrócić, Sekcjo!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_019A_HARP_M
+LANG_POLISH         "^1Harper: ^7Szlag!!!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_022A_JONE_D
+LANG_POLISH         "^1Jones: ^7Spóźniliśmy się! Już po nich."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_019A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Użyj karabinu, Sekcjo!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_11_019A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Spóźniliśmy się. Już po nich."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Cała autostrada zaraz się zawali!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_012A_HARP_D
+LANG_POLISH         "^1Harper: ^7Przejedź po nich!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_091A_HARP_M
+LANG_POLISH         "^1Harper: ^7Wynoś się stamtąd, Sekcjo! Autostrada zapada się!"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_091A_HARP_S
+LANG_POLISH         "^1Harper: ^7Wynoś się stamtąd, Sekcjo! Autostrada zapada się!"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_092A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7CHOLERA!!!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_093A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Połącz się przez radio i sprawdź status pozostałych konwojów!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_074A_JONE_D
+LANG_POLISH         "^1Jones: ^7Pojazdy z tyłu oddzieliły się, kiedy nas zaatakowano!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_075A_JONE_D
+LANG_POLISH         "^1Jones: ^7Sekretarz Petraeus jest bezpieczny!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_067A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Uwaga, Trasa Niebieska jest bezpieczna."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_068A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ja pojadę w pierwszym pojeździe, z Harperem."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo, musisz nas osłaniać, JUŻ!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_069A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ja pojadę w pierwszym pojeździe."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_04_088A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Przed nami przeciwnicy, Sekcjo."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_070A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Będziemy walczyć o każdy centymetr drogi."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_021A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Do ciężarówek! Odjeżdżamy!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_020A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Wyeliminuj snajperów!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Wszyscy ruszają na mój znak! 110, na północ. Konwój, pojedyncza kolumna."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_097A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Na mój znak! 110, na północ. SZYBKO! SZYBKO!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_098A_HARP_D
+LANG_POLISH         "^1Harper: ^7Przebij się, Sekcjo!"
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL_TEXT
+LANG_POLISH         "Wybierz zjazd na linie z grupą"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Uważaj!!!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_011A_HARP_D
+LANG_POLISH         "^1Harper: ^7Szybciej! Staranuj ich!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_099A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Próbują nam zablokować wyjazd!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Przebić się przez nich!"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Staranować wszystko, co stanie wam na drodze!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_008A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jak wygląda sytuacja w śródmieściu?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_003A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Spieprzaj!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_013A_HARP_M
+LANG_POLISH         "^1Harper: ^7Spieprzać stąd!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Mamy towarzystwo!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_015A_HARP_D
+LANG_POLISH         "^1Harper: ^7W lewo! W lewo, człowieku!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_016A_HARP_D
+LANG_POLISH         "^1Harper: ^7Skręć w prawo!"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7Tam. Z prawej, Sekcjo! Z prawej!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_018A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_019A_HARP_S
+LANG_POLISH         "^1Harper: ^7Heja!!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_005A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Sekcjo, drony rozdzielają się na kilka mniejszych grup."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_006A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Skupiły się na śródmieściu."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Celują do konwojów G20. Menendez chce ich wszystkich zabić."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_002A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Cholera!"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_008A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Sekcjo! Dron kieruje się w stronę twojego konwoju!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_009A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Do ataku!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dzięki za pomoc, Anderson."
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE_BARRAGE
+LANG_POLISH         "Naciśnij [{+activate}], żeby odpalić pociski"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_011A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Sekcjo! Wiadukt się wali!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Anderson, jak wygląda sytuacja w śródmieściu?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_014A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Nie wiem, jak przebijecie się przez śródmieście."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_07_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pani prezydent jest bezpieczna."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_015A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Musimy dotrzeć do schronu. Nie możemy jechać autostradami."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_016A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Dobrze. Zróbmy to."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_03_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nie mogę uwierzyć, że to się dzieje, na naszej ziemi."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Proszę się uspokoić!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_018A_HARP_S
+LANG_POLISH         "^1Harper: ^7Jak my się z tego wywiniemy, Sekcjo?"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_HOVER_UP
+LANG_POLISH         "Naciśnij [{+frag}], żeby opaść"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_03_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Jeszcze nie wiem... Ale damy radę."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zaczynają atakować dodatkowe cele."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_04_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Menendez dobrze wiedział, co robi. Zaatakował Pentagon, Waszyngton, Wall Street... tego samego dnia, używając naszych własnych samolotów."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_04_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Chyba już kiedyś słyszeliśmy tę śpiewkę."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_019A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Sekcjo, widzę samochody zbierające się na ulicach przed nami."
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_02_020A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Z prawej strony!"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_008A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Cholera!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_04_092A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Ze wszystkich stron zbliżają się jednostki piechoty!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_010A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zniszcz je, zanim zaatakują panią prezydent!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_03_016A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ruszaj! JUŻ!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_05_001A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Mówi kapitan Anderson, 58. eskadra myśliwców. Odbiór?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_05_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Anderson, wraz z panią prezydent jesteśmy w drodze do Prom Night. Proszę o zapewnienie wsparcia i rozpoznanie alternatywnych tras."
+
+REFERENCE           LA_SHARED_COUGAR_STEER
+LANG_POLISH         "Użyj ^3[{+strafestick}]^7, żeby kierować"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_023A_SAMU_D
+LANG_POLISH         "^1Harper: ^7Sekcjo, chodź tu szybko!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_05_003A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Pozostało mi niewiele maszyn, ale zrobię wszystko, co w mojej mocy, Mason."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_05_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Powodzenia. Pozostaniemy w kontakcie."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Właśnie straciliśmy pojazd z konwoju G20! Nie damy rady dostarczyć pani prezydent do Prom Night, jeśli stracimy kolejny!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_07_001A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Harper, raport?"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_08_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Te pojazdy muszą dotrzeć do Prom Night!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo, zlikwiduj tych snajperów!"
+
+REFERENCE           LA_SHARED_OBJ_ROADBLOCK
+LANG_POLISH         "Zniszcz wrogie cele"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7Wyeliminuj strzelców, atakujących z góry!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Sekcjo! Pospiesz się, człowieku! Potrzebne nam wsparcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Użyj karabinu, Sekcjo!"
+
+REFERENCE           LA_SHARED_F35_DEAD_CRANE
+LANG_POLISH         "Zostałeś zabity przez upadający dźwig"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_008A_HARP_D
+LANG_POLISH         "^1Harper: ^7Wyeliminuj snajperów!"
+
+REFERENCE           LA_SHARED_RAPPEL
+LANG_POLISH         "ZJEDŹ PO LINIE"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_012A_HARP_D
+LANG_POLISH         "^1Harper: ^7Wsiadać do pojazdu!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_013A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Sekcjo, zlikwiduj tych snajperów!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_014A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Natychmiast wyeliminuj tych snajperów!"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_015A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Zabij ich strzelców!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_017A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Sekcjo, musisz nas osłaniać, JUŻ!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_018A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Pospiesz się, człowieku! Potrzebne nam wsparcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_021A_SAMU_D
+LANG_POLISH         "^1Harper: ^7Właśnie straciliśmy pojazd z konwoju G20! Nie damy rady dostarczyć pani prezydent do Prom Night, jeśli stracimy kolejny!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_09_022A_SAMU_D
+LANG_POLISH         "^1Harper: ^7Tam na dole są dwa opancerzone pojazdy. My pojedziemy pierwszym. Pani prezydent może wsiąść do drugiego."
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_12_002A_JONE_D
+LANG_POLISH         "^1Jones: ^7Zrozumiałem!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_12_004A_HARP_S
+LANG_POLISH         "^1Harper: ^7Wsparcie!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_3_12_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Wszyscy do ciężarówek! Ruszać się! Szybko!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_005A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Drony rozdzielają się na kilka mniejszych grup."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_01_009A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Postaram się jak najszybciej dotrzeć na miejsce. Anderson bez odbioru."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_003A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Ten jest mój."
+
+REFERENCE           LA_SHARED_ARGUS_JONES_INFO
+LANG_POLISH         "To jest agent Secret Service"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_010A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Nie wiem. Jeśli istnieje szansa, że mógłbyś..."
+
+REFERENCE           LA_SHARED_OBJ_FOLLOW_VAN
+LANG_POLISH         "Podążaj za ciężarówką Harpera"
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_011A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7To nasza jedyna szansa, Anderson."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_02_012A_ANDE_D
+LANG_POLISH         "^1Anderson: ^7Zróbmy to. Będę pełnił rolę eskorty przez resztę drogi."
+
+REFERENCE           LA_1_VOX_VOX_LA1_4_04_025A_HARP_M
+LANG_POLISH         "^1Harper: ^7O, cholera!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_094A_SAMU_D
+LANG_POLISH         "^1Samuels: ^7Musimy ruszać, już!"
+
+REFERENCE           LA_1_VOX_VOX_LA1_11_01_095A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Do ciężarówek! Odjeżdżamy!"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_2
+LANG_POLISH         "^LLOS ANGELES^L, STANY ZJEDNOCZONE AMERYKI"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_3
+LANG_POLISH         "DAVID MASON // KRYPTONIM: ^L'SEKCJA'^L"
+
+REFERENCE           LA_SHARED_INTROSCREEN_LINE_5
+LANG_POLISH         "19 CZERWCA ^L2025^L"
+
+REFERENCE           LA_SHARED_OBJ_SHOOT_DRONES
+LANG_POLISH         "Użyj wieżyczki SAM, żeby zestrzelić drony"
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL
+LANG_POLISH         "WYBIERZ\n ZJAZD PO LINIE"
+
+REFERENCE           LA_SHARED_OBJ_SNIPE
+LANG_POLISH         "WYBIERZ\n SNAJPERA"
+
+REFERENCE           LA_SHARED_ARGUS_SS1_INFO
+LANG_POLISH         "On jest najlepszy"
+
+REFERENCE           LA_SHARED_OBJ_HIGHWAY
+LANG_POLISH         "Udaj się do pojazdów MRAP"
+
+REFERENCE           LA_SHARED_OBJ_POTUS_TEXT
+LANG_POLISH         "Osłaniaj prezydenta USA"
+
+REFERENCE           LA_SHARED_OBJ_BIG_DOGS
+LANG_POLISH         "Zniszcz C.L.A.W. [zniszczono &&1 z 2]"
+
+REFERENCE           LA_SHARED_REQUIRED_VEHICLE_DEAD
+LANG_POLISH         "Zniszczyłeś pojazd istotny dla misji"
+
+REFERENCE           LA_SHARED_OBJ_ARENA
+LANG_POLISH         "Ocal Andersona"
+
+REFERENCE           LA_SHARED_OBJ_ANDERSON
+LANG_POLISH         "Ocal Andersona"
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL2
+LANG_POLISH         "Zjedź na linie i spotkaj się z grupą"
+
+REFERENCE           LA_SHARED_OBJ_DRIVE
+LANG_POLISH         "Jedź"
+
+REFERENCE           LA_SHARED_OBJ_REGROUP
+LANG_POLISH         "Dołącz do ochrony"
+
+REFERENCE           LA_SHARED_SAM_HINT_TRACK
+LANG_POLISH         "Użyj [{+lookstick}], żeby naprowadzić pocisk na drona"
+
+REFERENCE           LA_SHARED_ARGUS_SS1
+LANG_POLISH         "Losowy agent Secret Service"
+
+REFERENCE           LA_SHARED_SAM_HINT_FIRE
+LANG_POLISH         "Naciśnij [{+attack}], żeby strzelić"
+
+REFERENCE           LA_SHARED_OBJ_FLY
+LANG_POLISH         "Wsiądź do FA-38"
+
+REFERENCE           LA_SHARED_OBJ_PROTECT
+LANG_POLISH         "Osłaniaj pojazd prezydencki"
+
+REFERENCE           LA_SHARED_OBJ_ROOFTOPS
+LANG_POLISH         "Zniszcz wrogie cele"
+
+REFERENCE           LA_SHARED_OBJ_FOLLOW_AMBULANCE
+LANG_POLISH         "Podążaj za karetką Andersona"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_MOVE
+LANG_POLISH         "Używaj [{+movestick}], żeby się poruszać"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_LOOK
+LANG_POLISH         "Używaj [{+lookstick}], żeby się rozglądać"
+
+REFERENCE           LA_SHARED_FLIGHT_CONTROL_MISSILE
+LANG_POLISH         "Naciśnij [{+speed_throw}], żeby wystrzeliwać pociski"
+
+REFERENCE           LA_SHARED_OBJ_DOGFIGHTS
+LANG_POLISH         "Zniszcz wrogie samoloty. Pozostało: "
+
+REFERENCE           LA_SHARED_F35_DEAD
+LANG_POLISH         "FA-38 zniszczony"
+
+REFERENCE           LA_SHARED_HINT_MODE_PLANE
+LANG_POLISH         "Naciśnij [{+activate}], żeby wybrać konwencjonalny tryb lotu"
+
+REFERENCE           LA_SHARED_HINT_MODE_VTOL
+LANG_POLISH         "Naciśnij [{+activate}], żeby wybrać tryb VTOL"
+
+REFERENCE           LA_SHARED_LEAVING_COMBAT
+LANG_POLISH         "Opuszczasz strefę walk."
+
+REFERENCE           LA_SHARED_HINT_DEATHBLOSSOM
+LANG_POLISH         "Namierz, a następnie naciśnij [{+gostand}], żeby użyć Zabójczego rozkwitu"
+
+REFERENCE           LA_SHARED_HINT_ADS
+LANG_POLISH         "Naciśnij [{+melee}], żeby przybliżyć"
+
+REFERENCE           LA_SHARED_HINT_THROTTLE
+LANG_POLISH         "[{+movestick}] zmień pozycję przepustnicy"
+
+REFERENCE           LA_SHARED_ARGUS_HARPER_INFO
+LANG_POLISH         "To jest Harper"
+
+REFERENCE           LA_SHARED_HINT_MISSILE_DODGE
+LANG_POLISH         "Użyj [{+lookstick}], żeby uniknąć trafienia pociskiem"
+
+REFERENCE           LA_SHARED_HINT_MISSILE_BUILDINGS
+LANG_POLISH         "Leć między budynkami, żeby uniknąć trafienia pociskiem"
+
+REFERENCE           LA_SHARED_ARGUS_HARPER
+LANG_POLISH         "Harper"
+
+REFERENCE           LA_SHARED_ARGUS_SAM
+LANG_POLISH         "Sam"
+
+REFERENCE           LA_SHARED_ARGUS_SAM_INFO
+LANG_POLISH         "Kawał twardego skurczybyka"
+
+REFERENCE           LA_SHARED_ARGUS_POTUS
+LANG_POLISH         "Hillary Clinton"
+
+REFERENCE           LA_SHARED_ARGUS_POTUS_INFO
+LANG_POLISH         "Prezydent Stanów Zjednoczonych Ameryki"
+
+REFERENCE           LA_SHARED_ARGUS_JONES
+LANG_POLISH         "Agent Jones"
+
+REFERENCE           LA_SHARED_OBJ_G20_COUGAR
+LANG_POLISH         "Osłoń wszystkie 3 MRAP"
+
+REFERENCE           LA_SHARED_OVERWATCH_FAIL
+LANG_POLISH         "Nie udało ci się zapewnić wsparcia snajperskiego dla prezydenta USA"
+
+REFERENCE           LA_SHARED_OBJ_RAPPEL_3D
+LANG_POLISH         "Zjazd na linie"
+
+REFERENCE           LA_SHARED_OBJ_SNIPE_TEXT
+LANG_POLISH         "Wybierz wsparcie snajperskie"
+
+REFERENCE           LA_SHARED_HINT_CHARGE_WEAPON
+LANG_POLISH         "Przytrzymaj [{+attack}], żeby przebić ściany"
+
+REFERENCE           LA_SHARED_OBJ_PROM_NIGHT
+LANG_POLISH         "Zabierz prezydenta USA do bunkra 'Prom Night'"
+
+REFERENCE           LA_SHARED_OBJ_DRIVE_TEXT
+LANG_POLISH         "Udaj się do bunkra 'Prom Night'"
+
+REFERENCE           LA_SHARED_OBJ_G20_STREET
+LANG_POLISH         "Ocal przywódcę G20"
+
+REFERENCE           LA_SHARED_OBJ_DESTROY_DRONES
+LANG_POLISH         "Zniszcz drony"
+
+REFERENCE           LA_SHARED_COUGAR_GAS
+LANG_POLISH         "Naciśnij ^3[{+gas}]^7, żeby przyspieszyć"
+
+REFERENCE           LA_SHARED_COUGAR_BRAKE
+LANG_POLISH         "Przytrzymaj ^3[{+reverse}]^7, żeby zahamować / cofać"
+
+REFERENCE           LA_SHARED_SAM_TURRET_FIRE
+LANG_POLISH         "Naciśnij [{+attack}], żeby wystrzelić"
+
+REFERENCE           LA_SHARED_FAIL_ABANDON
+LANG_POLISH         "Przerwałeś wykonywanie misji."
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+ENDMARKER

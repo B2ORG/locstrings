@@ -1,0 +1,139 @@
+// Dumped from fastfile "po_so_cmp_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_POLISH         "Naciśnij ^3[{+actionslot 3}]^7, żeby wybrać misję."
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_POLISH         "Nadbrzeże"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_POLISH         "Mapa grupy uderzeniowej dostępna"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_POLISH         "Dawidzie Mason, twoja obecność jest niezbędna w sali narad."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby zatwierdzić wybraną misję."
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby skorzystać z grupy uderzeniowej."
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_POLISH         "Zgłoś się do sali narad"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_POLISH         "Pozostałe jednostki do rozstawienia"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_POLISH         "Carrier"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_POLISH         "Overflow"
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_POLISH         "Afganistan"
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_POLISH         "Fabryka dronów"
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_POLISH         "Socotra"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_POLISH         "Zagrożenie"
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_POLISH         "Wiadomość od adm. Briggsa"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+ENDMARKER

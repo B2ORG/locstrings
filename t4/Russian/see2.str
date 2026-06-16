@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "Соединиться с основной группой войск"
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Железом и кровью'"
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Продвигаться к Зеелевским высотам"
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Уничтожить уцелевшие танки"
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Петренко"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Зееловские высоты, Германия"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "Штурмовать город"
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "3-я ударная армия"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "16 апреля 1945 года"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "Захватить танк Тигр"
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Уничтожить приближающиеся танки Пантера"
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Уничтожить вражеские танки около поезда"
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "Нейтрализовать вражескую артиллерию [осталось: &&1]"
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "Отправляться к радиовышке"
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "Уничтожить радиовышку"
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Продвигаться к Зеелевским высотам на Тигре"
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "Прорвать немецкую оборону и достичь железнодорожной станции"
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "Искать отступающие войска противника"
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "Уничтожить запасы топлива"
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "Взгляд в прицел, чтобы рассмотреть далеко расположенные цели"
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "Нажмите [{+frag}] , чтобы стрелять из огнемета"
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "Нажмите [{+frag}] , чтобы открыть огонь из пулемета"
+
+ENDMARKER

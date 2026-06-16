@@ -1,0 +1,67 @@
+// Dumped from fastfile "ber3b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3B_OBJ_3
+LANG_ENGLISH        "Kontynuuj oczyszczanie Reichstagu."
+
+REFERENCE           BER3B_INTROSCREEN_INFO
+LANG_ENGLISH        "150. Dywizja Strzelców"
+
+REFERENCE           BER3B_INTROSCREEN_DATE
+LANG_ENGLISH        "30 kwietnia 1945"
+
+REFERENCE           BER3B_INTROSCREEN_PLACE
+LANG_ENGLISH        "Reichstag - Berlin, Niemcy"
+
+REFERENCE           BER3B_OBJ_2
+LANG_ENGLISH        "Oczyœæ parter Reichstagu."
+
+REFERENCE           BER3B_OBJ_1
+LANG_ENGLISH        "Szturmuj Reichstag."
+
+REFERENCE           BER3B_OBJ_4
+LANG_ENGLISH        "Podnieœ le¿¹c¹ rosyjsk¹ flagê."
+
+REFERENCE           BER3B_OBJ_5
+LANG_ENGLISH        "Zanieœ rosyjsk¹ flagê na szczyt Reichstagu."
+
+REFERENCE           BER3B_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Upadek'"
+
+REFERENCE           BER3B_OBJ_FLAG_RETRIEVE
+LANG_ENGLISH        "Odzyskaj rosyjsk¹ flagê."
+
+REFERENCE           BER3B_OBJ_FLAG_CARRY
+LANG_ENGLISH        "Zanieœ rosyjsk¹ flagê na dach."
+
+REFERENCE           BER3B_HINT_FLAG_PICKUP
+LANG_ENGLISH        "U¿yj [{+activate}], aby podnieœæ flagê"
+
+REFERENCE           BER3B_HINT_FLAG_DROP
+LANG_ENGLISH        "U¿yj [{+usereload}], aby upuœciæ flagê"
+
+REFERENCE           BER3B_FLAG_FAIL_DEADQUOTE
+LANG_ENGLISH        "Zostawi³eœ flagê!"
+
+REFERENCE           BER3B_FLAG_FAIL_WARNING
+LANG_ENGLISH        "Towarzyszu, nie zostawiaj naszej flagi!"
+
+REFERENCE           BER3B_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Dmitrij Petrenko"
+
+REFERENCE           BER3B_OBJ_2A
+LANG_ENGLISH        "WejdŸ na balkon i zapewnij wsparcie."
+
+REFERENCE           BER3B_DIARY_SKIP
+LANG_ENGLISH        "Naciœnij [{+activate}], aby pomin¹æ"
+
+REFERENCE           BER3B_OBJ_2B
+LANG_ENGLISH        "Wyeliminuj Niemców na po³udniowym balkonie."
+
+REFERENCE           BER3B_FLAG_PLANT_TRIGGER_HINT
+LANG_ENGLISH        "Naciœnij [{+activate}], aby postawiæ flagê"
+
+ENDMARKER

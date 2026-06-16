@@ -1,0 +1,76 @@
+// Dumped from fastfile "it_zm_highrise".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
+LANG_ITALIAN        "Vaporizzatore"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SPRINGPAD
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per aggiungere il pezzo."
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SPRINGPAD
+LANG_ITALIAN        "Pezzo aggiunto"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
+LANG_ITALIAN        "Hai preso un vaporizzatore."
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
+LANG_ITALIAN        "Premi ^3[{+actionslot 1}]^7 per usare il vaporizzatore."
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SLIPGUN
+LANG_ITALIAN        "Pezzo aggiunto"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il vaporizzatore."
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il vaporizzatore."
+
+REFERENCE           ZM_HIGHRISE_BUILD_SLIPGUN
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per aggiungere il pezzo."
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
+LANG_ITALIAN        "Hai preso un liquefattore."
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
+LANG_ITALIAN        "Liquefattore"
+
+REFERENCE           ZM_HIGHRISE_GRAB_KEYS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la chiave."
+
+REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il liquefattore."
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il liquefattore."
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
+LANG_ITALIAN        "Premi ^3[{+actionslot 1}]^7 per usare il liquefattore."
+
+REFERENCE           ZM_HIGHRISE_BUILD_KEYS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per inserire la chiave dell'ascensore."
+
+REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
+LANG_ITALIAN        "Pezzo aggiunto"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_KEYS
+LANG_ITALIAN        "Hai preso una chiave."
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
+LANG_ITALIAN        "Chiave"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la chiave."
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
+LANG_ITALIAN        "Premi ^3[{+actionslot 1}]^7 per usare la chiave."
+
+REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la sfera"
+
+REFERENCE           ZM_HIGHRISE_SQ_PUTDOWN_BALL
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per piazzare la sfera"
+
+ENDMARKER

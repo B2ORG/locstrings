@@ -1,0 +1,58 @@
+// Dumped from fastfile "pel1b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_HOLD_POS
+LANG_ENGLISH        "Tenez la position pendant le bombardement"
+
+REFERENCE           PEL1B_OBJECTIVE_FLAME_TANK
+LANG_ENGLISH        "Protégez le char lance-flammes"
+
+REFERENCE           PEL1B_OBJECTIVE_WARNING
+LANG_ENGLISH        "Vous devez détruire les positions antichars pour pouvoir avancer."
+
+REFERENCE           PEL1B_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Sans fin\""
+
+REFERENCE           PEL1B_OBJECTIVE_MOVE_UP
+LANG_ENGLISH        "Avancez avec l'escouade."
+
+REFERENCE           PEL1B_INTROSCREEN_DATE
+LANG_ENGLISH        "16 septembre 1944"
+
+REFERENCE           PEL1B_INTROSCREEN_PLACE
+LANG_ENGLISH        "Le Point, Peleliu"
+
+REFERENCE           PEL1B_INTROSCREEN_INFO
+LANG_ENGLISH        "1ère division des Marines"
+
+REFERENCE           PEL1B_OBJECTIVE_ARTILLERY
+LANG_ENGLISH        "Détruisez les positions antichars (encore &&1)."
+
+REFERENCE           PEL1B_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           PEL1B_PLAYER_DISMOUNT
+LANG_ENGLISH        "Appuyez sur [{+activate}] pour descendre du char"
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FLANK
+LANG_ENGLISH        "Suivez votre escouade."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FOLLOW_FLAME
+LANG_ENGLISH        "Suivez le char lance-flammes."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ART_CLEAR
+LANG_ENGLISH        "Nettoyez la salle d'artillerie."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_CAVE_CLEAR
+LANG_ENGLISH        "Localisez les pièces d'artillerie."
+
+REFERENCE           PEL1B_OBJECTIVE_FOLLOW_SQUAD
+LANG_ENGLISH        "Rejoignez votre escouade."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ASSAULT_CAVE
+LANG_ENGLISH        "Attaquez l'entrée de la grotte."
+
+ENDMARKER

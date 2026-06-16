@@ -1,0 +1,46 @@
+// Dumped from fastfile "ber2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER2_INTROSCREEN_INFO
+LANG_ENGLISH        "제 3충격군"
+
+REFERENCE           BER2_INTROSCREEN_PLACE
+LANG_ENGLISH        "독일, 베를린"
+
+REFERENCE           BER2_OBJ_REGROUP
+LANG_ENGLISH        "분대와 합류하십시오."
+
+REFERENCE           BER2_OBJ_FIGHT_THRU_METRO
+LANG_ENGLISH        "적과 싸우며 지하철을 통과하십시오."
+
+REFERENCE           BER2_OBJ_MOVE_THRU_STREET
+LANG_ENGLISH        "전차와 함께 거리로 올라가십시오."
+
+REFERENCE           BER2_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 4월 24일"
+
+REFERENCE           BER2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'축출'"
+
+REFERENCE           BER2_OBJ_CLEAR_BLDGS
+LANG_ENGLISH        "건물의 적을 소탕하십시오."
+
+REFERENCE           BER2_OBJ_STAY_WITH_TANK
+LANG_ENGLISH        "전차에 가까이 붙어계십시오."
+
+REFERENCE           BER2_OBJ_DEFEND_SARGE
+LANG_ENGLISH        "레즈노프가 문을 열 동안 보호하십시오."
+
+REFERENCE           BER2_OBJ_EXECUTE
+LANG_ENGLISH        "부상당한 독일군을 처형하십시오."
+
+REFERENCE           BER2_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 페트렌코"
+
+REFERENCE           BER2_OBJ_GET_TO_METRO
+LANG_ENGLISH        "지하철 내부로 진입해 로켓 포격에서 벗어나십시오."
+
+ENDMARKER

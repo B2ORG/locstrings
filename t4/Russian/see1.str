@@ -1,0 +1,109 @@
+// Dumped from fastfile "see1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE1_OBJECTIVE3A
+LANG_ENGLISH        "Уничтожить вражеские танки [осталось 4]"
+
+REFERENCE           SEE1_OBJECTIVE2
+LANG_ENGLISH        "Выберите путь для наступления, СЛЕВА или СПРАВА"
+
+REFERENCE           SEE1_RIDE_TANK
+LANG_ENGLISH        "Нажмите [{+activate}] , чтобы залезть на танк"
+
+REFERENCE           SEE1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Их земля, их кровь'"
+
+REFERENCE           SEE1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Зееловские высоты, Германия"
+
+REFERENCE           SEE1_INTROSCREEN_DATE
+LANG_ENGLISH        "18 апреля 1945 года"
+
+REFERENCE           SEE1_OBJECTIVE1_C
+LANG_ENGLISH        "Забераться на Тигр и уничтожить его"
+
+REFERENCE           SEE1_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Петренко"
+
+REFERENCE           SEE1_OBJECTIVE1
+LANG_ENGLISH        "Продвигаться к реке"
+
+REFERENCE           SEE1_OBJECTIVE11
+LANG_ENGLISH        "Уничтожить отступающих немцев"
+
+REFERENCE           SEE1_OBJECTIVE4
+LANG_ENGLISH        "Перегруппироваться у входа в амбар"
+
+REFERENCE           SEE1_OBJECTIVE5
+LANG_ENGLISH        "Уничтожить последний немецкий танк"
+
+REFERENCE           SEE1_OBJECTIVE6
+LANG_ENGLISH        "Следовать за Резновым в амбар"
+
+REFERENCE           SEE1_OBJECTIVE12
+LANG_ENGLISH        "Добраться до ж/д станции"
+
+REFERENCE           SEE1_MANTLE_TANK
+LANG_ENGLISH        "Нажмите и удерживайте кнопку X, чтобы забраться на вражеский танк"
+
+REFERENCE           SEE1_ACHIEVEMENT_UNLOCK
+LANG_ENGLISH        "Открыто достижение"
+
+REFERENCE           SEE1_OBJECTIVE7
+LANG_ENGLISH        "Продвигаться по дороге"
+
+REFERENCE           SEE1_OBJECTIVE3C
+LANG_ENGLISH        "Уничтожить вражеские танки [осталось 2]"
+
+REFERENCE           SEE1_OBJECTIVE8
+LANG_ENGLISH        "Проникнуть в немецкий лагерь"
+
+REFERENCE           SEE1_USE_MOLOTOV
+LANG_ENGLISH        "Нажмите [{+smoke}] , чтобы бросить коктейль молотова"
+
+REFERENCE           SEE1_OBJECTIVE3B
+LANG_ENGLISH        "Уничтожить вражеские танки [осталось 3]"
+
+REFERENCE           SEE1_OBJECTIVE9
+LANG_ENGLISH        "Зачистить немецкий лагерь"
+
+REFERENCE           SEE1_OBJECTIVE10A
+LANG_ENGLISH        "Уничтожить немецкие тягачи [осталось 2]"
+
+REFERENCE           SEE1_OBJECTIVE10B
+LANG_ENGLISH        "Уничтожить немецкие тягачи [остался 1]"
+
+REFERENCE           SEE1_OBJECTIVE10C
+LANG_ENGLISH        "Уничтожить немецкие тягачи"
+
+REFERENCE           SEE1_OBJECTIVE1_B
+LANG_ENGLISH        "Прорвать немецкую линию обороны"
+
+REFERENCE           SEE1_OFF_TANK_PC
+LANG_ENGLISH        "Нажмите и удерживайте кнопку F, чтобы спуститься с танка"
+
+REFERENCE           SEE1_OFF_TANK
+LANG_ENGLISH        "Нажмите и удерживайте [{+usereload}] , чтобы слезть с танка"
+
+REFERENCE           SEE1_OBJECTIVE3D
+LANG_ENGLISH        "Уничтожить вражеские танки [остался 1]"
+
+REFERENCE           SEE1_INTROSCREEN_INFO
+LANG_ENGLISH        "3-я ударная армия"
+
+REFERENCE           SEE1_OBJECTIVE3E
+LANG_ENGLISH        "Уничтожить все танки врага"
+
+REFERENCE           SEE1_LATER
+LANG_ENGLISH        "Ж/д станция: поезд на Берлин"
+
+REFERENCE           SEE1_RIDE_TANK_PC
+LANG_ENGLISH        "Удерживайте F стоя позади танка, чтобы залезть на него."
+
+REFERENCE           SEE1_MANTLE_TANK_PC
+LANG_ENGLISH        "Нажмите и удерживайте кнопку F, чтобы забраться на вражеский танк"
+
+ENDMARKER

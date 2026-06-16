@@ -1,0 +1,91 @@
+// Dumped from fastfile "pel2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Atterraggio brusco'"
+
+REFERENCE           PEL2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Aeroporto, Peleliu"
+
+REFERENCE           PEL2_INTROSCREEN_DATE
+LANG_ENGLISH        "15 settembre 1944"
+
+REFERENCE           PEL2_AA_BUNKER
+LANG_ENGLISH        "Assalta il bunker anti-aereo"
+
+REFERENCE           PEL2_ASSAULT_AIRFIELD
+LANG_ENGLISH        "Assalta l'aeroporto."
+
+REFERENCE           PEL2_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           PEL2_SECURE_MANGROVE_AREA
+LANG_ENGLISH        "Aggira le postazioni di artiglieria giapponesi"
+
+REFERENCE           PEL2_INTROSCREEN_INFO
+LANG_ENGLISH        "1a divisione marine"
+
+REFERENCE           PEL2_CLEAR_THE_BUILDING
+LANG_ENGLISH        "Libera l'edificio"
+
+REFERENCE           PEL2_BUNKER_REGROUP
+LANG_ENGLISH        "Riparati insieme alla squadra"
+
+REFERENCE           PEL2_GET_BAZOOKA
+LANG_ENGLISH        "Prendi il bazooka dalla trincea."
+
+REFERENCE           PEL2_CLEAR_BUNKERS
+LANG_ENGLISH        "Assalta i bunker"
+
+REFERENCE           PEL2_RETRIEVE_FLAME
+LANG_ENGLISH        "Recupera il lanciafiamme"
+
+REFERENCE           PEL2_FLAME_MG
+LANG_ENGLISH        "Fuoco di soppressione sul bunker"
+
+REFERENCE           PEL2_FLAME_BUNKER
+LANG_ENGLISH        "Dai fuoco al bunker"
+
+REFERENCE           PEL2_RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "Premi [{+actionslot 3}] per equipaggiare la granata da fucile."
+
+REFERENCE           PEL2_ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "Avanza verso l'aeroporto"
+
+REFERENCE           PEL2_BAZOOKA
+LANG_ENGLISH        "Distruggi i carri nemici con i bazooka"
+
+REFERENCE           PEL2_BAZOOKA_1
+LANG_ENGLISH        "Distruggi i carri Tipo97 con i bazooka\n(ancora 1)"
+
+REFERENCE           PEL2_BAZOOKA_2
+LANG_ENGLISH        "Distruggi i carri Tipo97 con i bazooka\n(ancora 2)"
+
+REFERENCE           PEL2_BAZOOKA_3
+LANG_ENGLISH        "Distruggi i carri Tipo97 con i bazooka\n(ancora 3)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS
+LANG_ENGLISH        "Elimina gli operatori della contraerea "
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_1
+LANG_ENGLISH        "Elimina gli operatori della contraerea (ancora 1)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_2
+LANG_ENGLISH        "Elimina gli operatori della contraerea (ancora 2)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_3
+LANG_ENGLISH        "Elimina gli operatori della contraerea (ancora 3)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_4
+LANG_ENGLISH        "Elimina gli operatori della contraerea (ancora 4)"
+
+REFERENCE           PEL2_SECURE_AABUNKER
+LANG_ENGLISH        "Libera il bunker della contraerea"
+
+REFERENCE           PEL2_COUNTERATTACK
+LANG_ENGLISH        "Difenditi dal contrattacco"
+
+ENDMARKER

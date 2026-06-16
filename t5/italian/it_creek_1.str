@@ -1,0 +1,805 @@
+// Dumped from fastfile "it_creek_1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CREEK_1_B2_INTRO_DATE
+LANG_ENGLISH        "^LIl colonnello sovietico Kravchenko guida i vietcong e l'esercito nordvietnamita.^L"
+
+REFERENCE           CREEK_1_B2_INTRO_LEVELNAME
+LANG_ENGLISH        "^LTrasmissione n° 14-15. Destinatario: XRAY^L"
+
+REFERENCE           CREEK_1_B2_INTRO_LOCATION
+LANG_ENGLISH        "^LLe nostre spie indicano la presenza dei Sovietici nel sud della ^L ^C1zona demilitarizzata del Vietnam.^C"
+
+REFERENCE           CREEK_1_B2_INTRO_NAME
+LANG_ENGLISH        "^C1Mason^C ^Le la squadra SOG devono trovare le prove ed eliminare Kravchenko.^L"
+
+REFERENCE           CREEK_1_B2_INTRO_TIME
+LANG_ENGLISH        "^LOre 12:00,^L ^C19 febbraio 1968^C"
+
+REFERENCE           CREEK_1_CLEAR_THE_MG
+LANG_ENGLISH        "Elimina la mitragliatrice sulla collina"
+
+REFERENCE           CREEK_1_DESTROY_AA
+LANG_ENGLISH        "Distruggi lo ZSU"
+
+REFERENCE           CREEK_1_DESTROY_RAT
+LANG_ENGLISH        "Distruggi il tunnel"
+
+REFERENCE           CREEK_1_DETONATE_STRING
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per far esplodere"
+
+REFERENCE           CREEK_1_ESCAPE
+LANG_ENGLISH        "Fuggi"
+
+REFERENCE           CREEK_1_FAIL_RICE
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           CREEK_1_FAIL_SILENCED
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           CREEK_1_FAIL_STANDING
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           CREEK_1_FAIL_STAY_UNDER
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           CREEK_1_FAIL_TUNNEL
+LANG_ENGLISH        "Non sei riuscito a fuggire in tempo."
+
+REFERENCE           CREEK_1_FIND_KRAVCHENKO
+LANG_ENGLISH        "Trova Kravchenko"
+
+REFERENCE           CREEK_1_FOLLOW
+LANG_ENGLISH        "Segui"
+
+REFERENCE           CREEK_1_GET_M202
+LANG_ENGLISH        "Raccogli il lanciarazzi M202"
+
+REFERENCE           CREEK_1_HINT_PLANT_CHARGE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per piazzare gli esplosivi"
+
+REFERENCE           CREEK_1_HINT_PUSH_SHELF
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per spostare le casse"
+
+REFERENCE           CREEK_1_KILL_BOAT_VC
+LANG_ENGLISH        "Uccidi i nordvietnamiti sulla barca"
+
+REFERENCE           CREEK_1_M202_PICKUP_HINT
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per l'M202"
+
+REFERENCE           CREEK_1_OBJ_B2_2
+LANG_ENGLISH        "Ripulisci il villaggio"
+
+REFERENCE           CREEK_1_OBJ_B4_INSPECT_ROOM
+LANG_ENGLISH        "Perlustra la stanza"
+
+REFERENCE           CREEK_1_OBJ_B4_OPEN_DOOR
+LANG_ENGLISH        "Muovi la barricata"
+
+REFERENCE           CREEK_1_OBJ_B4_TUNNEL_IN
+LANG_ENGLISH        "Entra nei tunnel"
+
+REFERENCE           CREEK_1_OBJ_CLEAR_N
+LANG_ENGLISH        "Ripulisci il villaggio a nord"
+
+REFERENCE           CREEK_1_OBJ_GET_ON_VC_BOAT
+LANG_ENGLISH        "Sali sul sampan"
+
+REFERENCE           CREEK_1_OBJ_PLANT_EXPLOSIVE
+LANG_ENGLISH        "Piazza il C4"
+
+REFERENCE           CREEK_1_OPEN_HUEY_DOOR
+LANG_ENGLISH        "Premi ripetutamente ^3[{+activate}]^7 per aprire la porta"
+
+REFERENCE           CREEK_1_OPEN_HUEY_DOOR_FLASH
+LANG_ENGLISH        "Premi ^F^3[{+activate}]^7^F per aprire la porta"
+
+REFERENCE           CREEK_1_PRESS_DIG
+LANG_ENGLISH        "Premi ^3[{+melee}]^7 per scavare"
+
+REFERENCE           CREEK_1_PRESS_L3
+LANG_ENGLISH        "Premi ^3[{+melee}]^7 per attaccare corpo a corpo"
+
+REFERENCE           CREEK_1_PRESS_MELEE
+LANG_ENGLISH        "Premi ^3[{+activate}]^7"
+
+REFERENCE           CREEK_1_PROMPT_PRESS
+LANG_ENGLISH        "Premi      per aprire la porta"
+
+REFERENCE           CREEK_1_PROMPT_PRESS_BUTTON
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           CREEK_1_REINFORCE
+LANG_ENGLISH        "Rinforza la squadra Whiskey"
+
+REFERENCE           CREEK_1_RENDEZVOUS
+LANG_ENGLISH        "Raggiungi la squadra Whiskey"
+
+REFERENCE           CREEK_1_TARGET
+LANG_ENGLISH        "Bersaglio"
+
+REFERENCE           CREEK_1_TRIGGER_CHARGES
+LANG_ENGLISH        "Innesca le cariche"
+
+REFERENCE           CREEK_1_TUNNEL_CRAWL_LT
+LANG_ENGLISH        "^3[{+speed_throw}]^7                                  "
+
+REFERENCE           CREEK_1_TUNNEL_CRAWL_RT
+LANG_ENGLISH        "                                       ^3[{+attack}]^7"
+
+REFERENCE           CREEK_1_TURN_FLASHLIGHT
+LANG_ENGLISH        "Premi ^3[{+breath_sprint}]^7 per accendere la torcia"
+
+REFERENCE           CREEK_1_UNDERWATER
+LANG_ENGLISH        "Avvicinati alla barca e premi ^3[{+melee}]^7 per eliminare il Vietcong"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_001A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Qui Hotel-91. Stiamo precipitando nel settore Bravo Tango Seven Niner. May day! May day..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_002A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Lima niner XRay. Mi ricevete?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_004A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Argh..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_011A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Ho bisogno d'aiuto!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_015A_MASO
+LANG_ENGLISH        "^1MASON: ^7Morto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_017A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Merda! Arrivano!!!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_017A_USC1_S
+LANG_ENGLISH        "^1PILOTA USA: ^7* Arrivano!!!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_019A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Distruggiamo quei bastardi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_020A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dobbiamo andarcene da qui! Sta per..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_021A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, stiamo affondando!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_400A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7Ci hanno colpiti!!!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_401A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Da dove cazzo è sbucato?!?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_402A_USC2
+LANG_ENGLISH        "^1PILOTA USA: ^7Sembra uno ZPU di merda!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_403A_USC1
+LANG_ENGLISH        "^1PILOTA USA: ^7MAY DAY! MAY DAY! Qui Hotel-niner one. Stiamo precipitando. STIAMO PRECIPITANDO!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_404A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Fianco sinistro, Mason! Sul crinale!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_410A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Resta basso..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_412A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Attento, Mason. Ci sono altri vietcong davanti."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_413A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto, XRay in arrivo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_414A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ce l'hai il detonatore?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_415A_MASO
+LANG_ENGLISH        "^1MASON: ^7Eccolo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_416A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Attenzione allo ZPU!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_417A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Vicino a quel capanno sul fiume. Lo vedi?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_418A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Ci serve più potenza di fuoco. Johnson! Porta qui il 202 flash e colpisci quello ZPU sul fiume."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_420A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Lima 9 XRay, qui Kentucky. Green Hornet in arrivo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_421A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Fianco sinistro! Bersagli sul tetto!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_422A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ripulire il resto del villaggio!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_423A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov, che hai trovato?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_424A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason, c'è una rete di gallerie tutto intorno al villaggio."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_425A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Siamo vicini..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_426A_MASO
+LANG_ENGLISH        "^1MASON: ^7Tunnel davanti a noi."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_427A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lo vedo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_429A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lima 9, qui XRay. Prepararsi per la ricognizione. Raggio: 3 chilometri."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_430A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_431A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Troverò il modo di aggirarlo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_432A_MASO
+LANG_ENGLISH        "^1MASON: ^7Woods, rispondi."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_433A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Parla pure, Mason."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_434A_MASO
+LANG_ENGLISH        "^1MASON: ^7Swift è morto... Ci sono vietcong dappertutto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_435A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Lima niner sta ripulendo l'area. Nessun segno di... (disturbo radio)"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_436A_MASO
+LANG_ENGLISH        "^1MASON: ^7Woods, mi ricevi?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_437A_MASO
+LANG_ENGLISH        "^1MASON: ^7Merda..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_437A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Cazzo..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_438A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Dov'è il tuo amico Swift?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_439A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Tutti muoiono, Mason."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_440A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Tracce di presenza sovietica nei tunnel... Siamo sulla pista giusta per trovare Kravchenko..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_441A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Aiutami a spostare questo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_442A_MASO
+LANG_ENGLISH        "^1MASON: ^7Da che parte, Reznov?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_443A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Segui il tuo istinto, Mason."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_444A_MASO
+LANG_ENGLISH        "^1MASON: ^7Merda."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_444A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Cazzo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_445A_MASO
+LANG_ENGLISH        "^1MASON: ^7Porca puttana!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_445A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Ma porca...!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_446A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ci stiamo avvicinando, Mason."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_447A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sei con me, Reznov?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_448A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ci siamo... L'avamposto di Kravchenko."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_449A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sembra abbandonato."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_450A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Kravchenko ha intuito che stavamo arrivando..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_451A_MASO
+LANG_ENGLISH        "^1MASON: ^7...e se l'è data a gambe."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_452A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Diamo un'occhiata."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_453A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Kravchenko..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_454A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^74 febbraio 1968. Gli agenti stabilizzanti del dottor Clarke sono stati efficaci."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_455A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Test recenti effettuati sulla popolazione locale hanno dimostrato che questa è la Nova 6 più efficace mai prodotta."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_456A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Esattamente come i test su animali effettuati a Rinascita, la comparsa dei sintomi nei soggetti umani è in linea con le nostre previsioni."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_457A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Trenta secondi dopo aver inalato il gas, il soggetto sperimenta un improvviso e intenso dolore, seguito subito dopo da un forte calo di pressione, febbre, nausea e vomito."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_458A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Dopo sessanta secondi, si manifesta un'eruzione cutanea, seguita da desquamazione, spellatura e scolorimento in tutto il corpo del soggetto. Segnali evidenti di necrosi epidermica."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_459A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7In questo stadio abbiamo avuto un successo limitato, rimuovendo chirurgicamente i tessuti danneggiati. Così facendo, siamo riusciti a mantenere in vita i soggetti per brevi periodi."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_460A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Ma persino l'asportazione del tessuto infetto non può impedire una successiva propagazione."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_461A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7La velocità dell'infezione è costante nei maschi adulti, mentre abbiamo riscontrato un decadimento più rapido nei bambini. Solitamente, il decesso sopravviene fra i trenta e i quaranta secondi."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_462A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Possiamo affermare con certezza che finalmente possediamo una formula funzionante, efficace anche nei climi più caldi."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_463A_KRAV
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Comunicate i nostri successi al dottor Steiner. Qui Kravchenko, passo e chiudo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_464A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7I documenti indicano che la base operativa principale di Kravchenko è al di là del confine: nel Laos."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_465A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ecco i piani di volo per la base... e i rifornimenti forniti da un posto chiamato... Rinascita?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_466A_MASO
+LANG_ENGLISH        "^1MASON: ^7Quanta gente ha ammazzato, quel bastardo?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_467A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Più di quanta immagini, Mason."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_468A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sfrutta le atrocità della guerra come paravento per i suoi esperimenti..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_469A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kravchenko cerca di dare la colpa di tutto questo agli Stati Uniti."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_470A_MASO
+LANG_ENGLISH        "^1MASON: ^7I rifornimenti dovevano arrivargli da qui."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_471A_MASO
+LANG_ENGLISH        "^1MASON: ^7Presto, Reznov! Prendi i documenti. Ce ne andiamo!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_472A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7VAI! VAI!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_473A_MASO
+LANG_ENGLISH        "^1MASON: ^7XRay, mi ricevete?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_474A_MASO
+LANG_ENGLISH        "^1MASON: ^7Cazzo!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_475A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Presto, Mason! Non voglio crepare in questo buco di merda!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_476A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ripeto: Woods, mi ricevi?!?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_477A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Mason? Che cazzo succede? Vediamo del fuoco nelle gallerie."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_477A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Mason? Che diavolo succede? Vediamo del fuoco nelle gallerie."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_478A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kravchenko ha minato il posto!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_479A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Dove diavolo siete?!?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_480A_MASO
+LANG_ENGLISH        "^1MASON: ^7Seguiamo i tunnel un chilometro a nord!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_481A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Dovreste sbucare vicino al crinale nord!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_482A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Dobbiamo crearci un'uscita da soli!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_483A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Restiamo in volo circolare d'attesa finché non vi vediamo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_484A_MASO
+LANG_ENGLISH        "^1MASON: ^7Forza! Forza!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_485A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Scava, Mason. Scava!!!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_486A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason! I vietcong!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_487A_MASO
+LANG_ENGLISH        "^1MASON: ^7Woods, dove sei?!?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_488A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Andiamocene, cazzo!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_488A_WOOD_S_F_S
+LANG_ENGLISH        "^1WOODS: ^7Andiamocene!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_489A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, devi piazzare la carica."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_490A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Torna indietro e piazza la carica..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_491A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, dobbiamo piazzare il C4..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_492A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Torna laggiù."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_497A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Lima niner XRay. Mi sentite?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_700A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Dragovich. Kravchenko. Steiner."
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_701A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dov'era finito Reznov? Perché vi siete separati?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_701B_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dov'era finito Reznov? Perché vi siete separati?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S01_702A_MASO
+LANG_ENGLISH        "^1MASON: ^7Viktor Reznov era un solitario. Non si fidava di nessuno."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_022A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Occhi aperti, Mason! Sono là fuori! Qui Lima 9 XRay..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_025A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Davanti a noi! Al riparo!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_029B_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Il sergente Woods è in gamba... Hai scelto bene i tuoi uomini, Mason..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_029C_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Vado su un punto elevato per cercare il complesso di Kravchenko."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_030A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ricevuto, Viktor, resta nelle vicinanze."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_032A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Lima niner XRay... qui Whiskey. Siete là fuori?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_033A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Parlate, Whiskey."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_034A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Woods! Pensavamo di averti perso nell'elicottero! Qual è il nuovo piano?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_035A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ripulite il perimetro a sud-est. Ci vediamo al punto di raduno."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_036A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Ricevuto. Whiskey in cammino, passo. Felice di risentirti, Woods."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_040A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Il punto di raduno è lì davanti. Dovrebbe esserci Bowman ad aspettarci. Non fare rumore, usa solo il coltello."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_043A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Shhh! Charlie!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_048A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Silenzio."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_056A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7(fischia) Ehi, Charlie."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_056B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Ehi, Nguyen!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_057A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Funziona sempre."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_060A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason, dicci tutto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_061A_MASO
+LANG_ENGLISH        "^1MASON: ^7Da qualche parte vicino a questo villaggio c'è un avamposto militare agli ordini del generale Kravchenko."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_062A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Probabilmente è uno ZPU. Disarmiamolo e chiamiamo gli Hornet."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_062B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7L'antiaerea sta facendo fuori i nostri FAC. Deve esserci uno ZSU qui in giro. Lo disattiviamo e portiamo gli Hornet per perlustrare la zona."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_064A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Squadra Whiskey, coprite il ponte e il fiume a est. Mason, seguimi sul perimetro ovest. Ci vediamo al villaggio fra 5 minuti. Ricevuto?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_064B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Squadra Whiskey, coprite il ponte. Mason, noi piazziamo gli esplosivi lungo il perimetro ovest. Ci vediamo al villaggio fra 5 minuti. Ricevuto?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_067A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Squadra Whiskey con me. A dopo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_073A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7La riva est è sgombra, raggiungiamo il ponte."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_074A_MAR1_F
+LANG_ENGLISH        "^1MARINE USA: ^7Sierra è al perimetro nord."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_077A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Shhh..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_078A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Whiskey è sul ponte. Andiamo a nord."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_079A_MAR1_F
+LANG_ENGLISH        "^1MARINE USA: ^7Sierra ha sgombrato il perimetro nord. Raggiungiamo il villaggio."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_080A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7XRay sta ripulendo il fianco ovest. Tempo stimato: 3 minuti. Dividiamoci. Io mi occupo dei punti in alto. Tu attraversa il fiume e trova un buon posto per una Semtex."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_080B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7XRay sta ripulendo il fianco ovest. Tempo stimato: 3 minuti. Dividiamoci. Io mi occupo dei punti in alto. Attraversa il fiume a destra e piazza una Semtex."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_081A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ricevuto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_087A_MASO
+LANG_ENGLISH        "^1MASON: ^7Esplosivi armati e pronti."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_088A_MAR1_F
+LANG_ENGLISH        "^1MARINE USA: ^7Sierra in posizione."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_089A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Whiskey pronto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S02_400A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7L'antiaerea sta facendo fuori i nostri FAC."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_096A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ho lasciato un regalino nella scorta di carburante là davanti."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_096B_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ho lasciato un regalo nella scorta di carburante là davanti."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_097A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bene... Mason, vediamo come funziona la Semtex."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_097B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bene, siamo pronti... Mason, facci vedere come funziona la Semtex."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_098A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, ora!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_099A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Porca vacca...!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_099A_BOWM_M_S
+LANG_ENGLISH        "^1BOWMAN: ^7Porca troia!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_100A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7VIA! VIA! VIA! VIA! VIA!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_102A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7One zero, one zero, qui Whiskey. C'è uno ZPU nel fiume."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_103A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7È quello! Mason, distruggilo. Se eliminiamo le difese aeree, possiamo far venire gli Hornet."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_104A_MASO
+LANG_ENGLISH        "^1MASON: ^7Vado."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_106A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ricevuto!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_107A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Charlie non vuole mollare quell'arma! Guarda come si muovono, gli stronzi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_107A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Charlie non vuole mollare quell'arma! Guarda come si muovono!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_108A_MASO
+LANG_ENGLISH        "^1MASON: ^7Va bene, colpiamolo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_110A_MAR1_F
+LANG_ENGLISH        "^1MARINE USA: ^7Ricevuto!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_111A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Merda! Mason, porta qui il 202! Mi hanno bloccato."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_112A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì. ho capito."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_113A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason! Usa il 202!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_115A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Colpiscilo ancora! Adesso!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_116A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7One zero. Il nido è vuoto. Obiettivo raggiunto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_117A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_118A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Squadra Kentucky, qui Lima niner. Sierra 3 è sgombro. Potete inviare il supporto aereo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_119A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mandate qui gli aerei... ORA!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_121A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Non fatevela addosso. Stiamo arrivando!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_121A_USC2_S_F_S
+LANG_ENGLISH        "^1PILOTA USA: ^7Non fatevela addosso. Stiamo arrivando!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_123A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Charlie a ore 9!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_124A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lanciate una granata in quella buca!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_125A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Buca davanti a noi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_126A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Buttate una granata in quella buca!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_127A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A sinistra, Mason. Fai fuori quei bastardi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_128A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Charlie a destra!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_129A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7La strada è libera, muoversi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_130A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7L'area è sicura!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_131A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Il molo è sgombro, muoversi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_132A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Avanziamo! Muoversi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_133A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Controlla che quella capanna sia sicura!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_134A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Keep your head down!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_135A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Contatto sul tetto! Mason, pensaci tu!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_136A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Guardate su! Charlie è sul tetto!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_137A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7L'area è sicura. Passiamo per questo capanno. Mason, fai strada."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_138A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Vieni qui!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_139A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Andiamo, Mason! Seguimi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_140A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, in posizione!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_141A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason! Muoviti, fratello!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_144A_MASO
+LANG_ENGLISH        "^1MASON: ^7Tenete giù la testa!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_145A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Charlie sta raggiungendo l'MG... Merda! Al riparo!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_145A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7MG! Take cover!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_146A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Qualcuno abbatta quel figlio di puttana!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_146A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Abbattetelo!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_147A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Riesci a vederlo?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_148A_MASO
+LANG_ENGLISH        "^1MASON: ^7È mio."
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_493A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Aprire il fuoco!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_494A_RED3
+LANG_ENGLISH        "^1MARINE USA: ^7Muoviamoci!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_495A_RED4
+LANG_ENGLISH        "^1MARINE USA: ^7Al riparo!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S03_496A_RED4
+LANG_ENGLISH        "^1MARINE USA: ^7Muoversi! Muoversi!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_152A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bomba in buca!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_153A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Dobbiamo ripulire il tunnel."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_154A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ci penso io. Swift, vieni con me."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_155A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bene. Io e gli Hornet continuiamo a esplorare l'area. Muoviamoci."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_156A_SWIF
+LANG_ENGLISH        "^1SWIFT: ^7Questo figlio di puttana ha finito di combattere."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_156A_SWIF_S
+LANG_ENGLISH        "^1SWIFT: ^7Ha finito di combattere."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_157A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Tieni, prendi questo e concentrati. Troveremo Kravchenko. Tu vedi di uscire vivo da lì. Bowman, il punto! Muoviamoci!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_158A_SWIF
+LANG_ENGLISH        "^1SWIFT: ^7Mason, tieni ferma la luce."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_159A_MASO
+LANG_ENGLISH        "^1MASON: ^7Aspetta."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_160A_MASO
+LANG_ENGLISH        "^1MASON: ^7Reznov... stavi per prenderti una pallottola."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_161A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Nessuno può vincere da solo, Mason."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_162A_MASO
+LANG_ENGLISH        "^1MASON: ^7Va bene, ma non fare rumore!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_163A_SWIF_M
+LANG_ENGLISH        "^1SWIFT: ^7Ma che cazzo ti prende?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_163A_SWIF_M_S
+LANG_ENGLISH        "^1SWIFT: ^7Ma cosa diavolo ti prende?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_164A_MASO
+LANG_ENGLISH        "^1MASON: ^7A posto. Muoviti, Swift."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_165A_SWIF_M
+LANG_ENGLISH        "^1SWIFT: ^7Mason, non perdere il controllo..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_165A_SWIF_M_S
+LANG_ENGLISH        "^1SWIFT: ^7Mason, non perdere il controllo..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_166A_MASO
+LANG_ENGLISH        "^1MASON: ^7Oh, merda..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_166A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Oh, merda..."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_167A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Dov'è il nostro amico Swift?"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_168A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Morto."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_171A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Tocca a te, amico mio. Io ti seguo."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_172A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Attento, Mason... Sento il nemico."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_173A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ottimo lavoro, amico mio."
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_188A_MASO
+LANG_ENGLISH        "^1MASON: ^7Merda!"
+
+REFERENCE           CREEK_1_VOX_CRE1_S04_188A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Merda!"
+
+ENDMARKER

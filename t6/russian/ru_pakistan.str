@@ -1,0 +1,754 @@
+// Dumped from fastfile "ru_pakistan".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PAKISTAN_NEWREF
+LANG_RUSSIAN        "Новый текст"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7CLAW активны! Оружейные системы включены!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ну же!  Эта штуковина нужна нам на ходу."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_024A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Видимо, они заметили, как мы входили!"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Я пытаюсь!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_012A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7We gotta go!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Hас окружают МВР!"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Может, управление заклинило!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_016A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Витрина. Справа!"
+
+REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE1
+LANG_RUSSIAN        "Записать пакеты важных данных: Не выполнено [1 из 3]"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Здесь явно никто не был готов к наводнению."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_020A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор, ты выходишь из зоны обзора CLAW.  Теперь ты сам по себе."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Вот так... Готово!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_017A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Бей, Сектор."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_007A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Начинай помечать цели!  Посмотрим, на что способен этот гад!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_025A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сектор!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_034A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Еще бойцы МВР! Идут к нам!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_010A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Держись левее, брат!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_007A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Start marking targets.  Let's see what this can do."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Дроны!!!  Ложись!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_008A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Еще бойцы МВР!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_009A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пусть CLAW уйдут первыми!  Держись позади!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_020A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Дроны поддержки!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Если он нас увидит, нам хана."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_029A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Возьмите Брутуса и Максимуса. Займите позиции наверху и прикройте нас на улицах."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_FAIL
+LANG_RUSSIAN        "Вы потеряли Салазара."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_004A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор, на крышу!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_021A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уничтожить этого дрона!"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_ACTIVE
+LANG_RUSSIAN        "НАБЛЮДЕНИЕ АКТИВИРОВАНО"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Назад, Сектор!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Антем в двух километрах к юго-востоку."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_1_01_023A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7В глубокой воде CLAW не действуют.   Салазар, Кросби.  Поднимите их выше.  Перегруппируемся в Антеме."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Тут дрон ведет разведку."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_014A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Твою мать!!! Он тебя заметил!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_030A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Войска МВР занимают позиции по всей улице!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_037A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Живее, Сектор.  Сюда."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_013A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уходи, Сектор!"
+
+REFERENCE           PAKISTAN_SHARED_PERK_INTRUDER_SOCT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вскрыть"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_014A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7It's seen you!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_030A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7ISI troops are taking position across the whole street!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_031A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор, Брутус и Максимус на позициях."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_012A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Помечай их, Сектор!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_024A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Это, блин, что еще за шум?!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Отметь цель для CLAW!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Круто!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_029A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот жопа.  Пронесло, да?  Хорошо хоть яйца на месте... А у тебя?  Пошли."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_019A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Используй любое укрытие!  Осторожнее, Сектор!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_032A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7В укрытие!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_016A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Эти дроны тут вместо батальонов смерти... Истребляют мародеров."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_033A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Принято, Салазар. Перегруппируемся в Антеме"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_029A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Oh.  That was a close one, huh?  Still got my... How about you?  Let's go."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MOVEMENT
+LANG_RUSSIAN        "^3[{+movestick}]^7 - перемещение, ^3[{+lookstick}]^7 прицел орудия."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_024A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7What is that noise?!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_012A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7We gotta go!"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_BASE
+LANG_RUSSIAN        "Попасть в Антем"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_026A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Давай! Быстрее сюда!  Надо уходить с улицы!"
+
+REFERENCE           PAKISTAN_SHARED_PERK_CLAW_SUPPORT
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 , чтобы убрать замок"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_035A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Давай, Сектор.  Вперед!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_011A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Разворачивается!"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_SEARCH_ACTIVATED
+LANG_RUSSIAN        "ПОИСК ЗАХВАТА АКТИВИРОВАН"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_021A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Наблюдайте. Держите меня в курсе."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_006A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Твою мать..."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_036A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Выходим, Сектор."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_01_028A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Поднажали!  Сильнее!  1... 2... 3... Давай!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ладно. Вперед!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Антем прямо по курсу.  Идем."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_002A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Просто полная жопа..."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_RAM
+LANG_RUSSIAN        "Нажимайте ^3[{+gostand}]^7 для ускорения"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Похоже, им пришлось самим о себе заботиться.  Плохо дело... Плохо."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_002A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7What a mess..."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_02_006A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7Aww..."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Идет на второй заход!  Сюда, в здание."
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_TURRET
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7, чтобы стрелять из пулемета\nНажмите ^3[{+speed_throw}]^7 чтобы выпустить ракету"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_021A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Тихо, дай ему пройти"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_006A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7О, я за тобой слежу."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Точка входа за зданием в конце улицы. Ты готов?"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_009A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Только тебя и жду."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_012A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Нахер! Надо уходить!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_007A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Да-да, тупая ты скотина.  Продолжай смотреть не туда."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Канализация идет прямо под Антемом."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_007A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7That's right... Keep looking the wrong way."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прямо по курсу еще один дрон."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_017A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Осторожнее.  Держись в тени."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прожектор слишком близко, Сектор."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_019A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уходи, пока тебя не заметили!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_019A_BRIG_M
+LANG_RUSSIAN        "^1Бриггс: ^7Ни в коем случае не упускайте из виду патрульный дрон. Если этот пылесос захватит цель, бежать бесполезно. Просто сдохнешь уставшим."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_03_020A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты что вытворяешь, блин?!"
+
+REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE2
+LANG_RUSSIAN        "Записать пакеты важных данных: Не выполнено [2 из 3]"
+
+REFERENCE           PAKISTAN_SHARED_GCM_ONLINE
+LANG_RUSSIAN        "GCM ВКЛЮЧЕН"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Идет на второй заход!  Сюда, в здание."
+
+REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_6X
+LANG_RUSSIAN        "УВЕЛИЧЕНИЕ: 6X"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_STEER
+LANG_RUSSIAN        "Используйте ^3[{+movestick}]^7 чтобы поворачивать"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_021A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Тихо, дай ему пройти"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_SWITCH_TO
+LANG_RUSSIAN        "Нажмите ^3[{+switchseat}]^7 чтобы переключиться на CLAW"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_006A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7О, я за тобой слежу."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_008A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Точка входа за зданием в конце улицы.  Ты готов?"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_011A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Разворачивается!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_012A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Нахер! Надо уходить!"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_007A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Да-да, тупая ты скотина.  Продолжай смотреть не туда."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_007A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7That's right... Keep looking the wrong way."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прямо по курсу еще один дрон."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_017A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Осторожнее.  Держись в тени."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прожектор слишком близко, Сектор."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_019A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Уходи, пока тебя не заметили!"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_SALAZAR
+LANG_RUSSIAN        "Встретиться с Салазаром"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_020A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты что вытворяешь, блин?!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_014A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Твою мать!!!  Он тебя заметил!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_07_014A_HARP_S
+LANG_RUSSIAN        "^1Harper: ^7It's seen you!"
+
+REFERENCE           PAKISTAN_SHARED_GATE_PUSH_FAIL
+LANG_RUSSIAN        "Вас раздавило обломками, помогите Харперу открыть ворота"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Дрон возвращается!"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_022A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Салазар.  МВР получила партию новых SOC-T рядом с вашей позицией.  Захватите парочку для эвакуации."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Не высовываться.  Пусть пройдет."
+
+REFERENCE           PAKISTAN_SHARED_ANTHEM_ALERT_FAIL
+LANG_RUSSIAN        "Вы выдали свое положение."
+
+REFERENCE           PAKISTAN_SHARED_BUS_FAIL
+LANG_RUSSIAN        "Сойдите с дороги, чтобы не попасть под автобус"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Пошел."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_016A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Погоди. У входа в канализацию солдаты МВР."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_017A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Бери мудака справа... второй мой."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_018A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Жду тебя, дружище... Я всегда стреляю быстрее."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_013A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Все чисто.  Идем."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BRAKE
+LANG_RUSSIAN        "Удерживайте ^3[{+speed_throw}]^7 чтобы затормозить/сдать назад"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_2
+LANG_RUSSIAN        "Не отставайте от Салазара, вы слишком далеко\n"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_019A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Помощи от тебя..."
+
+REFERENCE           PAKISTAN_SHARED_FROGGER_FAIL
+LANG_RUSSIAN        "Вы погибли от обломка . \nКрупные объекты при попадании в вас наносят серьезный урон."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_015A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7И правда грязная работенка."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_020A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор.  Мы на позиции у сортировочной станции. Вижу много противников."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_022A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты слышишь?"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_034A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Они говорят о новом SOC-T... у сортировочной станции."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_04_036A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Нам пора уходить."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_024A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Ясно."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_027A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Здесь Менендес.  Я видел его во дворе. Он встречается с лидером МВР."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_FLAMETHROWER
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7, чтобы использовать огнемет."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_028A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Я свяжусь с Бриггсом."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_FAIL
+LANG_RUSSIAN        "Двигайтесь к точке эвакуации."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Адмирал, мы на позиции."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_016A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Отлично, коммандер. Сейчас передам вам карты Антема."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_017A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Наиболее выгодная позиция для вас вот здесь… …Отличный обзор главного двора."
+
+REFERENCE           PAKISTAN_SHARED_KILLED_BY_DRONE
+LANG_RUSSIAN        "Вас убил дрон"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_018A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7CLAW будут следовать по вашему пути проникновения с фланга. Кроме них у вас ничего нет. Если их снимут, останетесь на бобах."
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_019A_BRIG_S
+LANG_RUSSIAN        "^1Adm. Briggs: ^7Remember don't take your eyes off that patrolling drone, son.  It gets a bead on you, you can run but you'll only die tired."
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_020A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Если я решу бежать, адмирал, то только к нему."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_INFO
+LANG_RUSSIAN        "ДАННЫЕ ПОЛУЧЕНЫ"
+
+REFERENCE           PAKISTAN_VOX_VOX_PAK_2_05_021A_BRIG_D
+LANG_RUSSIAN        "^1Бриггс: ^7Удачи, коммандер."
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LПАДШИЙ АНГЕЛ^L"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ЛАХОР, ^LПАКИСТАН^L"
+
+REFERENCE           PAKISTAN_SHARED_PIPE_MELEE_INTERACT_TRIGGER_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы спуститься."
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "ДЭВИД МЕЙСОН // ПОЗЫВНОЙ: ^LСЕКТОР^L"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "АНТИТЕРРОРИСТИЧЕСКАЯ ГРУППА ^LОКСО^L"
+
+REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL_KEYBOARD
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы выбрать SOC-T.\nНажмите ^3[{+reload}]^7 чтобы выбрать Дрон."
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "29 МАЯ ^L2025^L"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           PAKISTAN_SHARED_PLAYER_SWITCH
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 2}] ^7, чтобы снова переключиться на Мэйсона"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           PAKISTAN_SHARED_STREET_CLAW_SWITCH
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 3}]^7, чтобы управлять Брутусом"
+
+REFERENCE           PAKISTAN_SHARED_ROOFTOP_CLAW_SWITCH
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7, чтобы управлять Максимусом"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_3
+LANG_RUSSIAN        "Последнее предупреждение, не отставайте от Салазара"
+
+REFERENCE           PAKISTAN_SHARED_FAIL_SURVEILLANCE
+LANG_RUSSIAN        "Не удалось записать разговор."
+
+REFERENCE           PAKISTAN_SHARED_COURTYARD_WARNING
+LANG_RUSSIAN        "Вы покидаете поле боя!"
+
+REFERENCE           PAKISTAN_SHARED_SCOT_DESTROYED
+LANG_RUSSIAN        "SOC-T уничтожен"
+
+REFERENCE           PAKISTAN_SHARED_PLAYER_DRONE_DESTROYED
+LANG_RUSSIAN        "Робот уничтожен"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_AVOID_DRONES
+LANG_RUSSIAN        "Избежать обнаружения дронами"
+
+REFERENCE           PAKISTAN_SHARED_DIRECT_CLAW_FIRE
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 , чтобы направить огонь CLAW"
+
+REFERENCE           PAKISTAN_SHARED_INFO_COMPLETE
+LANG_RUSSIAN        "Записать пакеты важных данных: Выполнено [3 из 3]"
+
+REFERENCE           PAKISTAN_SHARED_PERK_GET_FLAMETHROWER
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы взломать огнемет CLAW"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_MISSILE
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7, чтобы пустить ракеты"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_SWITCH
+LANG_RUSSIAN        "Нажмите ^3[{+switchseat}]^7, чтобы управлять SOC-T"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_BLOCKADE
+LANG_RUSSIAN        "Прорвать блокаду"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_ESCAPE
+LANG_RUSSIAN        "Выбраться из Антема"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_EXTRACTION_POINT
+LANG_RUSSIAN        "Добраться до точки эвакуации"
+
+REFERENCE           PAKISTAN_SHARED_FAILURE_LOST_SCOT_CONTROL
+LANG_RUSSIAN        "Задание не выполнено: потеряно управление перемещением SOC-T."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_GAS
+LANG_RUSSIAN        "Нажмите ^3[{+gas}]^7 чтобы ускориться"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GRAPPLE
+LANG_RUSSIAN        "Добраться до наблюдательной точки"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_ID_MENENDEZ
+LANG_RUSSIAN        "Опознать Менендеса"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_RECORD_MENENDEZ
+LANG_RUSSIAN        "Записать разговор Менендеса"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE
+LANG_RUSSIAN        "Схватить Менендеса"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE_AGAIN
+LANG_RUSSIAN        "Схватить Менендеса"
+
+REFERENCE           PAKISTAN_SHARED_FAIL_ID
+LANG_RUSSIAN        "Вы не смогли найти Менендеса и проследить за ним."
+
+REFERENCE           PAKISTAN_SHARED_OBJ_BUS_ESCAPE
+LANG_RUSSIAN        "Выбраться"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SOUND
+LANG_RUSSIAN        "Вы привлекли внимание дрона. \nОн реагирует на громкие звуки."
+
+REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SIGHT
+LANG_RUSSIAN        "Вы привлекли внимание дрона. \nНе попадайте в поле его зрения."
+
+REFERENCE           PAKISTAN_SHARED_OBJ_SURVEIL_MENENDEZ
+LANG_RUSSIAN        "Установить наблюдение за Менендесом"
+
+REFERENCE           PAKISTAN_SHARED_FLAMETHROWER_ENABLED
+LANG_RUSSIAN        "Огнемет CLAW включен"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_CLEAR_RAILYARD
+LANG_RUSSIAN        "Зачистить депо"
+
+REFERENCE           PAKISTAN_SHARED_PIPE_FAIL
+LANG_RUSSIAN        "Уклоняйтесь от труб, которые на вас сбрасывают боссы."
+
+REFERENCE           PAKISTAN_SHARED_SCOT_DISTANCE_WARNING
+LANG_RUSSIAN        "Держитесь ближе к Салазару."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_1
+LANG_RUSSIAN        "Продолжайте двигаться к точке эвакуации"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_2
+LANG_RUSSIAN        "Мейсон, немедленно направляйтесь к точке эвакуации"
+
+REFERENCE           PAKISTAN_SHARED_NON_SUPER_SOCT_FAIL
+LANG_RUSSIAN        "У SOC-T недостаточно энергии, чтобы пройти здесь. Найдите другой путь."
+
+REFERENCE           PAKISTAN_SHARED_OBJ_EVAC
+LANG_RUSSIAN        "Добраться до точки эвакуации"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_TO_DRONE_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+switchseat}]^7 в любое время для переключения между SOC-T и роботом "
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BOOST
+LANG_RUSSIAN        "Нажимайте ^3[{+gostand}]^7 для ускорения"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MINIGUN
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7, чтобы стрелять из пулемета\nНажмите ^3[{+frag}]^7 чтобы стрелять из гранатомета"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_GRENADE
+LANG_RUSSIAN        "Нажмите ^3[{+frag}]^7 , чтобы открыть огонь из гранатомета"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_SWITCH
+LANG_RUSSIAN        "Нажмите ^3[{+switchseat}]^7 , чтобы выбрать CLAW для управления (доступны в любое время)."
+
+REFERENCE           PAKISTAN_SHARED_FAIL_ID_MENENDEZ
+LANG_RUSSIAN        "Вы должны опознать Менендеса."
+
+REFERENCE           PAKISTAN_SHARED_MELEE_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+melee}]^7, чтобы ударить"
+
+REFERENCE           PAKISTAN_SHARED_MOUNT_SOCT_TRIGGER_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+activate}] ^7 , чтобы войти в SOC-T."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_FAIL
+LANG_RUSSIAN        "Вы бросили свой отряд."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_WARNING
+LANG_RUSSIAN        "Вернитесь к своему отряду."
+
+REFERENCE           PAKISTAN_SHARED_HINT_PRONE
+LANG_RUSSIAN        "Зажмите ^3[{+stance}]^7, чтобы лечь "
+
+REFERENCE           PAKISTAN_SHARED_HINT_PRONE_KEYBOARD
+LANG_RUSSIAN        "Нажмите ^3[{toggleprone}]^7 чтобы лечь"
+
+REFERENCE           PAKISTAN_SHARED_GRENADE_GRAPPLE
+LANG_RUSSIAN        "Зажмите ^3[{+frag}]^7, чтобы прицелиться  "
+
+REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL
+LANG_RUSSIAN        "Нажмите и удерживайте ^3[{+activate}]^7, чтобы выбрать в SOC-T.\nНажмите и удерживайте ^3[{+stance}]^7 , чтобы выбрать дрона."
+
+REFERENCE           PAKISTAN_SHARED_DRONE_MISSILE_LOCK_HELPER
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7 чтобы запустить наводящиеся ракеты"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_INIT
+LANG_RUSSIAN        "АКТИВАЦИЯ КРЮКА"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_STANDBY
+LANG_RUSSIAN        "ОЖИДАНИЕ..."
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_SCAN
+LANG_RUSSIAN        "СКАНИРОВАНИЕ..."
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_LOCATED
+LANG_RUSSIAN        "ОПОРНАЯ ТОЧКА ОБНАРУЖЕНА"
+
+REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_2X
+LANG_RUSSIAN        "УВЕЛИЧЕНИЕ: 2X"
+
+REFERENCE           PAKISTAN_SHARED_SURV_ACTIVATE
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^, чтобы включить режим слежения"
+
+REFERENCE           PAKISTAN_SHARED_SURV_TOGGLE
+LANG_RUSSIAN        "Нажмите^3[{+actionslot 1}]^7, чтобы включить режим слежения"
+
+REFERENCE           PAKISTAN_SHARED_SURV_MODE_HINT
+LANG_RUSSIAN        "РАЗВЕДЫВАТЕЛЬНЫЙ РЕЖИМ ВКЛЮЧЕН"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_INITIALIZE
+LANG_RUSSIAN        "ВКЛЮЧЕНИЕ НАБЛЮДЕНИЯ"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_DEACTIVATE
+LANG_RUSSIAN        "ОТКЛЮЧЕНИЕ НАБЛЮДЕНИЯ"
+
+REFERENCE           PAKISTAN_SHARED_SURV_ZOOM
+LANG_RUSSIAN        "Удерживайте ^3[{+speed_throw}]^7 для приближения"
+
+REFERENCE           PAKISTAN_SHARED_GCM_OFFLINE
+LANG_RUSSIAN        "GCM ОТКЛЮЧЕН"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_ONLINE
+LANG_RUSSIAN        "CLAW: МАКСИМУС ВКЛЮЧЕН"
+
+REFERENCE           PAKISTAN_SHARED_BUS_PUSH_F
+LANG_RUSSIAN        "Нажимайте ^F^3[{+activate}]^7^F чтобы оттолкнуть"
+
+REFERENCE           PAKISTAN_SHARED_INFO1
+LANG_RUSSIAN        "Первый пакет важных данных записан"
+
+REFERENCE           PAKISTAN_SHARED_INFO2
+LANG_RUSSIAN        "Записан второй пакет важных данных"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           PAKISTAN_SHARED_INFO3
+LANG_RUSSIAN        "Записан третий пакет важных данных"
+
+REFERENCE           PAKISTAN_SHARED_COMMS
+LANG_RUSSIAN        "СВЯЗЬ УСТАНОВЛЕНА"
+
+REFERENCE           PAKISTAN_SHARED_BUS_RUNOVER
+LANG_RUSSIAN        "Не попадите под автобус."
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+ENDMARKER

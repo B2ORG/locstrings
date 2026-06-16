@@ -1,0 +1,67 @@
+// Dumped from fastfile "ber3b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3B_OBJ_3
+LANG_ENGLISH        "Continuez à sécuriser le Reichtag."
+
+REFERENCE           BER3B_INTROSCREEN_INFO
+LANG_ENGLISH        "150e division d'infanterie légère"
+
+REFERENCE           BER3B_INTROSCREEN_DATE
+LANG_ENGLISH        "30 avril 1945"
+
+REFERENCE           BER3B_INTROSCREEN_PLACE
+LANG_ENGLISH        "Reichstag, Berlin"
+
+REFERENCE           BER3B_OBJ_2
+LANG_ENGLISH        "Aidez les troupes russes à contrôler la salle du Parlement."
+
+REFERENCE           BER3B_OBJ_1
+LANG_ENGLISH        "Prenez le Reichtag d'assaut."
+
+REFERENCE           BER3B_OBJ_4
+LANG_ENGLISH        "Ramassez le drapeau russe."
+
+REFERENCE           BER3B_OBJ_5
+LANG_ENGLISH        "Hissez le drapeau russe sur le toit du Reichtag."
+
+REFERENCE           BER3B_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Chute\""
+
+REFERENCE           BER3B_OBJ_FLAG_RETRIEVE
+LANG_ENGLISH        "Retrouvez le drapeau russe."
+
+REFERENCE           BER3B_OBJ_FLAG_CARRY
+LANG_ENGLISH        "Apportez le drapeau russe sur le toit."
+
+REFERENCE           BER3B_HINT_FLAG_PICKUP
+LANG_ENGLISH        "Maintenez [{+activate}] pour ramasser le drapeau."
+
+REFERENCE           BER3B_HINT_FLAG_DROP
+LANG_ENGLISH        "Maintenez [{+usereload}] pour lâcher le drapeau."
+
+REFERENCE           BER3B_FLAG_FAIL_DEADQUOTE
+LANG_ENGLISH        "Vous avez abandonné le drapeau !"
+
+REFERENCE           BER3B_FLAG_FAIL_WARNING
+LANG_ENGLISH        "Camarade, prenez notre drapeau avec vous !"
+
+REFERENCE           BER3B_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Petrenko"
+
+REFERENCE           BER3B_OBJ_2A
+LANG_ENGLISH        "Montez sur le balcon pour couvrir vos alliés d'en haut."
+
+REFERENCE           BER3B_DIARY_SKIP
+LANG_ENGLISH        "(Appuyez sur [{+activate}] pour passer.)"
+
+REFERENCE           BER3B_OBJ_2B
+LANG_ENGLISH        "Éliminez les Allemands sur le balcon sud."
+
+REFERENCE           BER3B_FLAG_PLANT_TRIGGER_HINT
+LANG_ENGLISH        "Appuyez sur [{+activate}] pour planter le drapeau."
+
+ENDMARKER

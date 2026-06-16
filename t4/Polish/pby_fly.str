@@ -1,0 +1,115 @@
+// Dumped from fastfile "pby_fly".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           VEHICLENAME_CRUSADER_TANK
+LANG_ENGLISH        "Czo³g Crusader"
+
+REFERENCE           PBY_FLY_OBJ_EV1
+LANG_ENGLISH        "Kontynuuj rutynowy patrol."
+
+REFERENCE           PBY_FLY_TUT_INTRO
+LANG_ENGLISH        "Witaj w samouczku dotycz¹cymi wie¿yczek samolotu PBY."
+
+REFERENCE           PBY_FLY_TUT_SWITCH
+LANG_ENGLISH        "U¿yj D-Pada, aby prze³¹czaæ wie¿yczki"
+
+REFERENCE           PBY_FLY_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Black Cats'"
+
+REFERENCE           PBY_FLY_INTROSCREEN_PLACE
+LANG_ENGLISH        "Na po³udnie od Okinawy"
+
+REFERENCE           PBY_FLY_INTROSCREEN_DATE
+LANG_ENGLISH        "3 kwietnia 1945"
+
+REFERENCE           PBY_FLY_INTROSCREEN_NAME
+LANG_ENGLISH        "Bosman Locke"
+
+REFERENCE           VEHICLENAME_FLETCHER
+LANG_ENGLISH        "Niszczyciel klasy Fletcher"
+
+REFERENCE           PBY_FLY_INTROSCREEN_INFO
+LANG_ENGLISH        "Eskadra Black Cat VPB-54"
+
+REFERENCE           PBY_FLY_OBJ_EV2_PTBOATS
+LANG_ENGLISH        "Odeprzyj atak japoñskich kutrów - zniszczono: &&1."
+
+REFERENCE           PBY_FLY_OBJ_EV2
+LANG_ENGLISH        "Zniszcz japoñskie statki handlowe - pozosta³o: &&1."
+
+REFERENCE           PBY_FLY_PBY_NAME_B
+LANG_ENGLISH        "HAMMERHEAD"
+
+REFERENCE           PBY_FLY_OBJ_EV3B
+LANG_ENGLISH        "Odpowiedz na wezwanie floty."
+
+REFERENCE           PBY_FLY_OBJ_EV3
+LANG_ENGLISH        "Wróæ do bazy."
+
+REFERENCE           VEHICLENAME_SHERMAN_TANK
+LANG_ENGLISH        "Czo³g Sherman"
+
+REFERENCE           PBY_FLY_OBJ_EV4
+LANG_ENGLISH        "Uratuj wszystkich rozbitków - uratowano: &&1."
+
+REFERENCE           PBY_FLY_MERCHANT
+LANG_ENGLISH        "Statki handlowe:"
+
+REFERENCE           PBY_FLY_SWITCH_FRONT
+LANG_ENGLISH        "Naciœnij [{+activate}], aby prze³¹czyæ na wie¿yczkê dziobow¹"
+
+REFERENCE           PBY_FLY_SWITCH_RIGHT
+LANG_ENGLISH        "Naciœnij [{+activate}], aby prze³¹czyæ na praw¹ wie¿yczkê"
+
+REFERENCE           PBY_FLY_OBJ_EV5
+LANG_ENGLISH        "Wyeliminuj japoñskie Zera."
+
+REFERENCE           PBY_FLY_SWITCH_LEFT
+LANG_ENGLISH        "Naciœnij [{+activate}], aby prze³¹czyæ na lew¹ wie¿yczkê"
+
+REFERENCE           VEHICLENAME_ARMORED_CAR
+LANG_ENGLISH        "Samochód opancerzony"
+
+REFERENCE           PBY_FLY_SWITCH_REAR
+LANG_ENGLISH        "Naciœnij [{+activate}], aby prze³¹czyæ na doln¹ wie¿yczkê"
+
+REFERENCE           PBY_FLY_RESCUE
+LANG_ENGLISH        "Naciœnij [{+activate}], aby uratowaæ rozbitka"
+
+REFERENCE           PBY_FLY_ADS_HINT
+LANG_ENGLISH        "Naciœnij i przytrzymaj [{+speed_throw}], aby u¿yæ reflektora i przyrz¹dów celowniczych"
+
+REFERENCE           PBY_FLY_PBY_NAME_A
+LANG_ENGLISH        "MANTA RAY"
+
+REFERENCE           PBY_FLY_PBY_SQUAD
+LANG_ENGLISH        "VPB 54 - BLACK CAT"
+
+REFERENCE           PBY_FLY_SURVIVOR
+LANG_ENGLISH        "Rozbitkowie:"
+
+REFERENCE           PBY_FLY_PTBOAT
+LANG_ENGLISH        "£odzie patrolowe:"
+
+REFERENCE           PBY_FLY_ZEROES
+LANG_ENGLISH        "Zera:"
+
+REFERENCE           PBY_FLY_X
+LANG_ENGLISH        "x"
+
+REFERENCE           PBY_FLY_OBJ_EV3B_ZEROES
+LANG_ENGLISH        "Odeprzyj atak japoñskich Zer - zniszczono: &&1."
+
+REFERENCE           PBY_FLY_CANNON
+LANG_ENGLISH        "Naciœnij [{+frag}], aby strzeliæ z dzia³ka 20 mm"
+
+REFERENCE           VEHICLENAME_BUFFALO
+LANG_ENGLISH        "Buffalo"
+
+REFERENCE           VEHICLENAME_T34_TANK
+LANG_ENGLISH        "Czo³g T34"
+
+ENDMARKER

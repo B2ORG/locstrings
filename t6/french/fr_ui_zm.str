@@ -1,0 +1,925 @@
+// Dumped from fastfile "fr_ui_zm".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED_DESC
+LANG_FRENCH         "Le multiplicateur de la vitesse à laquelle le joueur franchit un objet."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_CAPS
+LANG_FRENCH         "MODIFIER ÉQUIPEMENT DE CLASSE"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT
+LANG_FRENCH         "Mode personnalisé chargé"
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_DESC
+LANG_FRENCH         "Réglez la cadence de tir des armes du joueur."
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED
+LANG_FRENCH         "RÉCUP. COUPS DE COUTEAU"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_PRO
+LANG_FRENCH         "ATOUTS PRO"
+
+REFERENCE           CUSTOM_FAST
+LANG_FRENCH         "RAPIDE"
+
+REFERENCE           CUSTOM_BOMB_TIMER
+LANG_FRENCH         "DÉLAI EXPLOSION"
+
+REFERENCE           CUSTOM_PERK_ROF_DESC
+LANG_FRENCH         "Le multiplicateur de la vitesse à laquelle tirent les armes du joueur."
+
+REFERENCE           CUSTOM_OPT_HARDCORE_DESC
+LANG_FRENCH         "Active/désactive le mode Hardcore. Hardcore : ATH limité, armes plus mortelles et tir allié activé."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_8
+LANG_FRENCH         "8 SECONDES"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT VISÉE SOLIDE"
+
+REFERENCE           CUSTOM_PERK_KNIFE_WORK_DESC
+LANG_FRENCH         "Réglez le multiplicateur de vitesse pour les coups de couteau."
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME_DESC
+LANG_FRENCH         "Le multiplicateur de la vitesse à laquelle le joueur recharge une arme."
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT VISÉE SOLIDE PRO"
+
+REFERENCE           CUSTOM_CLASS_INCORRECT
+LANG_FRENCH         "Vous devez avoir au moins un agent des Forces spéciales et un communiste."
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME
+LANG_FRENCH         "TEMPS DE RECHARGE"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY_DESC
+LANG_FRENCH         "Les joueurs attendront pour réapparaître. Si un délai de réapparition est défini, le joueur devra attendre au moins la durée du délai de réapparition avant de réapparaître à la prochaine vague."
+
+REFERENCE           CUSTOM_PERK_SCOUT_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT ÉCLAIREUR"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT TOUR DE PASSE-PASSE PRO"
+
+REFERENCE           CUSTOM_PERK_ROF
+LANG_FRENCH         "CADENCE DE TIR"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_DESC
+LANG_FRENCH         "Modifiez les options de vies et de santé du joueur."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT DOUBLE COUP"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DESC
+LANG_FRENCH         "Activez/désactivez les atouts et modifiez les valeurs de chacun."
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES
+LANG_FRENCH         "CLASSES PERSONNALISÉES"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_6_CAPS
+LANG_FRENCH         "6 DRAPEAUX"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED_DESC
+LANG_FRENCH         "Le multiplicateur de la vitesse à laquelle le joueur se déplace."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_FRENCH         "Les ennemis apparaissent toujours sur le radar."
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT TOUR DE PASSE-PASSE"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT
+LANG_FRENCH         "MULTIPLICATEUR DE COURSE"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER
+LANG_FRENCH         "MINUTEUR AUTODESTRUC. RC-XD"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_85
+LANG_FRENCH         "0,85 SECONDE"
+
+REFERENCE           CUSTOM_PERK_SCOUT_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT ÉCLAIREUR PRO"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME
+LANG_FRENCH         "TEMPS D'APNÉE"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED
+LANG_FRENCH         "MULTIPLICATEUR DE VITESSE"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_FRENCH         "RADAR TOUJOURS ACTIF"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_15
+LANG_FRENCH         "15 SECONDES"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME_DESC
+LANG_FRENCH         "Le nombre de secondes supplémentaires durant lesquelles un joueur peut retenir sa respiration."
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DISABLED_DESC
+LANG_FRENCH         "Créez des classes personnalisées pour votre mode. Vous pouvez accéder à l'éditeur de classe lorsque l'option Classes personnalisées est activée."
+
+REFERENCE           CUSTOM_OPT_KILLCAM
+LANG_FRENCH         "AUTORISER KILLCAM"
+
+REFERENCE           CUSTOM_FILESHARE_CGM_HIGHLIGHTED
+LANG_FRENCH         "Sélectionnez ce mode pour jouer avec tous ses paramètres personnalisés."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION_DESC
+LANG_FRENCH         "Le nombre d'éliminations en moins pour réaliser une série."
+
+REFERENCE           CUSTOM_FILESHARE_CANT_SELECT
+LANG_FRENCH         "Seuls les modes de jeu personnalisés sauvegardés peuvent être sélectionnés."
+
+REFERENCE           CUSTOM_FILESHARE_UPLOAD
+LANG_FRENCH         "Sauvegarde dans fichiers partagés terminée"
+
+REFERENCE           CUSTOM_CUSTOMIZED_CAPS
+LANG_FRENCH         "PERSONNALISÉ"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING
+LANG_FRENCH         "DÉGÂTS PERFORANTS"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DESC
+LANG_FRENCH         "Le temps supplémentaire ajouté au temps actuel lorsqu'un site est détruit. Cette option est désactivée lorsqu'il n'y a pas de limite de temps.    "
+
+REFERENCE           CUSTOM_PERK_MARATHON_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT MARATHON"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT_DESC
+LANG_FRENCH         "Le multiplicateur du temps en secondes durant lequel le joueur peut courir."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION
+LANG_FRENCH         "DÉGÂTS DE FEU"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME
+LANG_FRENCH         "TEMPS D'AGONIE"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT DEUXIÈME CHANCE"
+
+REFERENCE           CUSTOM_SAVE_CHANGES
+LANG_FRENCH         "SAUV. DANS FICHIERS PARTAGÉS"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT DEUXIÈME CHANCE PRO"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_FRENCH         "Modifiez le délai avant le début d'une partie."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION_DESC
+LANG_FRENCH         "Le pourcentage de dégâts de feu que le joueur subit."
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME_DESC
+LANG_FRENCH         "Le temps en secondes durant lequel le joueur abattu agonise avant de réapparaître."
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME
+LANG_FRENCH         "TEMPS DE RÉANIMATION"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT POIDS PLUME"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT POIDS PLUME PRO"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME_DESC
+LANG_FRENCH         "Le temps en secondes nécessaire pour réanimer un joueur."
+
+REFERENCE           CUSTOM_VALUE_FLAGS_3_CAPS
+LANG_FRENCH         "3 DRAPEAUX"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD
+LANG_FRENCH         "DISPERSION DES ARMES"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD_DESC
+LANG_FRENCH         "Le pourcentage de dispersion de base des armes (moins il est élevé, plus elle est réduite)."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION
+LANG_FRENCH         "RÉDUCTION SÉRIE ÉLIMINATIONS"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT GILET PARE-BALLES"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT ÉTAT D'ALERTE"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT IMPACT LOURD"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT IMPACT LOURD PRO"
+
+REFERENCE           CUSTOM_OPT_HEADSHOT_ONLY_DESC
+LANG_FRENCH         "Quand activé, seuls les tirs en pleine tête peuvent blesser les joueurs pour les armes à feu. Les coups de couteau, bonus de séries d'éliminations et explosions ne sont pas concernés."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED_DESC
+LANG_FRENCH         "Le multiplicateur de la vitesse à laquelle le joueur peut regarder dans le viseur."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT DÉTERMINATION PRO"
+
+REFERENCE           CUSTOM_ENABLE_PERKS_CAPS
+LANG_FRENCH         "AUTORISER ATOUTS"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION
+LANG_FRENCH         "PÉNÉTRATION DES BALLES"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION_DESC
+LANG_FRENCH         "Le multiplicateur de la profondeur de la pénétration d'une balle dans une surface."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED
+LANG_FRENCH         "VITESSE DE VISÉE"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED
+LANG_FRENCH         "VITESSE CHANGEMENT ARME"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING_DESC
+LANG_FRENCH         "Pourcentage de dégâts supplémentaires contre les avions et les tourelles."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_35
+LANG_FRENCH         "35 SECONDES"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_DESC
+LANG_FRENCH         "Réglez le multiplicateur de vitesse pour regarder dans le viseur."
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT_DESC
+LANG_FRENCH         "Personnalisez vos atouts pro associés à cet emplacement."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT GILET PARE-BALLES"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION
+LANG_FRENCH         "DÉGÂTS EXPLOSIFS"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION_DESC
+LANG_FRENCH         "Le pourcentage de dégâts explosifs que le joueur subit."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT DÉTERMINATION"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT ÉCHANGE RAPIDE"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_DESC
+LANG_FRENCH         "Réglez les multiplicateurs de vitesse pour échanger votre arme."
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED_DESC
+LANG_FRENCH         "Le multiplicateur de la vitesse à laquelle le joueur change d'arme."
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED
+LANG_FRENCH         "VITESSE DE FRANCHISSEMENT"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED_DESC
+LANG_FRENCH         "Le multiplicateur de la vitesse à laquelle le joueur récupère après un coup de couteau."
+
+REFERENCE           CUSTOM_PERK_HACKER_PRO_TITLE
+LANG_FRENCH         "MODIFIER L'ATOUT PIRATE PRO"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED
+LANG_FRENCH         "VITESSE D'INTERACTION"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED_DESC
+LANG_FRENCH         "Le multiplicateur du temps qu'il faut au joueur pour interagir."
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED
+LANG_FRENCH         "VITESSE DE RÉGÉNÉRATION"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_35
+LANG_FRENCH         "1,35 SECONDE"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED_DESC
+LANG_FRENCH         "Le multiplicateur de vitesse de régénération de la santé du joueur."
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED_DESC
+LANG_FRENCH         "La vitesse de déplacement de la classe."
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION
+LANG_FRENCH         "RÉDUCTION IMPACT TIRS"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED
+LANG_FRENCH         "VITESSE DE DÉPLACEMENT"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION_DESC
+LANG_FRENCH         "Le pourcentage du recul d'impact original qui s'applique."
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION
+LANG_FRENCH         "RÉDUCTION DU CHOC D'IMPACT"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION_DESC
+LANG_FRENCH         "Le pourcentage du choc d'impact original qui s'applique."
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE
+LANG_FRENCH         "DÉGÂTS DE CHUTE"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE_DESC
+LANG_FRENCH         "Définissez la hauteur max de laquelle un joueur peut tomber sans subir de dégâts."
+
+REFERENCE           CUSTOM_PERK_SLOT_HINT
+LANG_FRENCH         "Vos modifications affecteront tous les atouts de votre partie personnalisée."
+
+REFERENCE           CUSTOM_PERK_SLOT_DESC
+LANG_FRENCH         "Personnalisez les atouts associés à cet emplacement."
+
+REFERENCE           CUSTOM_PERK_NO_EDIT_DESC
+LANG_FRENCH         "Aucune valeur disponible pour modifier cet atout."
+
+REFERENCE           CUSTOM_DAMAGE_DESC
+LANG_FRENCH         "Modifiez les dégâts provoqués par la classe avec les armes à feu et les non-explosifs."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_15
+LANG_FRENCH         "0,15 SECONDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_35
+LANG_FRENCH         "0,35 SECONDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_5
+LANG_FRENCH         "0,5 SECONDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_65
+LANG_FRENCH         "0,65 SECONDE"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS
+LANG_FRENCH         "BONUS LEADER"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1
+LANG_FRENCH         "1 SECONDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_15
+LANG_FRENCH         "1,15 SECONDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_65
+LANG_FRENCH         "1,65 SECONDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_85
+LANG_FRENCH         "1,85 SECONDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2
+LANG_FRENCH         "2 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3
+LANG_FRENCH         "3 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_4
+LANG_FRENCH         "4 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_5
+LANG_FRENCH         "5 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_6
+LANG_FRENCH         "6 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_7
+LANG_FRENCH         "7 SECONDES"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DISABLED_DESC
+LANG_FRENCH         "La réapparition forcée est toujours activée quand un délai de réapparition massive est défini."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_9
+LANG_FRENCH         "9 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_10
+LANG_FRENCH         "10 SECONDES"
+
+REFERENCE           CUSTOM_NUM_KILLS_THIS_KILLSTREAK_DESC
+LANG_FRENCH         "Ce nombre d'éliminations est défini pour cette série d'éliminations."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_20
+LANG_FRENCH         "20 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_25
+LANG_FRENCH         "25 SECONDES"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE
+LANG_FRENCH         "SCORE SUICIDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_30
+LANG_FRENCH         "30 SECONDES"
+
+REFERENCE           CUSTOM_OPT_HARDCORE
+LANG_FRENCH         "MODE HARDCORE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_40
+LANG_FRENCH         "40 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_45
+LANG_FRENCH         "45 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_50
+LANG_FRENCH         "50 SECONDES"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY
+LANG_FRENCH         "DÉLAI DE RÉAPPARITION MASSIVE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_55
+LANG_FRENCH         "55 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_60
+LANG_FRENCH         "60 SECONDES"
+
+REFERENCE           CUSTOM_VALUE_KILLS_1
+LANG_FRENCH         "1 ÉLIM."
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS_DESC
+LANG_FRENCH         "Bonus de points attribué pour un tir dans la tête."
+
+REFERENCE           CUSTOM_ROUND_LIMIT_DESC
+LANG_FRENCH         "Le nombre de manches que comporte la partie."
+
+REFERENCE           CUSTOM_VALUE_KILLS_2
+LANG_FRENCH         "2 ÉLIM."
+
+REFERENCE           CUSTOM_VALUE_KILLS_3
+LANG_FRENCH         "3 ÉLIM."
+
+REFERENCE           CUSTOM_VALUE_100_PER_DEFAULT
+LANG_FRENCH         "100% (PAR DÉFAUT)"
+
+REFERENCE           CUSTOM_REVERT_TO_DEFAULT
+LANG_FRENCH         "PARAMÈTRES PAR DÉFAUT"
+
+REFERENCE           CUSTOM_GAME_TIME_LIMIT_DESC
+LANG_FRENCH         "La durée en minutes de la manche."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME_DESC
+LANG_FRENCH         "Le temps durant lequel un quartier général reste actif."
+
+REFERENCE           CUSTOM_GAME_SCORE_LIMIT_DESC
+LANG_FRENCH         "Le nombre de points qu'il faut marquer avant la fin de la manche."
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_CAPS
+LANG_FRENCH         "OPTIONS DE MODE DE JEU"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_CAPS
+LANG_FRENCH         "OPTIONS GÉNÉRALES"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_CAPS
+LANG_FRENCH         "ÉDITEUR DE CLASSE"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR
+LANG_FRENCH         "ÉDITEUR SÉRIE ÉLIMINATIONS"
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_FRENCH         "TIRS DANS LA TÊTE SEULEMENT"
+
+REFERENCE           CUSTOM_PERK_EDITOR_CAPS
+LANG_FRENCH         "ÉDITEUR D'ATOUTS"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CAPS
+LANG_FRENCH         "ANNULER MODIFICATIONS"
+
+REFERENCE           CUSTOM_SAVE_DESC
+LANG_FRENCH         "Sauvegarder les modifications du mode de jeu ?"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DISABLED_DESC
+LANG_FRENCH         "Cette option est désactivée lorsqu'il n'y a pas de limite de temps.    "
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_3
+LANG_FRENCH         "3 MANCHES"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_5
+LANG_FRENCH         "5 MANCHES"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_7
+LANG_FRENCH         "7 MANCHES"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_9
+LANG_FRENCH         "9 MANCHES"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DESC
+LANG_FRENCH         "Créez des classes personnalisées pour votre mode."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_CAPS
+LANG_FRENCH         "LIMITE DE CAPTURE"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_1_CAPS
+LANG_FRENCH         "1 DRAPEAU"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_2_CAPS
+LANG_FRENCH         "2 DRAPEAUX"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_4_CAPS
+LANG_FRENCH         "4 DRAPEAUX"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_8_CAPS
+LANG_FRENCH         "8 DRAPEAUX"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_10_CAPS
+LANG_FRENCH         "10 DRAPEAUX"
+
+REFERENCE           CUSTOM_OPT_KILLCAM_DESC
+LANG_FRENCH         "Active/désactive la killcam."
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT
+LANG_FRENCH         "AUTORISER COURSE"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT_DESC
+LANG_FRENCH         "Active/désactive la possibilité de courir."
+
+REFERENCE           CUSTOM_OPT_SPECTATE
+LANG_FRENCH         "SPECTATEURS"
+
+REFERENCE           CUSTOM_OPT_SPECTATE_DESC
+LANG_FRENCH         "Choisissez comment les joueurs observent la partie quand ils ne peuvent plus réapparaître."
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS
+LANG_FRENCH         "OPTIONS DE RÉAPPARITION"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS_DESC
+LANG_FRENCH         "Modifiez les options de réapparition pour le mode de jeu."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS
+LANG_FRENCH         "OPTIONS DE VIES & SANTÉ"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES_DESC
+LANG_FRENCH         "Nombre de fois où un joueur peut réapparaître après avoir été tué."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_CAPS
+LANG_FRENCH         "OPTIONS DE VIES & SANTÉ"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS
+LANG_FRENCH         "OPTIONS D'ÉQUIPE"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_CUSTOM_DESC
+LANG_FRENCH         "La vitesse à laquelle la santé des joueurs se régénère."
+
+REFERENCE           CUSTOM_TEAM_OPTIONS_DESC
+LANG_FRENCH         "Modifier les options d'équipe pour ce mode de jeu."
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS
+LANG_FRENCH         "OPTIONS SPECTATEUR"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS_DESC
+LANG_FRENCH         "Modifiez les options de spectateur pour ce mode de jeu."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY
+LANG_FRENCH         "DÉLAI RÉAPPARITION"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_DESC
+LANG_FRENCH         "Sélectionnez un mode de jeu personnalisé dans vos fichiers partagés."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY_DESC
+LANG_FRENCH         "Fixez le temps en secondes que le joueur doit attendre avant de réapparaître."
+
+REFERENCE           CUSTOM_RULES_FORCE_RESPAWN
+LANG_FRENCH         "RÉAPPARITION FORCÉE"
+
+REFERENCE           CUSTOM_REDUCED
+LANG_FRENCH         "LIMITÉ"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DESC
+LANG_FRENCH         "Si activée, le joueur réapparaît automatiquement après avoir été tué sans avoir à activer la réapparition. Toujours activé quand un délai de réapparition massive est défini."
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES
+LANG_FRENCH         "NOMBRE DE VIES"
+
+REFERENCE           CUSTOM_MAX_HEALTH
+LANG_FRENCH         "SANTÉ MAX"
+
+REFERENCE           CUSTOM_ROUND_SWITCH
+LANG_FRENCH         "CHANGEMENT DE CAMP"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DESC
+LANG_FRENCH         "La quantité de santé disponible pour chaque joueur. Ce paramètre est désactivé avec les classes personnalisées."
+
+REFERENCE           CUSTOM_HEALTH_REGEN
+LANG_FRENCH         "RÉGÉNÉRATION SANTÉ"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DISABLED_DESC
+LANG_FRENCH         "Impossible de régler la santé maximum globale lors de l'utilisation de classes personnalisées."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DESC
+LANG_FRENCH         "La vitesse à laquelle la santé des joueurs se régénère. Ce paramètre est désactivé avec les classes personnalisées."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DISABLED_DESC
+LANG_FRENCH         "Impossible de régler la régénération de santé globale lors de l'utilisation de classes personnalisées."
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE
+LANG_FRENCH         "TIR ALLIÉ"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE_DESC
+LANG_FRENCH         "Choisissez si les joueurs peuvent infliger des dégâts aux membres de leur équipe. Si vous activez cette option et fixez un nombre de vies limité, tout joueur tué par un allié ne perdra pas de vie à son compteur."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_CAPS
+LANG_FRENCH         "NOMBRE DE MANCHES"
+
+REFERENCE           CUSTOM_CTF_IDLE_FLAG_RETURN_TIME_DESC
+LANG_FRENCH         "Le nombre de secondes durant lesquelles le drapeau reste disponible avant de retourner à sa base. Si cette durée est illimitée, le retour toucher sera toujours activé.   "
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_5
+LANG_FRENCH         "1,5 SECONDE"
+
+REFERENCE           CUSTOM_NUM_KILLS_IN_USE_DESC
+LANG_FRENCH         "Une autre série d'éliminations utilise déjà ce nombre d'éliminations."
+
+REFERENCE           CUSTOM_CTF_ENEMY_CARRIER_VISIBLE_DESC
+LANG_FRENCH         "Détermine si la position de l'ennemi est révélée une fois le drapeau capturé. L'option \"Retardé\" met à jour la position ennemie seulement de temps en temps."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DESC
+LANG_FRENCH         "Si activé, un drapeau lâché retourne à sa base dès qu'1 soldat allié le touche."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DISABLED_DESC
+LANG_FRENCH         "Le retour toucher est tjrs activé si le tps de retour du drapeau est illimité."
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS
+LANG_FRENCH         "BONUS TIR DANS LA TÊTE"
+
+REFERENCE           CUSTOM_ROUND_LIMIT
+LANG_FRENCH         "LIMITE DE MANCHES"
+
+REFERENCE           CUSTOM_ROUND_SWITCH_DESC
+LANG_FRENCH         "Le nombre de manches à jouer avant de changer de camp."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_DESC
+LANG_FRENCH         "Le nombre de drapeaux qu'une équipe doit capturer avant la fin du tour."
+
+REFERENCE           CUSTOM_BOMB_TIMER_DESC
+LANG_FRENCH         "Le délai avant l'explosion de la bombe."
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME
+LANG_FRENCH         "DÉLAI POSE"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME_DESC
+LANG_FRENCH         "Le temps nécessaire pour poser la bombe."
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME
+LANG_FRENCH         "DÉLAI DÉSAMORÇAGE"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME_DESC
+LANG_FRENCH         "Le temps nécessaire pour désamorcer la bombe une fois posée."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME
+LANG_FRENCH         "QG ACTIF PENDANT"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY
+LANG_FRENCH         "DÉLAI RÉAPPARITION QG"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY_DESC
+LANG_FRENCH         "Le temps à attendre avant l'apparition d'un nouveau quartier général. "
+
+REFERENCE           CUSTOM_CLASSIC_HQ
+LANG_FRENCH         "MODE QG CLASSIQUE"
+
+REFERENCE           CUSTOM_CLASSIC_HQ_DESC
+LANG_FRENCH         "Le quartier général ne peut pas être détruit une fois capturé. Il reste dans chaque nouveau lieu pendant la durée de vie choisie, et les deux équipes se battent pour en prendre le contrôle."
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER
+LANG_FRENCH         "DÉLAI EXPLO. PARTAGÉ"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER_DESC
+LANG_FRENCH         "Si oui, le délai d'explosion de la bombe sera conservé après avoir été désamorcé.  "
+
+REFERENCE           CUSTOM_MULTI_BOMB
+LANG_FRENCH         "MULTI-BOMBE"
+
+REFERENCE           CUSTOM_MULTI_BOMB_DESC
+LANG_FRENCH         "Activez les actions de bombes multiples !"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DISABLED_DESC
+LANG_FRENCH         "Modifiez les bonus de séries d'éliminations obtenus. Vous pouvez accéder à l'éditeur de séries d'éliminations lorsque l'option Séries d'éliminations personnalisées est activée."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_DESC
+LANG_FRENCH         "Le nombre de manches qu'une équipe doit gagner pour obtenir la victoire."
+
+REFERENCE           CUSTOM_HEALTH
+LANG_FRENCH         "SANTÉ"
+
+REFERENCE           CUSTOM_ALLOW_PLAYER_CLASSES_CAPS
+LANG_FRENCH         "AUTORISER CLASSES JOUEUR"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES_CAPS
+LANG_FRENCH         "CLASSES PERSONNALISÉES"
+
+REFERENCE           CUSTOM_ALL
+LANG_FRENCH         "TOUS"
+
+REFERENCE           CUSTOM_ALLIES
+LANG_FRENCH         "ALLIÉS"
+
+REFERENCE           CUSTOM_SPRINT_SPEED
+LANG_FRENCH         "VITESSE DE COURSE"
+
+REFERENCE           CUSTOM_TITLE
+LANG_FRENCH         "TITRE"
+
+REFERENCE           CUSTOM_DAMAGE
+LANG_FRENCH         "DÉGÂTS"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT
+LANG_FRENCH         "MODIFIER ÉQUIPEMENT DE CLASSE"
+
+REFERENCE           CUSTOM_HEALTH_REGENERATION
+LANG_FRENCH         "RÉGÉNÉRATION SANTÉ"
+
+REFERENCE           CUSTOM_VAMPIRISM
+LANG_FRENCH         "VAMPIRISME"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_DESC
+LANG_FRENCH         "Modifiez les options spécifiques de votre mode de jeu personnalisé."
+
+REFERENCE           CUSTOM_NORMAL
+LANG_FRENCH         "NORMALE"
+
+REFERENCE           CUSTOM_VERY_SLOW
+LANG_FRENCH         "TRÈS LENT"
+
+REFERENCE           CUSTOM_LOAD_ERROR
+LANG_FRENCH         "Une erreur est survenue pendant le chargement du mode de jeu personnalisé."
+
+REFERENCE           CUSTOM_SLOW
+LANG_FRENCH         "LENT"
+
+REFERENCE           CUSTOM_VERY_FAST
+LANG_FRENCH         "TRÈS RAPIDE"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE
+LANG_FRENCH         "DÉGÂTS EXPLOSIFS"
+
+REFERENCE           CUSTOM_INCREASED
+LANG_FRENCH         "AUGMENTÉ"
+
+REFERENCE           CUSTOM_DOUBLE
+LANG_FRENCH         "DOUBLE"
+
+REFERENCE           CUSTOM_MAXIMUM
+LANG_FRENCH         "MAXIMUM"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME
+LANG_FRENCH         "DURÉE DU DÉSAMORÇAGE"
+
+REFERENCE           CUSTOM_PERKS_BUTTON_TOGGLE_PRO
+LANG_FRENCH         "Activer / Désactiver Atouts pro"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_BASIC
+LANG_FRENCH         "ATOUTS SIMPLES"
+
+REFERENCE           CUSTOM_PERK_EDIT
+LANG_FRENCH         "MODIFIER ATOUTS DANS L'EMPLACEMENT &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_EDIT
+LANG_FRENCH         "MODIFIER ATOUTS PRO EMPLACEMENT &&1"
+
+REFERENCE           CUSTOM_PERK_SLOT
+LANG_FRENCH         "ATOUT &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT
+LANG_FRENCH         "ATOUTS PRO &&1"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_DESC
+LANG_FRENCH         "Définissez les options générales."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DESC
+LANG_FRENCH         "Modifiez les bonus de séries d'éliminations du joueur."
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY_DESC
+LANG_FRENCH         "Le pourcentage du temps de base nécessaire pour récupérer après avoir couru."
+
+REFERENCE           CUSTOM_GAME_CREATE_CAPS
+LANG_FRENCH         "ÉDITEUR DE MODE DE JEU PERSONNALISÉ"
+
+REFERENCE           CUSTOM_SPECIALTY_EDITOR
+LANG_FRENCH         "ÉDITEUR D'ATOUTS"
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP
+LANG_FRENCH         "Modifiez les armes, l'équipement et les atouts d'une classe personnalisée."
+
+REFERENCE           CUSTOM_DISABLE_PERKS_CAPS
+LANG_FRENCH         "INTERDIRE ATOUTS"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY
+LANG_FRENCH         "RÉCUPÉRATION DE COURSE"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME_DESC
+LANG_FRENCH         "Le temps nécessaire pour désamorcer l'équipement et les tourelles."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2_POINT_5
+LANG_FRENCH         "2,5 SECONDES"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE
+LANG_FRENCH         "SCORE ASSISTANCE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3_POINT_5
+LANG_FRENCH         "3,5 SECONDES"
+
+REFERENCE           CUSTOM_NUM_KILLS
+LANG_FRENCH         "ÉLIM. REQUISES"
+
+REFERENCE           CUSTOM_EXTRA_TIME_CAPS
+LANG_FRENCH         "TEMPS SUP."
+
+REFERENCE           CUSTOM_OPS
+LANG_FRENCH         "OPÉRATIONS"
+
+REFERENCE           CUSTOM_COMMUNISTS
+LANG_FRENCH         "COMMUNISTES"
+
+REFERENCE           CUSTOM_BUTTON_SAVE_FILESHARE
+LANG_FRENCH         "^BBUTTON_INTERACT^ Sauvegarder dans les fichiers partagés"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE
+LANG_FRENCH         "BONUS ÉLIMINATION"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE_DESC
+LANG_FRENCH         "Le nombre de points attribués pour avoir tué un ennemi."
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE_DESC
+LANG_FRENCH         "Le nombre de points attribués pour une assistance. Choisissez la valeur par défaut pour utiliser le système de points standard."
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE
+LANG_FRENCH         "SCORE MORT"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE_DESC
+LANG_FRENCH         "Le nombre de points soustraits pour une mort."
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE_DESC
+LANG_FRENCH         "Le nombre de points soustraits pour un suicide."
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS_DESC
+LANG_FRENCH         "Bonus de points attribué pour avoir tué le joueur en tête."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK
+LANG_FRENCH         "SÉLECTIONNER SÉRIE D'ÉLIMINATIONS"
+
+REFERENCE           CUSTOM_SELECT_FROM_FILESHARE_DESC
+LANG_FRENCH         "Sélectionnez un mode de jeu personnalisé à utiliser dans vos fichiers partagés."
+
+REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
+LANG_FRENCH         "JOUER SANS SAUVEGARDER"
+
+REFERENCE           CUSTOM_TITLE_DESC
+LANG_FRENCH         "Voici le nom de votre classe personnalisée."
+
+REFERENCE           CUSTOM_SPRINT_SPEED_DESC
+LANG_FRENCH         "La vitesse à laquelle la classe se déplace en courant."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_DESC
+LANG_FRENCH         "Rétablissez tous les paramètres par défaut pour ce mode de jeu personnalisé."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CONFIRM_TITLE
+LANG_FRENCH         "Voulez-vous vraiment annuler toutes les modifications apportées à votre mode de jeu personnalisé ?"
+
+REFERENCE           CUSTOM_NUM_KILLS_DISABLED_DESC
+LANG_FRENCH         "Vous devez sélectionner une série d'éliminations avant de définir le nombre d'éliminations requis."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_TITLE
+LANG_FRENCH         "CHOISIR MODE DE JEU"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_CAPS
+LANG_FRENCH         "TEMPS DE CAPTURE"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_DESC
+LANG_FRENCH         "Temps nécessaire pour capturer un drapeau."
+
+REFERENCE           CUSTOM_CUSTOM_GAME_MODE_CAPS
+LANG_FRENCH         "MODE DE JEU PERSO."
+
+REFERENCE           CUSTOM_WARN_DEMO_SIZE
+LANG_FRENCH         "Les parties les plus longues peuvent ne pas être enregistrées entièrement."
+
+REFERENCE           CUSTOM_NUM_KILLS_DESC
+LANG_FRENCH         "Précisez le nombre d'ennemis qu'un joueur doit tuer d'affilée pour activer une série d'éliminations."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK_DESC
+LANG_FRENCH         "Sélectionnez le bonus de série d'éliminations obtenu pour avoir tué un certain nombre d'ennemis d'affilée."
+
+REFERENCE           CUSTOM_VAMPIRISM_DESC
+LANG_FRENCH         "Définissez la quantité de santé récupérée par le joueur en fonction des dégâts infligés."
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE_DESC
+LANG_FRENCH         "Modifiez les dégâts provoqués par la classe avec les explosifs."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_DESC
+LANG_FRENCH         "Modifiez les armes, l'équipement et les atouts de la classe."
+
+REFERENCE           CUSTOM_HEALTH_DESC
+LANG_FRENCH         "La quantité de santé maximum disponible pour la classe."
+
+REFERENCE           CUSTOM_CUSTOM_CLASS
+LANG_FRENCH         "PERSO."
+
+REFERENCE           CUSTOM_NO_KILLSTREAK
+LANG_FRENCH         "SANS SÉRIES ÉLIMINATIONS"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER_DESC
+LANG_FRENCH         "Activez ou désactivez le minuteur d'autodestruction du RC-XD."
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP_DISABLED
+LANG_FRENCH         "Cette classe est désactivée et ne peut être modifiée."
+
+REFERENCE           CUSTOM_PERK_EDITOR_DISABLED_DESC
+LANG_FRENCH         "Activez ou désactivez les atouts et définissez les valeurs de chacun.  Vous pouvez accéder à l'éditeur d'atouts lorsque l'option Autoriser les atouts est activée."
+
+REFERENCE           CUSTOM_RCXD_OPTIONS
+LANG_FRENCH         "OPTIONS RC-XD PERSO."
+
+REFERENCE           CUSTOM_GAME_RECORDING_CAPS
+LANG_FRENCH         "ENREGISTREMENT PARTIE"
+
+REFERENCE           CUSTOM_GAME_RECORDING_DESC
+LANG_FRENCH         "Activez ou désactivez l'enregistrement de votre partie. "
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_FRENCH         "COMPTE À REBOURS D'AVANT MATCH"
+
+ENDMARKER

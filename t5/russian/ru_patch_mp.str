@@ -1,0 +1,856 @@
+// Dumped from fastfile "ru_patch_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_ENGLISH        "ПРЕДЫГРОВОЙ ОТСЧЕТ"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_ENGLISH        "Длительность отсчета перед началом игры."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_ENGLISH        "ПОСТОЯННЫЙ РАДАР"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_ENGLISH        "Противники всегда отображаются на радаре."
+
+REFERENCE           EXE_COD_BOOSTER_RESET
+LANG_ENGLISH        "Ваша статистика обнулена из-за нарушения политики сетевой безопасности Call of Duty: Black Ops. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Данной консоли запрещен доступ к этой функции. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH        "Игроку &&1 запрещен доступ к этой функции. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Данной консоли временно запрещен доступ к этой функции. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "Игроку &&1 временно запрещен доступ к этой функции. Подробнее см. на странице www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH        "Вы заблокированы в этом рейтинге."
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Данной консоли запрещен доступ на серверы Call of Duty: Black Ops. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH        "Игроку &&1 запрещен доступ на серверы Call of Duty: Black Ops. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Данной консоли временно запрещен доступ на серверы Call of Duty: Black Ops. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "Игроку &&1 временно запрещен доступ на серверы Call of Duty: Black Ops. Подробнее см. на странице www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Данной консоли запрещен доступ на серверы Call of Duty: Black Ops в связи с обнаружением несанкционированных материалов. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_PLAYER
+LANG_ENGLISH        "Игроку &&1 запрещен доступ на серверы Call of Duty: Black Ops в связи с обнаружением несанкционированных материалов. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Данной консоли временно запрещен доступ на серверы Call of Duty: Black Ops в связи с обнаружением несанкционированных материалов. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_PLAYER
+LANG_ENGLISH        "Игроку &&1 временно запрещен доступ на серверы Call of Duty: Black Ops в связи с обнаружением несанкционированных материалов. Подробнее см. на веб-сайте www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_TEMP_BAN_DAYS
+LANG_ENGLISH        "До возобновления доступа осталось &&1 д."
+
+REFERENCE           EXE_COD_TEMP_BAN_HOURS
+LANG_ENGLISH        "До возобновления доступа осталось &&1 ч."
+
+REFERENCE           EXE_DOWNLOADSFULL
+LANG_ENGLISH        "Не удалось загрузить игровой файл:\n^3&&1^7\nВ настоящее время сервер перегружен. Повторите попытку позже."
+
+REFERENCE           EXE_INVALID_GAMERTAG
+LANG_ENGLISH        "Неверный тег игрока"
+
+REFERENCE           EXE_SV_INFO_NAME
+LANG_ENGLISH        "имя"
+
+REFERENCE           EXE_SV_INFO_PING
+LANG_ENGLISH        "связь"
+
+REFERENCE           EXE_SV_INFO_SCORE
+LANG_ENGLISH        "счет"
+
+REFERENCE           MENU_CONNECTING_TO_DW
+LANG_ENGLISH        "Соединение..."
+
+REFERENCE           MENU_DEMO_DOLLY_CAMERA_MODE
+LANG_ENGLISH        "Камера на тележке"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_CAM_NUMBER_CAPS
+LANG_ENGLISH        "КАМЕРА &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_EDIT
+LANG_ENGLISH        "Изменить отметку камеры на тележке &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_NUMBER
+LANG_ENGLISH        "Отметка камеры &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE
+LANG_ENGLISH        "Удалить отметку"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL
+LANG_ENGLISH        "Удалить все отметки"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL_CONFIRMATION
+LANG_ENGLISH        "Вы действительно хотите удалить все отметки камер?"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REPOSITION
+LANG_ENGLISH        "Переместить камеру"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_SPEED
+LANG_ENGLISH        "Параметры скорости"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MAX_POINTS
+LANG_ENGLISH        "Вы создали максимальное количество отметок."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_NO_MARKERS
+LANG_ENGLISH        "Вы выбрали камеру на тележке, но не установили ни одной метки. Установите метки в режиме \"Изменить режим камеры\"."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_PREVIEW_CAM_NUMBER_CAPS
+LANG_ENGLISH        "ПРОСМОТР КАМЕРЫ &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SAME_TIME
+LANG_ENGLISH        "Вы не можете поставить больше одной отметки в одну и ту же точку."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_FIXED
+LANG_ENGLISH        "Фикс."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_LINEAR
+LANG_ENGLISH        "Линейн."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MANUAL
+LANG_ENGLISH        "Вручную"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MODE
+LANG_ENGLISH        "Режим скорости"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_VALUE
+LANG_ENGLISH        "Скорость: &&1x"
+
+REFERENCE           MENU_DEMO_EDIT_CAMERA_MODE
+LANG_ENGLISH        "Изменить режим камеры"
+
+REFERENCE           MENU_DEMO_FREE_ROAM_MODE
+LANG_ENGLISH        "Свободный обзор"
+
+REFERENCE           MENU_DEMO_NEXTFREECAMMODE
+LANG_ENGLISH        "^3ЛКМ^7 След. режим свободного обзора"
+
+REFERENCE           MENU_DEMO_PREVFREECAMMODE
+LANG_ENGLISH        "^3ПКМ^7 Пред. режим свободного обзора"
+
+REFERENCE           MENU_DLC1_MAPS
+LANG_ENGLISH        "Комплект \"Воскрешение\""
+
+REFERENCE           MENU_DLC2_MAPS
+LANG_ENGLISH        "Комплект \"Первый удар\""
+
+REFERENCE           MENU_DLC3_MAPS
+LANG_ENGLISH        "Комплект \"Эскалация\""
+
+REFERENCE           MENU_DLC4_MAPS
+LANG_ENGLISH        "Комплект \"Аннигиляция\""
+
+REFERENCE           MENU_DLC5_MAPS
+LANG_ENGLISH        "Комплект \"Воскрешение\""
+
+REFERENCE           MENU_DOWNLOADING_GAME_SETTINGS_CAPS
+LANG_ENGLISH        "Загрузка параметров игры"
+
+REFERENCE           MENU_FREE_OFFER
+LANG_ENGLISH        "БЕСПЛАТНОЕ ПРЕДЛОЖЕНИЕ"
+
+REFERENCE           MENU_GUN_DESC
+LANG_ENGLISH        "Убивайте противников, чтобы получить доступ к новому оружию. Побеждает игрок, уничтоживший соперников с помощью всех видов оружия."
+
+REFERENCE           MENU_HC_KILL_EVERYONE_FIRST_PLAYER
+LANG_ENGLISH        "Каждый за себя. Отключенные индикаторы интерфейса. Дополнительный урон от пуль. Без возможности восстановления здоровья. Без высадки десанта. "
+
+REFERENCE           MENU_HC_KILL_PLAYERS_ON_THE_OPPOSING
+LANG_ENGLISH        "Командный бой. Отключенные индикаторы интерфейса, дополнительный урон от пуль, возможность огня по своим."
+
+REFERENCE           MENU_HLND_DESC
+LANG_ENGLISH        "Вы получаете арбалет, стреляющий нож и томагавк. Убивайте противников, чтобы набрать очки. Если противник убит томагавком, вражеский счет обнуляется. Удачи."
+
+REFERENCE           MENU_INGAMESTORE
+LANG_ENGLISH        "МАГАЗИН"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_MOON
+LANG_ENGLISH        "Я верю, что наша страна посвятит себя достижению этой цели и до конца десятилетия высадит человека на Луну, а затем вернет его на Землю живым и здоровым. (Дж. Ф. Кеннеди, 1961)"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_TEMPLE
+LANG_ENGLISH        "В запутанных подземельях этого легендарного храма, затерянного среди джунглей, скрывается множество мрачных тайн, опасных ловушек... и, конечно же, злобных зомби. "
+
+REFERENCE           MENU_LEVEL_ZOMBIE_MOON
+LANG_ENGLISH        "ЛУНА"
+
+REFERENCE           MENU_LEVEL_ZOMBIE_TEMPLE
+LANG_ENGLISH        "ШАНГРИ-ЛА"
+
+REFERENCE           MENU_MATCHMAKING_IMPACTED_DUE_TO_PARTY
+LANG_ENGLISH        "У одного или нескольких игроков вашей группы установлены средние или жесткие ограничения для NAT, что может повлиять на создание игр."
+
+REFERENCE           MENU_MOD_CONFIRM
+LANG_ENGLISH        "Вы собираетесь включить:"
+
+REFERENCE           MENU_MODS_LOADED_CAPS
+LANG_ENGLISH        "Источник:"
+
+REFERENCE           MENU_NO_FRIENDS
+LANG_ENGLISH        "У вас нет друзей."
+
+REFERENCE           MENU_NO_RECENT_PLAYERS
+LANG_ENGLISH        "Вы пока еще не встречали других игроков."
+
+REFERENCE           MENU_OFFER_CODE
+LANG_ENGLISH        "Код предложения:"
+
+REFERENCE           MENU_OIC_DESC
+LANG_ENGLISH        "Один патрон в стволе, нож, три жизни, моментальные смерти. После каждого убийства вы получаете по одному патрону. "
+
+REFERENCE           MENU_PACKAGE_BOUGHT_AND_DOWNLOADED_DESCRIPTION
+LANG_ENGLISH        "Комплект куплен и загружен."
+
+REFERENCE           MENU_PACKAGE_DOWNLOAD_DESCRIPTION
+LANG_ENGLISH        "Комплект куплен, выберите этот пункт для загрузки."
+
+REFERENCE           MENU_PACKAGE_SELECTION_DESCRIPTION
+LANG_ENGLISH        "Купить и загрузить комплект."
+
+REFERENCE           MENU_PURCHASE_CONFIRMAITON
+LANG_ENGLISH        "ПОДТВЕРЖДЕНИЕ ПОКУПКИ"
+
+REFERENCE           MENU_SHRP_DESC
+LANG_ENGLISH        "Оружие меняется каждые 45 секунд. Убивайте других игроков, чтобы заработать очки. За серии убийств открывается доступ к навыкам."
+
+REFERENCE           MENU_STORE_FETCHING
+LANG_ENGLISH        "Получение..."
+
+REFERENCE           MENU_STORE_FREE_PRODUCT
+LANG_ENGLISH        "СВОБОДНО"
+
+REFERENCE           MENU_STORE_PS3_CAPS
+LANG_ENGLISH        "PlayStation®Store"
+
+REFERENCE           MENU_SYSINFO_Q
+LANG_ENGLISH        "Q: &&1"
+
+REFERENCE           MENU_TAB_STORE_AVATARS
+LANG_ENGLISH        "ПОРТРЕТЫ"
+
+REFERENCE           MENU_TAB_STORE_MAP_PACKS
+LANG_ENGLISH        "КОМПЛЕКТЫ КАРТ"
+
+REFERENCE           MENU_TAB_STORE_THEMES
+LANG_ENGLISH        "ТЕМЫ"
+
+REFERENCE           MENU_TESTINGBANDWIDTH
+LANG_ENGLISH        "Проверка игр: &&1,&&2%, качественных - &&3/&&4"
+
+REFERENCE           MENU_UNLOAD_MODS_CAPS
+LANG_ENGLISH        "BLACK OPS БЕЗ МОД."
+
+REFERENCE           MENU_UNLOAD_MODS_DESC
+LANG_ENGLISH        "Отключение всез используемых модификаций"
+
+REFERENCE           MENU_USE_GUEST
+LANG_ENGLISH        "Войти как гость"
+
+REFERENCE           MENU_VISIT
+LANG_ENGLISH        "Посетите"
+
+REFERENCE           MENU_VISIT_COMPLETE_DESC
+LANG_ENGLISH        "Посетите callofduty.com/blackops/dlc/zombies, чтобы загрузить музыкальное сопровождение Call of Duty: Zombies и 3 дополнительные композиции!"
+
+REFERENCE           MENU_VISIT_DESC
+LANG_ENGLISH        ", чтобы загрузить музыкальное сопровождение Call of Duty: Zombies и 3 дополнительных композиции!"
+
+REFERENCE           MENU_WAW_ZOMBIE_MAPS
+LANG_ENGLISH        "Комплект \"Классика зомби\""
+
+REFERENCE           MENU_ZOMBIE_COAST_CAPS
+LANG_ENGLISH        "ЗОВ МЕРТВЕЦОВ"
+
+REFERENCE           MENU_ZOMBIE_COAST_DESC
+LANG_ENGLISH        "Отважные исследователи с корабля, потерпевшего крушение, застряли на дальней заброшенной заставе в Сибири. Мечта раскрыть тайну загадочного Элемента-115 обернулась для них подлинным кошмаром."
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_CAPS
+LANG_ENGLISH        "ASCENSION"
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_DESC
+LANG_ENGLISH        "Восставшие мертвецы захватили советский космодром и устроили настоящий ад. Зомби-апокалипсис близок!"
+
+REFERENCE           MENU_ZOMBIE_MOON
+LANG_ENGLISH        "Луна"
+
+REFERENCE           MENU_ZOMBIE_MOON_CAPS
+LANG_ENGLISH        "ЛУНА"
+
+REFERENCE           MENU_ZOMBIE_MOON_DESC
+LANG_ENGLISH        "Я верю, что наша страна посвятит себя достижению этой цели и до конца десятилетия высадит человека на Луну, а затем вернет его на Землю живым и здоровым. (Дж. Ф. Кеннеди, 1961)"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE
+LANG_ENGLISH        "Шангри-Ла"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_CAPS
+LANG_ENGLISH        "ШАНГРИ-ЛА"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_DESC
+LANG_ENGLISH        "В запутанных подземельях этого легендарного храма, затерянного среди джунглей, скрывается множество мрачных тайн, опасных ловушек... и, конечно же, злобных зомби. "
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SOLO_SURVIVAL_TIME
+LANG_ENGLISH        "Время выживания"
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SURVIVAL_TIME
+LANG_ENGLISH        "Нейтральная зона"
+
+REFERENCE           MENU_ZOMBIES_SOUNDTRACK
+LANG_ENGLISH        "МУЗЫКА ЗОМБИ"
+
+REFERENCE           MP_CALL_ELEVATOR
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы вызвать лифт"
+
+REFERENCE           MP_CAPTURE_HQ
+LANG_ENGLISH        "ЗАХВАТИТЕ ШТАБ"
+
+REFERENCE           MP_CONTROL_HQ
+LANG_ENGLISH        "КОНТРОЛИРУЙТЕ РАЙОН ШТАБА"
+
+REFERENCE           MP_DEFEND_HQ
+LANG_ENGLISH        "ЗАЩИЩАЙТЕ ШТАБ"
+
+REFERENCE           MP_DESTROY_HQ
+LANG_ENGLISH        "УНИЧТОЖЬТЕ ШТАБ"
+
+REFERENCE           MP_ELEVATOR_OVER_MAX
+LANG_ENGLISH        "Превышен максимально допустимый вес"
+
+REFERENCE           MP_ELEVATOR_UNAVAILABLE
+LANG_ENGLISH        "Лифт не работает"
+
+REFERENCE           MP_HOST_COMMS_FAILURE
+LANG_ENGLISH        "Не удалось установить связь с сервером."
+
+REFERENCE           MP_OPERATE_DOOR
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь"
+
+REFERENCE           MP_ROUND_END_KILLCAM
+LANG_ENGLISH        "ФИНАЛЬНЫЙ ПОВТОР СМЕРТИ"
+
+REFERENCE           MP_USE_ELEVATOR
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы использовать лифт"
+
+REFERENCE           MP_ZIPLINE
+LANG_ENGLISH        "Удерживайте &&1, чтобы воспользоваться тросом"
+
+REFERENCE           MPUI_AIRBASE
+LANG_ENGLISH        "Авиабаза"
+
+REFERENCE           MPUI_AIRBASE_CAPS
+LANG_ENGLISH        "АВИАБАЗА"
+
+REFERENCE           MPUI_AREA51
+LANG_ENGLISH        "Hangar 18"
+
+REFERENCE           MPUI_AREA51_CAPS
+LANG_ENGLISH        "HANGAR 18"
+
+REFERENCE           MPUI_BASIC_TRAINING_HC_TDM
+LANG_ENGLISH        "КОМАНДНЫЙ БОЙ, ПС"
+
+REFERENCE           MPUI_BERLINWALL2
+LANG_ENGLISH        "Berlin Wall"
+
+REFERENCE           MPUI_BERLINWALL2_CAPS
+LANG_ENGLISH        "BERLIN WALL"
+
+REFERENCE           MPUI_CARGO
+LANG_ENGLISH        "Груз"
+
+REFERENCE           MPUI_CARGO_CAPS
+LANG_ENGLISH        "ГРУЗ"
+
+REFERENCE           MPUI_COD_ELITE_CAPS
+LANG_ENGLISH        "CALL OF DUTY: ELITE"
+
+REFERENCE           MPUI_COMPETE_CAPS
+LANG_ENGLISH        "СОСТЯЗАЙТЕСЬ"
+
+REFERENCE           MPUI_COMPETE_DESC
+LANG_ENGLISH        "Выигрывайте призы в официальных соревнованиях."
+
+REFERENCE           MPUI_CONNECT_CAPS
+LANG_ENGLISH        "УЧАСТВУЙТЕ"
+
+REFERENCE           MPUI_CONNECT_DESC
+LANG_ENGLISH        "Объединяйтесь с друзьями, создавайте кланы и заводите новых знакомых среди поклонников Call of Duty."
+
+REFERENCE           MPUI_CUBATOWN
+LANG_ENGLISH        "Кубинский город"
+
+REFERENCE           MPUI_CUBATOWN_CAPS
+LANG_ENGLISH        "КУБИНСКИЙ ГОРОД"
+
+REFERENCE           MPUI_DESC_MAP_AREA51
+LANG_ENGLISH        "Советские войска проникли на американский секретный объект."
+
+REFERENCE           MPUI_DESC_MAP_BERLINWALL2
+LANG_ENGLISH        "Сражение за Берлинскую стену. Не выходите на нейтральную полосу!"
+
+REFERENCE           MPUI_DESC_MAP_DISCOVERY
+LANG_ENGLISH        "Германская научная станция в Антарктиде. Раскройте тайны Рейха!"
+
+REFERENCE           MPUI_DESC_MAP_DRIVEIN
+LANG_ENGLISH        "Напряженный ближний бой и выгодные позиции на возвышенностях в заброшенном летнем кинотеатре."
+
+REFERENCE           MPUI_DESC_MAP_FIREBASE
+LANG_ENGLISH        "Бой на огневой позиции."
+
+REFERENCE           MPUI_DESC_MAP_GOLFCOURSE
+LANG_ENGLISH        "Берегитесь снайперов, играя на дорожках этого элитного гольф-клуба."
+
+REFERENCE           MPUI_DESC_MAP_GRIDLOCK
+LANG_ENGLISH        "Засада, устроенная советскими войсками в США. Напряженный бой."
+
+REFERENCE           MPUI_DESC_MAP_HOTEL
+LANG_ENGLISH        "Бои на крыше шикарной кубинской гостиницы."
+
+REFERENCE           MPUI_DESC_MAP_KOWLOON
+LANG_ENGLISH        "Снайперские позиции и тайные проходы на ненадежных крышах Коулуна."
+
+REFERENCE           MPUI_DESC_MAP_OUTSKIRTS
+LANG_ENGLISH        "Бои в домах и на улицах небольшого советского поселка."
+
+REFERENCE           MPUI_DESC_MAP_SALVAGE
+LANG_ENGLISH        "Две стороны сражаются за контроль над свалкой."
+
+REFERENCE           MPUI_DESC_MAP_SILO
+LANG_ENGLISH        "Вооруженный конфликт возле ракетных шахт. Много обходных путей и возможностей для ближнего боя."
+
+REFERENCE           MPUI_DESC_MAP_SNOWMINE
+LANG_ENGLISH        "Заснеженный северный рудник. Отлично подходит для режимов с ключевыми объектами. "
+
+REFERENCE           MPUI_DESC_MAP_STADIUM
+LANG_ENGLISH        "Динамичные и разнообразные сражения на огромной хоккейной арене."
+
+REFERENCE           MPUI_DESC_MAP_WARMUSEUM
+LANG_ENGLISH        "Напряженные перестрелки в интерьерах музея."
+
+REFERENCE           MPUI_DESC_MAP_ZOO
+LANG_ENGLISH        "Бои на дальних дистанциях в заброшенном советском зоопарке."
+
+REFERENCE           MPUI_DISCOVERY
+LANG_ENGLISH        "Discovery"
+
+REFERENCE           MPUI_DISCOVERY_CAPS
+LANG_ENGLISH        "DISCOVERY"
+
+REFERENCE           MPUI_DLC_CONTENT
+LANG_ENGLISH        "Дополнительные материалы"
+
+REFERENCE           MPUI_DLC_MAPS_CAPS
+LANG_ENGLISH        "ДОП. КАРТЫ"
+
+REFERENCE           MPUI_DRIVEIN
+LANG_ENGLISH        "Drive-In"
+
+REFERENCE           MPUI_DRIVEIN_CAPS
+LANG_ENGLISH        "DRIVE-IN"
+
+REFERENCE           MPUI_EDIT_EMAIL
+LANG_ENGLISH        "ИЗМЕНИТЬ АДРЕС ЭЛ. ПОЧТЫ"
+
+REFERENCE           MPUI_ELITE_DISCLAIMER
+LANG_ENGLISH        "Адреса удаляются еженедельно. Услуга Call of Duty: ELITE в настоящее время доступна только на английском языке."
+
+REFERENCE           MPUI_EMAIL_ACCEPTED
+LANG_ENGLISH        "Спасибо за регистрацию в Call of Duty: ELITE. На указанный вами адрес электронной почты выслано письмо с инструкциями. Подробнее см. на веб-сайте CallofDuty.com/Elite."
+
+REFERENCE           MPUI_EMAIL_REJECTED_TITLE
+LANG_ENGLISH        "АДРЕС НЕ ПРИНЯТ"
+
+REFERENCE           MPUI_ENTER_VALID_EMAIL
+LANG_ENGLISH        "Введите действующий адрес электронной почты, чтобы записаться на бета-тестирование."
+
+REFERENCE           MPUI_FIREBASE
+LANG_ENGLISH        "Огневая позиция"
+
+REFERENCE           MPUI_FIREBASE_CAPS
+LANG_ENGLISH        "ОГНЕВАЯ ПОЗИЦИЯ"
+
+REFERENCE           MPUI_FREE_MEMBERSHIP_CAPS
+LANG_ENGLISH        "ЗАРЕГИСТРИРУЙТЕСЬ И ОЦЕНИТЕ CALL OF DUTY: ELITE"
+
+REFERENCE           MPUI_GAMEMODE_CAPS
+LANG_ENGLISH        "РЕЖИМЫ ИГРЫ"
+
+REFERENCE           MPUI_GOLFCOURSE
+LANG_ENGLISH        "Hazard"
+
+REFERENCE           MPUI_GOLFCOURSE_CAPS
+LANG_ENGLISH        "HAZARD"
+
+REFERENCE           MPUI_GRIDLOCK
+LANG_ENGLISH        "Convoy"
+
+REFERENCE           MPUI_GRIDLOCK_CAPS
+LANG_ENGLISH        "CONVOY"
+
+REFERENCE           MPUI_HIDE_DLC
+LANG_ENGLISH        "Скрыть доп. kaptы"
+
+REFERENCE           MPUI_HOTEL
+LANG_ENGLISH        "Hotel"
+
+REFERENCE           MPUI_HOTEL_CAPS
+LANG_ENGLISH        "HOTEL"
+
+REFERENCE           MPUI_I_HAVE
+LANG_ENGLISH        "Мои"
+
+REFERENCE           MPUI_IMPROVE_CAPS
+LANG_ENGLISH        "СОВЕРШЕНСТВУЙТЕСЬ"
+
+REFERENCE           MPUI_IMPROVE_DESC
+LANG_ENGLISH        "Пользуйтесь статистикой, советами экспертов и другими данными."
+
+REFERENCE           MPUI_JOIN_UP_CAPS
+LANG_ENGLISH        "ПРИСОЕДИНЯЙТЕСЬ."
+
+REFERENCE           MPUI_KOWLOON
+LANG_ENGLISH        "Kowloon"
+
+REFERENCE           MPUI_KOWLOON_CAPS
+LANG_ENGLISH        "KOWLOON"
+
+REFERENCE           MPUI_MAPS_CAPS
+LANG_ENGLISH        "КАРТЫ"
+
+REFERENCE           MPUI_OFFLINE_EDIT_GAME_OPTIONS_DESC
+LANG_ENGLISH        "Создайте собственный набор правил для этого режима игры."
+
+REFERENCE           MPUI_OUTSKIRTS
+LANG_ENGLISH        "Stockpile"
+
+REFERENCE           MPUI_OUTSKIRTS_CAPS
+LANG_ENGLISH        "STOCKPILE"
+
+REFERENCE           MPUI_OWNED
+LANG_ENGLISH        "Имеющиеся"
+
+REFERENCE           MPUI_PLAYLIST_MAPS_NOT_ENABLED
+LANG_ENGLISH        "У некоторых бойцов вашей группы нет дополнительных материалов для игры на этой карте."
+
+REFERENCE           MPUI_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Для использования данного списка необходимо приобрести дополнительные материалы."
+
+REFERENCE           MPUI_PRESTIGE_LB_PURCHASE_CONF
+LANG_ENGLISH        "Чтобы быть в этом рейтинге, вы должны хоть раз получить рейтинг престижа и быть готовым потратить &&1 ."
+
+REFERENCE           MPUI_PREV_DISABLED_CAPS
+LANG_ENGLISH        "ГОЛОСОВАНИЕ ЗАПР."
+
+REFERENCE           MPUI_PURCHASED
+LANG_ENGLISH        "Приобретенные"
+
+REFERENCE           MPUI_RULES_6_5MINUTES_CAPS
+LANG_ENGLISH        "6,5 МИНУТ"
+
+REFERENCE           MPUI_SALVAGE
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           MPUI_SALVAGE_CAPS
+LANG_ENGLISH        "SALVAGE"
+
+REFERENCE           MPUI_SHOW_DLC_CONTENT
+LANG_ENGLISH        "Показать дополнительные матералы"
+
+REFERENCE           MPUI_SILO
+LANG_ENGLISH        "Silo"
+
+REFERENCE           MPUI_SILO_CAPS
+LANG_ENGLISH        "SILO"
+
+REFERENCE           MPUI_SNOWMINE
+LANG_ENGLISH        "Snow Mine"
+
+REFERENCE           MPUI_SNOWMINE_CAPS
+LANG_ENGLISH        "SNOW MINE"
+
+REFERENCE           MPUI_STADIUM
+LANG_ENGLISH        "Stadium"
+
+REFERENCE           MPUI_STADIUM_CAPS
+LANG_ENGLISH        "STADIUM"
+
+REFERENCE           MPUI_SUBMIT_EMAIL_CAPS
+LANG_ENGLISH        "ОТПРАВИТЬ АДРЕС"
+
+REFERENCE           MPUI_THEATER_PARTY_MISSING_MAP
+LANG_ENGLISH        "У некоторых бойцов вашей группы нет требуемой карты."
+
+REFERENCE           MPUI_TRAINWRECK
+LANG_ENGLISH        "Крушение поезда"
+
+REFERENCE           MPUI_TRAINWRECK_CAPS
+LANG_ENGLISH        "КРУШЕНИЕ ПОЕЗДА"
+
+REFERENCE           MPUI_WARMUSEUM
+LANG_ENGLISH        "War Museum"
+
+REFERENCE           MPUI_WARMUSEUM_CAPS
+LANG_ENGLISH        "WAR MUSEUM"
+
+REFERENCE           MPUI_ZOO
+LANG_ENGLISH        "Zoo"
+
+REFERENCE           MPUI_ZOO_CAPS
+LANG_ENGLISH        "ZOO"
+
+REFERENCE           PATCH_ALLOW_VOTING_CAPS
+LANG_ENGLISH        "ГОЛОСОВАНИЯ"
+
+REFERENCE           PATCH_ALLOW_VOTING_DESC
+LANG_ENGLISH        "Возможность голосовать за смену карту или режима игры, а также за исключение игрока."
+
+REFERENCE           PATCH_AUTO_BALANCE_DESC
+LANG_ENGLISH        "Автоматическая балансировка команд по числу игроков."
+
+REFERENCE           PATCH_AUTOBALANCE_TEAMS_CAPS
+LANG_ENGLISH        "АВТОБАЛАНС КОМАНД"
+
+REFERENCE           PATCH_BAD_STATS
+LANG_ENGLISH        "Не удалось проверить статистику."
+
+REFERENCE           PATCH_BANNED_FROM_SERVER
+LANG_ENGLISH        "Вы заблокированы на данном сервере."
+
+REFERENCE           PATCH_CONNECTING_CAPS
+LANG_ENGLISH        "СОЕДИНЕНИЕ"
+
+REFERENCE           PATCH_COOPERATIVE_CAPS
+LANG_ENGLISH        "СОВМЕСТНАЯ ИГРА"
+
+REFERENCE           PATCH_DEMO_CHANGE_CAMERA
+LANG_ENGLISH        "^3F2^7"
+
+REFERENCE           PATCH_DEMO_SKIPBACK
+LANG_ENGLISH        "^3ВЛ^7"
+
+REFERENCE           PATCH_DEMO_SKIPFOWARD
+LANG_ENGLISH        "^3ВП^7"
+
+REFERENCE           PATCH_DEMO_SPEED_DOWN
+LANG_ENGLISH        "^3ВН^7"
+
+REFERENCE           PATCH_DEMO_SPEED_UP
+LANG_ENGLISH        "^3ВВ^7"
+
+REFERENCE           PATCH_DEMO_TOGGLE_CONTROLS_HUD
+LANG_ENGLISH        "^3F1^7 Управление"
+
+REFERENCE           PATCH_DEMO_TOGGLE_HUD
+LANG_ENGLISH        "^3F4^7 Интерфейс"
+
+REFERENCE           PATCH_EXE_KICKRESERVEDSLOT
+LANG_ENGLISH        "Автоматическое исключение. Причина: ячейка зарезервирована."
+
+REFERENCE           PATCH_GAME_CAPS
+LANG_ENGLISH        "ИГРА"
+
+REFERENCE           PATCH_LAPTOP_OR_SMALL_SPEAKERS_CAPS
+LANG_ENGLISH        "НОУТБУК / МАЛ. КОЛОНКИ "
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "В этом ролике используется модификация ^3&&1^7.\nЗагрузите модификацию, чтобы просмотреть ролик."
+
+REFERENCE           PATCH_LOADMOD_FILM
+LANG_ENGLISH        "В этом фильме используется модификация ^3&&1^7.\nЗагрузите модификацию, чтобы просмотреть фильм."
+
+REFERENCE           PATCH_MAXIMUM_PING_CAPS
+LANG_ENGLISH        "МАКС. СВЯЗЬ"
+
+REFERENCE           PATCH_MAXIMUM_PING_DESC
+LANG_ENGLISH        "Игроки с большей задержкой сигнала, чем указано здесь, не смогут присоединиться к игре. "
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_CAPS
+LANG_ENGLISH        "МАКС. ИГРОКОВ"
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_DESC
+LANG_ENGLISH        "Максимальное число участников игры."
+
+REFERENCE           PATCH_MENU_OPTION_SHADERWARMING_CAPS
+LANG_ENGLISH        "ТОНИРОВАНИЕ ШЕЙДЕРОВ"
+
+REFERENCE           PATCH_MINIMUM_PING_CAPS
+LANG_ENGLISH        "МИН. СВЯЗЬ"
+
+REFERENCE           PATCH_MINIMUM_PING_DESC
+LANG_ENGLISH        "Игроки с меньшей задержкой сигнала, чем указано здесь, не смогут присоединиться к игре. "
+
+REFERENCE           PATCH_MINIMUM_PLAYERS_DESC
+LANG_ENGLISH        "Количество игроков, требуемое для окончания разминки и начала самой игры."
+
+REFERENCE           PATCH_MP_CANNOT_JOIN_TEAM
+LANG_ENGLISH        "Смена команд сейчас невозможна."
+
+REFERENCE           PATCH_MP_TEAM_UP_PERIOD
+LANG_ENGLISH        "Изменения в составы команд можно вносить в течение &&1 сек."
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_CAPS
+LANG_ENGLISH        "СМЕНИТЬ КОМАНДУ"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_DESC
+LANG_ENGLISH        "Смена команд разрешена."
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_CAPS
+LANG_ENGLISH        "СОЗДАНИЕ КОМАНД"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_DESC
+LANG_ENGLISH        "Период времени, в течение которого допускается смена команд и поддерживается их баланс."
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_CAPS
+LANG_ENGLISH        "БАЛАНС КОМАНД"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_DESC
+LANG_ENGLISH        "Смена команд допускается только при сохранении баланса."
+
+REFERENCE           PATCH_NO_INVITES
+LANG_ENGLISH        "У вас нет свежих приглашений."
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_OPTIONS_COLOR_FRIENDS_CAPS
+LANG_ENGLISH        "ПОДСВЕТКА ДРУЗЕЙ"
+
+REFERENCE           PATCH_PASSWORD1_CAPS
+LANG_ENGLISH        "ПАРОЛЬ"
+
+REFERENCE           PATCH_PASSWORD_DESC
+LANG_ENGLISH        "Пароль для подключения к вашему серверу."
+
+REFERENCE           PATCH_PLAYLISTISNEW
+LANG_ENGLISH        "Данные в вашем списке игр новее, чем в списке администратора игры. Вы не сможете присоединиться к игре, пока администратор не перезапустит игру и не получит новые списки."
+
+REFERENCE           PATCH_PLAYLISTISOLD
+LANG_ENGLISH        "Данные в вашем списке игр старее, чем в списке администратора игры. Вы не сможете присоединиться к игре, пока не получите новый список."
+
+REFERENCE           PATCH_PRE_MATCH_DESC
+LANG_ENGLISH        "Разминка в стиле \"каждый за себя\" перед началом игры. Очки и опыт не начисляются."
+
+REFERENCE           PATCH_PREGAME_ENABLED_CAPS
+LANG_ENGLISH        "РАЗМИНКА"
+
+REFERENCE           PATCH_PREGAME_MINPLAYERS_CAPS
+LANG_ENGLISH        "МИН. ИГРОКОВ ДЛЯ РАЗМИНКИ"
+
+REFERENCE           PATCH_RESTORE_CONTROLS
+LANG_ENGLISH        "Восстановление команд управления, предлагаемых по умолчанию."
+
+REFERENCE           PATCH_SCREENSHOT_PAN
+LANG_ENGLISH        "Левая кнопка мыши - прокрутка"
+
+REFERENCE           PATCH_SCREENSHOT_ZOOM
+LANG_ENGLISH        "Колесико прокрутки - масштаб"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "Сохраненные данные несовместимы с текущей версией игры. Вы можете пройти последний открытый эпизод с начала или выйти в меню."
+
+REFERENCE           PATCH_SERVER_NAME_CAPS
+LANG_ENGLISH        "НАЗВАНИЕ СЕРВЕРА"
+
+REFERENCE           PATCH_SERVER_NAME_DESC
+LANG_ENGLISH        "Название вашего сервера."
+
+REFERENCE           PATCH_SHADER_WARMING
+LANG_ENGLISH        "Тонирование шейдеров..."
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "У всех участников игры по System Link должна быть одна и та же версия игры. Войдите в Xbox LIVE и убедитесь, что у вас установлено последнее обновление."
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "Альтернативные цвета"
+
+REFERENCE           PATCH_TOGGLE_COMPARE_FRIENDS
+LANG_ENGLISH        "Сравнение друзей"
+
+REFERENCE           PATCH_UNLOADMOD_DEMO
+LANG_ENGLISH        "Вы используете модификацию ^3&&1^7.\nДля просмотра ролика отключите эту модификацию."
+
+REFERENCE           PATCH_UNLOADMOD_FILM
+LANG_ENGLISH        "Вы используете модификацию ^3&&1^7.\nДля просмотра фильма отключите эту модификацию."
+
+REFERENCE           PATCH_VALVE_ANTI_CHEAT_DESC
+LANG_ENGLISH        "Защитите свой сервер от нечестных игроков!"
+
+REFERENCE           PATCH_VOICECHAT_DESC
+LANG_ENGLISH        "Голосовое общение в ходе игры."
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "Ваши версии игр несовместимы в этом режиме сетевой игры."
+
+REFERENCE           PLATFORM_BANNED
+LANG_ENGLISH        "Данной учетной записи запрещен доступ на серверы Call of Duty: Black Ops."
+
+REFERENCE           PLATFORM_CANT_DOWNLOAD
+LANG_ENGLISH        "Следующий файл не соответствует серверу:\n\n ^3&&1^7"
+
+REFERENCE           PLATFORM_CHEATSREQUIREAMOD
+LANG_ENGLISH        "Для использования этого кода требуется модификация"
+
+REFERENCE           PLATFORM_DEMO_EDIT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Изменить отметку камеры"
+
+REFERENCE           PLATFORM_DEMO_INSERT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Вставить отметку камеры"
+
+REFERENCE           PLATFORM_DEMO_PLACE_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Разместить отметку камеры"
+
+REFERENCE           PLATFORM_ENABLE_DOWNLOADS
+LANG_ENGLISH        "У вас отсутствует ряд файлов, на которые ссылается сервер:\n^3&&1^7\n\nЧтобы разрешить их загрузку, воспользуйтесь меню настройки сетевой игры."
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_CHECKSUM
+LANG_ENGLISH        "Локальный файл найден, но его контрольная сумма неверна."
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_FILESIZE
+LANG_ENGLISH        "Локальный файл найден, но его размер неверен."
+
+REFERENCE           PLATFORM_MISSINGMAP
+LANG_ENGLISH        "У вас нет этой карты. Вы можете получить ее, загрузив комплект материалов из магазина Steam Store."
+
+REFERENCE           PLATFORM_MISSINGMAP_YOU_NEED_CONTENTPACK
+LANG_ENGLISH        "У вас нет этой карты. Вы можете получить ее, загрузив комплект материалов из магазина Steam Store.\n\n Вам требуется: ^3&&1^7\n"
+
+REFERENCE           PLATFORM_OPEN_SOUNDTRACK_FOLDER
+LANG_ENGLISH        "Открыть папку Soundtrack"
+
+REFERENCE           PLATFORM_OPTIONS_RESTRICT_EMBLEMS_CAPS
+LANG_ENGLISH        "ОТКЛЮЧИТЬ ЭМБЛЕМЫ"
+
+REFERENCE           PLATFORM_STEAM_AUTH_DENIED
+LANG_ENGLISH        "Не удалось пройти авторизацию в Steam."
+
+REFERENCE           PLATFORM_UNKNOWN
+LANG_ENGLISH        "Неизвестно"
+
+REFERENCE           PLATFORM_ZOMBIE_NOMANS_SOLO_CAPS
+LANG_ENGLISH        "НЕЙТРАЛЬНАЯ ЗОНА (ОДИН ИГРОК)"
+
+REFERENCE           PLATFORM_ZOMBIE_SOUNDTRACK_LOCATION_DESC
+LANG_ENGLISH        "Вы можете найти музыкальное сопровождение Call of Duty: Zombies и 3 дополнительные композиции в папке Soundtrack, вложенной в основную папку игры."
+
+REFERENCE           WEAPON_ZIPLINE
+LANG_ENGLISH        "Трос"
+
+ENDMARKER

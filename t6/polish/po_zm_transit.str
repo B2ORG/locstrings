@@ -1,0 +1,34 @@
+// Dumped from fastfile "po_zm_transit".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TRANSIT_BUS_CLIMB_ROOF
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby wspiąć się na dach"
+
+REFERENCE           ZOMBIE_TRANSIT_ENGINE_OVERHEAT
+LANG_POLISH         "Silnik uległ przegrzaniu. Oczekiwanie na jego ostygnięcie."
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_UP
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby wejść na górę"
+
+REFERENCE           ZOMBIE_TRANSIT_ENTER_BUNKER
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby wejść do bunkra"
+
+REFERENCE           ZOMBIE_TRANSIT_EMERGENCY_EXIT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby skorzystać z wyjścia awaryjnego"
+
+REFERENCE           ZOMBIE_TRANSIT_OPEN_BUS_DOOR
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć"
+
+REFERENCE           ZOMBIE_TRANSIT_PURCHASE_BUS
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby uruchomić autobus [koszt: &&1]"
+
+REFERENCE           ZOMBIE_TRANSIT_CLOSE_BUS_DOOR
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby zamknąć"
+
+REFERENCE           ZOMBIE_TRANSIT_HATCH_DOWN
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby zejść na dół"
+
+ENDMARKER

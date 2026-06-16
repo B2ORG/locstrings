@@ -1,0 +1,61 @@
+// Dumped from fastfile "pel1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1_OBJECTIVE2A
+LANG_ENGLISH        "Transpercez les défenses japonaises."
+
+REFERENCE           PEL1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Plage blanche, Peleliu"
+
+REFERENCE           PEL1_OBJECTIVE1
+LANG_ENGLISH        "Prenez la plage d'assaut."
+
+REFERENCE           PEL1_INTROSCREEN_DATE
+LANG_ENGLISH        "15 septembre 1944"
+
+REFERENCE           PEL1_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Faible résistance\""
+
+REFERENCE           PEL1_INTROSCREEN_INFO
+LANG_ENGLISH        "1ère division des Marines"
+
+REFERENCE           PEL1_OBJECTIVE2B
+LANG_ENGLISH        "Entrez dans le bunker japonais."
+
+REFERENCE           PEL1_OBJECTIVE1A
+LANG_ENGLISH        "Demandez un tir de roquettes sur la ligne d'arbres."
+
+REFERENCE           PEL1_OBJECTIVE2C
+LANG_ENGLISH        "Contrôlez le bunker japonais."
+
+REFERENCE           PEL1_OBJECTIVE2D
+LANG_ENGLISH        "Rejoignez votre escouade."
+
+REFERENCE           PEL1_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           PEL1_ROCKETS_AVAIL
+LANG_ENGLISH        "Les tirs de roquettes sont maintenant disponibles."
+
+REFERENCE           PEL1_ROCKETS_ALWAYS_AVAIL
+LANG_ENGLISH        "Les tirs de roquettes sur les positions ennemies sont disponibles à volonté."
+
+REFERENCE           PEL1_ROCKET_HOWTO
+LANG_ENGLISH        "Appuyez sur [{+actionslot 4}] puis sur [{+attack}] pour demander un tir de roquettes."
+
+REFERENCE           PEL1_OBJECTIVE2E
+LANG_ENGLISH        "Éliminez les soldats japonais près du mortier."
+
+REFERENCE           PEL1_OBJECTIVE2F
+LANG_ENGLISH        "Demandez un tir de roquettes sur les chars japonais. [2 Restant]"
+
+REFERENCE           PEL1_OBJECTIVE2G
+LANG_ENGLISH        "Demandez un tir de roquettes sur les chars japonais [Reste 1]."
+
+REFERENCE           PEL1_OBJECTIVE2H
+LANG_ENGLISH        "Demandez un tir de roquettes sur les chars japonais."
+
+ENDMARKER

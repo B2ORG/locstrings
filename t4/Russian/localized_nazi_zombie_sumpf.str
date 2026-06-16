@@ -1,0 +1,463 @@
+// Dumped from fastfile "localized_nazi_zombie_sumpf".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 2000]"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Раунд"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Springfield со штыком [Цена: 200] "
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть шкаф [Цена: 2000]"
+
+REFERENCE           ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "Трос необходимо задействовать перед использованием"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Нажмите &&1, чтобы купить случайное оружие [Цена: 950]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Удерживайте - получить оружие [Цена: &&1] и боеприпасы [Цена: &&2]"
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Битва начинается"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Изолятор Wittenau"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить винтовку Arisaka [Цена: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить пистолет Намбу [Цена: 50] "
+
+REFERENCE           ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить BAR [Цена: 1800] "
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "Атака выдержана"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 500] "
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "ШОТАКОЕ!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить барьер [Цена: 10]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Выдержано раундов: &&1"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить барьер [Цена: 20]"
+
+REFERENCE           ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить ППШ-41 [Цена: 2000] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить барьер [Цена: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить барьер [Цена: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить винтовку Мосина [Цена: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Удерживайте &&1, чтобы восстановить барьер [Награда: 40] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить ТТ-30 [Цена: 50] "
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить карабин М1 со штыком [Цена: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить сверхмощный Colt [Цена: 100] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Удерживайте &&1, чтобы расчистить мусор [Цена: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 1750] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 1000] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Magnum 357 [Цена: 100] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Удерживайте &&1 , чтобы открыть дверь [Цена: 2500] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 100] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть дверь [Цена: 2000]"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Удерживайте &&1 для покупки Быстрого оживления [Цена: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Colt [Цена: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 200] "
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Нажмите [{+actionslot 4}] и затем [{+attack}] для установки прыгающей мины"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Kar98k [Цена: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 250] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 750] "
+
+REFERENCE           ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Кольт Зомби [Цена: 25] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 1250] "
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Type 99 со штыком [Цена: 200] "
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 1500] "
+
+REFERENCE           ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Gewehr 43 [Цена: 600]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 2000] "
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть шкаф [Цена: 500]"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить лучевое оружие [Цена: 10000] "
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть шкаф [Цена: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить винтовку Мосина с гранатой [Цена: 1500] "
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть шкаф [Цена: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Walther Р38 [Цена: 50] "
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить винтовку Мосина [Цена: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить ДП-28 [Цена: 2250] "
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Springfield [Цена: 200] "
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Kar98k со штыком [Цена: 200] "
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить карабин М1 [Цена: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить M1 Garand [Цена: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить M1 Garand со штыком [Цена: 600] "
+
+REFERENCE           ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить СВТ-40 [Цена: 600] "
+
+REFERENCE           ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить гранату М2 [Цена: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить коктейль Молотова [Цена: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить BAR с сошками [Цена: 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить гранату РГД-33 [Цена: 250]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Вы продержались 1 раунд."
+
+REFERENCE           ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить гранату Stielhandgranate [Цена: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить гранату Type 97 [Цена: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Kar98k с оптикой [Цена: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Kar98k с оптикой и штыком [Цена: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить дробовик M1897 [Цена: 1500] "
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить винтовку Мосина с оптикой [Цена: 750] "
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить винтовку Мосина с оптикой и штыком [Цена: 400] "
+
+REFERENCE           ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить ПТРС-41 [Цена: 750] "
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Springfield с оптикой [Цена: 750] "
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Springfield с оптикой и штыком [Цена: 750] "
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Удерживайте &&1, чтобы восстановить барьер [Награда: 10] "
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить винтовку Arisaka с оптикой [Цена: 750] "
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Type 99 с оптикой и штыком [Цена: 750] "
+
+REFERENCE           ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить MP40 [Цена: 1000] "
+
+REFERENCE           ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить STG-44 [Цена: 1200] "
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить ручной пулемет Type 99 с сошками [Цена: 2250]"
+
+REFERENCE           ZOMBIE_WEAPON_THOMPSON_1200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Thompson [Цена: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Type 100 [Цена: 1000] "
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить двустволку [Цена: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить обрез [Цена: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Browning M1919 [Цена: 3000] "
+
+REFERENCE           ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить FG42 [Цена: 1500] "
+
+REFERENCE           ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить FG42 с оптикой [Цена: 1500] "
+
+REFERENCE           ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить MG42 [Цена: 3000] "
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить ручной пулемет Type 99 [Цена: 1750]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить M1 Garand с гранатой [Цена: 1500] "
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Browning M1919 с сошками [Цена: 3500] "
+
+REFERENCE           ZOMBIE_AMMO_BOX
+LANG_ENGLISH        "Нажмите и удерживайте &&1, чтобы приобрести максимальное число боеприпасов [минимум - 10000]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить ДП-28 с сошками [Цена: 2500] "
+
+REFERENCE           ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить FG42 с сошками [Цена: 2000] "
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Удерживайте &&1 для покупки Двойного выстрела [Цена: 2000] "
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Удерживайте &&1 для покупки Спид-колы [Цена: 3000] "
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Удерживайте &&1 для покупки Джаггернаута [Цена: 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить MG42 с сошками [Цена: 3500] "
+
+REFERENCE           ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить M9A1 'Базука' [Цена: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Панцершрек [Цена: 2000] "
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Сентябрь, 1945"
+
+REFERENCE           ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить Огнемет [Цена: 3000] "
+
+REFERENCE           ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить снаряды для миномета [Цена: 2000] "
+
+REFERENCE           ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Удерживайте &&1, чтобы купить взрывчатку [Цена: 2000] "
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Зомби убит!"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Моментальная смерть:"
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Зомби-бомба!"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Удвоение очков:"
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Полный боезапас!"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Удерживайте &&1, чтобы восстановить барьер [Награда: 20] "
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Удерживайте &&1, чтобы восстановить барьер [Награда: 30] "
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "ИГРА ОКОНЧЕНА"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Удерживайте &&1, чтобы восстановить барьер [Награда: 50]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Нажмите &&1, чтобы купить случайное оружие [Цена: 850]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Нажмите &&1, чтобы купить случайное оружие [Цена: 750]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Нажмите &&1, чтобы купить случайное оружие [Цена: 650]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Удерживайте &&1, чтобы восстановить барьер"
+
+REFERENCE           ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "Сначала нужно включить электричество"
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Удерживайте &&1 для активации огненного барьера [Цена: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Удерживайте &&1, чтобы открыть зону [Цена: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Удерживайте &&1 для включения электробарьера [Цена: 1000] "
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Удерживайте &&1 , чтобы купить прыгающую мину [Цена: 1000 - только один раз]"
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Вы уже приобрели прыгающие мины"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Удерживайте &&1 для активации турели фонтана [Цена: 750]"
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Удерживайте &&1 для включения электричества"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Берлин, Германия"
+
+REFERENCE           ZOMBIE_BUY_TESLA
+LANG_ENGLISH        "Нажмите и удерживайте &&1, чтобы купить ружье Тесла [цена: 10]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Нажмите и удерживайте &&1, чтобы купить гранату-липучку [цена: 10]"
+
+REFERENCE           ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Нажмите и удерживайте &&1, чтобы задействовать трос [цена: 1500]"
+
+REFERENCE           ZOMBIE_ACTIVATE_TRAP
+LANG_ENGLISH        "Нажмите и удерживайте &&1, чтобы задействовать ловушку [цена: 750]"
+
+REFERENCE           ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Сначала нужно открыть ворота."
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Нажмите и удерживайте &&1, чтобы торговать оружием"
+
+REFERENCE           ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Нажмите и удерживайте &&1, чтобы включить трос"
+
+REFERENCE           ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Удерживайте &&1 для покупки"
+
+ENDMARKER

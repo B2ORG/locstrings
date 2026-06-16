@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "러시아 주력부대와 합류하십시오."
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'피와 강철'"
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "젤로브로 진격하십시오."
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "살아남은 전차를 파괴하십시오."
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 페트렌코"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "독일, 젤로브 고지"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "마을을 공격하십시오."
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "제 3충격군"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 4월 16일"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "티거 전차를 지휘하십시오."
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "접근하는 판터 전차를 파괴하십시오."
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "열차 주변의 적 전차를 제거하십시오."
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "적의 야포를 무력화하십시오.(&&1문 남음)"
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "통신탑으로 진격하십시오."
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "통신탑을 파괴하십시오."
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "티거 전차를 사용해 젤로브로 진격하십시오."
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "독일군의 방어선을 돌파하고 기차역으로 가십시오."
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "후퇴하는 적이 없는지 전방을 정찰하십시오."
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "연료 보급품을 파괴하십시오."
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "멀리 있는 표적을 보려면 [{+speed_throw}]를 누르십시오."
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "화염방사기를 발사하려면 [{+frag}]를 누르십시오."
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "기관총을 발사하려면 [{+frag}]를 누르십시오."
+
+ENDMARKER

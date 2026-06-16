@@ -1,0 +1,925 @@
+// Dumped from fastfile "ge_ui_zm".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED_DESC
+LANG_GERMAN         "Der Multiplikator für das Tempo, mit dem der Spieler Hindernisse überwindet."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_CAPS
+LANG_GERMAN         "KLASSENAUSRÜSTUNG BEARBEITEN"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT
+LANG_GERMAN         "Eigener Modus geladen"
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_DESC
+LANG_GERMAN         "Stellen Sie die Feuerrate für den Spieler ein."
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED
+LANG_GERMAN         "MESSERSTOSS-ERHOLUNG"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_PRO
+LANG_GERMAN         "PRO-EXTRAS"
+
+REFERENCE           CUSTOM_FAST
+LANG_GERMAN         "SCHNELL"
+
+REFERENCE           CUSTOM_BOMB_TIMER
+LANG_GERMAN         "BOMBEN-TIMER"
+
+REFERENCE           CUSTOM_PERK_ROF_DESC
+LANG_GERMAN         "Der Multiplikator für die Geschwindigkeit, mit der der Spieler feuert."
+
+REFERENCE           CUSTOM_OPT_HARDCORE_DESC
+LANG_GERMAN         "Hardcore-Modus ein/aus. Hardcore: eingeschränktes HUD, stärkere Waffen und Teambeschuss aktiviert"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_8
+LANG_GERMAN         "8 SEKUNDEN"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_TITLE
+LANG_GERMAN         "EXTRA 'RUHIGE HAND' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_KNIFE_WORK_DESC
+LANG_GERMAN         "Legt den Tempo-Multiplikator für den Messerstoß fest."
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME_DESC
+LANG_GERMAN         "Der Multiplikator für die Geschwindigkeit, mit der der Spieler eine Waffe nachladen kann."
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_PRO_TITLE
+LANG_GERMAN         "EXTRA 'RUHIGE HAND PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_CLASS_INCORRECT
+LANG_GERMAN         "Sie benötigen mindestens eine Ops- und eine Kommunisten-Klasse"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME
+LANG_GERMAN         "NACHLADEZEIT"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY_DESC
+LANG_GERMAN         "Spieler müssen warten und steigen in Wellen wieder ein. Wenn eine Einstiegsverzögerung festgelegt wurde, müssen die Spieler mindestens diese Dauer abwarten, bevor sie wieder einsteigen können."
+
+REFERENCE           CUSTOM_PERK_SCOUT_TITLE
+LANG_GERMAN         "EXTRA 'SPÄHER' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_PRO_TITLE
+LANG_GERMAN         "EXTRA 'FLINKHEIT PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_ROF
+LANG_GERMAN         "FEUERRATE"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_DESC
+LANG_GERMAN         "Passen Sie die Optionen für Leben und Gesundheit der Spieler an."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_TITLE
+LANG_GERMAN         "EXTRA 'DOPPELSCHUSS' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DESC
+LANG_GERMAN         "Extras ein-/ausschalten und Variablen der einzelnen Extras einstellen."
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES
+LANG_GERMAN         "EIGENE KLASSEN"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_6_CAPS
+LANG_GERMAN         "6 FLAGGEN"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED_DESC
+LANG_GERMAN         "Der Multiplikator gibt an, wie schnell sich der Spieler bewegt."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_GERMAN         "Feinde erscheinen immer auf dem Radar."
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_TITLE
+LANG_GERMAN         "EXTRA 'FLINKHEIT' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT
+LANG_GERMAN         "SPRINT-MULTIPLIKATOR"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER
+LANG_GERMAN         "SELBSTZERST.-TIMER FÜR FERNL."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_85
+LANG_GERMAN         "0,85 SEKUNDEN"
+
+REFERENCE           CUSTOM_PERK_SCOUT_PRO_TITLE
+LANG_GERMAN         "EXTRA 'SPÄHER PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME
+LANG_GERMAN         "LÄNGERER ATEM"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED
+LANG_GERMAN         "GESCHWINDIGKEIT"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_GERMAN         "RADAR IMMER EIN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_15
+LANG_GERMAN         "15 SEKUNDEN"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME_DESC
+LANG_GERMAN         "Die Anzahl der zusätzlichen Sekunden, die der Spieler seinen Atem anhalten kann."
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DISABLED_DESC
+LANG_GERMAN         "Erstellen Sie eigene Klassen für Ihren Modus. Sie können den Klassen-Editor wählen, wenn \"Eigene Klassen\" zugelassen sind."
+
+REFERENCE           CUSTOM_OPT_KILLCAM
+LANG_GERMAN         "ABSCHUSSKAMERA"
+
+REFERENCE           CUSTOM_FILESHARE_CGM_HIGHLIGHTED
+LANG_GERMAN         "Wählen Sie diesen Modus, um mit allen eigenen Einstellungen zu spielen."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION_DESC
+LANG_GERMAN         "Die Anzahl von Abschüssen, um die jede Abschussserie reduziert werden soll."
+
+REFERENCE           CUSTOM_FILESHARE_CANT_SELECT
+LANG_GERMAN         "Nur gespeicherte eigene Spielmodi können ausgewählt werden."
+
+REFERENCE           CUSTOM_FILESHARE_UPLOAD
+LANG_GERMAN         "Speichern in Dateifreigabe abgeschlossen"
+
+REFERENCE           CUSTOM_CUSTOMIZED_CAPS
+LANG_GERMAN         "ANGEPASST"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING
+LANG_GERMAN         "PANZERBRECHENDER SCHADEN"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DESC
+LANG_GERMAN         "Die Zeit, die zur aktuellen Zeit addiert wird, wenn ein Bombenplatz zerstört wird. Verlängerung ist bei unendlichem Zeitlimit deaktiviert."
+
+REFERENCE           CUSTOM_PERK_MARATHON_TITLE
+LANG_GERMAN         "EXTRA 'MARATHON' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT_DESC
+LANG_GERMAN         "Der Multiplikator für die grundlegende Zeit in Sekunden, die der Spieler sprinten kann."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION
+LANG_GERMAN         "FEUERSCHADEN"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME
+LANG_GERMAN         "VERLETZUNGSZEIT"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_TITLE
+LANG_GERMAN         "EXTRA 'ZWEITE CHANCE' ANPASSEN"
+
+REFERENCE           CUSTOM_SAVE_CHANGES
+LANG_GERMAN         "IN FREIGABE SPEICHERN"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_PRO_TITLE
+LANG_GERMAN         "EXTRA 'ZWEITE CHANCE PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_GERMAN         "Ändern Sie die Zeitdauer vor dem Start des Spiels."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION_DESC
+LANG_GERMAN         "Der prozentuale Feuerschaden am Spieler."
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME_DESC
+LANG_GERMAN         "Die Anzahl von Sekunden, die ein Spieler nach einem Abschuss verletzt ist, bevor er wieder einsteigt."
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME
+LANG_GERMAN         "WIEDERBELEBUNGSZEIT"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_TITLE
+LANG_GERMAN         "EXTRA 'LEICHTGEWICHT' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_PRO_TITLE
+LANG_GERMAN         "EXTRA 'LEICHTGEWICHT PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME_DESC
+LANG_GERMAN         "Die Anzahl von Sekunden, die benötigt werden, um einen gefallenen Spieler wiederzubeleben."
+
+REFERENCE           CUSTOM_VALUE_FLAGS_3_CAPS
+LANG_GERMAN         "3 FLAGGEN"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD
+LANG_GERMAN         "STREUWIRKUNG"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD_DESC
+LANG_GERMAN         "Der Prozentsatz der Basis-Streuung der Waffe. (Kleinere Zahl bedeutet weniger Streuung)"
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION
+LANG_GERMAN         "ABSCHUSSSERIEN-REDUKTION"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_PRO_TITLE
+LANG_GERMAN         "EXTRA 'KUGELSICHERE WESTE PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_TITLE
+LANG_GERMAN         "EXTRA 'HOHE ALARMSTUFE' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_TITLE
+LANG_GERMAN         "EXTRA 'GESTÄHLT' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_PRO_TITLE
+LANG_GERMAN         "EXTRA 'GESTÄHLT PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_OPT_HEADSHOT_ONLY_DESC
+LANG_GERMAN         "Bei Aktivierung sind Volltreffer bei Projektilwaffen erforderlich. Schäden durch Messer, Abschussserien und Explosionen ändern sich nicht."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED_DESC
+LANG_GERMAN         "Der Multiplikator für das Tempo, mit dem der Spieler die Zielvorrichtung einsetzen kann."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_PRO_TITLE
+LANG_GERMAN         "EXTRA 'HARDLINER PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_ENABLE_PERKS_CAPS
+LANG_GERMAN         "EXTRAS ZULASSEN"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION
+LANG_GERMAN         "PATRONENDURCHDRINGUNG"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION_DESC
+LANG_GERMAN         "Der Multiplikator für die Oberflächen-Durchdringung von Kugeln."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED
+LANG_GERMAN         "ZIELVORRICHTUNGS-TEMPO"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED
+LANG_GERMAN         "WAFFENWECHSEL-TEMPO"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING_DESC
+LANG_GERMAN         "Der zusätzliche Schadenswert gegen Flugzeuge und Geschütze."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_35
+LANG_GERMAN         "35 SEKUNDEN"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_DESC
+LANG_GERMAN         "Passen Sie den Tempo-Multiplikator für die Zielvorrichtung an."
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT_DESC
+LANG_GERMAN         "Passen Sie Pro-Extras an, die zu diesem Platz gehören."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_TITLE
+LANG_GERMAN         "EXTRA 'KUGELSICHERE WESTE' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION
+LANG_GERMAN         "EXPLOSIONSSCHADEN"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION_DESC
+LANG_GERMAN         "Der prozentuale Explosionsschaden am Spieler."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_TITLE
+LANG_GERMAN         "EXTRA 'HARDLINER' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_TITLE
+LANG_GERMAN         "EXTRA 'SCHNELLWECHSEL' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_DESC
+LANG_GERMAN         "Bestimmen Sie die Tempo-Multiplikatoren für das Wechseln von Waffen."
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED_DESC
+LANG_GERMAN         "Der Multiplikator für das Tempo zum Wechsel von Waffen."
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED
+LANG_GERMAN         "ÜBERWINDUNGSTEMPO"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED_DESC
+LANG_GERMAN         "Der Multiplikator für das Tempo, mit dem der Spieler sich von einem Messerstoß erholt."
+
+REFERENCE           CUSTOM_PERK_HACKER_PRO_TITLE
+LANG_GERMAN         "EXTRA 'HACKER PRO' ANPASSEN"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED
+LANG_GERMAN         "INTERAKTIONSTEMPO"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED_DESC
+LANG_GERMAN         "Der Multiplikator für die Zeit, die der Spieler zum Interagieren benötigt."
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED
+LANG_GERMAN         "REGENERATIONSTEMPO"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_35
+LANG_GERMAN         "1,35 SEKUNDEN"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED_DESC
+LANG_GERMAN         "Der Multiplikator für das Tempo, mit dem der Spieler Gesundheit regeneriert."
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED_DESC
+LANG_GERMAN         "Die Bewegungsgeschwindigkeit der Klasse."
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION
+LANG_GERMAN         "TREFFERWIRKUNGS-REDUZ."
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED
+LANG_GERMAN         "BEWEGUNGSTEMPO"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION_DESC
+LANG_GERMAN         "Der Prozentsatz der ursprünglichen Trefferwirkung, der Anwendung finden soll."
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION
+LANG_GERMAN         "BEWUSSTSEINSVERLUST-REDUZIERUNG"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION_DESC
+LANG_GERMAN         "Der Prozentsatz des ursprünglichen Bewusstseinsschaden, der Anwendung finden soll."
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE
+LANG_GERMAN         "FALLSCHADEN"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE_DESC
+LANG_GERMAN         "Wie tief der Spieler fallen kann, ohne Schaden zu nehmen."
+
+REFERENCE           CUSTOM_PERK_SLOT_HINT
+LANG_GERMAN         "Die Änderungen wirken sich auf alle Extras in Ihrem eigenen Spiel aus."
+
+REFERENCE           CUSTOM_PERK_SLOT_DESC
+LANG_GERMAN         "Passen Sie Extras an, die mit diesem Platz verbunden sind."
+
+REFERENCE           CUSTOM_PERK_NO_EDIT_DESC
+LANG_GERMAN         "Für dieses Extra können keine Werte mehr verändert werden."
+
+REFERENCE           CUSTOM_DAMAGE_DESC
+LANG_GERMAN         "Modifiziert den Schaden der Klasse durch Schusswaffen und nicht explosive Waffen."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_15
+LANG_GERMAN         "0,15 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_35
+LANG_GERMAN         "0,35 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_5
+LANG_GERMAN         "0,5 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_65
+LANG_GERMAN         "0,65 SEKUNDEN"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS
+LANG_GERMAN         "TRUPPFÜHRER-BONUS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1
+LANG_GERMAN         "1 SEKUNDE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_15
+LANG_GERMAN         "1,15 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_65
+LANG_GERMAN         "1,65 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_85
+LANG_GERMAN         "1,85 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2
+LANG_GERMAN         "2 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3
+LANG_GERMAN         "3 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_4
+LANG_GERMAN         "4 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_5
+LANG_GERMAN         "5 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_6
+LANG_GERMAN         "6 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_7
+LANG_GERMAN         "7 SEKUNDEN"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DISABLED_DESC
+LANG_GERMAN         "'Einstieg erzwingen' ist automatisch aktiviert, wenn eine Welleneinstiegsverzögerung festgelegt ist."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_9
+LANG_GERMAN         "9 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_10
+LANG_GERMAN         "10 SEKUNDEN"
+
+REFERENCE           CUSTOM_NUM_KILLS_THIS_KILLSTREAK_DESC
+LANG_GERMAN         "Die Abschussserie ist für diese Abschusszahl gewählt"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_20
+LANG_GERMAN         "20 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_25
+LANG_GERMAN         "25 SEKUNDEN"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE
+LANG_GERMAN         "SELBSTMORD-PUNKTE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_30
+LANG_GERMAN         "30 SEKUNDEN"
+
+REFERENCE           CUSTOM_OPT_HARDCORE
+LANG_GERMAN         "HARDCORE-MODUS"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_40
+LANG_GERMAN         "40 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_45
+LANG_GERMAN         "45 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_50
+LANG_GERMAN         "50 SEKUNDEN"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY
+LANG_GERMAN         "WELLENEINSTIEGSVERZÖGERUNG"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_55
+LANG_GERMAN         "55 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_60
+LANG_GERMAN         "60 SEKUNDEN"
+
+REFERENCE           CUSTOM_VALUE_KILLS_1
+LANG_GERMAN         "1 ABSCHUSS"
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS_DESC
+LANG_GERMAN         "Der Punktebonus für einen Volltreffer."
+
+REFERENCE           CUSTOM_ROUND_LIMIT_DESC
+LANG_GERMAN         "Die Zahl der Runden bis zum Spielende."
+
+REFERENCE           CUSTOM_VALUE_KILLS_2
+LANG_GERMAN         "2 ABSCHÜSSE"
+
+REFERENCE           CUSTOM_VALUE_KILLS_3
+LANG_GERMAN         "3 ABSCHÜSSE"
+
+REFERENCE           CUSTOM_VALUE_100_PER_DEFAULT
+LANG_GERMAN         "100% (STANDARD)"
+
+REFERENCE           CUSTOM_REVERT_TO_DEFAULT
+LANG_GERMAN         "ZURÜCK AUF STANDARD"
+
+REFERENCE           CUSTOM_GAME_TIME_LIMIT_DESC
+LANG_GERMAN         "Die Minutenzahl bis zum Rundenende."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME_DESC
+LANG_GERMAN         "Die Zeit, die ein Hauptquartier aktiv bleibt."
+
+REFERENCE           CUSTOM_GAME_SCORE_LIMIT_DESC
+LANG_GERMAN         "Die Punktezahl bis zum Rundenende."
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_CAPS
+LANG_GERMAN         "SPIELMODUS-OPTIONEN"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_CAPS
+LANG_GERMAN         "ALLGEMEINE OPTIONEN"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_CAPS
+LANG_GERMAN         "KLASSEN-EDITOR"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR
+LANG_GERMAN         "ABSCHUSSSERIEN-EDITOR"
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_GERMAN         "NUR VOLLTREFFER"
+
+REFERENCE           CUSTOM_PERK_EDITOR_CAPS
+LANG_GERMAN         "EXTRAS-EDITOR"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CAPS
+LANG_GERMAN         "ÄNDERUNGEN ZURÜCKSETZEN"
+
+REFERENCE           CUSTOM_SAVE_DESC
+LANG_GERMAN         "Änderungen am Spielmodus speichern?"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DISABLED_DESC
+LANG_GERMAN         "Sie können die Verlängerung nicht auf ein unbegrenztes Zeitlimit stellen."
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_3
+LANG_GERMAN         "3 RUNDEN"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_5
+LANG_GERMAN         "5 RUNDEN"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_7
+LANG_GERMAN         "7 RUNDEN"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_9
+LANG_GERMAN         "9 RUNDEN"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DESC
+LANG_GERMAN         "Erstellen Sie eigene Klassen für Ihren Modus."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_CAPS
+LANG_GERMAN         "CAPTURE-LIMIT"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_1_CAPS
+LANG_GERMAN         "1 FLAGGE"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_2_CAPS
+LANG_GERMAN         "2 FLAGGEN"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_4_CAPS
+LANG_GERMAN         "4 FLAGGEN"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_8_CAPS
+LANG_GERMAN         "8 FLAGGEN"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_10_CAPS
+LANG_GERMAN         "10 FLAGGEN"
+
+REFERENCE           CUSTOM_OPT_KILLCAM_DESC
+LANG_GERMAN         "Schalten Sie die Abschusskamera ein und aus."
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT
+LANG_GERMAN         "SPRINTEN ZULASSEN"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT_DESC
+LANG_GERMAN         "Aktivieren oder deaktivieren Sie die Sprintfähigkeit von Spielern."
+
+REFERENCE           CUSTOM_OPT_SPECTATE
+LANG_GERMAN         "ZUSCHAUEN"
+
+REFERENCE           CUSTOM_OPT_SPECTATE_DESC
+LANG_GERMAN         "Wählen Sie aus, wie Spieler zuschauen können, wenn sie nicht mehr wiedereinsteigen können."
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS
+LANG_GERMAN         "WIEDEREINSTIEGS-OPTIONEN"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS_DESC
+LANG_GERMAN         "Passen Sie die Optionen für den Wiedereinstieg an."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS
+LANG_GERMAN         "LEBEN- UND GESUNDHEITS-OPTIONEN"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES_DESC
+LANG_GERMAN         "Die Anzahl von Leben, die Spieler haben, bis sie nicht mehr wiedereinsteigen können."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_CAPS
+LANG_GERMAN         "LEBEN- UND GESUNDHEITS-OPTIONEN"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS
+LANG_GERMAN         "TEAM-OPTIONEN"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_CUSTOM_DESC
+LANG_GERMAN         "Die Regenerationsrate jedes Spielers bei Verletzungen."
+
+REFERENCE           CUSTOM_TEAM_OPTIONS_DESC
+LANG_GERMAN         "Passen Sie die Teamoptionen für diesen Spielmodus an."
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS
+LANG_GERMAN         "ZUSCHAUEROPTIONEN"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS_DESC
+LANG_GERMAN         "Zuschaueroptionen für diesen Spielmodus anpassen."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY
+LANG_GERMAN         "EINSTIEGSVERZÖGERUNG"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_DESC
+LANG_GERMAN         "Wählen Sie einen eigenen Spielmodus aus Ihrer Dateifreigabe."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY_DESC
+LANG_GERMAN         "Bestimmen Sie die Zeit in Sekunden bis zum Wiedereinstieg von Spielern."
+
+REFERENCE           CUSTOM_RULES_FORCE_RESPAWN
+LANG_GERMAN         "EINSTIEG ERZWINGEN"
+
+REFERENCE           CUSTOM_REDUCED
+LANG_GERMAN         "REDUZIERT"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DESC
+LANG_GERMAN         "Bei Aktivierung steigen Spieler nach dem Abschuss automatisch wieder ein und müssen den Wiedereinstieg nicht extra aktivieren. Immer aktiv, wenn eine Welleneinstiegsverzögerung gesetzt ist."
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES
+LANG_GERMAN         "LEBENSZAHL"
+
+REFERENCE           CUSTOM_MAX_HEALTH
+LANG_GERMAN         "MAX. GESUNDHEIT"
+
+REFERENCE           CUSTOM_ROUND_SWITCH
+LANG_GERMAN         "RUNDENWECHSEL"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DESC
+LANG_GERMAN         "Die Gesundheit, über die jeder Spieler verfügt. Die Verwendung von eigenen Klassen deaktiviert diese Einstellung."
+
+REFERENCE           CUSTOM_HEALTH_REGEN
+LANG_GERMAN         "REGENERATION"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DISABLED_DESC
+LANG_GERMAN         "Allgemeine maximale Gesundheit kann nicht eingestellt werden, wenn eigene Klassen verwendet werden."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DESC
+LANG_GERMAN         "Die Regenerationsrate von Gesundheit, wenn der Spieler Schaden genommen hat. Die Verwendung von eigenen Klassen deaktiviert diese Einstellung."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DISABLED_DESC
+LANG_GERMAN         "Allgemeine Gesundheitsregeneration kann nicht aktiviert werden, wenn eigene Klassen verwendet werden."
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE
+LANG_GERMAN         "TEAMBESCHUSS"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE_DESC
+LANG_GERMAN         "Ob Teamkameraden einander Schaden zufügen können oder nicht. Wenn mit festgelegter Lebensanzahl aktiviert, zählen Tode im eigenen Team nicht zu diesem Limit."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_CAPS
+LANG_GERMAN         "RUNDENSIEG-LIMIT"
+
+REFERENCE           CUSTOM_CTF_IDLE_FLAG_RETURN_TIME_DESC
+LANG_GERMAN         "Die Zeit in Sekunden, die eine Flagge unbesetzt sein kann, bevor sie wieder zur Basis zurückkehrt. Bei unbegrenzter Zeit ist die Rückkehr bei Berührung immer aktiviert."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_5
+LANG_GERMAN         "1,5 SEKUNDEN"
+
+REFERENCE           CUSTOM_NUM_KILLS_IN_USE_DESC
+LANG_GERMAN         "Eine weitere Abschussserie wird diese Anzahl Abschüsse benötigen."
+
+REFERENCE           CUSTOM_CTF_ENEMY_CARRIER_VISIBLE_DESC
+LANG_GERMAN         "Legt fest, ob die Feindposition beim Tragen der Flagge offenbart wird. Mit der Einstellung 'Verzögert' wird die feindliche Position nur unregelmäßig aktualisiert."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DESC
+LANG_GERMAN         "Bei Aktivierung kehrt eine fallen gelassene Flagge zur Basis zurück, wenn sie durch das besitzende Team berührt wird."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DISABLED_DESC
+LANG_GERMAN         "Rückkehr bei Berührung wird immer mit unbegrenzter Rückkehrzeit für Flagge aktiviert."
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS
+LANG_GERMAN         "VOLLTREFFER-BONUS"
+
+REFERENCE           CUSTOM_ROUND_LIMIT
+LANG_GERMAN         "RUNDENLIMIT"
+
+REFERENCE           CUSTOM_ROUND_SWITCH_DESC
+LANG_GERMAN         "Die Zahl der Runden bis zum Seitenwechsel."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_DESC
+LANG_GERMAN         "Die Zahl der Flaggen, die ein Team erobern muss, bevor die Runde endet."
+
+REFERENCE           CUSTOM_BOMB_TIMER_DESC
+LANG_GERMAN         "Die Zeit vor der Explosion der Bombe."
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME
+LANG_GERMAN         "PLATZIERUNGSZEIT"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME_DESC
+LANG_GERMAN         "Die Zeit, die zur Platzierung der Bombe benötigt wird."
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME
+LANG_GERMAN         "ENTSCHÄRFUNGSZEIT"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME_DESC
+LANG_GERMAN         "Die Zeit bis zur Entschärfung einer Bombe, wenn sie platziert wurde."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME
+LANG_GERMAN         "HQ-LEBENSZEIT"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY
+LANG_GERMAN         "HQ-VERZÖGERUNG"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY_DESC
+LANG_GERMAN         "Die Wartezeit, bevor ein neues Hauptquartier gewählt werden kann."
+
+REFERENCE           CUSTOM_CLASSIC_HQ
+LANG_GERMAN         "KLASSISCHER HQ-MODUS"
+
+REFERENCE           CUSTOM_CLASSIC_HQ_DESC
+LANG_GERMAN         "Das Hauptquartier kann nach der Eroberung nicht zerstört werden und bleibt die festgelegte Lebenszeit bei jeder neuen Position, während beide Teams darum kämpfen. "
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER
+LANG_GERMAN         "GEMEINSAMER TIMER"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER_DESC
+LANG_GERMAN         "Wenn ja, geht der Timer der Bombe nach der Entschärfung weiter."
+
+REFERENCE           CUSTOM_MULTI_BOMB
+LANG_GERMAN         "MULTIBOMBE"
+
+REFERENCE           CUSTOM_MULTI_BOMB_DESC
+LANG_GERMAN         "Aktivieren für mehrere Bomben."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DISABLED_DESC
+LANG_GERMAN         "Legen sie die Abschussserien fest. Sie können den Abschussserien-Editor wählen, wenn \"Eigene Abschussserien\" zugelassen sind."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_DESC
+LANG_GERMAN         "Die Zahl der Rundensiege bis zum Gewinnen des Spiels."
+
+REFERENCE           CUSTOM_HEALTH
+LANG_GERMAN         "GESUNDHEIT"
+
+REFERENCE           CUSTOM_ALLOW_PLAYER_CLASSES_CAPS
+LANG_GERMAN         "SPIELERKLASSEN ZULASSEN"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES_CAPS
+LANG_GERMAN         "EIGENE KLASSEN"
+
+REFERENCE           CUSTOM_ALL
+LANG_GERMAN         "ALLE"
+
+REFERENCE           CUSTOM_ALLIES
+LANG_GERMAN         "ALLIIERTE"
+
+REFERENCE           CUSTOM_SPRINT_SPEED
+LANG_GERMAN         "SPRINT-TEMPO"
+
+REFERENCE           CUSTOM_TITLE
+LANG_GERMAN         "TITEL"
+
+REFERENCE           CUSTOM_DAMAGE
+LANG_GERMAN         "SCHADEN"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT
+LANG_GERMAN         "KLASSENAUSRÜSTUNG BEARBEITEN"
+
+REFERENCE           CUSTOM_HEALTH_REGENERATION
+LANG_GERMAN         "REGENERATION"
+
+REFERENCE           CUSTOM_VAMPIRISM
+LANG_GERMAN         "VAMPIRISMUS"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_DESC
+LANG_GERMAN         "Stellen Sie Spielmodus-spezifische Optionen für Ihren eigenen Spielmodus ein."
+
+REFERENCE           CUSTOM_NORMAL
+LANG_GERMAN         "NORMAL"
+
+REFERENCE           CUSTOM_VERY_SLOW
+LANG_GERMAN         "SEHR LANGSAM"
+
+REFERENCE           CUSTOM_LOAD_ERROR
+LANG_GERMAN         "Fehler beim Laden des eigenen Spielmodus."
+
+REFERENCE           CUSTOM_SLOW
+LANG_GERMAN         "LANGSAM"
+
+REFERENCE           CUSTOM_VERY_FAST
+LANG_GERMAN         "SEHR SCHNELL"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE
+LANG_GERMAN         "EXPLOSIONSSCHADEN"
+
+REFERENCE           CUSTOM_INCREASED
+LANG_GERMAN         "ERHÖHT"
+
+REFERENCE           CUSTOM_DOUBLE
+LANG_GERMAN         "DOPPELT"
+
+REFERENCE           CUSTOM_MAXIMUM
+LANG_GERMAN         "MAXIMUM"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME
+LANG_GERMAN         "ENTSCHÄRFUNGSZEIT"
+
+REFERENCE           CUSTOM_PERKS_BUTTON_TOGGLE_PRO
+LANG_GERMAN         "Pro-Extras an/aus"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_BASIC
+LANG_GERMAN         "NORMALE EXTRAS"
+
+REFERENCE           CUSTOM_PERK_EDIT
+LANG_GERMAN         "EXTRAS IM PLATZ &&1 BEARBEITEN"
+
+REFERENCE           CUSTOM_PERK_PRO_EDIT
+LANG_GERMAN         "PRO-EXTRAS VON PLATZ &&1 BEARBEITEN"
+
+REFERENCE           CUSTOM_PERK_SLOT
+LANG_GERMAN         "EXTRA &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT
+LANG_GERMAN         "PRO-EXTRA &&1"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_DESC
+LANG_GERMAN         "Allgemeine Optionen einstellen."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DESC
+LANG_GERMAN         "Legen sie fest, welche Abschussserien die Spieler erreichen können."
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY_DESC
+LANG_GERMAN         "Der Prozentsatz der Zeitspanne, die nötig ist, um sich nach einem Sprint zu erholen."
+
+REFERENCE           CUSTOM_GAME_CREATE_CAPS
+LANG_GERMAN         "SPIELMODUS-EDITOR"
+
+REFERENCE           CUSTOM_SPECIALTY_EDITOR
+LANG_GERMAN         "EXTRAS-EDITOR"
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP
+LANG_GERMAN         "Bearbeiten Sie Attribute, Waffen und Extras einer eigenen Klasse."
+
+REFERENCE           CUSTOM_DISABLE_PERKS_CAPS
+LANG_GERMAN         "KEINE EXTRAS ZULASSEN"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY
+LANG_GERMAN         "SPRINTERHOLUNG"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME_DESC
+LANG_GERMAN         "Zeit, die zum Entschärfen von Geschützen und Ausrüstung benötigt wird."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2_POINT_5
+LANG_GERMAN         "2,5 SEKUNDEN"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE
+LANG_GERMAN         "ASSIST-PUNKTE"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3_POINT_5
+LANG_GERMAN         "3,5 SEKUNDEN"
+
+REFERENCE           CUSTOM_NUM_KILLS
+LANG_GERMAN         "ERFORDERLICHE ABSCHÜSSE"
+
+REFERENCE           CUSTOM_EXTRA_TIME_CAPS
+LANG_GERMAN         "VERLÄNGERUNG"
+
+REFERENCE           CUSTOM_OPS
+LANG_GERMAN         "OPS"
+
+REFERENCE           CUSTOM_COMMUNISTS
+LANG_GERMAN         "KOMMUNISTEN"
+
+REFERENCE           CUSTOM_BUTTON_SAVE_FILESHARE
+LANG_GERMAN         "^BBUTTON_INTERACT^ In Dateifreigabe speichern"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE
+LANG_GERMAN         "ABSCHUSS-PUNKTE"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE_DESC
+LANG_GERMAN         "Die Punktezahl, die für einen Abschuss vergeben wird."
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE_DESC
+LANG_GERMAN         "Die Punktezahl, die für einen Assist vergeben wird. Wählen Sie die Standardeinstellung, um eine normalen Punkte zu erhalten."
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE
+LANG_GERMAN         "TOD-PUNKTE"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE_DESC
+LANG_GERMAN         "Die Punktezahl, die für einen Tod abgezogen wird."
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE_DESC
+LANG_GERMAN         "Die Punktezahl, die für einen Selbstmord abgezogen wird."
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS_DESC
+LANG_GERMAN         "Der Punktebonus für einen Abschuss gegen den truppführenden Spieler."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK
+LANG_GERMAN         "ABSCHUSSSERIE WÄHLEN"
+
+REFERENCE           CUSTOM_SELECT_FROM_FILESHARE_DESC
+LANG_GERMAN         "Wählen Sie einen eigenen Spielmodus aus Ihrer Dateifreigabe."
+
+REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
+LANG_GERMAN         "MODUS OHNE SPEICHERN SPIELEN"
+
+REFERENCE           CUSTOM_TITLE_DESC
+LANG_GERMAN         "Dies ist der Name der eigenen Klasse."
+
+REFERENCE           CUSTOM_SPRINT_SPEED_DESC
+LANG_GERMAN         "Der Geschwindigkeitszuwachs der Klasse beim Sprinten."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_DESC
+LANG_GERMAN         "Alle Veränderungen der Standardeinstellungen für den eigenen Spielmodus zurücksetzen."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CONFIRM_TITLE
+LANG_GERMAN         "Möchten Sie wirklich alle Ihre Veränderungen für den eigenen Spielmodus zurücksetzen?"
+
+REFERENCE           CUSTOM_NUM_KILLS_DISABLED_DESC
+LANG_GERMAN         "Sie müssen eine Abschussserie auswählen, bevor Sie die benötigte Anzahl Abschüsse einstellen können."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_TITLE
+LANG_GERMAN         "SPIELMODUS WÄHLEN"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_CAPS
+LANG_GERMAN         "FLAGGEN-EINNAHMEZEIT"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_DESC
+LANG_GERMAN         "Die Zeit, die benötigt wird, um eine Flagge einzunehmen."
+
+REFERENCE           CUSTOM_CUSTOM_GAME_MODE_CAPS
+LANG_GERMAN         "EIGENER SPIELMODUS"
+
+REFERENCE           CUSTOM_WARN_DEMO_SIZE
+LANG_GERMAN         "Besonders lange Spiele werden nicht vollständig aufgezeichnet."
+
+REFERENCE           CUSTOM_NUM_KILLS_DESC
+LANG_GERMAN         "Stellen Sie die Anzahl der Abschüsse ein, die ein Spieler nacheinander erreichen muss, um diese Abschussserie zu aktivieren."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK_DESC
+LANG_GERMAN         "Wählen Sie die Abschussserie aus, um Spieler für eine bestimmte Anzahl Abschüsse nacheinander zu belohnen."
+
+REFERENCE           CUSTOM_VAMPIRISM_DESC
+LANG_GERMAN         "Stellen Sie ein, wie viel Gesundheit ein Spieler prozentual für ausgeteilten Schaden erhält."
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE_DESC
+LANG_GERMAN         "Modifiziert den Explosionsschaden der Klasse."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_DESC
+LANG_GERMAN         "Stellen Sie Waffen, Ausrüstung und Extras für die Klasse ein."
+
+REFERENCE           CUSTOM_HEALTH_DESC
+LANG_GERMAN         "Die maximale Gesundheit der Klasse."
+
+REFERENCE           CUSTOM_CUSTOM_CLASS
+LANG_GERMAN         "EIGENE"
+
+REFERENCE           CUSTOM_NO_KILLSTREAK
+LANG_GERMAN         "KEINE ABSCHUSSS."
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER_DESC
+LANG_GERMAN         "Selbstzerstörungstimer der Fernlenkbombe aktivieren oder deaktivieren."
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP_DISABLED
+LANG_GERMAN         "Diese Klasse ist deaktiviert und kann nicht bearbeitet werden."
+
+REFERENCE           CUSTOM_PERK_EDITOR_DISABLED_DESC
+LANG_GERMAN         "Extras ein-/ausschalten und Variablen der einzelnen Extras einstellen. Sie können den Extras-Editor wählen, wenn \"Extras zulassen\" aktiviert ist."
+
+REFERENCE           CUSTOM_RCXD_OPTIONS
+LANG_GERMAN         "FERNLENKLADUNG-EINSTELL."
+
+REFERENCE           CUSTOM_GAME_RECORDING_CAPS
+LANG_GERMAN         "SPIELAUFNAHME"
+
+REFERENCE           CUSTOM_GAME_RECORDING_DESC
+LANG_GERMAN         "Aufnahme des Spiels ein-/ausschalten."
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_GERMAN         "VORSPIEL-TIMER"
+
+ENDMARKER

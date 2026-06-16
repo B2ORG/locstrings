@@ -1,0 +1,109 @@
+// Dumped from fastfile "see1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE1_OBJECTIVE3A
+LANG_ENGLISH        "Schalten Sie alle feindliche Panzer aus (4 übrig)."
+
+REFERENCE           SEE1_OBJECTIVE2
+LANG_ENGLISH        "Wählen Sie einen Weg für den Vormarsch, LINKS oder RECHTS."
+
+REFERENCE           SEE1_RIDE_TANK
+LANG_ENGLISH        "Drücken Sie [{+activate}] zum Aufsteigen auf den Panzer."
+
+REFERENCE           SEE1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Ihr Land, ihr Blut'"
+
+REFERENCE           SEE1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Seelower Höhen"
+
+REFERENCE           SEE1_INTROSCREEN_DATE
+LANG_ENGLISH        "18. April 1945"
+
+REFERENCE           SEE1_OBJECTIVE1_C
+LANG_ENGLISH        "Klettern Sie auf den Tigerpanzer und zerstören Sie ihn."
+
+REFERENCE           SEE1_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           SEE1_OBJECTIVE1
+LANG_ENGLISH        "Rücken Sie zum Fluss vor."
+
+REFERENCE           SEE1_OBJECTIVE11
+LANG_ENGLISH        "Schalten Sie die fliehenden Deutschen aus."
+
+REFERENCE           SEE1_OBJECTIVE4
+LANG_ENGLISH        "Sammeln Sie sich beim Eingang der Scheune."
+
+REFERENCE           SEE1_OBJECTIVE5
+LANG_ENGLISH        "Zerstören Sie den letzten deutschen Panzer."
+
+REFERENCE           SEE1_OBJECTIVE6
+LANG_ENGLISH        "Folgen Sie Reznov in die Scheune."
+
+REFERENCE           SEE1_OBJECTIVE12
+LANG_ENGLISH        "Begeben Sie sich zum Bahnhof."
+
+REFERENCE           SEE1_MANTLE_TANK
+LANG_ENGLISH        "Drücken und halten Sie die X-Taste, um auf den feindlichen Panzer zu klettern."
+
+REFERENCE           SEE1_ACHIEVEMENT_UNLOCK
+LANG_ENGLISH        "Erfolg freigeschaltet"
+
+REFERENCE           SEE1_OBJECTIVE7
+LANG_ENGLISH        "Folgen Sie der Straße."
+
+REFERENCE           SEE1_OBJECTIVE3C
+LANG_ENGLISH        "Schalten Sie alle feindliche Panzer aus (2 übrig)."
+
+REFERENCE           SEE1_OBJECTIVE8
+LANG_ENGLISH        "Betreten Sie das deutsche Lager."
+
+REFERENCE           SEE1_USE_MOLOTOV
+LANG_ENGLISH        "Drücken Sie  [{+smoke}], um Molotows zu werfen."
+
+REFERENCE           SEE1_OBJECTIVE3B
+LANG_ENGLISH        "Schalten Sie alle feindliche Panzer aus (3 übrig)."
+
+REFERENCE           SEE1_OBJECTIVE9
+LANG_ENGLISH        "Sichern Sie das deutsche Lager."
+
+REFERENCE           SEE1_OBJECTIVE10A
+LANG_ENGLISH        "Zerstören Sie die deutschen Halbkettenfahrzeuge (2 übrig)."
+
+REFERENCE           SEE1_OBJECTIVE10B
+LANG_ENGLISH        "Zerstören Sie die deutschen Halbkettenfahrzeuge (1 übrig)."
+
+REFERENCE           SEE1_OBJECTIVE10C
+LANG_ENGLISH        "Zerstören Sie die deutschen Halbkettenfahrzeuge."
+
+REFERENCE           SEE1_OBJECTIVE1_B
+LANG_ENGLISH        "Durchbrechen Sie die deutschen\nVerteidigungen."
+
+REFERENCE           SEE1_OFF_TANK_PC
+LANG_ENGLISH        "Drücken und halten Sie die F-Taste, um vom Panzer zu steigen."
+
+REFERENCE           SEE1_OFF_TANK
+LANG_ENGLISH        "Drücken und halten Sie [{+activate}], um vom Panzer abzusteigen."
+
+REFERENCE           SEE1_OBJECTIVE3D
+LANG_ENGLISH        "Schalten Sie alle feindliche Panzer aus (1 übrig)."
+
+REFERENCE           SEE1_INTROSCREEN_INFO
+LANG_ENGLISH        "3. Stoßtrupp"
+
+REFERENCE           SEE1_OBJECTIVE3E
+LANG_ENGLISH        "Schalten Sie alle feindliche Panzer aus."
+
+REFERENCE           SEE1_LATER
+LANG_ENGLISH        "Bahnhof: Auf nach Berlin"
+
+REFERENCE           SEE1_RIDE_TANK_PC
+LANG_ENGLISH        "Drücken und halten Sie die F-Taste hinter dem Panzer, um ihn zu fahren."
+
+REFERENCE           SEE1_MANTLE_TANK_PC
+LANG_ENGLISH        "Drücken und halten Sie die F-Taste, um auf den feindlichen Panzer zu klettern."
+
+ENDMARKER

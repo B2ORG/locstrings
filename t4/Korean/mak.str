@@ -1,0 +1,52 @@
+// Dumped from fastfile "mak".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MAK_OBJ_PLANTCHARGE
+LANG_ENGLISH        "로벅과 함께 탄약 벙커에 폭발물을 설치하십시오."
+
+REFERENCE           MAK_OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "로벅이 폭약을 설치할 동안 누군가 지원을 해줘야 합니다."
+
+REFERENCE           MAK_INTROSCREEN_TITLE
+LANG_ENGLISH        "'항상 충실하게'"
+
+REFERENCE           MAK_INTROSCREEN_PLACE
+LANG_ENGLISH        "남태평양, 마킨 산호섬"
+
+REFERENCE           MAK_INTROSCREEN_DATE
+LANG_ENGLISH        "1942년 8월 17일"
+
+REFERENCE           MAK_PLANTING
+LANG_ENGLISH        "설치 중..."
+
+REFERENCE           MAK_INTROSCREEN_INFO
+LANG_ENGLISH        "해병 제 2 특공대대(칼슨의 특공대)"
+
+REFERENCE           MAK_OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "마을을 확보하십시오."
+
+REFERENCE           MAK_OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "2분대와 합류하십시오."
+
+REFERENCE           MAK_OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "퇴출지점까지 가십시오."
+
+REFERENCE           MAK_TRUCK_TRIGGER
+LANG_ENGLISH        "트럭을 사용하려면 ^3&&1^7를 누르십시오."
+
+REFERENCE           MAK_TRUCK_HINT
+LANG_ENGLISH        "^3[{+usereload}]^7을(를) 눌러 목표를 작동시키셨습니다."
+
+REFERENCE           MAK_CONTINUED
+LANG_ENGLISH        "계속..."
+
+REFERENCE           MAK_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 밀러(작전 중 실종)"
+
+REFERENCE           MAK_OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "2분대를 구출하십시오."
+
+ENDMARKER

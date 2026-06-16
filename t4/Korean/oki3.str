@@ -1,0 +1,109 @@
+// Dumped from fastfile "oki3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI3_OBJ4
+LANG_ENGLISH        "투하된 보급품에서 탄약을 획득하십시오."
+
+REFERENCE           OKI3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'한계점'"
+
+REFERENCE           OKI3_STARTS_PLANTERS_END
+LANG_ENGLISH        "사건 4 - 수중목 전투 종료"
+
+REFERENCE           OKI3_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 5월 29일"
+
+REFERENCE           OKI3_OBJ2_3
+LANG_ENGLISH        "박격포 운용병을 제거하십시오.(3문 남음)"
+
+REFERENCE           OKI3_INTROSCREEN_INFO
+LANG_ENGLISH        "제 1해병사단"
+
+REFERENCE           OKI3_INTROSCREEN_PLACE
+LANG_ENGLISH        "오키나와, 슈리성"
+
+REFERENCE           OKI3_OBJ1
+LANG_ENGLISH        "슈리성을 공격하십시오."
+
+REFERENCE           OKI3_OBJ2_4
+LANG_ENGLISH        "박격포 운용병을 제거하십시오.(4문 남음)"
+
+REFERENCE           OKI3_OBJ2_2
+LANG_ENGLISH        "박격포 운용병을 제거하십시오.(2문 남음)"
+
+REFERENCE           OKI3_OBJ2_1
+LANG_ENGLISH        "박격포 운용병을 제거하십시오.(1문 남음)"
+
+REFERENCE           OKI3_OBJ2
+LANG_ENGLISH        "박격포 운용병을 제거하십시오."
+
+REFERENCE           OKI3_OBJ5
+LANG_ENGLISH        "지역을 사수하십시오."
+
+REFERENCE           OKI3_OBJ6
+LANG_ENGLISH        "자살 돌격을 막으십시오."
+
+REFERENCE           OKI3_STARTS_MORTARPITS
+LANG_ENGLISH        "사건 2 - 박격포 진지"
+
+REFERENCE           OKI3_USE_MORTAR
+LANG_ENGLISH        "박격포탄의 뇌관을 작동시키려면 &&1를 누르고 계십시오."
+
+REFERENCE           OKI3_OBJ4_A
+LANG_ENGLISH        "터널로 진입해 적을 소탕하십시오."
+
+REFERENCE           OKI3_TAKE_COVER
+LANG_ENGLISH        "엄폐하십시오."
+
+REFERENCE           OKI3_REGROUP_BY_WALL
+LANG_ENGLISH        "분대와 합류하십시오."
+
+REFERENCE           OKI3_REGROUP
+LANG_ENGLISH        "분대와 합류하십시오."
+
+REFERENCE           OKI3_STARTS_AMBUSH
+LANG_ENGLISH        "사건 1 - 매복"
+
+REFERENCE           OKI3_STARTS_COURTYARD
+LANG_ENGLISH        "사건 4 - 안뜰"
+
+REFERENCE           OKI3_OBJ9
+LANG_ENGLISH        "동쪽 건물에 항공지원을 요청하십시오."
+
+REFERENCE           OKI3_OBJ8
+LANG_ENGLISH        "북쪽 건물에 항공지원을 요청하십시오."
+
+REFERENCE           OKI3_OBJ7
+LANG_ENGLISH        "안뜰에 투하된 보급품을 확보하십시오."
+
+REFERENCE           OKI3_STARTS_PLANTERS
+LANG_ENGLISH        "사건 3 - 수중목"
+
+REFERENCE           OKI3_AIRSTRIKE_HOWTO
+LANG_ENGLISH        "공중폭격을 요청하려면 [{+actionslot 4}]을(를) 누르고 [{+attack}]를 누르십시오."
+
+REFERENCE           OKI3_TAKE_AMMO
+LANG_ENGLISH        "탄약을 집으려면 &&1를 누르고 계십시오."
+
+REFERENCE           OKI3_OBJ6A
+LANG_ENGLISH        "지역의 모든 적을 제거하십시오."
+
+REFERENCE           OKI3_HINT_PRONE
+LANG_ENGLISH        "앉으려면 [{+stance}]를 누르십시오."
+
+REFERENCE           OKI3_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 밀러"
+
+REFERENCE           OKI3_OBJ8_A
+LANG_ENGLISH        "지역을 방어하십시오."
+
+REFERENCE           OKI3_MORTAR_HINT
+LANG_ENGLISH        "박격포탄을 던지려면 [{+attack}]을(를) 누르십시오."
+
+REFERENCE           OKI3_RADIO_INUSE
+LANG_ENGLISH        "무전기가 이미 사용 중입니다."
+
+ENDMARKER

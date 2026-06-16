@@ -1,0 +1,43 @@
+// Dumped from fastfile "ber1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER1_REGROUP_BERM
+LANG_ENGLISH        "Воссоединиться со своим отделением"
+
+REFERENCE           BER1_CLEAR_CLOCKTOWER
+LANG_ENGLISH        "Уничтожить Панцершрек и пулеметы, чтобы обеспечить продвижение танков"
+
+REFERENCE           BER1_CLEAR_RUINS
+LANG_ENGLISH        "Уничтожить оборону немцев"
+
+REFERENCE           BER1_CLEAR_OFFICE
+LANG_ENGLISH        "Продвигаться через здание конторы"
+
+REFERENCE           BER1_ENTER_ASYLUM
+LANG_ENGLISH        "Проникнуть внутрь приюта"
+
+REFERENCE           BER1_CLEAR_ASYLUM
+LANG_ENGLISH        "Зачистить приют"
+
+REFERENCE           BER1_PUSH_GERMANS
+LANG_ENGLISH        "Уничтожить отступающие немецкие войска"
+
+REFERENCE           BER1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Стальное кольцо'"
+
+REFERENCE           BER1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Панков, Германия"
+
+REFERENCE           BER1_INTROSCREEN_DATE
+LANG_ENGLISH        "23 апреля 1945 года"
+
+REFERENCE           BER1_INTROSCREEN_INFO
+LANG_ENGLISH        "3-я ударная армия"
+
+REFERENCE           BER1_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Петренко"
+
+ENDMARKER

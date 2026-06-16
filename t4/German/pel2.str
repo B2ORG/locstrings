@@ -1,0 +1,91 @@
+// Dumped from fastfile "pel2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Harte Landung'"
+
+REFERENCE           PEL2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Flugplatz, Peleliu"
+
+REFERENCE           PEL2_INTROSCREEN_DATE
+LANG_ENGLISH        "15. September 1944"
+
+REFERENCE           PEL2_AA_BUNKER
+LANG_ENGLISH        "Greifen Sie den Luftschutzbunker an."
+
+REFERENCE           PEL2_ASSAULT_AIRFIELD
+LANG_ENGLISH        "Greifen Sie das Flugfeld an."
+
+REFERENCE           PEL2_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           PEL2_SECURE_MANGROVE_AREA
+LANG_ENGLISH        "Flankieren Sie die japanischen Artilleriestellungen."
+
+REFERENCE           PEL2_INTROSCREEN_INFO
+LANG_ENGLISH        "1. Marinedivision"
+
+REFERENCE           PEL2_CLEAR_THE_BUILDING
+LANG_ENGLISH        "Sichern Sie das Gebäude."
+
+REFERENCE           PEL2_BUNKER_REGROUP
+LANG_ENGLISH        "Suchen Sie mit Ihrem Trupp Deckung."
+
+REFERENCE           PEL2_GET_BAZOOKA
+LANG_ENGLISH        "Holen Sie die Bazooka aus dem Graben."
+
+REFERENCE           PEL2_CLEAR_BUNKERS
+LANG_ENGLISH        "Greifen Sie die Bunker an."
+
+REFERENCE           PEL2_RETRIEVE_FLAME
+LANG_ENGLISH        "Bergen Sie den Flammenwerfer."
+
+REFERENCE           PEL2_FLAME_MG
+LANG_ENGLISH        "Nehmen Sie den Bunker unter Sperrfeuer."
+
+REFERENCE           PEL2_FLAME_BUNKER
+LANG_ENGLISH        "Beschießen Sie den Bunker mit dem Flammenwerfer"
+
+REFERENCE           PEL2_RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "Drücken Sie [{+actionslot 3}] zum Montieren der Gewehrgranate."
+
+REFERENCE           PEL2_ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "Rücken Sie zum Flugplatz vor."
+
+REFERENCE           PEL2_BAZOOKA
+LANG_ENGLISH        "Zerstören Sie die feindlichen Panzer mit der Bazooka."
+
+REFERENCE           PEL2_BAZOOKA_1
+LANG_ENGLISH        "Zerstören Sie die die Typ 97-Panzer mit der Bazooka (1 von 3 übrig)."
+
+REFERENCE           PEL2_BAZOOKA_2
+LANG_ENGLISH        "Zerstören Sie die die Typ 97-Panzer mit der Bazooka (2 von 3 übrig)."
+
+REFERENCE           PEL2_BAZOOKA_3
+LANG_ENGLISH        "Zerstören Sie die die Typ 97-Panzer mit der Bazooka (3 von 3 übrig)."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS
+LANG_ENGLISH        "Schalten Sie die Luftabwehrbesatzungen aus."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_1
+LANG_ENGLISH        "Schalten Sie die Luftabwehrbesatzungen aus (1 von 4 übrig)."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_2
+LANG_ENGLISH        "Schalten Sie die Luftabwehrbesatzungen aus (2 von 4 übrig)."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_3
+LANG_ENGLISH        "Schalten Sie die Luftabwehrbesatzungen aus (3 von 4 übrig)."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_4
+LANG_ENGLISH        "Schalten Sie die Luftabwehrbesatzungen aus (4 von 4 übrig)."
+
+REFERENCE           PEL2_SECURE_AABUNKER
+LANG_ENGLISH        "Sichern Sie den Luftschutzbunker."
+
+REFERENCE           PEL2_COUNTERATTACK
+LANG_ENGLISH        "Wehren Sie den Gegenangriff ab."
+
+ENDMARKER

@@ -1,0 +1,109 @@
+// Dumped from fastfile "see1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE1_OBJECTIVE3A
+LANG_ENGLISH        "적 전차를 모두 제거하십시오.(4대 남음)"
+
+REFERENCE           SEE1_OBJECTIVE2
+LANG_ENGLISH        "왼쪽이나 오른쪽 중에 진격할 길을 선택하십시오."
+
+REFERENCE           SEE1_RIDE_TANK
+LANG_ENGLISH        "전차에 탑승하려면 [{+usereload}]를 누르십시오."
+
+REFERENCE           SEE1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'적들의 땅, 적들의 피'"
+
+REFERENCE           SEE1_INTROSCREEN_PLACE
+LANG_ENGLISH        "독일, 젤로브 고지"
+
+REFERENCE           SEE1_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 4월 18일"
+
+REFERENCE           SEE1_OBJECTIVE1_C
+LANG_ENGLISH        "티거 전차에 올라타 파괴하십시오."
+
+REFERENCE           SEE1_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 페트렌코"
+
+REFERENCE           SEE1_OBJECTIVE1
+LANG_ENGLISH        "강으로 진격하십시오."
+
+REFERENCE           SEE1_OBJECTIVE11
+LANG_ENGLISH        "도주하는 독일군을 제거하십시오."
+
+REFERENCE           SEE1_OBJECTIVE4
+LANG_ENGLISH        "헛간 입구에서 재집결하십시오."
+
+REFERENCE           SEE1_OBJECTIVE5
+LANG_ENGLISH        "마지막 독일군 전차를 파괴하십시오."
+
+REFERENCE           SEE1_OBJECTIVE6
+LANG_ENGLISH        "레즈노프를 따라 헛간으로 들어가십시오."
+
+REFERENCE           SEE1_OBJECTIVE12
+LANG_ENGLISH        "기차역으로 가십시오."
+
+REFERENCE           SEE1_MANTLE_TANK
+LANG_ENGLISH        "적 전차에 올라타려면 X를 누르고 계십시오."
+
+REFERENCE           SEE1_ACHIEVEMENT_UNLOCK
+LANG_ENGLISH        "도전 과제의 잠금이 해제되었습니다."
+
+REFERENCE           SEE1_OBJECTIVE7
+LANG_ENGLISH        "도로를 따라 진격하십시오."
+
+REFERENCE           SEE1_OBJECTIVE3C
+LANG_ENGLISH        "적 전차를 모두 제거하십시오.(2대 남음)"
+
+REFERENCE           SEE1_OBJECTIVE8
+LANG_ENGLISH        "독일군 숙영지로 진입하십시오."
+
+REFERENCE           SEE1_USE_MOLOTOV
+LANG_ENGLISH        "화염병을 던지려면 [{+smoke}]를 누르십시오."
+
+REFERENCE           SEE1_OBJECTIVE3B
+LANG_ENGLISH        "적 전차를 모두 제거하십시오.(3대 남음)"
+
+REFERENCE           SEE1_OBJECTIVE9
+LANG_ENGLISH        "독일군 숙영지의 적을 소탕하십시오."
+
+REFERENCE           SEE1_OBJECTIVE10A
+LANG_ENGLISH        "독일군 반궤도 장갑차를 파괴하십시오.(2대 남음)"
+
+REFERENCE           SEE1_OBJECTIVE10B
+LANG_ENGLISH        "독일군 반궤도 장갑차를 파괴하십시오.(1대 남음)"
+
+REFERENCE           SEE1_OBJECTIVE10C
+LANG_ENGLISH        "독일군 반궤도 장갑차를 파괴하십시오."
+
+REFERENCE           SEE1_OBJECTIVE1_B
+LANG_ENGLISH        "독일군 방어선을 돌파하십시오."
+
+REFERENCE           SEE1_OFF_TANK_PC
+LANG_ENGLISH        "전차에서 내리려면 F를 누르고 계십시오."
+
+REFERENCE           SEE1_OFF_TANK
+LANG_ENGLISH        "전차에서 내리려면 [{+usereload}]를 누르고 계십시오."
+
+REFERENCE           SEE1_OBJECTIVE3D
+LANG_ENGLISH        "적 전차를 모두 제거하십시오.(1대 남음)"
+
+REFERENCE           SEE1_INTROSCREEN_INFO
+LANG_ENGLISH        "제 3충격군"
+
+REFERENCE           SEE1_OBJECTIVE3E
+LANG_ENGLISH        "적 전차를 모두 제거하십시오."
+
+REFERENCE           SEE1_LATER
+LANG_ENGLISH        "기차역: 베를린으로 출발"
+
+REFERENCE           SEE1_RIDE_TANK_PC
+LANG_ENGLISH        "전차의 뒤에 타려면 F를 누르고 계십시오."
+
+REFERENCE           SEE1_MANTLE_TANK_PC
+LANG_ENGLISH        "적 전차에 올라타려면 F를 누르고 계십시오."
+
+ENDMARKER

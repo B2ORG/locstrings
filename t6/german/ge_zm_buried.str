@@ -1,0 +1,166 @@
+// Dumped from fastfile "ge_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_GERMAN         "^3[{+activate}]^7 halten, um den Hebel zu benutzen"
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_GERMAN         "Drücken Sie ^3[{+actionslot 1}]^7 zum Ausrüsten der Dampfschleuder"
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_GERMAN         "Enthaupter"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Remington 870 MCS-Kreide"
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den AN-94-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_GERMAN         "Dampfschleuder"
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den Taser-Schlagring-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Enthaupter"
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_GERMAN         "Drücken Sie ^3[{+actionslot 1}]^7 zum Ausrüsten des Enthaupters"
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den Semtex-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_GERMAN         "Unterbodenresonator"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den MP5-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_GERMAN         "^3[{+activate}]^7 halten zum Aufschließen"
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Unterbodenresonator"
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_GERMAN         "Drücken Sie ^3[{+actionslot 1}]^7 zum Ausrüsten des Unterbodenresonators"
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Benutzen des Knopfes"
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Dampfschleuder"
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um ihm Alkohol zu geben"
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Schlüssel"
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Alkohol"
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Süßes"
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Alkohol [Kosten: &&1]"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_GERMAN         "Geben ..."
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den Colt M16A1-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_GERMAN         "Aufschließen ..."
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_GERMAN         "Suchen ..."
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um ihm Süßes zu geben"
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für AK-74u-Kreide"
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Süßes [Kosten: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_GERMAN         "^3[{+activate}]^7 halten, um Teil zu nehmen"
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_GERMAN         "Zeichnen ..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Nehmen des Wandkaufs"
+
+REFERENCE           ZM_BURIED_WB
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für &&1-Kreide"
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den AK-74u-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um einen Wunsch auszusprechen"
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den B23R-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den PDW-57-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den SVU-AS-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den M14-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den Raketenwerfer-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für SVU-AS-Kreide"
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den Bowiemesser-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den Claymore-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7, um den Remington 870 MCS-Wandkauf zu zeichnen"
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für AN-94-Kreide"
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für PDW-57-Kreide"
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Benutzen der Klingel"
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Taser-Schlagring-Kreide"
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aufnehmen der Lampe"
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Trinkgeld [Kosten: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Durchsuchen des Körpers"
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_GERMAN         "Schalter gefunden"
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_GERMAN         "Nichts gefunden"
+
+ENDMARKER

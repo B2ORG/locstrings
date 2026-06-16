@@ -1,0 +1,1423 @@
+// Dumped from fastfile "it_flashpoint".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FLASHPOINT_ASSASSINATE_HEAD_SCIENTIST
+LANG_ENGLISH        "Assassina lo scienziato capo"
+
+REFERENCE           FLASHPOINT_BTR_INSTRUCT_FIRE
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per sparare"
+
+REFERENCE           FLASHPOINT_BTR_INSTRUCT_LS
+LANG_ENGLISH        "Usa ^3[{+breath_sprint}]^7 per andare avanti/in retromarcia"
+
+REFERENCE           FLASHPOINT_BTR_INSTRUCT_RS
+LANG_ENGLISH        "Usa ^3[{+melee}]^7 per far sterzare il BTR"
+
+REFERENCE           FLASHPOINT_C4_INSTRUCT
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per far esplodere"
+
+REFERENCE           FLASHPOINT_CAPTURE
+LANG_ENGLISH        "Cattura"
+
+REFERENCE           FLASHPOINT_DEAD_BLOODYUNIFORM
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           FLASHPOINT_DEAD_BROOKS_BOWMAN
+LANG_ENGLISH        "Bowman e Brooks sono stati uccisi."
+
+REFERENCE           FLASHPOINT_DEAD_COMM_SHOOT
+LANG_ENGLISH        "La squadra è stata uccisa a causa tua."
+
+REFERENCE           FLASHPOINT_DEAD_DONT_DAMAGE_ROCKET
+LANG_ENGLISH        "Non danneggiare il razzo."
+
+REFERENCE           FLASHPOINT_DEAD_KARAMBIT_BROKESTEALTH
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           FLASHPOINT_DEAD_KARAMBIT_WOODSDEAD
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           FLASHPOINT_DEAD_MISSED_THE_ROCKET
+LANG_ENGLISH        "Non sei riuscito a interrompere il lancio."
+
+REFERENCE           FLASHPOINT_DEAD_PIPE_FAIL
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           FLASHPOINT_DEAD_ROCKET_GOT_AWAY
+LANG_ENGLISH        "Non sei riuscito a interrompere il lancio."
+
+REFERENCE           FLASHPOINT_DEAD_ROCKET_TAKEOFF
+LANG_ENGLISH        "Non sei riuscito a interrompere il lancio."
+
+REFERENCE           FLASHPOINT_DEAD_START_BROKESTEALTH
+LANG_ENGLISH        "Sei stato individuato. Hai compromesso la missione."
+
+REFERENCE           FLASHPOINT_DEAD_STAY_WITH_WOODS
+LANG_ENGLISH        "Non sei riuscito a rimanere con la squadra."
+
+REFERENCE           FLASHPOINT_EVENT13
+LANG_ENGLISH        "Officina"
+
+REFERENCE           FLASHPOINT_EVENT14
+LANG_ENGLISH        "Unità BTR"
+
+REFERENCE           FLASHPOINT_EVENT2
+LANG_ENGLISH        "Corri verso la tubatura"
+
+REFERENCE           FLASHPOINT_EVENT3
+LANG_ENGLISH        "In incognito"
+
+REFERENCE           FLASHPOINT_EVENT4
+LANG_ENGLISH        "Sui binari"
+
+REFERENCE           FLASHPOINT_EVENT5
+LANG_ENGLISH        "Calcio alla porta"
+
+REFERENCE           FLASHPOINT_EVENT6
+LANG_ENGLISH        "Carrucola"
+
+REFERENCE           FLASHPOINT_EVENT7
+LANG_ENGLISH        "Nasconditi sul muro"
+
+REFERENCE           FLASHPOINT_EVENT8
+LANG_ENGLISH        "Breccia nel bunker col C4"
+
+REFERENCE           FLASHPOINT_EVENT9
+LANG_ENGLISH        "Tunnel"
+
+REFERENCE           FLASHPOINT_EXPLOSIVEBOLT_SWITCH
+LANG_ENGLISH        "Premi ^3[{+actionslot 3}]^7 per usare i dardi esplosivi"
+
+REFERENCE           FLASHPOINT_FIRE_AT_TARGET
+LANG_ENGLISH        "Colpisci bersaglio con balestra"
+
+REFERENCE           FLASHPOINT_HINT_PLANT_CHARGE
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per piazzare gli esplosivi"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_DATE
+LANG_ENGLISH        "^LOre 07:00^L^C1 17 novembre 1963^C"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_INFO
+LANG_ENGLISH        "^C1Mason^C^L, Woods e Bowman devono eliminare tutte le minacce a ogni costo.^L"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_PLACE
+LANG_ENGLISH        "^C1Baikonur, URSS^C^L: le nostre spie confermano la presenza di Dragovich e del gruppo Ascensione.^L"
+
+REFERENCE           FLASHPOINT_INTROSCREEN_TITLE
+LANG_ENGLISH        "^LOrdine del presidente # 8-5. Destinatario: ZULU^L"
+
+REFERENCE           FLASHPOINT_LIMO_DESTROYED
+LANG_ENGLISH        "Limousine distrutta!"
+
+REFERENCE           FLASHPOINT_LIMO_ESCAPED
+LANG_ENGLISH        "Il bersaglio è fuggito!"
+
+REFERENCE           FLASHPOINT_MELEE_ATTACK
+LANG_ENGLISH        "Premi ^3[{+melee}]^7 per neutralizzare una guardia sorprendendola alle spalle"
+
+REFERENCE           FLASHPOINT_OBJ_ABORT_THE_LAUNCH
+LANG_ENGLISH        "Annulla il lancio al bunker di controllo ausiliario"
+
+REFERENCE           FLASHPOINT_OBJ_ASSASSINATE_HEAD_SCIENTIST
+LANG_ENGLISH        "Uccidi lo scienziato capo"
+
+REFERENCE           FLASHPOINT_OBJ_ASSASSINATE_SCIENTISTS
+LANG_ENGLISH        "Entra nei tunnel"
+
+REFERENCE           FLASHPOINT_OBJ_BREACH_CONTROL
+LANG_ENGLISH        "Penetra nella sala comandi"
+
+REFERENCE           FLASHPOINT_OBJ_C4_BUILDING
+LANG_ENGLISH        "Raggiungi la sala comandi del razzo"
+
+REFERENCE           FLASHPOINT_OBJ_CATCH
+LANG_ENGLISH        "CATTURA"
+
+REFERENCE           FLASHPOINT_OBJ_CATCH_THE_LIMO
+LANG_ENGLISH        "Cattura la limousine. Il passeggero deve sopravvivere."
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_OUT_COMMS
+LANG_ENGLISH        "Ripulisci l'edificio comunicazioni"
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_ROOF
+LANG_ENGLISH        "Ripulisci il tetto"
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_ROOMS
+LANG_ENGLISH        "Ripulisci le stanze"
+
+REFERENCE           FLASHPOINT_OBJ_CLEAR_WEAVER_ROOM
+LANG_ENGLISH        "Ripulisci la stanza di Weaver"
+
+REFERENCE           FLASHPOINT_OBJ_DESTROY_ROCKET
+LANG_ENGLISH        "Distruggi il Soyuz 2"
+
+REFERENCE           FLASHPOINT_OBJ_ENTER_DOOR
+LANG_ENGLISH        "Entra dalla porta"
+
+REFERENCE           FLASHPOINT_OBJ_ENTER_TUNNELS
+LANG_ENGLISH        "Scappa attraverso i tunnel"
+
+REFERENCE           FLASHPOINT_OBJ_ENTER_WINDOW
+LANG_ENGLISH        "Entra dalla finestra"
+
+REFERENCE           FLASHPOINT_OBJ_ESCAPE_BASE
+LANG_ENGLISH        "Fuggi dalla base"
+
+REFERENCE           FLASHPOINT_OBJ_EXIT_GASROOMS
+LANG_ENGLISH        "Esci dalle camere a gas"
+
+REFERENCE           FLASHPOINT_OBJ_FIND_DRAGOVICH
+LANG_ENGLISH        "Trova e uccidi Dragovich"
+
+REFERENCE           FLASHPOINT_OBJ_FIND_ESCAPE_VEHICLE
+LANG_ENGLISH        "Ottieni un veicolo per la fuga"
+
+REFERENCE           FLASHPOINT_OBJ_FIRE_AT_ROCKET
+LANG_ENGLISH        "Spara un missile contro il razzo"
+
+REFERENCE           FLASHPOINT_OBJ_FIRE_AT_TARGET
+LANG_ENGLISH        "Prepara la carrucola"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW
+LANG_ENGLISH        "Segui"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW_WOODS
+LANG_ENGLISH        "Segui Woods"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW_WOODS_CASUAL
+LANG_ENGLISH        "Sii disinvolto e segui Woods"
+
+REFERENCE           FLASHPOINT_OBJ_FOLLOW_WOODS_LOW
+LANG_ENGLISH        "Non dare nell'occhio e segui Woods"
+
+REFERENCE           FLASHPOINT_OBJ_GET_DISGUISE
+LANG_ENGLISH        "Ottieni un travestimento"
+
+REFERENCE           FLASHPOINT_OBJ_GET_IN_COMMS
+LANG_ENGLISH        "Entra nell'edificio comunicazioni"
+
+REFERENCE           FLASHPOINT_OBJ_GET_TO_COMMS
+LANG_ENGLISH        "Raggiungi l'edificio comunicazioni"
+
+REFERENCE           FLASHPOINT_OBJ_GET_TO_ROOF
+LANG_ENGLISH        "Usa la scala per raggiungere il tetto"
+
+REFERENCE           FLASHPOINT_OBJ_GOTO_WOODS
+LANG_ENGLISH        "Raggiungi Woods"
+
+REFERENCE           FLASHPOINT_OBJ_HIDE_AT_PIPE
+LANG_ENGLISH        "Mettiti al riparo"
+
+REFERENCE           FLASHPOINT_OBJ_HIDE_GUARD
+LANG_ENGLISH        "Nascondi il corpo"
+
+REFERENCE           FLASHPOINT_OBJ_INFILTRATE_BASE
+LANG_ENGLISH        "Infiltrati nel cosmodromo di Baikonur"
+
+REFERENCE           FLASHPOINT_OBJ_KILL_EVERYONE
+LANG_ENGLISH        "Uccidi gli scienziati"
+
+REFERENCE           FLASHPOINT_OBJ_KILL_THE_DOGS
+LANG_ENGLISH        "Uccidi i cani"
+
+REFERENCE           FLASHPOINT_OBJ_LOOK_ALERT
+LANG_ENGLISH        "Estrai l'arma e resta vicino alla squadra"
+
+REFERENCE           FLASHPOINT_OBJ_MANTLE_PIPE
+LANG_ENGLISH        "Salta oltre la tubatura"
+
+REFERENCE           FLASHPOINT_OBJ_MEET_SQUAD
+LANG_ENGLISH        "Incontra la squadra"
+
+REFERENCE           FLASHPOINT_OBJ_PICKUP_GUARD
+LANG_ENGLISH        "Sposta la guardia"
+
+REFERENCE           FLASHPOINT_OBJ_PLANT_C4
+LANG_ENGLISH        "Piazza il C4"
+
+REFERENCE           FLASHPOINT_OBJ_PLANT_EXPLOSIVE
+LANG_ENGLISH        "Piazza il C4"
+
+REFERENCE           FLASHPOINT_OBJ_PROTECT
+LANG_ENGLISH        "Proteggi Bowman e Brooks"
+
+REFERENCE           FLASHPOINT_OBJ_RAM
+LANG_ENGLISH        "ABBATTI"
+
+REFERENCE           FLASHPOINT_OBJ_RESCUE_WEAVER
+LANG_ENGLISH        "Salva Weaver"
+
+REFERENCE           FLASHPOINT_OBJ_SAVE_WEAVER
+LANG_ENGLISH        "Salva Weaver"
+
+REFERENCE           FLASHPOINT_OBJ_SNIPER_SCIENTISTS
+LANG_ENGLISH        "Ferma gli scienziati nemici"
+
+REFERENCE           FLASHPOINT_OBJ_SQUAD_MEETUP
+LANG_ENGLISH        "Incontra la squadra"
+
+REFERENCE           FLASHPOINT_OBJ_STAY_WITH_SQUAD
+LANG_ENGLISH        "Usa il travestimento e resta vicino alla squadra"
+
+REFERENCE           FLASHPOINT_OBJ_STEALTH
+LANG_ENGLISH        "Rimani furtivo"
+
+REFERENCE           FLASHPOINT_OBJ_STEALTH_KILL
+LANG_ENGLISH        "Esegui una uccisione furtiva"
+
+REFERENCE           FLASHPOINT_OBJ_STOP_ROCKET
+LANG_ENGLISH        "Ferma il lancio del razzo"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE
+LANG_ENGLISH        "Prendi"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_BINOCULARS
+LANG_ENGLISH        "Usa il binocolo"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_CROSSBOW
+LANG_ENGLISH        "Prendi la balestra da Woods"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_OUT_CHOPPER
+LANG_ENGLISH        "Abbatti l'elicottero"
+
+REFERENCE           FLASHPOINT_OBJ_TAKE_STRELA
+LANG_ENGLISH        "Prendi il lanciarazzi"
+
+REFERENCE           FLASHPOINT_OBJ_TEST_THE_DISGUISE
+LANG_ENGLISH        "Usa il travestimento"
+
+REFERENCE           FLASHPOINT_OBJ_WAIT_FOR_SQUAD
+LANG_ENGLISH        "Attendi la squadra"
+
+REFERENCE           FLASHPOINT_OBJ_WAIT_FOR_WOODS
+LANG_ENGLISH        "Attendi Woods"
+
+REFERENCE           FLASHPOINT_PROTECT
+LANG_ENGLISH        "Proteggi"
+
+REFERENCE           FLASHPOINT_SPAS_SWITCH
+LANG_ENGLISH        "Premi ^3[{+actionslot 3}]^7 per usare le munizioni Dragon's Breath"
+
+REFERENCE           FLASHPOINT_TVMISSILE_CONTROLS
+LANG_ENGLISH        "Tieni premuto ^3[{+speed_throw}]^7 per dirigere il missile teleguidato sul razzo"
+
+REFERENCE           FLASHPOINT_TVMISSILE_CONTROLS_2
+LANG_ENGLISH        "Usa  per pilotare il missile in volo"
+
+REFERENCE           FLASHPOINT_USE_KNIFE_PRESS_X
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per usare il Karambit"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_001A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Yankee one three... Mi ricevete?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_002A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Weaver non risponde... Dobbiamo muoverci."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_003A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Occhi aperti, Mason."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_004A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Qualcosa non va..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_005A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Non dovrebbero esserci pattuglie quaggiù."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_006A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Yankee one three, mi ricevete?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_007A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Merda."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_008A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Andiamo. Muoviamoci."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_009A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Whiskey, rispondete."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_010A_BOWM_F_M
+LANG_ENGLISH        "^1BOWMAN: ^7Parlate, XRay."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_011A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Il lancio del Soyuz 1 è imminente. Ci muoviamo, passo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_012A_BOWM_F_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ricevuto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_013A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason, il tempo stringe. Andiamo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_013B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Vediamo cosa hanno in mente questi bastardi."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_014A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7No, no, no! Qualcosa non va. C'è troppa attività."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_015A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Yankee one three, rapporto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_016A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Yankee one three... rapporto!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_017A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Weaver è sparito..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_018A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Vediamo cosa c'è là fuori."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_019A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sono al conto alla rovescia finale."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_020A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ecco il Soyuz 2. Verrà lanciato 10 minuti dopo il Soyuz 1."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_021A_MASO
+LANG_ENGLISH        "^1MASON: ^7Laggiù c'è l'edificio comunicazioni."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_022A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, rileviamo attività sulla strada. Controlla."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_023A_MASO
+LANG_ENGLISH        "^1MASON: ^7No, è Weaver... L'hanno scoperto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_023A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Merda, è Weaver... L'hanno scoperto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_024A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7E questo chi cazzo è?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_024A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7E questo chi è?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_025A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non va affatto bene!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_025B_MASO
+LANG_ENGLISH        "^1MASON: ^7È Kravchenko, il vice di Dragovich."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_026A_KRAV_F_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Il vostro collega non vuole giustificare la sua presenza in questa struttura."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_027A_KRAV_F_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Arrendetevi ora e non sarete uccisi."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_028A_KRAV_F_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Non ci saranno altri avvertimenti!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_029A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Non possiamo fare niente, Mason... Weaver è andato."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_030A_MASO
+LANG_ENGLISH        "^1MASON: ^7È Kravchenko, il vice di Dragovich."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_031A_KRAV_F_M
+LANG_ENGLISH        "^1KRAVCHENKO: ^7Scegliete."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_032A_WEAV_F_M
+LANG_ENGLISH        "^1WEAVER: ^7ARGHH!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_033A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ugh... Figlio di puttana!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_033B_MASO
+LANG_ENGLISH        "^1MASON: ^7Quel pazzo gli ha cavato un occhio, cazzo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_033B_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Quel pazzo gli ha cavato un occhio, cazzo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_034A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Squadra Whiskey, siete in posizione?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_034B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bowman, sei in posizione?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_035A_BOWM_F_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ricevuto, XRay. Whiskey copre la strada."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_036A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Weaver è compromesso. La base sarà in massima allerta."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_037A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mantenete la posizione. Noi entriamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_038A_BOWM_F_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ricevuto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_039A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bene... andiamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_039B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bene... Muoviamoci."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_354A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Qui XRay two niner. Mi ricevete, passo?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_800A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Per te salvare Weaver era più importante dell'obiettivo, uccidere Dragovich?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_802A_MASO
+LANG_ENGLISH        "^1MASON: ^7Weaver era un Russo, ma era a posto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_803A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Lo hai salvato. A quel punto, dovevi trovare il gruppo Ascensione e uccidere gli scienziati."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_804A_MASO
+LANG_ENGLISH        "^1MASON: ^7No... Dovevo uccidere... Dragovich."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_805A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ci hanno scoperti! Via i passamontagna."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807A_MASO
+LANG_ENGLISH        "^1MASON: ^7Abbiamo perlustrato tutta la base, ma non abbiamo trovato quel bastardo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807A_MASO_S
+LANG_ENGLISH        "^1MASON: ^7Abbiamo perlustrato tutta la base, ma non abbiamo trovato quel bastardo. Stavamo per fuggire, quando siamo incappati nella limousine di Dragovich. Era mio."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807B_MASO
+LANG_ENGLISH        "^1MASON: ^7Allora abbiamo rubato un BTR. Stavamo per fuggire,"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807B_MASO_S
+LANG_ENGLISH        "^1MASON: ^7We stole a BTR and we were getting out."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_807C_MASO
+LANG_ENGLISH        "^1MASON: ^7quando siamo incappati nella limousine di Dragovich. Era mio."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_808A_MASO
+LANG_ENGLISH        "^1MASON: ^7Kravchenko era fuggito prima che potessimo trovarlo"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_811A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Lo stiamo perdendo di nuovo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_812A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Rimani con me, Mason."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_813A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Ti stavi avvicinando. Dragovich era lì, vero?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_814A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Stiamo perdendo tempo, ha le allucinazioni."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S01_815A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Dragovich. Puoi. Confermare. L'uccisione?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_040A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Arriva un elicottero. Giù la testa!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_040B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Elicottero in arrivo. Muoversi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_041A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Seguimi e non fermarti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_041B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Muoversi e restare bassi."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_042A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A posto. Muoviamoci."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_043A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Aspetta... OK."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_049A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Ci servono quelle uniformi."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_050A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Io raccolgo quella a terra. Tu prendi l'altra."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_050B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Tu prendi quella a sinistra, io prendo l'altra."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_051A_MASO
+LANG_ENGLISH        "^1MASON: ^7Forza."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_052A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mi hai sentito?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_053A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_054A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Facciamoli sparire."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_337A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Torna al riparo o ti vedranno!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_338A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Riporta qui il culo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_338A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Torna al riparo o ti vedranno!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_339A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ci stai facendo scoprire!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_340A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Elicottero in arrivo. Muoversi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_355A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Nooo! Dove cazzo vai?!?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_356A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non devi farti vedere!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_357A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7L'elicottero non deve vederci!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_358A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7L'elicottero ti sta addosso!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_359A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ti sta puntando!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S02_360A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_070A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Spero che il tempo passato a Vorkuta abbia migliorato il tuo russo, Mason."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_071A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Merda! Dobbiamo farli stare zitti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_073A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Non sparare. Sfruttiamo il travestimento."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_075A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Eh, Sobaki proklyatye..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_077A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Da, da..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_078A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Tutto a posto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_079A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Brooks e Bowman dovrebbero essere là davanti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_080A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7XRay, qui Whiskey. Nemici avvistati, li eliminiamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_081A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Fate in fretta."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_082A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Cos'è successo a Weaver?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_082B_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Nascondete i cadaveri. Che è successo a Weaver?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_083A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7L'hanno scoperto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_083B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7È ridotto male, ma non so quanto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_084A_MASO
+LANG_ENGLISH        "^1MASON: ^7Continuiamo come previsto. Troveremo un altro modo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_085A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Va bene... muoviamoci."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_321A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dove cazzo vai?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_322A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Resta con me!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_323A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Torna qui, Mason."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_324A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Dobbiamo azzittire quei cani!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_325A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dobbiamo far stare zitti quei maledetti cani!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_326A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, ma che cazzo fai?!?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_326A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Mason, ma che fai?!?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_327A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ma che cazzo...?!?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_328A_MASO
+LANG_ENGLISH        "^1MASON: ^7Andiamo avanti con la missione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_500A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bel lavoro, Bowman!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_700A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Va meglio. Dobbiamo salvare Weaver."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S03_700A_MASO_M_S
+LANG_ENGLISH        "^1MASON: ^77Va meglio. Dobbiamo salvare Weaver."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_086A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Non attiriamo l'attenzione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_086B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Piano... Non attiriamo l'attenzione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_088A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Non c'è tempo. Credo che abbiano trovato i corpi."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_089A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7No, va tutto bene. Fate quello che fanno loro."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_090A_MASO
+LANG_ENGLISH        "^1MASON: ^7L'edificio comunicazioni è là davanti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_091A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Cecchini sul tetto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_091A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Ci sono dei cecchini sul tetto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_092A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Un paio di uomini davanti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_093A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bene... Bowman, Brooks: toglieteli di mezzo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_094A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Ehi, voi due!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_095A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7* U nas problema. Za mnoj."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_329A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Credo che abbiano trovato i cadaveri."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S04_330A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bene... Bowman, Brooks."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_096A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Pronto?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_097A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Io taglio le comunicazioni. Tu sali in cima e sbarazzati dei cecchini!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_097B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Ripulisci tutti i piani, mentre sali. Io taglio le comunicazioni."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_097C_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Usa il coltello... Non dobbiamo attirare l'attenzione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_098A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7VAI!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_099A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ricevuto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_100A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sta fuggendo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_101A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Inseguilo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_103A_MASO
+LANG_ENGLISH        "^1MASON: ^7È a terra."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_363A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_364A_MASO
+LANG_ENGLISH        "^1MASON: ^7Salgo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_366A_MASO
+LANG_ENGLISH        "^1MASON: ^7U menya prikaz."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_369A_MASO
+LANG_ENGLISH        "^1MASON: ^7Quattro bersagli... Mantenere la posizione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_370A_MASO
+LANG_ENGLISH        "^1MASON: ^7Piano libero."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_371A_MASO
+LANG_ENGLISH        "^1MASON: ^7Altri tre..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_372A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ci sei quasi. Continua così."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_809A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Brooks, Bowman... Try to find Weaver."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S05_810A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Subito."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_104A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Comunicazioni interrotte."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_105A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7XRay! Rispondete, passo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_106A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Parla pure, Bowman."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_107A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Abbiamo appena localizzato Weaver... L'hanno portato in un bunker a sud dell'edificio comunicazioni."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_108A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto. Andiamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_109A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason, vieni qui."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_110A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Gli spari hanno attirato l'attenzione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_111A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Quegli stronzi stanno tornando indietro!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_111A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Those #&%$are on the way back!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_112A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Io proteggo la fune, tu spara."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_112B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Io proteggo la fune, tu pensa a sparare."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_113A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Fai in fretta, Mason."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_114A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Io guadagno tempo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_115A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Vai! VAI!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_116A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sono dietro di te!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_117A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Destra OK."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_118A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Sinistra OK."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_119A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Puoi continuare la missione, Weaver?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_120A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Andiamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_121A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prima o poi lo prenderemo, quel bastardo di Kravchenko... ma ora dobbiamo pensare alla missione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_122A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Hai sabotato il sistema di guida?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_123A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Mi hanno scoperto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_124A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Dovremo agire con cautela. Passiamo al piano B?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_125A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Forse siamo ancora in tempo per annullare il lancio. Dobbiamo raggiungere il bunker di controllo ausiliario."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_126A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Let's go."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_126B_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Di qua..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_191A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, prendi quel fucile di precisione!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_331A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto. Mason irromperà nell'edificio."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_333A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Forse siamo ancora in tempo per annullare il lancio. Dobbiamo raggiungere il bunker di controllo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_375A_WOOD_F
+LANG_ENGLISH        "^1WOODS: ^7Elimina i cecchini."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_376A_BOWM_F_M
+LANG_ENGLISH        "^1BOWMAN: ^7Nemico in movimento da nord. Siamo bloccati!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_377A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Merda! Ci hanno fregati!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_377A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7No! Ci hanno fregati!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_378A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_379A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Io copro la scala."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_380A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Falli fuori!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_381A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Presto! Bowman e Brooks non resisteranno a lungo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_394A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7La balestra! I dardi esplosivi, ORA!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_705A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Credo di vederli."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_706A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, di qua."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_707A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Weaver!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_708A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Ce ne hai messo di tempo, Mason."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S06_900A_MASO
+LANG_ENGLISH        "^1MASON: ^7Vedo Brooks e Bowman là in fondo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_127A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Qui, sul muro."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_128A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Targets, 100 meters, stay low!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_131A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, stiamo aspettando."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_132A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, spara!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_133A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Spara!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_134A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sta fuggendo! Mason, l'hai preso?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_135A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sì, l'ho preso."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_136A_MASO
+LANG_ENGLISH        "^1MASON: ^7È a terra!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_138A_MASO
+LANG_ENGLISH        "^1MASON: ^7Cazzo! Sta chiamando i rinforzi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_139A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mantieni la posizione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_141A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Abbiamo meno di un minuto per raggiungere il bunker ausiliario."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_143A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Il tempo sta per scadere!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_144A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Siamo bloccati!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_145A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Uccidi il pilota!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_147A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Muoviti!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_334A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ecco gli scienziati del gruppo Ascensione! Facciamo fuori quei cervelloni."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_334A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Ecco gli scienziati del gruppo Ascensione!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_335A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Si vede lontano un miglio che sono tutti nazisti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_336A_MASO
+LANG_ENGLISH        "^1MASON: ^7Uccidiamoli subito."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_341A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7L'elicottero ci sta addosso! Uccidi il pilota!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_342A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, fai fuori quel pilota del cazzo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_382A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman! Inseguili!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_383A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, con me!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S07_386A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bel colpo, Mason!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_148A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Dobbiamo distruggere il razzo a ogni costo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_149A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason, fai un buco in quel cazzo di muro!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_149A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Mason, fai un buco in quel muro!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_150A_MASO
+LANG_ENGLISH        "^1MASON: ^7Pronto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_151A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Uccideteli tutti!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_152A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Muoversi."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_152B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Weaver, sbrigati!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_153A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Forza... forza!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_153B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Non abbiamo più tempo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_154A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Troppo tardi! Non posso fermarlo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_154B_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Sparagli!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_155A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Piano B, Bowman! Prepara il razzo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_155B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Piano B! Bowman, prepara lo Strela! Tiriamo giù quel razzo dal cielo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_156A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ci penso io!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_157A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Sì, cazzo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_157A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Così!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_158A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bel modo di testare un prototipo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_159A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Fallo saltare, Mason! ORA!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_160A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Fuoco!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Porca vacca...!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161A_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Merda!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Porca troia! Bella carneficina!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_161B_WOOD_M_S
+LANG_ENGLISH        "^1WOODS: ^7Merda! Bella carneficina!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_162A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Entriamo nei tunnel!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_192A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda... Dobbiamo trovare un riparo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_193A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Seguitemi..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_194A_BROO
+LANG_ENGLISH        "^1BROOKS: ^7Poveri bastardi..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_195A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Sono nazisti... non meritano compassione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_196A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Siamo qui per dargli la caccia."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_197A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Il resto del gruppo Ascensione tenterà di fuggire dalla struttura..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_198A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Bowman, Brooks! Aggirateli fino al tunnel a nord. Nessuno deve svignarsela dal retro!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_199A_BOWM_M
+LANG_ENGLISH        "^1BOWMAN: ^7Ricevuto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S08_200A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason e Weaver, venite con me."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_201A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Da che parte, Weaver?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_202A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7A destra."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_203A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda! Al riparo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_203A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Al riparo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_206A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sanguinano, vero?!?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_207A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bastardo imbroglione!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_208A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Pressateli!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_209A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gioielli russi dei miei coglioni!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_210A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ce ne sono altri!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_211A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_212A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Muori, figlio di puttana!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_212A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Muori, bastardo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_213A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Mason! Dietro gli armadietti!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_214A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Sì."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_215A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Fermi..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_216A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Lacrimogeni!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_217A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Infilate le maschere! Presto! Presto!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_218A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non vedo un cazzo... Quei bastardi credono di averci fregati..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_218A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Non vedo niente. Quei bastardi credono di averci fregati..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_219A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dimostriamogli il contrario."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_220A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, il fucile a pompa."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_222A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Cercano di metterci fretta!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_223A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Aprite il fuoco!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_224A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Muoversi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_225A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Non respiro con questo affare!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_226A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Via! Via! Via!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_227A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Sì."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_228A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Blueeeerrrgh!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_229A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Tutto bene, Weaver?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_229B_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Weaver, piantala di dipingere il pavimento. Stai bene?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_230A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mi fa piacere. Ora andiamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_231A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Uno del gruppo Ascensione!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_232A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Eliminate le sue guardie!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_234A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bene. Dovrebbero essercene ancora tre. Andiamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_235A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, ti stai rammollendo?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_238A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ancora due. Andiamo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_239A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Manca solo il capo del gruppo Ascensione."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_240A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Di qua..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_242A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Là!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_243A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda! Sta fuggendo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_243A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Sta fuggendo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_244A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Restiamogli addosso!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_246A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non lasciamolo scappare!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_248A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Muoviti!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_249A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non vai da nessuna parte!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_250A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non vai da nessuna parte!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_252A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Qui abbiamo finito?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_253A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Abbiamo finito. Com'è la situazione, in superficie?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_254A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Un caos. Si chiederanno cosa sia successo per anni."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_255A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bene. Ora andiamocene da qui."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_256A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7C'è un bersaglio potenzialmente importante. Mason?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_257A_MASO
+LANG_ENGLISH        "^1MASON: ^7È lui. È qui."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_258A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Chi?!?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_259A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragovich! Quel bastardo ha tentato di farmi il lavaggio del cervello a Vorkuta."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_260A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Allora direi che è importante..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_261A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Elimina l'elicottero!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_262A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Muoversi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_263A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Vieni qui!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_264A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Gimme some cover!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_265A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Aaarrgh!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_266A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ecco il nostro passaggio."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_267A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Tutti dentro!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_268A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Vai!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_270A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non ancora..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_271A_MASO
+LANG_ENGLISH        "^1MASON: ^7Andiamo a prendere Dragovich."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_272A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A sinistra, Mason!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_273A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A sinistra!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_274A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A destra!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_275A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Alla nostra destra!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_276A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A ore 12!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_277A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dritto davanti a noi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_278A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A ore 6, Mason!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_279A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dietro di noi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_281A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7A sinistra!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_284A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Davanti a noi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_288A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Cecchini!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_289A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Altri Spetsnaz!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_290A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7BTR!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_291A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7RPG!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_292A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Investili!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_293A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Metti sotto quei bastardi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_294A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Elimina quell'RPG!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_295A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Mason! Elimina i cecchini!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_296A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mettili sotto!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_297A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Metti sotto quei bastardi!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_298A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_299A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Subiamo danni!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_301A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Non possiamo subire altri danni!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_303A_MASO
+LANG_ENGLISH        "^1MASON: ^7Eccolo! È Dragovich!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_304A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sei sicuro che è lui?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_305A_MASO
+LANG_ENGLISH        "^1MASON: ^7OX_FLA1_S09_305A_MASO"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_306A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non dimenticherò mai quella faccia."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_307A_MASO
+LANG_ENGLISH        "^1MASON: ^7Devo ammazzarlo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_310A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non perderlo di vista!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_313A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Colpiscilo di nuovo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_314A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Buttalo fuori strada!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_316A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non esce nessuno."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_317A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Contento, Mason?"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_318A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non ancora... Devo vedere il cadavere."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_319A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non c'è tempo... Dobbiamo andare, Mason."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_320A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Credimi... ormai quel bastardo è arrosto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_320A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Credimi... ormai quel bastardo è arrosto."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_387A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Spetsnaz!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_388A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Muovete il culo! Dobbiamo combattere!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_392A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Datemi un po' d'amore!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S09_393A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Muovi il culo!!!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_001A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non siamo soli!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_002A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Usa le punte esplosive!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_003A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sono in trappola, distruggere i veicoli!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_004A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bel colpo, Mason! Certe cose non te le insegnano all'addestramento!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_005A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Colpire il gas!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_006A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Supporto!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_007A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Presto, li stiamo perdendo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S10_008A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dietrofront!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_001A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Piano..."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_002A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda, ci hanno visti!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_002A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Ci hanno visti!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_003A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Centrato!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_004A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Concentrarsi sull'obiettivo!"
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_005A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda, ci hanno scoperti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_005A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Ci hanno scoperti."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_006A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, con me! Brooks, Bowman... andate a far fuori gli scienziati."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_007A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Troppo tardi. Stanno lanciando il razzo."
+
+REFERENCE           FLASHPOINT_VOX_FLA1_S11_013A_BROO_F
+LANG_ENGLISH        "^1BROOKS: ^7Via libera. Muoversi."
+
+ENDMARKER

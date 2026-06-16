@@ -1,0 +1,154 @@
+// Dumped from fastfile "fr_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le Tomahawk infernal."
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer l'avion."
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer l'amélioration Blundergat."
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_FRENCH         "La nacelle est activée."
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour activer le piège Ventilateur [Coût : &&1]."
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_FRENCH         "Appuyez sur ^3[{+activate}]^7 pour activer le lave-linge"
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour fabriquer le bouclier antizombie."
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le Blundergat."
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ravitailler l'avion"
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour acheter Tommy [Cost: &&1]"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_FRENCH         "Foudroyez pour surcharger"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_FRENCH         "Pièce ajoutée à l'avion"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre le Rédempteur infernal."
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_FRENCH         "Avion ravitaillé"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_FRENCH         "Appuyez sur ^3[{+attack}]^7 pour électrocuter."
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_FRENCH         "Appuyez sur ^3[{+activate}]^7 pour monter à bord de l'avion"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_FRENCH         "Appuyez sur ^3[{+gostand}]^7 pour léviter"
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour appeler la nacelle."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour passer en Trépas."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_FRENCH         "Foudroyez pour activer le courant"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_FRENCH         "Clé du gardien nécessaire"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_FRENCH         "La porte a besoin de courant."
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_FRENCH         "Piège Acide non disponible"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour convertir le Blundergat en Acidgat."
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre l'arme convertie."
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour acheter Cerise électrique [Coût : &&1]."
+
+REFERENCE           ZM_PRISON_BAD
+LANG_FRENCH         "LE CYCLE CONTINUE..."
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_FRENCH         "Appuyez sur ^3[{+attack}]^7 pour déployer le bouclier."
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_FRENCH         "Appuyez sur ^3[{+melee}]^7 pour attaquer avec le bouclier."
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_FRENCH         "Appuyez sur [{+actionslot 1}] ou [{+actionslot 2}] pour changer d'objet."
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_FRENCH         "Appuyez sur ^3[{+smoke}]^7 pour lancer le Tomahawk."
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_FRENCH         "Bouclier"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_FRENCH         "LE CYCLE EST BRISÉ."
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_FRENCH         "Kit Acidgat"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_FRENCH         "Pièces d'avion"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_FRENCH         "Appuyez sur ^3[{+activate}]^7 pour activer la chaise électrique"
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_FRENCH         "Appuyez sur ^3[{+activate}]^7 pour amorcer la séquence de décollage"
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour ouvrir."
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_FRENCH         "Piège Ventilateur non disponible"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour activer le piège Acide [Coût : &&1]."
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour activer le piège Tour [Coût : &&1]."
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour utiliser la nacelle [Coût : &&1]."
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_FRENCH         "La nacelle a besoin de courant."
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_FRENCH         "La nacelle se recharge."
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_FRENCH         "Maintenez ^3[{+activate}]^7 pour prendre l'Acidgat."
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_FRENCH         "Blundergat requis"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_FRENCH         "Aucun Trépas restant"
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_FRENCH         "VIE TERMINÉE"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_FRENCH         "Vous transportez déjà une pièce."
+
+ENDMARKER

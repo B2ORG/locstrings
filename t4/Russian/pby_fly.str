@@ -1,0 +1,115 @@
+// Dumped from fastfile "pby_fly".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           VEHICLENAME_CRUSADER_TANK
+LANG_ENGLISH        "Танк Крусейдер"
+
+REFERENCE           PBY_FLY_OBJ_EV1
+LANG_ENGLISH        "Продолжить патрулирование"
+
+REFERENCE           PBY_FLY_TUT_INTRO
+LANG_ENGLISH        "Добро пожаловать в обучение управлением турелями PBY."
+
+REFERENCE           PBY_FLY_TUT_SWITCH
+LANG_ENGLISH        "Используйте панель направлений, чтобы переключаться между турелями."
+
+REFERENCE           PBY_FLY_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Черные Кошки'"
+
+REFERENCE           PBY_FLY_INTROSCREEN_PLACE
+LANG_ENGLISH        "К югу от Окинавы"
+
+REFERENCE           PBY_FLY_INTROSCREEN_DATE
+LANG_ENGLISH        "3 апреля 1945 года"
+
+REFERENCE           PBY_FLY_INTROSCREEN_NAME
+LANG_ENGLISH        "Старшина Локк"
+
+REFERENCE           VEHICLENAME_FLETCHER
+LANG_ENGLISH        "Эсминец - класс Флетчер"
+
+REFERENCE           PBY_FLY_INTROSCREEN_INFO
+LANG_ENGLISH        "Эскадрилья Черная Кошка VPB-54"
+
+REFERENCE           PBY_FLY_OBJ_EV2_PTBOATS
+LANG_ENGLISH        "Отбить атаку японских катеров [уничтожено &&1]"
+
+REFERENCE           PBY_FLY_OBJ_EV2
+LANG_ENGLISH        "Уничтожить японские корабли [осталось &&1]"
+
+REFERENCE           PBY_FLY_PBY_NAME_B
+LANG_ENGLISH        "ХАММЕРХЕД"
+
+REFERENCE           PBY_FLY_OBJ_EV3B
+LANG_ENGLISH        "Ответить на сигнал бедствия"
+
+REFERENCE           PBY_FLY_OBJ_EV3
+LANG_ENGLISH        "Вернуться на базу"
+
+REFERENCE           VEHICLENAME_SHERMAN_TANK
+LANG_ENGLISH        "Танк Шерман"
+
+REFERENCE           PBY_FLY_OBJ_EV4
+LANG_ENGLISH        "Спасти выживших [&&1 спасено]"
+
+REFERENCE           PBY_FLY_MERCHANT
+LANG_ENGLISH        "Торговые суда:"
+
+REFERENCE           PBY_FLY_SWITCH_FRONT
+LANG_ENGLISH        "Нажмите [{+activate}] , чтобы переключиться на носовую турель"
+
+REFERENCE           PBY_FLY_SWITCH_RIGHT
+LANG_ENGLISH        "Нажмите [{+activate}] , чтобы переключиться на правую турель"
+
+REFERENCE           PBY_FLY_OBJ_EV5
+LANG_ENGLISH        "Очистить небо от японских истребителей"
+
+REFERENCE           PBY_FLY_SWITCH_LEFT
+LANG_ENGLISH        "Нажмите [{+activate}] , чтобы переключиться на левую турель"
+
+REFERENCE           VEHICLENAME_ARMORED_CAR
+LANG_ENGLISH        "Броневик"
+
+REFERENCE           PBY_FLY_SWITCH_REAR
+LANG_ENGLISH        "Нажмите [{+activate}] , чтобы переключиться на нижнюю турель"
+
+REFERENCE           PBY_FLY_RESCUE
+LANG_ENGLISH        "Нажмите [{+activate}] , чтобы спасти выжившего"
+
+REFERENCE           PBY_FLY_ADS_HINT
+LANG_ENGLISH        "Нажмите и удерживайте [{+speed_throw}] , чтобы использовать отражатель и обычный прицел. "
+
+REFERENCE           PBY_FLY_PBY_NAME_A
+LANG_ENGLISH        "МАНТАРЭЙ"
+
+REFERENCE           PBY_FLY_PBY_SQUAD
+LANG_ENGLISH        "VPB 54 - ЧЕРНАЯ КОШКА"
+
+REFERENCE           PBY_FLY_SURVIVOR
+LANG_ENGLISH        "Выжившие:"
+
+REFERENCE           PBY_FLY_PTBOAT
+LANG_ENGLISH        "Патрульные катера:"
+
+REFERENCE           PBY_FLY_ZEROES
+LANG_ENGLISH        "Зеро:"
+
+REFERENCE           PBY_FLY_X
+LANG_ENGLISH        "x"
+
+REFERENCE           PBY_FLY_OBJ_EV3B_ZEROES
+LANG_ENGLISH        "Отбить атаку истребителей [уничтожено &&1]"
+
+REFERENCE           PBY_FLY_CANNON
+LANG_ENGLISH        "Нажмите [{+frag}] , чтобы выстрелить из 20-мм орудия"
+
+REFERENCE           VEHICLENAME_BUFFALO
+LANG_ENGLISH        "Амфибия"
+
+REFERENCE           VEHICLENAME_T34_TANK
+LANG_ENGLISH        "Танк T34"
+
+ENDMARKER

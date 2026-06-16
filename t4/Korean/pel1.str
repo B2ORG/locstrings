@@ -1,0 +1,61 @@
+// Dumped from fastfile "pel1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1_OBJECTIVE2A
+LANG_ENGLISH        "일본군의 방어선을 뚫으십시오."
+
+REFERENCE           PEL1_INTROSCREEN_PLACE
+LANG_ENGLISH        "펠레리우섬, 화이트 해변"
+
+REFERENCE           PEL1_OBJECTIVE1
+LANG_ENGLISH        "해변을 공격하십시오."
+
+REFERENCE           PEL1_INTROSCREEN_DATE
+LANG_ENGLISH        "1944년 9월 15일"
+
+REFERENCE           PEL1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'약간의 저항'"
+
+REFERENCE           PEL1_INTROSCREEN_INFO
+LANG_ENGLISH        "제 1해병사단"
+
+REFERENCE           PEL1_OBJECTIVE2B
+LANG_ENGLISH        "일본군 벙커 내부로 진입하십시오."
+
+REFERENCE           PEL1_OBJECTIVE1A
+LANG_ENGLISH        "수목선에 로켓 포격을 요청하십시오."
+
+REFERENCE           PEL1_OBJECTIVE2C
+LANG_ENGLISH        "일본군 벙커에 있는 적을 소탕하십시오."
+
+REFERENCE           PEL1_OBJECTIVE2D
+LANG_ENGLISH        "분대와 합류하십시오."
+
+REFERENCE           PEL1_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 밀러"
+
+REFERENCE           PEL1_ROCKETS_AVAIL
+LANG_ENGLISH        "로켓 포격을 사용할 수 있습니다."
+
+REFERENCE           PEL1_ROCKETS_ALWAYS_AVAIL
+LANG_ENGLISH        "적 진지에 로켓 포격을 요청할 수 있습니다."
+
+REFERENCE           PEL1_ROCKET_HOWTO
+LANG_ENGLISH        "로켓 포격을 요청하려면 [{+actionslot 4}]을(를) 누르신 후에\n[{+attack}]을(를) 누르십시오."
+
+REFERENCE           PEL1_OBJECTIVE2E
+LANG_ENGLISH        "박격포 진지 내부와 주변의 일본군을 제거하십시오."
+
+REFERENCE           PEL1_OBJECTIVE2F
+LANG_ENGLISH        "일본군 전차에 로켓 포격을 요청하십시오.[2대 중 2대]"
+
+REFERENCE           PEL1_OBJECTIVE2G
+LANG_ENGLISH        "일본군 전차에 로켓 포격을 요청하십시오.[2대 중 1대]"
+
+REFERENCE           PEL1_OBJECTIVE2H
+LANG_ENGLISH        "일본군 전차에 로켓 포격을 요청하십시오."
+
+ENDMARKER

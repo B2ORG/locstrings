@@ -1,0 +1,889 @@
+// Dumped from fastfile "ru_panama_2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_057A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Не высовываться!"
+
+REFERENCE           PANAMA_PLAYER_JUMP_PROMPT
+LANG_RUSSIAN        "Нажмите ^3[{+gostand}]^7, чтобы прыгнуть."
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LСТРАДАЙ КАК Я^L"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_020A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Нет... Но похоже, я у нас один такой."
+
+REFERENCE           PANAMA_HINT_NIGHTINGALE
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7 чтобы бросить гранату Соловей и отвлечь противника"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ВОЕННАЯ БАЗА ФОРТ КЛЕЙТОН, ^LПАНАМА^L"
+
+REFERENCE           PANAMA_OBJ_MEET_MCKNIGHT
+LANG_RUSSIAN        "Встретиться с Макнайтом"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "СЖТ. ФРЭНК ^LВУДС^L"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "^LЦРУ^L ПОДРАЗДЛЕНИЕ СПЕЦОПЕРАЦИЙ"
+
+REFERENCE           PANAMA_OBJ_MEET
+LANG_RUSSIAN        "Встретиться с Мэйсоном и Макнайтом"
+
+REFERENCE           PANAMA_FRIENDLY_FIRE_FAILURE
+LANG_RUSSIAN        "Не стреляйте в своих!"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "19 ДЕКАБРЯ ^L1989^L"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_031A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Смотри за грузовиком!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_049A_MCKN_M
+LANG_RUSSIAN        "^1Макнайт: ^7А что за хрень с цифрами... Русские правда тебе мозги промыли?"
+
+REFERENCE           PANAMA_BREACH_FAIL
+LANG_RUSSIAN        "Норьега должен остаться в живых."
+
+REFERENCE           PANAMA_STREET_WARNING
+LANG_RUSSIAN        "Вы двигаетесь в неверном направлении!"
+
+REFERENCE           PANAMA_CONTEXTUAL_KILL
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7 , чтобы бросить нож"
+
+REFERENCE           PANAMA_OBJ_DOCKS_SNIPER
+LANG_RUSSIAN        "Обеспечить наблюдение"
+
+REFERENCE           PANAMA_STREET_FAIL
+LANG_RUSSIAN        "Вы должны встретиться с Мэйсоном и остаться с ним."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7225 наверху.  Второе крыло, восточная сторона."
+
+REFERENCE           PANAMA_OBJ_SHED
+LANG_RUSSIAN        "Взять сумку из сарая"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_016A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Мне это тоже не нравится, но пора с этим покончить.  Слишком много времени теряем."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_022A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7И почему мы не можем просто убить его нахрен?  После всего, что он устроил в Никарагуа?"
+
+REFERENCE           PANAMA_OBJ_FRONTYARD
+LANG_RUSSIAN        "Добраться до машины Вудса"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_042A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Выдвигайся!"
+
+REFERENCE           PANAMA_DOCKS_WARNING
+LANG_RUSSIAN        "Вы должны сопровождать Норьегу!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_019A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Жена твоя явно недовольна. Ты ведь не говорил ей о вторжении, правда?"
+
+REFERENCE           PANAMA_HINT_THROW_IRSTROBE
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7 чтобы бросить ИК-маяк"
+
+REFERENCE           PANAMA_DOCKS_FAIL
+LANG_RUSSIAN        "Вы бросили Норьегу."
+
+REFERENCE           PANAMA_HANGAR_WARNING
+LANG_RUSSIAN        "Вы двигаетесь в неправильном направлении. Оставайтесь с Мэйсоном."
+
+REFERENCE           PANAMA_LIFT_RUBBLE
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 для взаимодействия."
+
+REFERENCE           PANAMA_HANGAR_FAIL
+LANG_RUSSIAN        "Вы не остались с Мэйсоном"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_005A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон.  Ценный груз все еще у тебя?"
+
+REFERENCE           PANAMA_NORIEGA_DEAD_FAIL
+LANG_RUSSIAN        "Задание провалено"
+
+REFERENCE           PANAMA_SNIPER_FAIL
+LANG_RUSSIAN        "Ваши действия привели к провалу задания."
+
+REFERENCE           PANAMA_PLAYER_JUMP_FAIL
+LANG_RUSSIAN        "Спрыгните, чтобы покинуть здание."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_029A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Самолет Норьеги готов взлетать!"
+
+REFERENCE           PANAMA_APACHE_ESCAPE_FAIL
+LANG_RUSSIAN        "Вы должны ускориться, чтобы оставаться впереди \"Апача\"."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_039A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Добро пожаловать в Панаму, ребят..."
+
+REFERENCE           PANAMA_OBJ_CAPTURE_NORIEGA
+LANG_RUSSIAN        "Захватить Норьегу"
+
+REFERENCE           PANAMA_ROOFTOP_FAIL
+LANG_RUSSIAN        "\"Морские котики\" уничтожены."
+
+REFERENCE           PANAMA_CLOSE_HANGAR_DOORS
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы закрыть двери ангара"
+
+REFERENCE           PANAMA_OBJ_ASSIST_SEALS
+LANG_RUSSIAN        "Помочь отряду SEAL"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_009A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давай, Фрэнк."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_032A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Ни с места!"
+
+REFERENCE           PANAMA_OPEN_GRATE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           PANAMA_BREAK_LOCK
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы взломать"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_061A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Приструни этого сукина сына!"
+
+REFERENCE           PANAMA_MOTEL_BREACH
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы штурмовать"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_008A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хотя бы ради спасения брака Макнайта."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_058A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Без моего разрешения не рыпаться. Ясно?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_009A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Нас пока не видят, вали их."
+
+REFERENCE           PANAMA_PICK_LOCK
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы вскрыть замок"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_013A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Знаешь, как говорится... Коль собираешься облажаться, хотя бы вовремя смойся."
+
+REFERENCE           PANAMA_OBJ_CAPTURE_MENENDEZ
+LANG_RUSSIAN        "Сопроводить ценный груз"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_015A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Да.  Спортивная сумка в сарае."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_001A_MASO_M
+LANG_RUSSIAN        "^1Мэйсон: ^7Эти твари с гражданскими обращаются не лучше, чем в Никарагуа."
+
+REFERENCE           PANAMA_OBJ_REACH_CHECKPOINT
+LANG_RUSSIAN        "Сопроводить Норьегу до КПП"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_002A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Отряды ПСО размещены по всему аэродрому. Гольф идет прямо в ловушку."
+
+REFERENCE           PANAMA_OBJ_DOCKS_KILL_MENENDEZ
+LANG_RUSSIAN        "Убить Менендеса"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_005A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Обходим сзади!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_003A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Я пытался их предупредить, но со связью проблемы."
+
+REFERENCE           PANAMA_HINT_NIGHTINGALE_SELECT
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы выбрать гранату Соловей"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_028A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Вот же ебанько!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_008A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7На балконе! Справа!"
+
+REFERENCE           PANAMA_OBJ_FIND_FALSE_PROFIT
+LANG_RUSSIAN        "Найти Лжепророка"
+
+REFERENCE           PANAMA_SELECT_IRSTROBE
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7 чтобы выбрать ИК-гранату"
+
+REFERENCE           PANAMA_AC130_FAILQUOTE
+LANG_RUSSIAN        "Вы были убиты огнем со штурмовика\n"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_032A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Вторжение отвлечет внимание, а мы будем действовать с ВМФ."
+
+REFERENCE           PANAMA_STROBE_GRENADE_TUTORIAL
+LANG_RUSSIAN        "Используйте маяк, чтобы отметить цель для штурмовика"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_003A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Пора с этим покончить."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вудс."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_017A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Долбаный Кравченко! Помнишь, что он сказал в Афганистане?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_012A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Сосредоточься на помощи спецназу."
+
+REFERENCE           PANAMA_ABANDON_MISSION
+LANG_RUSSIAN        "Вы бросили выполнение задания."
+
+REFERENCE           PANAMA_PERK_FLAK_JACKET
+LANG_RUSSIAN        "Саперный жилет защищает от взрывов"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_040A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Слева слишком уж жарко. Давай правее, Вудс!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_005A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7Pick it up, Woods!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Мэйсон."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_017A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Ладно, Фрэнк.  Чего мы ждем?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Готов, Вудс?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_011A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вали их, Вудс."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_003A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Рад тебя видеть, Фрэнк."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Взаимно, Алекс."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_029A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Эй, Вудс. Чего ты ждешь?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_006A_MCKN_M
+LANG_RUSSIAN        "^1Макнайт: ^7Блин, она в бешенстве..."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_016A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ясно."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Только дай причину отстрелить тебе башку."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_006A_MCKN_S
+LANG_RUSSIAN        "^1McKnight: ^7She's so upset."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_005A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Группы спецназа захватят аэродром и штаб Панамских сил обороны, чтобы помешать Лжепророку сбежать."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_013A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Привет, ребят."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Световая!!!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Надо бы поторопиться."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_014A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Привет, Макнайт.  Барахло у тебя?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_021A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Она узнала об этом от жены Джейкоба... И Стива... И Билла. Представляешь, что она обо мне подумала?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_022A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Why aren't we killing this guy, huh?  After the stuff he pulled in Nicaragua?"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_051A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Не мешайся у них под ногами!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_023A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Командование достали его интриги, но он нужен им живым."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_024A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Не нравится мне это."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_024A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7This don't sound right."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_025A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Ладно... Мануэль Норьега, отныне известный как объект Лжепророк."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_026A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Это стандартная операция очернения. Уничтожить его репутацию и снизить вероятность восстаний в его честь."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_027A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Значит все готово."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_028A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Ага... Идем, я вас провожу."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_014A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Смотри в оба, Вудс!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_033A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Спасибо за пиво, Макнайт."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_030A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Ну давай уже. Часики тикают."
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_031A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Я позволил себе вольность и просмотрел твои старые дела."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_013A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Конец связи."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_049A_MCKN_S
+LANG_RUSSIAN        "^1McKnight: ^7All that with the numbers... You really get brainwashed by the Soviets?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_050A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Они очень старались."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_034A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Весьма увлекательное чтиво."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_011A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Противник приближается с севера!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_043A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7ПСО! Прямо под нами!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_035A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Да?  Не верь всему, что пишут."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_036A_MCKN_M
+LANG_RUSSIAN        "^1Макнайт: ^7Твою ж мать!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_034A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Multiple enemy!  Ground level!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_037A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Просто дети, Макнайт.  Они того не стоят."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_038A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Наверное, ты прав."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_002A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хадсон.  Это Мэйсон. Бомбежка началась раньше времени!  Ничего не хочешь нам сказать?"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_003A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Хадсон.  Как слышишь? Нет ответа. Будем продолжать по плану."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Макнайт.  Это Мэйсон.  Мы вошли."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_006A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Я буду вести наблюдение со здания 12 за пределами боевой зоны."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_007A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Давай!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Разве Хадсон не отказался от этого плана?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_008A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Ну, мне он об этом не говорил."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_009A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Удачи, Мэйсон.  Конец связи."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Что там по Лжепророку?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_012A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Тс-с... Погоди!"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_022A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Ты куда собрался, Вудс?"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_025A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Надо пройти через парк в центре города."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_023A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7А ну вернись, Вудс."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_038A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Куда, куда?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_015A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Световая!!!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_013A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7You know what they say... Get it outta the way early."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_010A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Мэйсон, Браво переходит на позиции на южном конце взлетной полосы.  Гольф выдвигается."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_001A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Мэйсон. Это Макнайт. Я на позиции на здании 12."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Мы уже идем.  Конец связи."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_061A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7РПГ!  Второй этаж!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ждем сигнала Хадсона.  ЦРУ следит за каждым его шагом.  Вряд ли он далеко уйдет."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Нужно занять высоту..."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_005A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Проклятье...  Ну же, Вудс!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Группа Гольф, это Мэйсон.  Готов помочь.  Прекратите огонь как только мы уберемся с крыши."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_007A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Блин.  Все еще проблемы со связью."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_007A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7Still problems with comms."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_059A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Тебе что, жить надоело?!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_008A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давай, Вудс.  Все равно идем."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_010A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Берегись! Слева!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_011A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Я тебя прикрою!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_006A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Где тебя черти носят? Хадсон?!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_013A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ну же, Вудс.  Надо помочь нашим на взлетной полосе."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_014A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Через люк, давай!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_016A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Группа Гольф, говорит Мэйсон.  На крыше все чисто. Не стреляйте, мы выходим из люка."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_026A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Враг на крыше фургона!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давай, Вудс.  Поднажали."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_028A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Guy's a lunatic!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Оставаться в укрытии!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_043A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7ПСО! Прямо под нами!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_017A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Вудс, в диспетчерскую!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_005A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7За мной."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_018A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Закрой дверь. Пусть бойцы передохнут."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_027A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Гольф, заканчивайте в ангаре.  Мы идем к самолету."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_033A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Ладно. Идем... В парк."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_022A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Враг на другой стороне ангара."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_029A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Noriega's plane is ready to go!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Граната!!!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_030A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Задержать взлет!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_037A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вудс!  Огонь из РПГ."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_005A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Здание рушится!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_032A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вудс! Займись!"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_034A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Твою ж мать!  Группа врагов - дом напротив."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_005A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон. Это Хадсон."
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_006A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7Where have you been?  Hudson?  ...Hudson?  ...Hudson?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_008A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Продолжай, Мэйсон."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_007A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7У нас есть точные данные о местоположении объекта Лжепророк."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_008A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Отель Аделина. Номер 225. Захватить его.  Конец связи."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_001A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Вижу объект.  Группа неприятелей рядом с отелем."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_002A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Предоставь их мне."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_003A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Все чисто."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Поехали."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_004A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Дай ему, чего он просит, Мэйсон.  Это приказ.  Конец связи."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_004A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Ждем тебя, Вудс."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Схватить его."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_061A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Keep that guy in line!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_003A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Ты что делаешь?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Слежу за твоей репутацией."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_007A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Ну давайте, долбанавты упоротые!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_005A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Не такой был уговор. Позвони своему командиру."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_006A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Опусти свою задницу в кресло."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_006A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Put your... in the chair."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_005A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Зараза."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хадсон.  Это Мэйсон."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_009A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Лжепророк захвачен.  Направляемся к пункту эвакуации."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_010A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Запрещаю.  Жди нового приказа."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_011A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Объект Лжепророк обладает данными об основной цели Нексус."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_012A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Проводи его, как ценный груз, в указанный пункт для обмена пленниками. Подробности позже."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_014A_MASO_M
+LANG_RUSSIAN        "^1Мэйсон: ^7В задницу такой ценный груз."
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Они повсюду на крышах!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_014A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7Precious cargo..."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_015A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Цель Нексус?  Кто может быть важнее этого козла?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_015A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Nexus target?  Who's more important than this guy?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_017A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Kravchenko! Remember what he said in Afghanistan?"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_004A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Валите отсюда... Возвращайтесь по домам, там и сидите."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_021A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7У него даже в ЦРУ свои люди есть."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_018A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7В лагере Норьеги был приказ ЦРУ."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_020A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7В лагере Менендеса был приказ ЦРУ."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_019A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Что-то неладное тут творится, Вудс."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_4_04_004A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Милая, прошу, успокойся."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_4_04_007A_MCKN_D
+LANG_RUSSIAN        "^1Макнайт: ^7Семью? Я думал, причина в завтрашнем дне."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_001A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7They don't treat civis any better than in Nicaragua."
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_002A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Они обдолбаны по самые уши."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_063A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Клянусь, если этот гад еще раз высунется, я его лично пристрелю."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_003A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вали их.  Я займусь мусором."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_08_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Так точно."
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Отправляйся к армейскому контрольному пункту за трущобами."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Тебе сообщат, где произойдет обмен пленниками."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_003A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Трущобы - зона боевых действий.  Я вправе защищаться. Дайте мне оружие."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_006A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Ты что делаешь?"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ты просил оружие. О патронах ты ничего не говорил."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_008A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Для всех нас лучше, чтобы тебя никто не узнал."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_009A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7А теперь... Пошел!"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_2_09_010A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вудс, займи позицию.  Я прослежу за Норьегой."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_001A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Войска США прорываются в город... Вторжение идет полным ходом."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_002A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Мы движемся на север. Тебе будут встречаться наши солдаты и гражданские."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_085A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Выбирай маршрут сам, если разделимся, не волнуйся."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_003A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Я разберусь с Норьегой... Выдвигайся по сигналу."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Двигай!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_006A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Тут повсюду пехота. Оставаться в укрытии!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_009A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Балкон! Вперди!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_010A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Готовы... Вперед!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_013A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Они заняли высоту. На крышах и в окнах!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_016A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Здание справа! На крыше!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_017A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7У них коктейли Молотова!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_018A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7У них на балконе крупнокалиберный пулемет!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_024A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Теперь куда, придурок?"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_024A_MASO_S
+LANG_RUSSIAN        "^1Мейсон: ^7Теперь куда?"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_027A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Вижу!"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_029A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Парк находится справа!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_030A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Впереди наши.  Не стрелять!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_032A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Даже не шевелись, кусок говна!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_034A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Крупная перестрелка слева! Держись правее купола!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_035A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Черт!  С этой стороны не лучше!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_035A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7This side's no better!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_036A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Поднажмите!  Не задерживайся!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_037A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пригнись и продолжай движение!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_039A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7К северу есть церковь.  Контрольный пункт должен быть прямо за ней!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_041A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Справа!  В арках!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_048A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7А вот и церковь!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_049A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Проходим через двор! Вперед!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_050A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Наши парни идут с запада!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_051A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Stay outta their way!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_052A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ну, идем..."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_053A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Что теперь?"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_054A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Там!  Через здание больницы!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_055A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Давай, Мэйсон.  Как же меня достал этот мудозвон."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_055A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Come on, Mason.  I've had just about enough of this guy."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_057A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Не высовывайся, блин!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_060A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Не высовывайся, блин!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_060A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Не высовываться!"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_062A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Держи его на коротком поводке, Мэйсон!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_063A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7I swear, if that guy breaks cover one more time, I'll shoot him myself."
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_068A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Твою мать, Мэйсон... Надо лучше следить за этим гадом!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_068A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Mason, gotta keep a close eye on that guy!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_069A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Шевелись!"
+
+REFERENCE           PANAMA_2_VOX_VOX_PAN_3_10_089A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Назад, Вудс!  Здесь скоро все разнесут."
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+ENDMARKER

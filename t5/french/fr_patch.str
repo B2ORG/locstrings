@@ -1,0 +1,1486 @@
+// Dumped from fastfile "fr_patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_ENGLISH        "COMPTE À REBOURS D'AVANT MATCH"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_ENGLISH        "Modifiez le temps avant le début d'une partie."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_ENGLISH        "RADAR TOUJOURS ACTIF"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_ENGLISH        "Les ennemis apparaissent toujours sur le radar."
+
+REFERENCE           EXE_COD_BOOSTER_RESET
+LANG_ENGLISH        "Vos statistiques ont été réinitialisées pour non-respect de la politique de sécurité en ligne de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Cette console n'est plus autorisée à utiliser cet élément. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 n'est plus autorisé à utiliser cet élément. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Cette console n'est plus autorisée à utiliser cet élément pour le moment. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 n'est plus autorisé à utiliser cet élément pour le moment. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH        "Vous n'êtes plus autorisé à apparaître dans ce classement."
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été définitivement exclue des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été définitivement exclu des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été temporairement exclue des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été temporairement exclu des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été définitivement exclue des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été définitivement exclu des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help"
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été temporairement exclue des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été temporairement exclu des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_TEMP_BAN_DAYS
+LANG_ENGLISH        "&&1 jours restants avant que l'accès ne soit autorisé."
+
+REFERENCE           EXE_COD_TEMP_BAN_HOURS
+LANG_ENGLISH        "&&1 heures restantes avant que l'accès ne soit autorisé."
+
+REFERENCE           EXE_DOWNLOADSFULL
+LANG_ENGLISH        "Impossible de télécharger automatiquement le fichier de jeu : \n^3&&1^7\nLe serveur gère trop de sessions de téléchargement pour le moment. Réessayez plus tard."
+
+REFERENCE           EXE_INVALID_GAMERTAG
+LANG_ENGLISH        "Gamertag non valide"
+
+REFERENCE           EXE_SV_INFO_NAME
+LANG_ENGLISH        "nom"
+
+REFERENCE           EXE_SV_INFO_PING
+LANG_ENGLISH        "ping"
+
+REFERENCE           EXE_SV_INFO_SCORE
+LANG_ENGLISH        "score"
+
+REFERENCE           MENU_CONNECTING_TO_DW
+LANG_ENGLISH        "Connexion..."
+
+REFERENCE           MENU_DEMO_DOLLY_CAMERA_MODE
+LANG_ENGLISH        "Caméra travelling"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_CAM_NUMBER_CAPS
+LANG_ENGLISH        "CAMÉRA &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_EDIT
+LANG_ENGLISH        "Modifier marqueur caméra travelling n°&&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_NUMBER
+LANG_ENGLISH        "Marqueur caméra n°&&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE
+LANG_ENGLISH        "Retirer marqueur"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL
+LANG_ENGLISH        "Retirer tous les marqueurs"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL_CONFIRMATION
+LANG_ENGLISH        "Voulez-vous vraiment retirer tous les marqueurs de la caméra ?"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REPOSITION
+LANG_ENGLISH        "Replacer caméra"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_SPEED
+LANG_ENGLISH        "Paramètres vitesse"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MAX_POINTS
+LANG_ENGLISH        "Vous avez atteint le nombre maximum de marqueurs autorisé."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_NO_MARKERS
+LANG_ENGLISH        "Vous êtes passé en caméra travelling, mais vous n'avez pas placé de marqueurs. Vous pouvez placer des marqueurs avec l'option Modifier mode de caméra."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_PREVIEW_CAM_NUMBER_CAPS
+LANG_ENGLISH        "APERÇU CAMÉRA &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SAME_TIME
+LANG_ENGLISH        "Vous ne pouvez pas placer deux marqueurs (ou plus) au même point de la chronologie."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_FIXED
+LANG_ENGLISH        "Fixe"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_LINEAR
+LANG_ENGLISH        "Linéaire"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MANUAL
+LANG_ENGLISH        "Manuel"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MODE
+LANG_ENGLISH        "Mode de vitesse"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_VALUE
+LANG_ENGLISH        "Vitesse - &&1x"
+
+REFERENCE           MENU_DEMO_EDIT_CAMERA_MODE
+LANG_ENGLISH        "Modifier mode de caméra"
+
+REFERENCE           MENU_DEMO_FREE_ROAM_MODE
+LANG_ENGLISH        "Mode déplacement libre"
+
+REFERENCE           MENU_DEMO_NEXTFREECAMMODE
+LANG_ENGLISH        "^3SOURIS GAUCHE^7 Mode de caméra libre suiv."
+
+REFERENCE           MENU_DEMO_PREVFREECAMMODE
+LANG_ENGLISH        "^3SOURIS DROITE^7 Mode de caméra libre préc."
+
+REFERENCE           MENU_DLC1_MAPS
+LANG_ENGLISH        "Pack Rezurrection"
+
+REFERENCE           MENU_DLC2_MAPS
+LANG_ENGLISH        "Pack Initiative"
+
+REFERENCE           MENU_DLC3_MAPS
+LANG_ENGLISH        "Pack Escalation"
+
+REFERENCE           MENU_DLC4_MAPS
+LANG_ENGLISH        "Pack Annihilation"
+
+REFERENCE           MENU_DLC5_MAPS
+LANG_ENGLISH        "Pack Rezurrection"
+
+REFERENCE           MENU_DOWNLOADING_GAME_SETTINGS_CAPS
+LANG_ENGLISH        "Téléchargement des paramètres de jeu"
+
+REFERENCE           MENU_FREE_OFFER
+LANG_ENGLISH        "OFFRE GRATUITE"
+
+REFERENCE           MENU_GUN_DESC
+LANG_ENGLISH        "Tuez des joueurs avec votre arme pour passer à l'arme suivante. Le premier à faire une victime avec toutes les armes l'emporte."
+
+REFERENCE           MENU_HC_KILL_EVERYONE_FIRST_PLAYER
+LANG_ENGLISH        "Chacun pour soi. ATH limité, dégâts des balles accrus, pas de régénération de santé, ni insertion tactique."
+
+REFERENCE           MENU_HC_KILL_PLAYERS_ON_THE_OPPOSING
+LANG_ENGLISH        "Match à mort par équipe avec ATH limité, dégâts des balles accrus et tir ami activé."
+
+REFERENCE           MENU_HLND_DESC
+LANG_ENGLISH        "Une arbalète, un couteau balistique et un tomahawk. Tuez pour marquer des points. Tuez au tomahawk pour remettre à zéro le compteur d'un ennemi. Bonne chance."
+
+REFERENCE           MENU_INGAMESTORE
+LANG_ENGLISH        "BOUTIQUE"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_MOON
+LANG_ENGLISH        "Notre nation doit s'engager à faire atterrir l'Homme sur la Lune et à le ramener sur Terre sain et sauf avant la fin de la décennie. (JFK, 1961)"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_TEMPLE
+LANG_ENGLISH        "Un temple légendaire perdu dans une jungle exotique. Aventurez-vous dans des cavernes tortueuses bourrées de morts-vivants, de pièges mortels et de sombres secrets."
+
+REFERENCE           MENU_LEVEL_ZOMBIE_MOON
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_LEVEL_ZOMBIE_TEMPLE
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           MENU_MATCHMAKING_IMPACTED_DUE_TO_PARTY
+LANG_ENGLISH        "Le NAT d'au moins un membre de votre groupe est strict ou modéré. Cela peut avoir une influence sur la recherche de partie."
+
+REFERENCE           MENU_MOD_CONFIRM
+LANG_ENGLISH        "Vous allez utiliser :"
+
+REFERENCE           MENU_MODS_LOADED_CAPS
+LANG_ENGLISH        "Mod activé de :"
+
+REFERENCE           MENU_NO_FRIENDS
+LANG_ENGLISH        "Vous n'avez pas d'ami."
+
+REFERENCE           MENU_NO_RECENT_PLAYERS
+LANG_ENGLISH        "Vous n'avez rencontré aucun joueur récemment."
+
+REFERENCE           MENU_OFFER_CODE
+LANG_ENGLISH        "Code :"
+
+REFERENCE           MENU_OIC_DESC
+LANG_ENGLISH        "Une balle dans le chargeur, un couteau, 3 vies et des morts instantanées. Les joueurs reçoivent une balle pour chaque victime."
+
+REFERENCE           MENU_PACKAGE_BOUGHT_AND_DOWNLOADED_DESCRIPTION
+LANG_ENGLISH        "Pack acheté et téléchargé."
+
+REFERENCE           MENU_PACKAGE_DOWNLOAD_DESCRIPTION
+LANG_ENGLISH        "Article acheté. Sélectionnez pour télécharger."
+
+REFERENCE           MENU_PACKAGE_SELECTION_DESCRIPTION
+LANG_ENGLISH        "Sélectionnez pour acheter et télécharger."
+
+REFERENCE           MENU_PURCHASE_CONFIRMAITON
+LANG_ENGLISH        "CONFIRMATION D'ACHAT"
+
+REFERENCE           MENU_SHRP_DESC
+LANG_ENGLISH        "Les armes changent toutes les 45 secondes. Tuez pour marquer des points. Les séries de victimes rapportent des atouts."
+
+REFERENCE           MENU_STORE_FETCHING
+LANG_ENGLISH        "Chargement..."
+
+REFERENCE           MENU_STORE_FREE_PRODUCT
+LANG_ENGLISH        "GRATUIT"
+
+REFERENCE           MENU_STORE_PS3_CAPS
+LANG_ENGLISH        "PlayStation®Store"
+
+REFERENCE           MENU_SYSINFO_Q
+LANG_ENGLISH        "Q : &&1"
+
+REFERENCE           MENU_TAB_STORE_AVATARS
+LANG_ENGLISH        "AVATARS"
+
+REFERENCE           MENU_TAB_STORE_MAP_PACKS
+LANG_ENGLISH        "PACKS DE CARTES"
+
+REFERENCE           MENU_TAB_STORE_THEMES
+LANG_ENGLISH        "THÈMES"
+
+REFERENCE           MENU_TESTINGBANDWIDTH
+LANG_ENGLISH        "Test des parties : &&1.&&2% - Partie(s) trouvée(s) : &&3/&&4"
+
+REFERENCE           MENU_UNLOAD_MODS_CAPS
+LANG_ENGLISH        "BLACK OPS SANS MODS"
+
+REFERENCE           MENU_UNLOAD_MODS_DESC
+LANG_ENGLISH        "Désactiver les mods activés"
+
+REFERENCE           MENU_USE_GUEST
+LANG_ENGLISH        "Jouer en tant qu'invité"
+
+REFERENCE           MENU_VISIT
+LANG_ENGLISH        " Rendez-vous sur le "
+
+REFERENCE           MENU_VISIT_COMPLETE_DESC
+LANG_ENGLISH        "Rendez-vous sur le site callofduty.com/blackops/dlc/zombies pour télécharger la bande-son Call of Duty: Zombies et 3 titres bonus !"
+
+REFERENCE           MENU_VISIT_DESC
+LANG_ENGLISH        "pour télécharger la bande-son de Call of Duty: Zombies ainsi que 3 morceaux bonus ! "
+
+REFERENCE           MENU_WAW_ZOMBIE_MAPS
+LANG_ENGLISH        "Pack Zombie classique"
+
+REFERENCE           MENU_ZOMBIE_COAST_CAPS
+LANG_ENGLISH        "CALL OF THE DEAD"
+
+REFERENCE           MENU_ZOMBIE_COAST_DESC
+LANG_ENGLISH        "En pleine Sibérie, des aventuriers intrépides se retrouvent perdus dans un avant-poste abandonné. Alors qu'ils rêvent de découvrir l'origine du mystérieux Élément 115, l'expédition risque de tourner au cauchemar..."
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_CAPS
+LANG_ENGLISH        "ASCENSION"
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_DESC
+LANG_ENGLISH        "Les morts-vivants ont semé la panique en prenant le contrôle d'un cosmodrome soviétique. Le compte à rebours de l'apocalypse zombie a commencé."
+
+REFERENCE           MENU_ZOMBIE_MOON
+LANG_ENGLISH        "Moon"
+
+REFERENCE           MENU_ZOMBIE_MOON_CAPS
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_ZOMBIE_MOON_DESC
+LANG_ENGLISH        "Notre nation doit s'engager à faire atterrir l'Homme sur la Lune et à le ramener sur Terre sain et sauf avant la fin de la décennie. (JFK, 1961)"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE
+LANG_ENGLISH        "Shangri-La"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_CAPS
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_DESC
+LANG_ENGLISH        "Un temple légendaire perdu dans une jungle exotique. Aventurez-vous dans des cavernes tortueuses bourrées de morts-vivants, de pièges mortels et de sombres secrets."
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SOLO_SURVIVAL_TIME
+LANG_ENGLISH        "Temps de survie"
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SURVIVAL_TIME
+LANG_ENGLISH        "No Man's Land"
+
+REFERENCE           MENU_ZOMBIES_SOUNDTRACK
+LANG_ENGLISH        "BANDE-SON ZOMBIES "
+
+REFERENCE           MPUI_AIRBASE
+LANG_ENGLISH        "Airbase"
+
+REFERENCE           MPUI_AIRBASE_CAPS
+LANG_ENGLISH        "AIRBASE"
+
+REFERENCE           MPUI_AREA51
+LANG_ENGLISH        "Hangar 18"
+
+REFERENCE           MPUI_AREA51_CAPS
+LANG_ENGLISH        "HANGAR 18"
+
+REFERENCE           MPUI_BASIC_TRAINING_HC_TDM
+LANG_ENGLISH        "MME HARDCORE"
+
+REFERENCE           MPUI_BERLINWALL2
+LANG_ENGLISH        "Berlin Wall"
+
+REFERENCE           MPUI_BERLINWALL2_CAPS
+LANG_ENGLISH        "BERLIN WALL"
+
+REFERENCE           MPUI_CARGO
+LANG_ENGLISH        "Cargo"
+
+REFERENCE           MPUI_CARGO_CAPS
+LANG_ENGLISH        "CARGO"
+
+REFERENCE           MPUI_COD_ELITE_CAPS
+LANG_ENGLISH        "CALL OF DUTY: ELITE"
+
+REFERENCE           MPUI_COMPETE_CAPS
+LANG_ENGLISH        "BATTEZ-VOUS"
+
+REFERENCE           MPUI_COMPETE_DESC
+LANG_ENGLISH        "Obtenez gloire et récompenses en participant à des ligues officielles et événements pour joueurs de tous niveaux."
+
+REFERENCE           MPUI_CONNECT_CAPS
+LANG_ENGLISH        "CONNECTEZ-VOUS"
+
+REFERENCE           MPUI_CONNECT_DESC
+LANG_ENGLISH        "Formez groupes et clans avec vos amis ou rencontrez de nouveaux joueurs de Call of Duty."
+
+REFERENCE           MPUI_CUBATOWN
+LANG_ENGLISH        "Cubatown"
+
+REFERENCE           MPUI_CUBATOWN_CAPS
+LANG_ENGLISH        "CUBATOWN"
+
+REFERENCE           MPUI_DESC_MAP_AREA51
+LANG_ENGLISH        "Les forces soviétiques ont infiltré un complexe américain top secret."
+
+REFERENCE           MPUI_DESC_MAP_BERLINWALL2
+LANG_ENGLISH        "Luttez pour le contrôle du mur de Berlin, mais méfiez-vous du No Man's Land."
+
+REFERENCE           MPUI_DESC_MAP_DISCOVERY
+LANG_ENGLISH        "Découvrez les mystères de cette station de recherches allemande abandonnée en Antarctique."
+
+REFERENCE           MPUI_DESC_MAP_DRIVEIN
+LANG_ENGLISH        "Combats rapprochés et points d'observation avantageux dans un cinéma en plein air abandonné."
+
+REFERENCE           MPUI_DESC_MAP_FIREBASE
+LANG_ENGLISH        "Grabuge dans une base de tir."
+
+REFERENCE           MPUI_DESC_MAP_GOLFCOURSE
+LANG_ENGLISH        "Faites attention aux tireurs d'élite en combattant sur ce terrain de golf côtier."
+
+REFERENCE           MPUI_DESC_MAP_GRIDLOCK
+LANG_ENGLISH        "Des combats intenses suite à une embuscade soviétique sur le sol américain."
+
+REFERENCE           MPUI_DESC_MAP_HOTEL
+LANG_ENGLISH        "Battez-vous pour le contrôle des toits d'un hôtel cubain huppé."
+
+REFERENCE           MPUI_DESC_MAP_KOWLOON
+LANG_ENGLISH        "Les toits de Kowloon City sont le lieu idéal pour les snipers et les adeptes de l'action furtive."
+
+REFERENCE           MPUI_DESC_MAP_OUTSKIRTS
+LANG_ENGLISH        "Combattez dans les ruelles et les maisons d'une ville de campagne soviétique."
+
+REFERENCE           MPUI_DESC_MAP_SALVAGE
+LANG_ENGLISH        "Deux équipes s'affrontent pour la victoire dans une casse."
+
+REFERENCE           MPUI_DESC_MAP_SILO
+LANG_ENGLISH        "Un conflit déclaré dans un complexe de lancement de missiles. Du combat rapproché et plusieurs options de contournement."
+
+REFERENCE           MPUI_DESC_MAP_SNOWMINE
+LANG_ENGLISH        "Une mine abandonnée, en plein hiver. Une carte idéale pour les modes de jeu à objectifs."
+
+REFERENCE           MPUI_DESC_MAP_STADIUM
+LANG_ENGLISH        "Des combats effrénés dans l'enceinte et à l'extérieur de la patinoire de hockey du Chance Stadium."
+
+REFERENCE           MPUI_DESC_MAP_WARMUSEUM
+LANG_ENGLISH        "Prenez le contrôle du musée. Combats intenses en intérieur."
+
+REFERENCE           MPUI_DESC_MAP_ZOO
+LANG_ENGLISH        "Préparez-vous pour des affrontements à distance dans ce zoo soviétique abandonné."
+
+REFERENCE           MPUI_DISCOVERY
+LANG_ENGLISH        "Discovery"
+
+REFERENCE           MPUI_DISCOVERY_CAPS
+LANG_ENGLISH        "DISCOVERY"
+
+REFERENCE           MPUI_DLC_CONTENT
+LANG_ENGLISH        "DLC"
+
+REFERENCE           MPUI_DLC_MAPS_CAPS
+LANG_ENGLISH        "CARTES TÉLÉCHARGEABLES"
+
+REFERENCE           MPUI_DRIVEIN
+LANG_ENGLISH        "Drive-In"
+
+REFERENCE           MPUI_DRIVEIN_CAPS
+LANG_ENGLISH        "DRIVE-IN"
+
+REFERENCE           MPUI_EDIT_EMAIL
+LANG_ENGLISH        "MODIFIER ADRESSE E-MAIL"
+
+REFERENCE           MPUI_ELITE_DISCLAIMER
+LANG_ENGLISH        "Les adresses e-mail sont supprimées chaque semaine. Call of Duty: ELITE n'est disponible qu'en anglais pour le moment."
+
+REFERENCE           MPUI_EMAIL_ACCEPTED
+LANG_ENGLISH        "Merci d'avoir choisi Call of Duty: ELITE. Vous recevrez des instructions pour terminer le processus d'inscription à l'adresse e-mail fournie. Pour plus d'informations, visitez CallofDuty.com/Elite."
+
+REFERENCE           MPUI_EMAIL_REJECTED_TITLE
+LANG_ENGLISH        "E-MAIL INVALIDE"
+
+REFERENCE           MPUI_ENTER_VALID_EMAIL
+LANG_ENGLISH        "Veuillez saisir une adresse e-mail valide pour être inscrit sur la liste d'invitation à la beta."
+
+REFERENCE           MPUI_FIREBASE
+LANG_ENGLISH        "Firebase"
+
+REFERENCE           MPUI_FIREBASE_CAPS
+LANG_ENGLISH        "FIREBASE"
+
+REFERENCE           MPUI_FREE_MEMBERSHIP_CAPS
+LANG_ENGLISH        "ENREGISTREZ-VOUS POUR AVOIR UN APERÇU DE CALL OF DUTY: ELITE"
+
+REFERENCE           MPUI_GAMEMODE_CAPS
+LANG_ENGLISH        "MODES DE JEU"
+
+REFERENCE           MPUI_GOLFCOURSE
+LANG_ENGLISH        "Hazard"
+
+REFERENCE           MPUI_GOLFCOURSE_CAPS
+LANG_ENGLISH        "HAZARD"
+
+REFERENCE           MPUI_GRIDLOCK
+LANG_ENGLISH        "Convoy"
+
+REFERENCE           MPUI_GRIDLOCK_CAPS
+LANG_ENGLISH        "CONVOY"
+
+REFERENCE           MPUI_HIDE_DLC
+LANG_ENGLISH        "Masquer DLC"
+
+REFERENCE           MPUI_HOTEL
+LANG_ENGLISH        "Hotel"
+
+REFERENCE           MPUI_HOTEL_CAPS
+LANG_ENGLISH        "HOTEL"
+
+REFERENCE           MPUI_I_HAVE
+LANG_ENGLISH        "Je possède"
+
+REFERENCE           MPUI_IMPROVE_CAPS
+LANG_ENGLISH        "DEVENEZ MEILLEUR"
+
+REFERENCE           MPUI_IMPROVE_DESC
+LANG_ENGLISH        "Accédez aux renseignements et améliorez votre jeu : stats, cartes thermiques, astuces et bien plus !"
+
+REFERENCE           MPUI_JOIN_UP_CAPS
+LANG_ENGLISH        "REJOIGNEZ-NOUS."
+
+REFERENCE           MPUI_KOWLOON
+LANG_ENGLISH        "Kowloon"
+
+REFERENCE           MPUI_KOWLOON_CAPS
+LANG_ENGLISH        "KOWLOON"
+
+REFERENCE           MPUI_MAPS_CAPS
+LANG_ENGLISH        "CARTES"
+
+REFERENCE           MPUI_OFFLINE_EDIT_GAME_OPTIONS_DESC
+LANG_ENGLISH        "Définissez vos propres règles pour ce mode."
+
+REFERENCE           MPUI_OUTSKIRTS
+LANG_ENGLISH        "Stockpile"
+
+REFERENCE           MPUI_OUTSKIRTS_CAPS
+LANG_ENGLISH        "STOCKPILE"
+
+REFERENCE           MPUI_OWNED
+LANG_ENGLISH        "Déjà téléchargé"
+
+REFERENCE           MPUI_PLAYLIST_MAPS_NOT_ENABLED
+LANG_ENGLISH        "Certains membres n'ont pas le contenu nécessaire pour jouer sur cette carte."
+
+REFERENCE           MPUI_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Vous devez acheter du contenu téléchargeable pour utiliser cette sélection."
+
+REFERENCE           MPUI_PRESTIGE_LB_PURCHASE_CONF
+LANG_ENGLISH        "Pour participer au Classement Prestige, vous devez être passé en mode Prestige au moins 1 fois et posséder &&1 ."
+
+REFERENCE           MPUI_PREV_DISABLED_CAPS
+LANG_ENGLISH        "VOTES NON AUTORISÉS"
+
+REFERENCE           MPUI_PURCHASED
+LANG_ENGLISH        "Acheté"
+
+REFERENCE           MPUI_RULES_6_5MINUTES_CAPS
+LANG_ENGLISH        "6,5 MINUTES"
+
+REFERENCE           MPUI_SALVAGE
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           MPUI_SALVAGE_CAPS
+LANG_ENGLISH        "SALVAGE"
+
+REFERENCE           MPUI_SHOW_DLC_CONTENT
+LANG_ENGLISH        "Afficher DLC"
+
+REFERENCE           MPUI_SILO
+LANG_ENGLISH        "Silo"
+
+REFERENCE           MPUI_SILO_CAPS
+LANG_ENGLISH        "SILO"
+
+REFERENCE           MPUI_SNOWMINE
+LANG_ENGLISH        "Snow Mine"
+
+REFERENCE           MPUI_SNOWMINE_CAPS
+LANG_ENGLISH        "SNOW MINE"
+
+REFERENCE           MPUI_STADIUM
+LANG_ENGLISH        "Stadium"
+
+REFERENCE           MPUI_STADIUM_CAPS
+LANG_ENGLISH        "STADIUM"
+
+REFERENCE           MPUI_SUBMIT_EMAIL_CAPS
+LANG_ENGLISH        "ENVOYER E-MAIL"
+
+REFERENCE           MPUI_THEATER_PARTY_MISSING_MAP
+LANG_ENGLISH        "Un ou plusieurs membres du groupe ne possèdent pas cette carte."
+
+REFERENCE           MPUI_TRAINWRECK
+LANG_ENGLISH        "Trainwreck"
+
+REFERENCE           MPUI_TRAINWRECK_CAPS
+LANG_ENGLISH        "TRAINWRECK"
+
+REFERENCE           MPUI_WARMUSEUM
+LANG_ENGLISH        "War Museum"
+
+REFERENCE           MPUI_WARMUSEUM_CAPS
+LANG_ENGLISH        "WAR MUSEUM"
+
+REFERENCE           MPUI_ZOO
+LANG_ENGLISH        "Zoo"
+
+REFERENCE           MPUI_ZOO_CAPS
+LANG_ENGLISH        "ZOO"
+
+REFERENCE           PATCH_ALLOW_VOTING_CAPS
+LANG_ENGLISH        "AUTORISER LE VOTE"
+
+REFERENCE           PATCH_ALLOW_VOTING_DESC
+LANG_ENGLISH        "Autoriser les joueurs à voter pour la carte et le mode de jeu ou pour exclure un autre joueur."
+
+REFERENCE           PATCH_AUTO_BALANCE_DESC
+LANG_ENGLISH        "Les équipes seront régulièrement réorganisées en fonction du nombre de joueurs."
+
+REFERENCE           PATCH_AUTOBALANCE_TEAMS_CAPS
+LANG_ENGLISH        "ÉQUILIBRAGE AUTO"
+
+REFERENCE           PATCH_BAD_STATS
+LANG_ENGLISH        "Vos stats n'ont pas pu être validées."
+
+REFERENCE           PATCH_BANNED_FROM_SERVER
+LANG_ENGLISH        "Vous avez été exclu de ce serveur."
+
+REFERENCE           PATCH_CONNECTING_CAPS
+LANG_ENGLISH        "CONNEXION"
+
+REFERENCE           PATCH_COOPERATIVE_CAPS
+LANG_ENGLISH        "COOPÉRATION"
+
+REFERENCE           PATCH_DEMO_CHANGE_CAMERA
+LANG_ENGLISH        "^3F2^7"
+
+REFERENCE           PATCH_DEMO_SKIPBACK
+LANG_ENGLISH        "^3LA^7"
+
+REFERENCE           PATCH_DEMO_SKIPFOWARD
+LANG_ENGLISH        "^3RA^7"
+
+REFERENCE           PATCH_DEMO_SPEED_DOWN
+LANG_ENGLISH        "^3DN^7"
+
+REFERENCE           PATCH_DEMO_SPEED_UP
+LANG_ENGLISH        "^3UP^7"
+
+REFERENCE           PATCH_DEMO_TOGGLE_CONTROLS_HUD
+LANG_ENGLISH        "^3F1^7 Masquer commandes"
+
+REFERENCE           PATCH_DEMO_TOGGLE_HUD
+LANG_ENGLISH        "^3F4^7 Masquer ATH"
+
+REFERENCE           PATCH_EXE_KICKRESERVEDSLOT
+LANG_ENGLISH        "Éjection de l'emplacement réservé."
+
+REFERENCE           PATCH_GAME_CAPS
+LANG_ENGLISH        "PARTIE"
+
+REFERENCE           PATCH_LAPTOP_OR_SMALL_SPEAKERS_CAPS
+LANG_ENGLISH        "ORDINATEUR PORTABLE OU HAUT-PARLEURS PEU PUISSANTS"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "Le mod ^3&&1^7 est nécessaire pour voir la démo.\nVous devez activer le mod."
+
+REFERENCE           PATCH_LOADMOD_FILM
+LANG_ENGLISH        "Le mod ^3&&1^7 est nécessaire pour regarder la vidéo.\nVous devez activer le mod. "
+
+REFERENCE           PATCH_MAXIMUM_PING_CAPS
+LANG_ENGLISH        "PING MAXIMUM"
+
+REFERENCE           PATCH_MAXIMUM_PING_DESC
+LANG_ENGLISH        "Les joueurs au dessus du ping maximum ne pourront pas rejoindre la partie."
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_CAPS
+LANG_ENGLISH        "JOUEURS MAXI"
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_DESC
+LANG_ENGLISH        "Nombre maximum de joueurs qui peuvent rejoindre la partie."
+
+REFERENCE           PATCH_MENU_OPTION_SHADERWARMING_CAPS
+LANG_ENGLISH        "PRÉCHARGEMENT SHADER"
+
+REFERENCE           PATCH_MINIMUM_PING_CAPS
+LANG_ENGLISH        "PING MINIMUM"
+
+REFERENCE           PATCH_MINIMUM_PING_DESC
+LANG_ENGLISH        "Les joueurs sous le ping minimum ne pourront pas rejoindre la partie."
+
+REFERENCE           PATCH_MINIMUM_PLAYERS_DESC
+LANG_ENGLISH        "Nombre de joueurs requis pour terminer le pré-match et commencer la partie."
+
+REFERENCE           PATCH_MP_CANNOT_JOIN_TEAM
+LANG_ENGLISH        "Il n'est plus possible de modifier les équipes."
+
+REFERENCE           PATCH_MP_TEAM_UP_PERIOD
+LANG_ENGLISH        "Changements d'équipe autorisés pendant &&1 secondes."
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_CAPS
+LANG_ENGLISH        "CHANGEMENT D'ÉQUIPE"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_DESC
+LANG_ENGLISH        "Changement d'équipe autorisé"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_CAPS
+LANG_ENGLISH        "FORMATION DES ÉQUIPES"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_DESC
+LANG_ENGLISH        "Période initiale où les changements d'équipe sont autorisés et les équipes sont automatiquement équilibrées."
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_CAPS
+LANG_ENGLISH        "ASSURER ÉQUILIBRE DES ÉQUIPES"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_DESC
+LANG_ENGLISH        "Les changements d'équipe sont autorisés seulement quand l'équilibre est conservé"
+
+REFERENCE           PATCH_NO_INVITES
+LANG_ENGLISH        "Pas d'invitations récentes."
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_OPTIONS_COLOR_FRIENDS_CAPS
+LANG_ENGLISH        "MARQUER VOS AMIS PRÉSENTS DANS L'ÉQUIPE"
+
+REFERENCE           PATCH_PASSWORD1_CAPS
+LANG_ENGLISH        "MOT DE PASSE"
+
+REFERENCE           PATCH_PASSWORD_DESC
+LANG_ENGLISH        "Mot de passe requis pour rejoindre votre serveur."
+
+REFERENCE           PATCH_PLAYLISTISNEW
+LANG_ENGLISH        "Vos sélections sont plus récentes que celles de l'hôte. Vous ne pourrez pas rejoindre la session tant que les autres utilisateurs n'auront pas redémarré le jeu."
+
+REFERENCE           PATCH_PLAYLISTISOLD
+LANG_ENGLISH        "Vos sélections sont plus anciennes que celles de l'hôte. Vous devez redémarrer le jeu pour obtenir les sélections les plus récentes."
+
+REFERENCE           PATCH_PRE_MATCH_DESC
+LANG_ENGLISH        "Pas de points, pas d'XP de Mêlée générale avant que la partie commence."
+
+REFERENCE           PATCH_PREGAME_ENABLED_CAPS
+LANG_ENGLISH        "PRÉ-MATCH"
+
+REFERENCE           PATCH_PREGAME_MINPLAYERS_CAPS
+LANG_ENGLISH        "JOUEURS MIN. PRÉ-MATCH"
+
+REFERENCE           PATCH_RESTORE_CONTROLS
+LANG_ENGLISH        "Les commandes par défaut vont être rétablies."
+
+REFERENCE           PATCH_SCREENSHOT_PAN
+LANG_ENGLISH        "Clic gauche pour déplacer"
+
+REFERENCE           PATCH_SCREENSHOT_ZOOM
+LANG_ENGLISH        "Molette de la souris pour zoomer"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "La sauvegarde de données de jeu est incompatible avec la version du jeu utilisée. Vous pouvez reprendre au début de la dernière mission jouée, ou retourner aux menus."
+
+REFERENCE           PATCH_SERVER_NAME_CAPS
+LANG_ENGLISH        "NOM DU SERVEUR"
+
+REFERENCE           PATCH_SERVER_NAME_DESC
+LANG_ENGLISH        "Nom de votre serveur."
+
+REFERENCE           PATCH_SHADER_WARMING
+LANG_ENGLISH        "Préchargement Shader"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "Tous les utilisateurs doivent avoir la même version du jeu pour jouer en liaison multiconsole. Connectez-vous à Xbox LIVE pour vérifier que vous possédez la dernière mise à jour du jeu."
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "Couleurs alt."
+
+REFERENCE           PATCH_TOGGLE_COMPARE_FRIENDS
+LANG_ENGLISH        "Masquer la comparaison avec un ami"
+
+REFERENCE           PATCH_UNLOADMOD_DEMO
+LANG_ENGLISH        "Le mod ^3&&1^7 est activé.\nVous devez désactiver le mod pour voir la démo."
+
+REFERENCE           PATCH_UNLOADMOD_FILM
+LANG_ENGLISH        "Le mod ^3&&1^7 est activé.\nVous devez désactiver le mod pour regarder la vidéo."
+
+REFERENCE           PATCH_VALVE_ANTI_CHEAT_DESC
+LANG_ENGLISH        "Protégez votre serveur des tricheurs."
+
+REFERENCE           PATCH_VOICECHAT_DESC
+LANG_ENGLISH        "Communiquer par chat vocal pendant la partie."
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "Les versions du jeu sont incompatibles pour jouer en ligne à ce mode de jeu."
+
+REFERENCE           PLATFORM_BANNED
+LANG_ENGLISH        "Ce compte a été banni de façon permanente des serveurs de Call of Duty: Black Ops."
+
+REFERENCE           PLATFORM_CANT_DOWNLOAD
+LANG_ENGLISH        "Ce fichier est différent du serveur :\n\n ^3&&1^7"
+
+REFERENCE           PLATFORM_CHEATSREQUIREAMOD
+LANG_ENGLISH        "Un mod est requis pour utiliser ce code de triche."
+
+REFERENCE           PLATFORM_DEMO_EDIT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Modifier marqueur caméra"
+
+REFERENCE           PLATFORM_DEMO_INSERT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Insérer marqueur caméra"
+
+REFERENCE           PLATFORM_DEMO_PLACE_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Placer marqueur caméra"
+
+REFERENCE           PLATFORM_ENABLE_DOWNLOADS
+LANG_ENGLISH        "Il vous manque des fichiers référencés par le serveur :\n^3&&1^7\nAllez dans le menu des options multijoueur pour autoriser les téléchargements."
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_CHECKSUM
+LANG_ENGLISH        "Le fichier local existe avec une checksum incorrecte."
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_FILESIZE
+LANG_ENGLISH        "Le fichier local existe avec une taille de fichier incorrecte."
+
+REFERENCE           PLATFORM_MISSINGMAP
+LANG_ENGLISH        "Vous n'avez pas cette carte. Téléchargez les packs de contenu depuis le magasin de Steam pour l'obtenir."
+
+REFERENCE           PLATFORM_MISSINGMAP_YOU_NEED_CONTENTPACK
+LANG_ENGLISH        "Vous n'avez pas cette carte. Pour l'obtenir, téléchargez les packs de contenu depuis le magasin de Steam.\n\n Il vous faut : ^3&&1^7\n"
+
+REFERENCE           PLATFORM_OPEN_SOUNDTRACK_FOLDER
+LANG_ENGLISH        "Ouvrir le dossier Soundtrack (Bande-son)"
+
+REFERENCE           PLATFORM_OPTIONS_RESTRICT_EMBLEMS_CAPS
+LANG_ENGLISH        "DÉSACTIVER EMBLÈMES"
+
+REFERENCE           PLATFORM_STEAM_AUTH_DENIED
+LANG_ENGLISH        "Échec de l'autorisation de Steam."
+
+REFERENCE           PLATFORM_UNKNOWN
+LANG_ENGLISH        "Inconnu"
+
+REFERENCE           PLATFORM_ZOMBIE_NOMANS_SOLO_CAPS
+LANG_ENGLISH        "NO MAN'S LAND (SOLO)"
+
+REFERENCE           PLATFORM_ZOMBIE_SOUNDTRACK_LOCATION_DESC
+LANG_ENGLISH        "Les 3 morceaux bonus de la bande-son de Call of Duty: Zombies sont disponibles dans le répertoire d'installation du jeu, dans le dossier \"Soundtrack\"."
+
+REFERENCE           WAW_MENU_ZOMBIE_ASYLUM_CAPS
+LANG_ENGLISH        "VERRÜCKT"
+
+REFERENCE           WAW_MENU_ZOMBIE_ASYLUM_DESC
+LANG_ENGLISH        "Thérapie à base d'électrochocs. Boissons crées synthétiquement. Des hordes de zombies nazis. Réussissez à unir vos forces pour les renvoyer dans leurs tombes !"
+
+REFERENCE           WAW_MENU_ZOMBIE_FACTORY_CAPS
+LANG_ENGLISH        "DER RIESE"
+
+REFERENCE           WAW_MENU_ZOMBIE_FACTORY_DESC
+LANG_ENGLISH        "Le géant se dresse. Affrontez les zombies nazis sur leur territoire. C'est là que le grand projet a vu le jour... Est-ce là qu'il mourra ?"
+
+REFERENCE           WAW_MENU_ZOMBIE_PROTOTYPE_CAPS
+LANG_ENGLISH        "NACHT DER UNTOTEN"
+
+REFERENCE           WAW_MENU_ZOMBIE_PROTOTYPE_DESC
+LANG_ENGLISH        "Vous les avez éliminés au coeur du Reich. Vous croyiez en rester là. Pas de chance, ils reviennent !"
+
+REFERENCE           WAW_MENU_ZOMBIE_SUMPF_CAPS
+LANG_ENGLISH        "SHI NO NUMA"
+
+REFERENCE           WAW_MENU_ZOMBIE_SUMPF_DESC
+LANG_ENGLISH        "Des cadavres grouillants. Des marais infestés de bestioles. Des milliers de morts-vivants de l'armée impériale. Choisissez une tactique et sauvez votre peau !"
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer le téléporteur"
+
+REFERENCE           WAW_ZOMBIE_ACTIVATE_TRAP
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer piège [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_AMMO_BOX
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter Munitions max. [Coût : tout ce que vous avez - au moins 10 000]"
+
+REFERENCE           WAW_ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour activer la tourelle automatique [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Vous avez déjà acheté des mines Betty"
+
+REFERENCE           WAW_ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Appuyez sur ^3[{+actionslot 4}]^7 puis sur ^3[{+attack}]^7 pour placer une mine Betty"
+
+REFERENCE           WAW_ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter une mine Betty la bondissante [Coût : 1000 - une à la fois]"
+
+REFERENCE           WAW_ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour construire pont [Coût : 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour racheter la barrière [Coût : 10]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour racheter la barrière [Coût : 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour racheter la barrière [Coût : 20]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour racheter la barrière [Coût : 50]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 1250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 1750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour nettoyer les débris [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 1250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 1750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 2500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la zone [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 100]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 1000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 1250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 1750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 250]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 2500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 500]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir la porte [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer la barrière électrique [Coût : 1 000]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour reconstruire la barrière."
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour reconstruire la barrière [Récompense : 10]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour reconstruire la barrière [Récompense : 20]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour reconstruire la barrière [Récompense : 30]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour reconstruire la barrière [Récompense : 40]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour reconstruire la barrière [Récompense : 50]"
+
+REFERENCE           WAW_ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer la barrière de flammes [Coût : 500]"
+
+REFERENCE           WAW_ZOMBIE_BUY_TESLA
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter Pistolet Tesla [Coût : 10]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir le casier [Coût : 1000]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Maintenez [{+activate}] pour ouvrir le casier [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir le casier [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir le casier [Coût : 500]"
+
+REFERENCE           WAW_ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Le portail doit d'abord être ouvert"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour utiliser tyrolienne [Coût : 1000]"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer tyrolienne"
+
+REFERENCE           WAW_ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "La tyrolienne doit d'abord être activée"
+
+REFERENCE           WAW_ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour allumer l'électricité"
+
+REFERENCE           WAW_ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "L'électricité doit d'abord être allumée"
+
+REFERENCE           WAW_ZOMBIE_GAME_OVER
+LANG_ENGLISH        "FIN DE PARTIE"
+
+REFERENCE           WAW_ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour prendre votre arme améliorée"
+
+REFERENCE           WAW_ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "Il faut activer la rampe de téléportation"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Berlin, Allemagne"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Sanatorium de Wittenau"
+
+REFERENCE           WAW_ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Septembre, 1945"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_DATE
+LANG_ENGLISH        "Date: inconnue"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_PLACE
+LANG_ENGLISH        "Près de Breslau, Allemagne"
+
+REFERENCE           WAW_ZOMBIE_INTRO_FACTORY_LEVEL_TIME
+LANG_ENGLISH        "Heure : inconnue"
+
+REFERENCE           WAW_ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "Lien activé"
+
+REFERENCE           WAW_ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour relier la rampe de téléportation à l'unité centrale"
+
+REFERENCE           WAW_ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour utiliser tourelle [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Binouze Double coup [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Speed Cola [Coût : 3000]"
+
+REFERENCE           WAW_ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter"
+
+REFERENCE           WAW_ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Mastodonte [Coût : 2500]"
+
+REFERENCE           WAW_ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la machine \"Sacré punch !\" [Coût : 5000]"
+
+REFERENCE           WAW_ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Réanimation [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Zombie à terre !"
+
+REFERENCE           WAW_ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer liaison à l'unité centrale"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Points doubles :"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Morts instantanées :"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Munitions au max !"
+
+REFERENCE           WAW_ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Missile zombie !"
+
+REFERENCE           WAW_ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour ouvrir porte"
+
+REFERENCE           WAW_ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer monte-charge [Coût : 500]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Appuyez sur ^3&&1^7 pour une arme aléatoire [Coût : 650]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Appuyez sur ^3&&1^7 pour une arme aléatoire [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Appuyez sur ^3&&1^7 pour une arme aléatoire [Coût : 850]"
+
+REFERENCE           WAW_ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Appuyez sur ^3&&1^7 pour une arme aléatoire [Coût : 950]"
+
+REFERENCE           WAW_ZOMBIE_ROUND
+LANG_ENGLISH        "Manche"
+
+REFERENCE           WAW_ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Que le massacre commence !"
+
+REFERENCE           WAW_ZOMBIE_ROUND_END
+LANG_ENGLISH        "Massacre survécu"
+
+REFERENCE           WAW_ZOMBIE_START_TPAD
+LANG_ENGLISH        "Retournez au coeur"
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Vous avez survécu 1 manche."
+
+REFERENCE           WAW_ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Vous avez survécu &&1 manches."
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "Le téléporteur est en train de se recharger"
+
+REFERENCE           WAW_ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour vous téléporter à l'unité centrale [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour échanger armes"
+
+REFERENCE           WAW_ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer trappe [Coût : 1000]"
+
+REFERENCE           WAW_ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           WAW_ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer la tourelle de la fontaine [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour utiliser le téléporteur [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Browning M1919 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Browning M1919 + bipied [Coût : 3500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le BAR [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le BAR + bipied [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le bazooka M9A1 [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le couteau de chasse [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter le Colt [Coût : 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter le Colt Heavy Duty [Coût : 100]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le double canon [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le fusil à canon scié [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le DP-28 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le DP-28 + bipied [Coût : 2500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le FG42 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le FG42 + bipied [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le FG42 + lunette [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la grenade à fragmentation M2 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Gewehr 43 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Kar98k [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Kar98k + baïonnette [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Kar98k + lunette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Kar98k + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la carabine M1 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la carabine M1 + baïonnette [Coût : 600]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le M1 Garand [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le M1 Garand + baïonnette [Coût : 600]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le M1 Garand + lance-grenades [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le lance-flammes [Coût : 3000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la MG42 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la MG42 + bipied [Coût : 3500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la Molotov [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter les obus de mortier [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Mosin-Nagant [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Mosin-Nagant [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Mosin-Nagant + lance-grenades [Coût : 1500]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Mosin-Nagant + lunette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Mosin-Nagant + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le MP40 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter le Nambu [Coût : 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Panzerschrek [Coût : 2000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le PPSh-41 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le PTRS-41 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le pistolet laser [Coût : 10000]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la charge explosive [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le fusil à pompe M1897 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Springfield [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Springfield + baïonnette [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le SpringField + lunette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Springfield + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter STG-44 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la grenade collante RGD-33 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter Grenade collante [Coût : 10]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter des Stielhandgranates [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le SVT-40 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter le .357 Magnum [Coût : 100]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_THOMPSON_1200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Thompson [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter le Tokarev TT-33 [Coût : 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Type 100 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter la fragmentation pour le Type 97 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Arisaka [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le fusil-mitrailleur Type 99 + baïonnette [Coût : 200]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le fusil-mitrailleur Type 99 [Coût : &&1]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le fusil-mitrailleur Type 99 + bipied [Coût : 2250]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Arisaka + lunette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter le Type 99 + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter le Walther P38 [Coût : 50]"
+
+REFERENCE           WAW_ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour acheter le Colt Zombie [Coût : 25]"
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 Arme [&&1], Munition [&&2]"
+
+REFERENCE           WAW_ZOMBIE_WEAPONCOSTAMMO_UPGRADE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 Arme [&&1], Munition [&&2], \nMunitions améliorées [4500]"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer la tyrolienne."
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "La tyrolienne doit d'abord être activée"
+
+REFERENCE           WAW_ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour activer la tyrolienne [Coût : 1500]"
+
+REFERENCE           WEAPON_ZIPLINE
+LANG_ENGLISH        "Tyrolienne"
+
+REFERENCE           ZOMBIE_BLACK_HOLE_BOMB
+LANG_ENGLISH        "Engin Gersh"
+
+REFERENCE           ZOMBIE_CYMBAL_MONKEY
+LANG_ENGLISH        "Singe à cymbales"
+
+REFERENCE           ZOMBIE_EQUIP_GASMASK
+LANG_ENGLISH        "P.E.S."
+
+REFERENCE           ZOMBIE_EQUIP_GASMASK_HOWTO
+LANG_ENGLISH        "Appuyez sur ^3[{+actionslot 1}]^7 pour activer le P.E.S."
+
+REFERENCE           ZOMBIE_EQUIP_GASMASK_PICKUP_HINT_STRING
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour échanger un équipement contre le P.E.S."
+
+REFERENCE           ZOMBIE_EQUIP_HACKER
+LANG_ENGLISH        "Pirate"
+
+REFERENCE           ZOMBIE_EQUIP_HACKER_HOWTO
+LANG_ENGLISH        "Appuyez sur ^3[{+actionslot 1}]^7 pour utiliser l'outil de piratage "
+
+REFERENCE           ZOMBIE_EQUIP_HACKER_PICKUP_HINT_STRING
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour échanger équipement contre l'outil de piratage"
+
+REFERENCE           ZOMBIE_HACK
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour pirater [Coût : &&1]"
+
+REFERENCE           ZOMBIE_HACK_NO_COST
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour pirater"
+
+REFERENCE           ZOMBIE_HACKING
+LANG_ENGLISH        "Piratage"
+
+REFERENCE           ZOMBIE_NESTING_DOLLS
+LANG_ENGLISH        "Poupée russe"
+
+REFERENCE           ZOMBIE_PERK_ADDITIONALPRIMARYWEAPON
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Coup de pied arrière [Coût : &&1]"
+
+REFERENCE           ZOMBIE_PERK_DEADSHOT
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Daiquiri mortel [Coût : &&1]"
+
+REFERENCE           ZOMBIE_PERK_DIVETONUKE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter PHD Flopper [Coût : &&1]"
+
+REFERENCE           ZOMBIE_PERK_MARATHON
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Énergie [Coût : &&1]"
+
+REFERENCE           ZOMBIE_POWERUP_BONUS_POINTS
+LANG_ENGLISH        "Points bonus"
+
+REFERENCE           ZOMBIE_POWERUP_FREE_PERK
+LANG_ENGLISH        "Atout gratuit !\n"
+
+REFERENCE           ZOMBIE_POWERUP_LOSE_POINTS
+LANG_ENGLISH        "Points perdus"
+
+REFERENCE           ZOMBIE_QUANTUM_BOMB
+LANG_ENGLISH        "Bombe quantique"
+
+REFERENCE           ZOMBIE_SURVIVED_NOMANS
+LANG_ENGLISH        "Vous avez survécu &&1"
+
+REFERENCE           ZOMBIE_WEAPON_HUMANGUN
+LANG_ENGLISH        "V-R11"
+
+REFERENCE           ZOMBIE_WEAPON_HUMANGUN_UPGRADED
+LANG_ENGLISH        "V-R11 Lazare"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUN
+LANG_ENGLISH        "Pistolet à ondes"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUN_UPGRADED
+LANG_ENGLISH        "Super pistolet à ondes"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUNDW
+LANG_ENGLISH        "Double pistolet à ondes"
+
+REFERENCE           ZOMBIE_WEAPON_MICROWAVEGUNDW_UPGRADED
+LANG_ENGLISH        "Double pistolet à ondes X2 de Porter "
+
+REFERENCE           ZOMBIE_WEAPON_SHRINK_RAY
+LANG_ENGLISH        "31-79 JGb215"
+
+REFERENCE           ZOMBIE_WEAPON_SHRINK_RAY_UPGRADED
+LANG_ENGLISH        "Le Fractaliseur"
+
+REFERENCE           ZOMBIE_WEAPON_SICKLE_BUY
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter Faucille [Coût : &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SNIPER_EXPLOSIVE
+LANG_ENGLISH        "Pillard"
+
+REFERENCE           ZOMBIE_WEAPON_SNIPER_EXPLOSIVE_UPGRADED
+LANG_ENGLISH        "Hyène"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY_GRENADE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour acheter les grenades au semtex [Coût : &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_ACQUIRED
+LANG_ENGLISH        "Maintenir pour permettre la désactivation"
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_ACTIVATE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour activer."
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_DEACTIVATE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour désactiver."
+
+REFERENCE           ZOMBIE_WEAPON_TOGGLE_DISABLED
+LANG_ENGLISH        "Désactivé"
+
+ENDMARKER

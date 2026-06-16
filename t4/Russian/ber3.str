@@ -1,0 +1,61 @@
+// Dumped from fastfile "ber3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3_OBJ4
+LANG_ENGLISH        "Проникнуть в Рейхстаг"
+
+REFERENCE           BER3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Сердце Рейха'"
+
+REFERENCE           BER3_OBJ0
+LANG_ENGLISH        "Встретиться со своим отделением"
+
+REFERENCE           BER3_INTROSCREEN_DATE
+LANG_ENGLISH        "30 апреля 1945 года"
+
+REFERENCE           BER3_INTROSCREEN_INFO
+LANG_ENGLISH        "150-я стрелковая дивизия"
+
+REFERENCE           BER3_WARP_REICH
+LANG_ENGLISH        "REICHSTAG_STEPS"
+
+REFERENCE           BER3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Рейхстаг, Берлин"
+
+REFERENCE           BER3_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Петренко"
+
+REFERENCE           BER3_OBJ1
+LANG_ENGLISH        "Продвигаться через здания"
+
+REFERENCE           BER3_OBJ2
+LANG_ENGLISH        "Взять штурмом универмаг"
+
+REFERENCE           BER3_HINT_PLANT_CHARGE
+LANG_ENGLISH        "Нажмите &&1, чтобы заложить взрывчатку"
+
+REFERENCE           BER3_OBJ3_4
+LANG_ENGLISH        "Уничтожить зенитные орудия [осталось 4]"
+
+REFERENCE           BER3_OBJ3_3
+LANG_ENGLISH        "Уничтожить зенитные орудия [осталось 3]"
+
+REFERENCE           BER3_WARP_INTRO
+LANG_ENGLISH        "ВСТУПЛЕНИЕ"
+
+REFERENCE           BER3_OBJ3_2
+LANG_ENGLISH        "Уничтожить зенитные орудия [осталось 2]"
+
+REFERENCE           BER3_OBJ3_1
+LANG_ENGLISH        "Уничтожить зенитные орудия [осталось 1]"
+
+REFERENCE           BER3_OBJ3
+LANG_ENGLISH        "Уничтожить зенитки 8,8 cm Flak"
+
+REFERENCE           BER3_WARP_PLAZA
+LANG_ENGLISH        "CHARGE_PLAZA"
+
+ENDMARKER

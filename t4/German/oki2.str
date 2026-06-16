@@ -1,0 +1,58 @@
+// Dumped from fastfile "oki2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'In der Hitze des Gefechts'"
+
+REFERENCE           OKI2_OBJ_1
+LANG_ENGLISH        "Greifen Sie Wana Ridge an"
+
+REFERENCE           OKI2_INTROSCREEN_WHO
+LANG_ENGLISH        "Pvt. Miller"
+
+REFERENCE           OKI2_INTROSCREEN_DATE
+LANG_ENGLISH        "14. Mai 1945"
+
+REFERENCE           OKI2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Wana Ridge, Okinawa"
+
+REFERENCE           OKI2_OBJ_2_4
+LANG_ENGLISH        "Schalten Sie die 200-mm-Kanonen aus (4 übrig)."
+
+REFERENCE           OKI2_INTROSCREEN_WHAT
+LANG_ENGLISH        "1. Marinedivision"
+
+REFERENCE           OKI2_OBJ_2
+LANG_ENGLISH        "Schalten Sie die 200-mm-Kanonen aus."
+
+REFERENCE           OKI2_OBJ_2_2
+LANG_ENGLISH        "Schalten Sie die 200-mm-Kanonen aus (2 übrig)."
+
+REFERENCE           OKI2_OBJ_2_3
+LANG_ENGLISH        "Schalten Sie die 200-mm-Kanonen aus (3 übrig)."
+
+REFERENCE           OKI2_OBJ_2_1
+LANG_ENGLISH        "Schalten Sie die 200-mm-Kanonen aus (1 übrig)."
+
+REFERENCE           OKI2_DESTROY_GUN
+LANG_ENGLISH        "Halten Sie [{+activate}] gedrückt, um die Sprengladung zu platzieren."
+
+REFERENCE           OKI2_OBJ_4
+LANG_ENGLISH        "Lokalisieren Sie den Eingang zum Bunker"
+
+REFERENCE           OKI2_OBJ_5
+LANG_ENGLISH        "Sichern Sie den Bunker."
+
+REFERENCE           OKI2_OBJ_3
+LANG_ENGLISH        "Treffen Sie sich mit dem Sergeant."
+
+REFERENCE           OKI2_SATCHEL_HINT1
+LANG_ENGLISH        "Drücken Sie [{+actionslot 3}] zum Wählen der Rucksackladung."
+
+REFERENCE           OKI2_SATCHEL_HINT2
+LANG_ENGLISH        "Drücken Sie [{+toggleads_throw}] zum Werfen der Ladung. Drücken Sie [{+attack}] zum Zünden."
+
+ENDMARKER

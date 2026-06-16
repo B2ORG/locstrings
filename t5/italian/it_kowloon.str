@@ -1,0 +1,523 @@
+// Dumped from fastfile "it_kowloon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           KOWLOON_E2_GAS_LEAK
+LANG_ENGLISH        "Fuga di gas"
+
+REFERENCE           KOWLOON_E3_CACHE_RUN
+LANG_ENGLISH        "Corsa ai caricatori"
+
+REFERENCE           KOWLOON_E7_PISTOL
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per raccogliere il CZ-75"
+
+REFERENCE           KOWLOON_INTERROGATION_BREAK_GLASS
+LANG_ENGLISH        "Premi ^3[{+speed_throw}]^7 per rompere la finestra"
+
+REFERENCE           KOWLOON_INTERROGATION_PUNCH
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per dare un pugno"
+
+REFERENCE           KOWLOON_INTROSCREEN_DATE
+LANG_ENGLISH        "^LOre 17:00,^L ^C19 febbraio 1968^C"
+
+REFERENCE           KOWLOON_INTROSCREEN_INFO
+LANG_ENGLISH        "^C1Stazione^C ^LC.I.A. #4568. Designazione \"k\"^L"
+
+REFERENCE           KOWLOON_INTROSCREEN_NAME
+LANG_ENGLISH        "^LSquadra di recupero:^L ^C1Hudson^C^L, Weaver e agenti della stazione 3 sul posto.^L"
+
+REFERENCE           KOWLOON_INTROSCREEN_PLACE
+LANG_ENGLISH        "^LBersaglio: Daniel Clarke, localizzato a^L ^C1Kowloon, Hong Kong^C"
+
+REFERENCE           KOWLOON_INTROSCREEN_TITLE
+LANG_ENGLISH        "^LTrasmissione n° 23-1-19. Destinatario: VICTOR^L"
+
+REFERENCE           KOWLOON_JUMP_DEATH
+LANG_ENGLISH        "Per farcela, devi prendere la rincorsa e saltare."
+
+REFERENCE           KOWLOON_NOVA6_DEATH
+LANG_ENGLISH        "Sei stato esposto alla Nova 6!"
+
+REFERENCE           KOWLOON_OBJECTIVE_DEFEND
+LANG_ENGLISH        "Difendi"
+
+REFERENCE           KOWLOON_OBJECTIVE_DEFEND_CLARK
+LANG_ENGLISH        "Difenditi dall'attacco dell'unità Spetsnaz"
+
+REFERENCE           KOWLOON_OBJECTIVE_ESCAPE
+LANG_ENGLISH        "Fuggi con il dottor Clarke"
+
+REFERENCE           KOWLOON_OBJECTIVE_ESCAPE_WEAVER
+LANG_ENGLISH        "Fuggi con Weaver"
+
+REFERENCE           KOWLOON_OBJECTIVE_FOLLOW
+LANG_ENGLISH        "Scorta"
+
+REFERENCE           KOWLOON_OBJECTIVE_FOLLOW_CLARK
+LANG_ENGLISH        "Scorta Clarke"
+
+REFERENCE           KOWLOON_OBJECTIVE_GO_DOWN
+LANG_ENGLISH        "Segui Weaver"
+
+REFERENCE           KOWLOON_OBJECTIVE_SHOOT
+LANG_ENGLISH        "Spara"
+
+REFERENCE           KOWLOON_OBJECTIVE_SHOOT_CANISTER
+LANG_ENGLISH        "Spara al contenitore"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_001A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Non lo capite, imbecilli?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_002A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Se pensate di spaventarmi con la violenza, come vuole il vostro governo, ovviamente non conoscete affatto Dragovich..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_003A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Non ho nulla da guadagnare a parlare con voi."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_004A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Allora pensa a cosa hai da perdere."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_005A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Abbiamo tutto il giorno... e un sacco di finestre..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_006A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Oppure... puoi darci quello che vogliamo e noi in cambio ti proteggiamo..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_007A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Sono già morto..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_008A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Mi hanno dato la caccia ai quattro capi del mondo..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_009A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Se mi avete trovato voi, lo faranno anche loro. Sanno tutto quello che sapete. Probabilmente stanno già arrivando."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_010A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Perché?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_011A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Dragovich non lascia le cose in sospeso... Non gli ho mai nemmeno parlato. Mi rivolgevo a Steiner, il Tedesco..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_012A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Di che cosa ti occupavi?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_013A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Sono stato assunto per stabilizzare alcune \"sostanze volatili\"."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_014A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Che tipo di sostanze?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_015A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Nova 6. Un'arma biochimica."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_017A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Li avete portati da me!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_700A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Cinque minuti prima, Hudson stava torturando Clarke. E ora Clarke lo sta aiutando. Secondo te per quale motivo?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_701A_MASO
+LANG_ENGLISH        "^1MASON: ^7Perché? La CIA voleva le informazioni di Clarke, ma Dragovich voleva la sua testa."
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_702A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson! Nel furgone!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_703A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Forza! Andiamocene da qui!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S01_704A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Cosa stiamo aspettando? Nel furgone!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_018A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Tieni giù la testa!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_019A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7I contenitori si sono rotti!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_020A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hai portato il tuo veleno di merda dove è pieno di gente?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_021A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Ho dovuto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_022A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Visto che sei così paranoico... Qual è la via di fuga?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_023A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7C'è una botola sul soffitto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_024A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Di qua!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_025A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Muovetevi, cazzo!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_303A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Tutti fuori dalla stanza!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_304A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7La Nova ci ucciderà!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S02_305A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Portatemi fuori di qui e vi dirò tutto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_026A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Avete respirato il gas?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_027A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Non credo"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_028A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Siete fortunati..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_029A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7L'esposizione diretta è sempre fatale."
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_032A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Spetsnaz in arrivo!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_033A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Il corridoio ovest!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_034A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Da che parte?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_035A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Sul tetto."
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_036A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Al piano di sopra!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_037A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7La finestra destra! A destra!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_038A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Sul tetto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_039A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Chyort! Cecchini!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_040A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Dobbiamo raggiungere la torre dall'altra parte!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_041A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Come?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_042A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Saltiamo!!!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_043A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Stai scherzando?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_044A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Salta!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_045A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Forza, andiamo!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_046A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Che stai aspettando?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_047A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson! Salta o morirai!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_048A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Porca puttana!!!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_048A_HUDS_S
+LANG_ENGLISH        "^1HUDSON: ^7Ma porca...!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S03_049A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Uuumph!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_050A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Ecco, aiutatemi a spostarlo!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_051A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Prendete ciò che vi serve. Saranno qui da un momento all'altro."
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_052A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Sai molte cose per essere morto."
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_053A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Anche se ho accettato il mio destino, non ho fretta di seguirne il corso!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_053B_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Anche se ho accettato il mio destino, non ho fretta di seguirne il corso!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_054A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Come ti pare, Inglese."
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_055A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Di qua!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_056A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7OK... seguitemi."
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_057A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ci sono addosso!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_058A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson! A sinistra!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_060A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Entrano dalle finestre!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_061A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Da che parte?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_062A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7La porta a sinistra."
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_063A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Sui tetti!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_064A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Sicuro di sapere dove vai?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_065A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Mi sono preparato."
+
+REFERENCE           KOWLOON_VOX_KOW1_S04_066A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Presto, al piano di sotto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_067A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Nella tubatura, ora!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_068A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ma quello è davvero uno scienziato?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_069A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Presto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_070A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Portate il culo quaggiù!!!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_071A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Altri due stronzi di sotto."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_071A_WEAV_S
+LANG_ENGLISH        "^1WEAVER: ^7Altri due di sotto."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_072A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7No problem."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_073A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Sono miei."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_074A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Dragovich ce la mette tutta per chiuderti il becco. Che cosa ci nascondi?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_075A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Ve l'ho detto, è la Nova 6..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_076A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Dov'è la loro base? In Vietnam? Nel Laos? In Cambogia?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_077A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Il suo terreno fertile è Yamantau, sugli Urali."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_078A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Lì troverete Steiner, mentre ultima i preparativi del progetto Nova."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_078B_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Lì troverete Steiner, il suo schiavetto nazista, mentre ultima i preparativi del progetto Nova."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_079A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Che altro? Voci, pettegolezzi... DIMMI TUTTO!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_080A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Steiner ha parlato di certi numeri con Dragovich..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_081A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Che tipo di numeri?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_082A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Il tipo importante per il loro piano!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S05_083A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Nemico in basso a ore 12!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_085A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Merda..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_085A_CLAR_M_S
+LANG_ENGLISH        "^1CLARKE: ^7No."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_086A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Hanno inviato una squadra a rubare quel che rimane della mia ricerca."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_086B_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Hanno inviato una squadra a rubare quel che rimane della mia ricerca."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_087A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Beh, grazie mille Dragovich... ma le pulizie le faccio da solo! AH!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_087B_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7No, grazie Dragovich... Le pulizie le faccio da solo! AH!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_088A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Come state messi a munizioni? C'è ancora un po' di strada da fare."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_089A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Il balcone a sinistra!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_090A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson!!! Attento!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_091A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Seguite il corridoio fino in fondo!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_092A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Altri Spetsnaz sulla destra!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_093A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Stanno entrando dal tetto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_094A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Ora dove si va?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_095A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Torniamo fuori. Il balcone a destra!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_096A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Clarke, come cazzo fai a ricordarti tante cose?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_097A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Sul prossimo balcone!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_098A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Manca poco!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_099A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Armi e munizioni. Prendete quello che vi serve."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_100A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7OK... Allora... è passato un po' di tempo..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_102A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Oddio, è incredibile... 54... 23... Quale cazzo è?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_103A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^75... 11... 19... 45?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_104A_HUDS_M
+LANG_ENGLISH        "^1HUDSON: ^7Alle spalle!!!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_105A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Hai dimenticato la combinazione?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_106A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Ma certo... il 7 fortunato!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_107A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ti sei tatuato i numeri? Che cosa ci nascondi, Clarke?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_108A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Dai! Un ultimo sforzo! Fidatevi di me!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_302A_WEAV
+LANG_ENGLISH        "^1CLARKE: ^7Via! Via! Via!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_306A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Copritemi le spalle! Devo sbloccare la porta."
+
+REFERENCE           KOWLOON_VOX_KOW1_S06_307A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Copritemi mentre apro la porta!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_109A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Arhhhh!!!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_110A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Hrrmph... Merda!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_111A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Hudson, prendilo! VAI!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_112A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Sto scivolando!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_113A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Salta, Hudson!!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_114A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Ti copro io!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_115A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Clarke, che significano i numeri?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_116A_CLAR_M
+LANG_ENGLISH        "^1CLARKE: ^7Ah, già... I numeri... sono la chiave per..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_117A_WEAV_M
+LANG_ENGLISH        "^1WEAVER: ^7Cazzo... Andiamo."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_117A_WEAV_M_S
+LANG_ENGLISH        "^1WEAVER: ^7No... Andiamo"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_118A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Tug boat, qui Red Eye..."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_119A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Estrazione immediata al livello della strada. Torre quattro, lato sud."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_120A_AGT1_F
+LANG_ENGLISH        "^1AGENT: ^7Ricevuto, Red Eye... Arriviamo."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_121A_AGT1_F
+LANG_ENGLISH        "^1AGENT: ^7Quaggiù ci sono stati i fuochi d'artificio. Avete recuperato il \"pacco\"?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_122A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Negativo... È morto."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_123A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Red Eye, chiudo."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_124A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Andiamo, Hudson... Si scende."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_125A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Di qua."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_126A_AGT1_M
+LANG_ENGLISH        "^1AGENT: ^7Dove andiamo?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_127A_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Clarke ha identificato uno scienziato nazista che lavora per Dragovich. Si chiama Steiner. Andiamo al monte Yamantau, in Russia."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_300A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Yamantau."
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_301A_AGT1_F
+LANG_ENGLISH        "^1AGENT: ^7Red Eye, ci avviciniamo all'evacuazione. Sbrigatevi, cazzo!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S07_301A_AGT1_S_F_S
+LANG_ENGLISH        "^1AGENT: ^7Red Eye, ci avviciniamo all'evacuazione. Sbrigatevi!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_128A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Di qua!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_129A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Presto!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_130A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Dobbiamo muoverci!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_131A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Ma dove vai?!?"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_132A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7No! Stai sbagliando strada!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_133A_CLAR
+LANG_ENGLISH        "^1CLARKE: ^7Rimani vicino a me!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_308A_WEAV
+LANG_ENGLISH        "^1WEAVER: ^7Flashbang!"
+
+REFERENCE           KOWLOON_VOX_KOW1_S99_308B_HUDS
+LANG_ENGLISH        "^1HUDSON: ^7Flashbang!"
+
+ENDMARKER

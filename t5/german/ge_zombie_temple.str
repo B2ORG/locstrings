@@ -1,0 +1,61 @@
+// Dumped from fastfile "ge_zombie_temple".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_TEMPLE_BLOW_GUN
+LANG_ENGLISH        "Blasrohr"
+
+REFERENCE           ZOMBIE_TEMPLE_BLOW_GUN_UPGRADED
+LANG_ENGLISH        "Super-Blasrohr"
+
+REFERENCE           ZOMBIE_TEMPLE_CALL_ELEVATOR
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 für den Aufzug."
+
+REFERENCE           ZOMBIE_TEMPLE_DESTINATION_NOT_OPEN
+LANG_ENGLISH        "Ziel noch nicht offen"
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_BLOCKED
+LANG_ENGLISH        "Aufzug nicht mit Affen in der Nähe nutzbar."
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_BLOCKED_PAP
+LANG_ENGLISH        "Aufzug nicht benutzbar in Pack-a-Punch-Runde"
+
+REFERENCE           ZOMBIE_TEMPLE_ELEV_PRESSURE_PLATE
+LANG_ENGLISH        "Sie und Ihre Begleiter müssen erst runter, bevor Sie rauf können."
+
+REFERENCE           ZOMBIE_TEMPLE_MINECART_COST
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 zum Starten der Lore  [Kosten: &&1]"
+
+REFERENCE           ZOMBIE_TEMPLE_MINECART_UNAVAVILABLE
+LANG_ENGLISH        "Die Lore wird gerade benutzt"
+
+REFERENCE           ZOMBIE_TEMPLE_RELEASE_WATER
+LANG_ENGLISH        "Halten Sie ^3&&1^7 zum Abfließen des Wassers"
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_ALREADY_PURCHASED
+LANG_ENGLISH        "Sie haben bereits Spikemores gekauft."
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_HOWTO
+LANG_ENGLISH        "Drücken Sie ^3[{+actionslot 4}]^7 und dann ^3[{+attack}]^7 zum Platzieren einer Spikemore."
+
+REFERENCE           ZOMBIE_TEMPLE_SPIKEMORE_PURCHASE
+LANG_ENGLISH        "Halten Sie ^3&&1^7 zum Kauf einer Spikemore [Kosten: 1000]"
+
+REFERENCE           ZOMBIE_TEMPLE_USE_ELEVATOR
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 für den Aufzug [Kosten: &&1]"
+
+REFERENCE           ZOMBIE_TEMPLE_USE_WATER_TRAP
+LANG_ENGLISH        "Halten Sie ^3[{+activate}]^7 nicht"
+
+REFERENCE           ZOMBIE_TEMPLE_WATER_TRAP_COOL
+LANG_ENGLISH        "Das Reservoir läuft voll"
+
+REFERENCE           ZOMBIE_TEMPLE_WEAPON_SPIKEMORE
+LANG_ENGLISH        "Spikemore"
+
+REFERENCE           ZOMBIE_TEMPLE_WEAPON_SPIKEMORE_PICKUP
+LANG_ENGLISH        "Halten Sie ^3&&1^7 zum Aufnehmen der Spikemore"
+
+ENDMARKER

@@ -1,0 +1,61 @@
+// Dumped from fastfile "ber3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3_OBJ4
+LANG_ENGLISH        "제국의회로 진입하십시오."
+
+REFERENCE           BER3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'제국의 심장'"
+
+REFERENCE           BER3_OBJ0
+LANG_ENGLISH        "분대와 합류하십시오."
+
+REFERENCE           BER3_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 4월 30일"
+
+REFERENCE           BER3_INTROSCREEN_INFO
+LANG_ENGLISH        "제 150보병사단"
+
+REFERENCE           BER3_WARP_REICH
+LANG_ENGLISH        "REICHSTAG_STEPS"
+
+REFERENCE           BER3_INTROSCREEN_PLACE
+LANG_ENGLISH        "베를린, 제국의회"
+
+REFERENCE           BER3_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 페트렌코"
+
+REFERENCE           BER3_OBJ1
+LANG_ENGLISH        "건물을 통과해 진격하십시오."
+
+REFERENCE           BER3_OBJ2
+LANG_ENGLISH        "대광장을 공격하십시오."
+
+REFERENCE           BER3_HINT_PLANT_CHARGE
+LANG_ENGLISH        "폭약을 설치하려면 &&1를 누르십시오."
+
+REFERENCE           BER3_OBJ3_4
+LANG_ENGLISH        "88 고사포를 파괴하십시오.(4문 남음)"
+
+REFERENCE           BER3_OBJ3_3
+LANG_ENGLISH        "88 고사포를 파괴하십시오.(3문 남음)"
+
+REFERENCE           BER3_WARP_INTRO
+LANG_ENGLISH        "도입부"
+
+REFERENCE           BER3_OBJ3_2
+LANG_ENGLISH        "88 고사포를 파괴하십시오.(2문 남음)"
+
+REFERENCE           BER3_OBJ3_1
+LANG_ENGLISH        "88 고사포를 파괴하십시오.(1문 남음)"
+
+REFERENCE           BER3_OBJ3
+LANG_ENGLISH        "88 고사포를 파괴하십시오."
+
+REFERENCE           BER3_WARP_PLAZA
+LANG_ENGLISH        "CHARGE_PLAZA"
+
+ENDMARKER

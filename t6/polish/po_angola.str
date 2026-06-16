@@ -1,0 +1,418 @@
+// Dumped from fastfile "po_angola".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"POZORNY TRYUMF\"^L"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_001A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Moździerze przestały strzelać..."
+
+REFERENCE           ANGOLA_HINT_MORTAR_PICKUP
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby podnieść moździerz"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_2
+LANG_POLISH         "PROWINCJA CUNENE, ^LANGOLA^L"
+
+REFERENCE           ANGOLA_BOARD_BUFFEL_HINT
+LANG_POLISH         "Naciśnij [{+activate}], żeby wsiąść do Buffela"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_3
+LANG_POLISH         "ALEKS ^LMASON^L"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_FIRST_WAVE
+LANG_POLISH         "Zniszcz pierwszą falę czołgów"
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_4
+LANG_POLISH         "WYDZIAŁ OPERACJI SPECJALNYCH ^LCIA^L"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_006A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Tak... Jak my wszyscy."
+
+REFERENCE           ANGOLA_CONVOY_WARNING
+LANG_POLISH         "Opuszczasz strefę walk."
+
+REFERENCE           ANGOLA_INTROSCREEN_LINE_5
+LANG_POLISH         "2 LIPCA ^L1986^L"
+
+REFERENCE           ANGOLA_BREAK_LOCK
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby zniszczyć zamek"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_006A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Zginął w ogniu."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_001A_MASO_D
+LANG_POLISH         "^1Mason: ^7Trzymaj się!"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           ANGOLA_MORTAR_TUTORIAL
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać moździerze."
+
+REFERENCE           ANGOLA_OBJ_DESTROY_TECHNICAL
+LANG_POLISH         "Wyeliminuj strzelców na ciężarówkach"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           ANGOLA_STRAFE_FAIL
+LANG_POLISH         "Konwój został zniszczony, trzeba zniszczyć więcej czołgów."
+
+REFERENCE           ANGOLA_CALL_FAIL
+LANG_POLISH         "Konwój został zniszczony, musisz skontaktować się z Hudsonem przez radio."
+
+REFERENCE           ANGOLA_HELI_MG
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby strzelić z broni"
+
+REFERENCE           ANGOLA_BUFFEL_FAIL
+LANG_POLISH         "Konwój został zniszczony, musisz poprowadzić szturm."
+
+REFERENCE           ANGOLA_STRAFE_HINT
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby wezwać wsparcie lotnicze"
+
+REFERENCE           ANGOLA_TANK_FAIL
+LANG_POLISH         "Linia została przełamana, zniszczono za mało czołgów."
+
+REFERENCE           ANGOLA_OBJ_DESTROY_FINAL_WAVE
+LANG_POLISH         "Zniszcz ostatnią falę, korzystając ze śmigłowca Hudsona [&&1 z 3]"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_019A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zajmę się nimi!"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_TANKS
+LANG_POLISH         "Zniszcz pierwszą falę czołgów"
+
+REFERENCE           ANGOLA_HELI_STRAFE
+LANG_POLISH         "Użyj ^3[{+speed_throw}]^7, żeby wykonywać uniki"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_010A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Ostrzał z moździerzy oznacza, że LRWA szykuje się do ataku."
+
+REFERENCE           ANGOLA_OBJ_DESTROY_MORTAR
+LANG_POLISH         "Wyeliminuj załogi moździerzy"
+
+REFERENCE           ANGOLA_OBJ_DESTROY_RPGS
+LANG_POLISH         "Odeprzyj atak przeciwników z RPG."
+
+REFERENCE           ANGOLA_OBJ_DESTROY_SECOND_WAVE
+LANG_POLISH         "Zniszcz drugą falę czołgów"
+
+REFERENCE           ANGOLA_OBJ_GET_TO_BUFFEL
+LANG_POLISH         "Wsiądź do Buffela i poprowadź ostateczne natarcie"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_018A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mason, słyszysz?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera, Mason! Przez przypadek zniszczyli działka śmigłowca!"
+
+REFERENCE           ANGOLA_OBJ_FOLLOW_BUFFEL
+LANG_POLISH         "Rusz naprzód razem z konwojem"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_019A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dawaj, Hudson."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_012A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7RUSZAĆ!"
+
+REFERENCE           ANGOLA_OBJ_START
+LANG_POLISH         "Przygotuj się na atak LRWA"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           ANGOLA_CONVOY_FAIL
+LANG_POLISH         "Byłeś zbyt widoczny, pozostań bliżej konwoju."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_008A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Podchodzę do kolejnego ataku."
+
+REFERENCE           ANGOLA_ABANDON_FAIL
+LANG_POLISH         "Opuściłeś konwój."
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_S
+LANG_POLISH         "^1Mason: ^7Hudson, oni mają wsparcie czołgów T-62."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_034A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Nie opuszczaj konwoju!"
+
+REFERENCE           ANGOLA_HELI_AIM
+LANG_POLISH         "Aby wycelować, użyj ^3[{+lookstick}]^7"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_021A_MASO_D
+LANG_POLISH         "^1Mason: ^7Wiemy. Savimbi prowadzi kontratak."
+
+REFERENCE           ANGOLA_HELI_ROCKET
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7, żeby wystrzelić rakiety"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_017A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Nie możesz opuścić konwoju!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_1_01_001A_MASO_D
+LANG_POLISH         "^1Mason: ^7Nie!!!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_003A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Zbliżają się! Zbliżają się, bracia!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_002A_MASO_D
+LANG_POLISH         "^1Mason: ^7Potrzebna mi pomoc!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_004A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Mason!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_005A_MASO_D
+LANG_POLISH         "^1Mason: ^7Savimbi, musisz pomóc..."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_025A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Oczekujemy, że wkrótce odezwą się ludzie Savimbiego."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_M
+LANG_POLISH         "^1Mason: ^7Puszczaj, do cholery!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_003A_MASO_S
+LANG_POLISH         "^1Mason: ^7Wycofaj się!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_036A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Czasami jest za późno, żeby kogoś ocalić."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_030A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Trzymaj się blisko! Osłaniaj konwój!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_009A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Musimy się stąd wynosić, zanim zginiemy jak on."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_011A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Jeśli chcą walki, będą ją mieli!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_015A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Powinieneś zostać przy pojazdach."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_016A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Dokąd idziesz, Mason?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_001A_MASO_M
+LANG_POLISH         "^1Mason: ^7Cholera, Hudson! Oni mają wsparcie czołgów T-62."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_037A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Jednostki LRWA kierują się w twoją stronę, są w odległości jednego kilometra na północ."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Gość ma jaja. Muszę to przyznać."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_022A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Gość ma... Muszę to przyznać."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_023A_MASO_D
+LANG_POLISH         "^1Mason: ^7Co z Woodsem? Czy wiadomo, gdzie się znajduje?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_024A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Przenoszą go z jednego miejsca do drugiego."
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_032A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Musisz trzymać się blisko konwoju!"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_033A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Musimy się trzymać razem, Mason. Nie oddalaj się!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_2_02_035A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Jesteś zbyt daleko od konwoju!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_002A_MASO_D
+LANG_POLISH         "^1Mason: ^7Są gotowi do natarcia."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_004A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Walczcie, bracia!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_007A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Mason! Wyeliminuj stanowiska moździerzy!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_008A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Są za skałami!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_015A_MASO_D
+LANG_POLISH         "^1Mason: ^7Stanowiska moździerzy zniszczone!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_012A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mason, ruszę do ataku na twój znak."
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_013A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Czekam na twój sygnał, Mason."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_3_03_014A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zniszcz czołgi, Hudson!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_002A_MASO_D
+LANG_POLISH         "^1Mason: ^7Musisz zniszczyć to zagrożenie."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_003A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Rozpoczynam atak."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera! Strzelają do mnie z dołu!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_015A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Strzelają do mnie z dołu!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_016A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7W końcu któremuś się poszczęści!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_017A_MASO_D
+LANG_POLISH         "^1Mason: ^7Atakują cię z ciężarówek z KM!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_004A_MASO_D
+LANG_POLISH         "^1Mason: ^7Świetnie, Hudson."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_018A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie mogę wykonać kolejnego ataku, dopóki nie zniszczysz tych ciężarówek z KM!"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_020A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ciężarówki z KM zniszczone. Ruszaj, Hudson!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_005A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ciągle atakują tymi czołgami."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_021A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Przez przypadek zniszczyli działka śmigłowca!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_022A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie dam rady wykonać kolejnego ataku!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_010A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Dawaj, przyjacielu."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_023A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Wskakuj na pokład, Mason!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_024A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Mason, wsiądź do Buffela!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_025A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Jesteśmy gotowi do drogi. Wskakuj, Mason!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_4_04_011A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Są słabi! Musimy ich wykończyć!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_001A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Śmierć LRWA!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_003A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Nasza droga ku zwycięstwu właśnie się rozpoczęła!"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_002A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Odszukać i zabić resztę!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_004A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Mój przyjaciel z wysoka!"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_005A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Zabiłeś dziś wielu ludzi, co?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_5_05_007A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Gdzie jest Woods?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_008A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7LRWA jeszcze nie jest pokonane."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_058A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7To bardzo ryzykowna misja ratunkowa, przyjacielu."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_009A_MASO_D
+LANG_POLISH         "^1Mason: ^7Gdzie on jest?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_010A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Jest więziony przez pewnego przemytnika broni z Nikaragui. Bardzo niebezpiecznego człowieka."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_011A_MASO_D
+LANG_POLISH         "^1Mason: ^7Gdzie?"
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_012A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Około dwóch mil na północ. Na pokładzie barki płynącej rzeką Kubango."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_013A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Pewnie już nie żyje."
+
+REFERENCE           ANGOLA_VOX_VOX_ANG_6_06_014A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ruszajmy, Hudson."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+ENDMARKER

@@ -1,0 +1,139 @@
+// Dumped from fastfile "ru_so_cmp_frontend".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FRONTEND_CYCLE_MISSIONS
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 3}]^7 для выбора задания."
+
+REFERENCE           FRONTEND_SF_SINGAPORE
+LANG_RUSSIAN        "Причал"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           FRONTEND_WARMAP_AVAILABLE
+LANG_RUSSIAN        "Получена карта для ударной группы"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           FRONTEND_PRESENCE_REQUESTED
+LANG_RUSSIAN        "Дэвид Мэйсон, вас просят зайти в командный пункт."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           FRONTEND_PRESS_X_TO_SELECT
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы подтвердить выбор задания."
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           FRONTEND_USE_STRIKEFORCE
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы получить доступ к ударной группе."
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           FRONTEND_REPORT_TO_WAR_ROOM
+LANG_RUSSIAN        "Доложить в командный пункт."
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+REFERENCE           FRONTEND_UNITS_REMAINING
+LANG_RUSSIAN        "Осталось подкреплений"
+
+REFERENCE           FRONTEND_SF_CARRIER
+LANG_RUSSIAN        "Авианосец"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           FRONTEND_SF_OVERFLOW
+LANG_RUSSIAN        "Overflow"
+
+REFERENCE           FRONTEND_SF_AFGHANISTAN
+LANG_RUSSIAN        "Афганистан"
+
+REFERENCE           FRONTEND_SF_DRONE
+LANG_RUSSIAN        "Фабрика дронов"
+
+REFERENCE           FRONTEND_SF_SOCOTRA
+LANG_RUSSIAN        "Socotra"
+
+REFERENCE           FRONTEND_SF_AT_RISK
+LANG_RUSSIAN        "Риск"
+
+REFERENCE           FRONTEND_INCOMING_MESSAGE
+LANG_RUSSIAN        "Сообщение от адмирала Бриггса"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+ENDMARKER

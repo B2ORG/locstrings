@@ -1,0 +1,76 @@
+// Dumped from fastfile "ja_zm_highrise".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
+LANG_JAPANESE       "トランプル・スチーム"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SPRINGPAD
+LANG_JAPANESE       " ^3[{+activate}]^7 長押しで パーツ追加"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SPRINGPAD
+LANG_JAPANESE       "パーツが追加された"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
+LANG_JAPANESE       "トランプル・スチーム を手に入れた"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
+LANG_JAPANESE       "^3[{+actionslot 1}]^7 でトランプル・スチーム を使う"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SLIPGUN
+LANG_JAPANESE       "パーツが追加された"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで トランプル・スチームを入手"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで トランプル・スチームを拾う"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SLIPGUN
+LANG_JAPANESE       " ^3[{+activate}]^7 長押しで パーツ追加"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
+LANG_JAPANESE       "スリッキファイアー を手に入れた"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
+LANG_JAPANESE       "スリッキファイアー"
+
+REFERENCE           ZM_HIGHRISE_GRAB_KEYS
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで キーを入手"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで スリッキファイアーを入手"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで スリッキファイアーを拾う"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
+LANG_JAPANESE       "^3[{+actionslot 1}]^7 でスリッキファイアー を使う"
+
+REFERENCE           ZM_HIGHRISE_BUILD_KEYS
+LANG_JAPANESE       " ^3[{+activate}]^7 長押しで エレベーターキーを 使う"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
+LANG_JAPANESE       "パーツが追加された"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_KEYS
+LANG_JAPANESE       "キーを 手に入れた"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
+LANG_JAPANESE       "キー"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで キーを拾う"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
+LANG_JAPANESE       "^3[{+actionslot 1}]^7 でキーを使う"
+
+REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ボールを拾う"
+
+REFERENCE           ZM_HIGHRISE_SQ_PUTDOWN_BALL
+LANG_JAPANESE       "^3[{+activate}]^7 長押しで ボールを置く"
+
+ENDMARKER

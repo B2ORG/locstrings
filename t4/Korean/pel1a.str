@@ -1,0 +1,34 @@
+// Dumped from fastfile "pel1a".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1A_INTROSCREEN_INFO
+LANG_ENGLISH        "제 1해병사단"
+
+REFERENCE           PEL1A_OBJECTIVE2
+LANG_ENGLISH        "적 박격포 운용병을 제거하십시오.[&&1명 남음]"
+
+REFERENCE           PEL1A_INTROSCREEN_TITLE
+LANG_ENGLISH        "'불태우기'"
+
+REFERENCE           PEL1A_OBJECTIVE3
+LANG_ENGLISH        "마지막 박격포 진지에서 아군과 합류하십시오."
+
+REFERENCE           PEL1A_INTROSCREEN_PLACE
+LANG_ENGLISH        "펠레리우섬, 화이트 해변"
+
+REFERENCE           PEL1A_INTROSCREEN_DATE
+LANG_ENGLISH        "1944년 9월 15일"
+
+REFERENCE           PEL1A_OBJECTIVE1
+LANG_ENGLISH        "참호 내부로 진입하십시오."
+
+REFERENCE           PEL1A_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 밀러"
+
+REFERENCE           PEL1A_THROWSMOKE
+LANG_ENGLISH        "안전하게 통과하려면 [{+smoke}]를 눌러 연막탄을 투척하십시오."
+
+ENDMARKER

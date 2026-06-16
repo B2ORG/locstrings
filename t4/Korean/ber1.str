@@ -1,0 +1,43 @@
+// Dumped from fastfile "ber1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER1_REGROUP_BERM
+LANG_ENGLISH        "분대와 합류하십시오."
+
+REFERENCE           BER1_CLEAR_CLOCKTOWER
+LANG_ENGLISH        "전차가 진격할 수 있도록 판저슈렉과 기관총을 제거하십시오."
+
+REFERENCE           BER1_CLEAR_RUINS
+LANG_ENGLISH        "독일군의 방어진지를 공격하십시오."
+
+REFERENCE           BER1_CLEAR_OFFICE
+LANG_ENGLISH        "사무건물을 통과해 진격하십시오."
+
+REFERENCE           BER1_ENTER_ASYLUM
+LANG_ENGLISH        "병원 내부로 진입하십시오."
+
+REFERENCE           BER1_CLEAR_ASYLUM
+LANG_ENGLISH        "병원에 있는 적을 제거하십시오."
+
+REFERENCE           BER1_PUSH_GERMANS
+LANG_ENGLISH        "후퇴하는 독일군을 살해하십시오."
+
+REFERENCE           BER1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'철의 포위망'"
+
+REFERENCE           BER1_INTROSCREEN_PLACE
+LANG_ENGLISH        "독일, 판코프"
+
+REFERENCE           BER1_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 4월 23일"
+
+REFERENCE           BER1_INTROSCREEN_INFO
+LANG_ENGLISH        "제 3충격군"
+
+REFERENCE           BER1_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 페트렌코"
+
+ENDMARKER

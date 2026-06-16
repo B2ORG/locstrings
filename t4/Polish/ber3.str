@@ -1,0 +1,61 @@
+// Dumped from fastfile "ber3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3_OBJ4
+LANG_ENGLISH        "WejdŸ do Reichstagu."
+
+REFERENCE           BER3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Serce Rzeszy'"
+
+REFERENCE           BER3_OBJ0
+LANG_ENGLISH        "Do³¹cz do oddzia³u."
+
+REFERENCE           BER3_INTROSCREEN_DATE
+LANG_ENGLISH        "30 kwietnia 1945"
+
+REFERENCE           BER3_INTROSCREEN_INFO
+LANG_ENGLISH        "150. Dywizja Strzelców"
+
+REFERENCE           BER3_WARP_REICH
+LANG_ENGLISH        "REICHSTAG_STEPS"
+
+REFERENCE           BER3_INTROSCREEN_PLACE
+LANG_ENGLISH        "Reichstag, Berlin"
+
+REFERENCE           BER3_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Petrenko"
+
+REFERENCE           BER3_OBJ1
+LANG_ENGLISH        "Rusz naprzód poprzez budynki."
+
+REFERENCE           BER3_OBJ2
+LANG_ENGLISH        "Zaatakuj plac."
+
+REFERENCE           BER3_HINT_PLANT_CHARGE
+LANG_ENGLISH        "Naciœnij &&1, aby za³o¿yæ ³adunek"
+
+REFERENCE           BER3_OBJ3_4
+LANG_ENGLISH        "Zniszcz dzia³a plot. 88 - pozosta³y 4."
+
+REFERENCE           BER3_OBJ3_3
+LANG_ENGLISH        "Zniszcz dzia³a plot. 88 - pozosta³y 3."
+
+REFERENCE           BER3_WARP_INTRO
+LANG_ENGLISH        "INTRO"
+
+REFERENCE           BER3_OBJ3_2
+LANG_ENGLISH        "Zniszcz dzia³a plot. 88 - pozosta³y 2."
+
+REFERENCE           BER3_OBJ3_1
+LANG_ENGLISH        "Zniszcz dzia³a plot. 88 - pozosta³o 1."
+
+REFERENCE           BER3_OBJ3
+LANG_ENGLISH        "Zniszcz przeciwlotnicze 88-ki."
+
+REFERENCE           BER3_WARP_PLAZA
+LANG_ENGLISH        "CHARGE_PLAZA"
+
+ENDMARKER

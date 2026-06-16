@@ -1,0 +1,970 @@
+// Dumped from fastfile "ru_common_zombie".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PT_BACK_FOR_MAP
+LANG_ENGLISH        "Нажмите кнопку BACK, чтобы отобразить карту."
+
+REFERENCE           ZM_PT_DEATH_CARD
+LANG_ENGLISH        "Подберите свою метку смерти, чтобы забрать потерянное снаряжение"
+
+REFERENCE           ZM_PT_ENTER_NML
+LANG_ENGLISH        "Следующая остановка: НЕЙТРАЛЬНАЯ ЗОНА"
+
+REFERENCE           ZM_PT_MACHINES_ON
+LANG_ENGLISH        "Все машины возможностей работают"
+
+REFERENCE           ZM_PT_MONEY_DROP
+LANG_ENGLISH        "Нажмите кнопку вниз на крестовине, чтобы перевести сокомандникам деньги"
+
+REFERENCE           ZM_PT_PISTOL_LOW_AMMO
+LANG_ENGLISH        "У вашего пистолета кончается боезапас. Купите другое оружие."
+
+REFERENCE           ZM_PT_PLAYER_DOWN
+LANG_ENGLISH        "У нас раненый! Попросите союзников реанимировать вас."
+
+REFERENCE           ZM_PT_PLAYER_NEEDS_REVIVING
+LANG_ENGLISH        "Ваш союзник ранен и нуждается в реанимации!"
+
+REFERENCE           ZM_PT_REINFORCEMENTS
+LANG_ENGLISH        "Нажмите кнопку вверх на крестовине, чтобы применить особую возможность"
+
+REFERENCE           ZM_PT_REPAIR_BOARDS
+LANG_ENGLISH        "Заделывайте окна, чтобы задержать зомби"
+
+REFERENCE           ZM_PT_SECRET_WEAPONS
+LANG_ENGLISH        "В некоторых ящиках лежит секретное оружие"
+
+REFERENCE           ZM_PT_UNLOCK_DOORS
+LANG_ENGLISH        "Открывайте двери, чтобы исследовать новые области"
+
+REFERENCE           ZM_PT_WALL_WEAPONS
+LANG_ENGLISH        "Ищите на стенах оружие и боеприпасы"
+
+REFERENCE           ZM_PT_WEAPON_BOX
+LANG_ENGLISH        "Воспользуйтесь картой, чтобы найти волшебный ящик"
+
+REFERENCE           ZM_PT_WEAPON_BOX2
+LANG_ENGLISH        "Синий свет поможет вам найти волшебный ящик"
+
+REFERENCE           ZM_PT_WHY_DONT_YOU_BUY_WEAPONS_PART1
+LANG_ENGLISH        "Вам нужно усовершенствовать оружие!"
+
+REFERENCE           ZM_PT_WHY_DONT_YOU_BUY_WEAPONS_PART2
+LANG_ENGLISH        "Покупайте новое оружие со стен!"
+
+REFERENCE           ZM_PT_ZOMBIE_BREAKOUT
+LANG_ENGLISH        "ВНИМАНИЕ! Зомби атакуют космодром!"
+
+REFERENCE           ZOMBIE_ABILITY_AIRSTRIKE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать авиаудар [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_AIRSTRIKE_USED
+LANG_ENGLISH        "Использован авиаудар"
+
+REFERENCE           ZOMBIE_ABILITY_ARTILLERY
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать артудар [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_ARTILLERY_USED
+LANG_ENGLISH        "Использован арт. удар"
+
+REFERENCE           ZOMBIE_ABILITY_CLOAK
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать маскировку [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_CLOAK_USED
+LANG_ENGLISH        "Использована маскировка"
+
+REFERENCE           ZOMBIE_ABILITY_DOGS
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать собак [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_DOGS_USED
+LANG_ENGLISH        "Вызваны собаки"
+
+REFERENCE           ZOMBIE_ABILITY_ENDURANCE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать бомбу с дистанционным подрывом [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_ENDURANCE_USED
+LANG_ENGLISH        "Использована \"Выносливость\""
+
+REFERENCE           ZOMBIE_ABILITY_HELI_USED
+LANG_ENGLISH        "Использован вертолет"
+
+REFERENCE           ZOMBIE_ABILITY_HELICOPTER
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать вертолет [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_NAPALM
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать напалм [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_NAPALM_USED
+LANG_ENGLISH        "Использован напалмовый удар"
+
+REFERENCE           ZOMBIE_ABILITY_PORTAL
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать портал [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_PORTAL_USED
+LANG_ENGLISH        "Использован портал"
+
+REFERENCE           ZOMBIE_ABILITY_RCBOMB
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать бомбу с дистанционным подрывом [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_RCCAR_USED
+LANG_ENGLISH        "Использована радиоуправляемая машинка"
+
+REFERENCE           ZOMBIE_ABILITY_TIMEDISTORTION
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 для искажения времени [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_TURRET
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы заказать стационарное орудие [первое использование: 500]\nДоп. [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_ABILITY_TURRET_USED
+LANG_ENGLISH        "Использовано стационарное орудие"
+
+REFERENCE           ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы включить телепорт"
+
+REFERENCE           ZOMBIE_AIRSTRIKE_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Авиаудар по вашим координатам"
+
+REFERENCE           ZOMBIE_AIRSTRIKE_NOT_AVAILABLE
+LANG_ENGLISH        "Авиаудар временно недоступен"
+
+REFERENCE           ZOMBIE_AK74U_UPGRADED
+LANG_ENGLISH        "AK-74УХ"
+
+REFERENCE           ZOMBIE_APE_ENTRY
+LANG_ENGLISH        "ВНИМАНИЕ! УГРОЗА ВТОРЖЕНИЯ ОБЕЗЬЯН!"
+
+REFERENCE           ZOMBIE_ARTILLERY_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Артиллерийский удар по вашим координатам"
+
+REFERENCE           ZOMBIE_ARTILLERY_NOT_AVAILABLE
+LANG_ENGLISH        "Артиллерийский удар временно недоступен"
+
+REFERENCE           ZOMBIE_AUG_GL_UPGRADED
+LANG_ENGLISH        "Улучшенный гранатомет для AUG"
+
+REFERENCE           ZOMBIE_AUG_UPGRADED
+LANG_ENGLISH        "AUG-50M3"
+
+REFERENCE           ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы включить автоматическое орудие [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_AWARDS_AND_TITLES
+LANG_ENGLISH        "Награды и звания"
+
+REFERENCE           ZOMBIE_BACK
+LANG_ENGLISH        "Назад"
+
+REFERENCE           ZOMBIE_BARRACKS
+LANG_ENGLISH        "КАЗАРМА"
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Вы уже купили прыгающие мины"
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Нажмите ^3[{+actionslot 4}]^7, а затем ^3[{+attack}]^7, чтобы установить прыгающую мину"
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы купить прыгающую мину [стоимость: 1000 - только один раз]"
+
+REFERENCE           ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы построить мост [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы купить барьер [стоимость: 10]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы купить барьер [стоимость: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы купить барьер [стоимость: 20]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы купить барьер [стоимость: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы убрать обломки [стоимость: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть доступ [стоимость: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь [стоимость: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_TRAP
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы активировать ловушку [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 10]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 20]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 30]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 40]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы восстановить барьер [награда: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы активировать огненный барьер [стоимость: 500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть шкафчик [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть шкафчик [стоимость: 1500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть шкафчик [стоимость: 2000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть шкафчик [стоимость: 500]"
+
+REFERENCE           ZOMBIE_CALLING_LANDER
+LANG_ENGLISH        "Вызов лунного модуля в указанное место"
+
+REFERENCE           ZOMBIE_CHAINSAW_PICKUP
+LANG_ENGLISH        "Резня бензопилой!"
+
+REFERENCE           ZOMBIE_CHALLENGES
+LANG_ENGLISH        "Испытания"
+
+REFERENCE           ZOMBIE_CHALLENGES_DONE
+LANG_ENGLISH        "Новый текст"
+
+REFERENCE           ZOMBIE_CHINA_LAKE_UPGRADED
+LANG_ENGLISH        "\"Чайна Бич\""
+
+REFERENCE           ZOMBIE_CLAYMORE_ALREADY_PURCHASED
+LANG_ENGLISH        "Вы уже купили мины \"Клэймор\""
+
+REFERENCE           ZOMBIE_CLAYMORE_HOWTO
+LANG_ENGLISH        "Нажмите ^3[{+actionslot 4}]^7, а затем ^3[{+attack}]^7, чтобы установить мину \"Клэймор\""
+
+REFERENCE           ZOMBIE_CLAYMORE_PURCHASE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы купить мину \"Клэймор\" [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Сначала нужно открыть ворота"
+
+REFERENCE           ZOMBIE_CLOAK_NOT_AVAILABLE
+LANG_ENGLISH        "Маскировка недоступна"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы использовать трос [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать трос"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "Сначала нужно задействовать трос"
+
+REFERENCE           ZOMBIE_COMMANDO_UPGRADED
+LANG_ENGLISH        "Хищник"
+
+REFERENCE           ZOMBIE_COOLDOWN_WAIT
+LANG_ENGLISH        "Ожидание восстановления"
+
+REFERENCE           ZOMBIE_COOP
+LANG_ENGLISH        "Совместная игра"
+
+REFERENCE           ZOMBIE_CREDITS
+LANG_ENGLISH        "Создатели игры"
+
+REFERENCE           ZOMBIE_CROSSBOW_EXPLOSIVE_UPGRADED
+LANG_ENGLISH        "Мерзкий Лоутон"
+
+REFERENCE           ZOMBIE_CROSSBOW_UPGRADED
+LANG_ENGLISH        "Мерзкий Лоутон"
+
+REFERENCE           ZOMBIE_CZ75_DW_UPGRADED
+LANG_ENGLISH        "Джейн-Беда"
+
+REFERENCE           ZOMBIE_CZ75_UPGRADED
+LANG_ENGLISH        "Беда"
+
+REFERENCE           ZOMBIE_DOGS_NOT_AVAILABLE
+LANG_ENGLISH        "Собаки недоступны"
+
+REFERENCE           ZOMBIE_DOOR_ACTIVATE_COUNTER
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы включить счетчик убийств [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_DRAGUNOV_UPGRADED
+LANG_ENGLISH        "D115 \"Деструктор\""
+
+REFERENCE           ZOMBIE_EARNED_AIRSTRIKE
+LANG_ENGLISH        "Получен доступ к авиаудару"
+
+REFERENCE           ZOMBIE_EARNED_ARTILLERY
+LANG_ENGLISH        "Получен доступ к арт. удару"
+
+REFERENCE           ZOMBIE_EARNED_CLOAK
+LANG_ENGLISH        "Получен доступ к маскировке"
+
+REFERENCE           ZOMBIE_EARNED_DOGS
+LANG_ENGLISH        "Получен доступ к собакам"
+
+REFERENCE           ZOMBIE_EARNED_ENDURANCE
+LANG_ENGLISH        "Получена \"Выносливость\""
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER
+LANG_ENGLISH        "Получен доступ к вертолету"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER_COMLINK
+LANG_ENGLISH        "Получен доступ к вызову вертолета"
+
+REFERENCE           ZOMBIE_EARNED_HELICOPTER_X2
+LANG_ENGLISH        "Получен доступ к вертолету (X2)"
+
+REFERENCE           ZOMBIE_EARNED_NAPALM
+LANG_ENGLISH        "Получен доступ к напалмовому удару"
+
+REFERENCE           ZOMBIE_EARNED_PORTAL
+LANG_ENGLISH        "Получен доступ к порталу"
+
+REFERENCE           ZOMBIE_EARNED_RADAR
+LANG_ENGLISH        "Получен доступ к радару"
+
+REFERENCE           ZOMBIE_EARNED_RCBOMB
+LANG_ENGLISH        "Получен доступ к радиоуправляемой бомбе"
+
+REFERENCE           ZOMBIE_EARNED_TURRET
+LANG_ENGLISH        "Получен доступ к орудию"
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы включить питание"
+
+REFERENCE           ZOMBIE_ENDURANCE_NOT_AVAILABLE
+LANG_ENGLISH        "\"Выносливость\" недоступна"
+
+REFERENCE           ZOMBIE_ENFIELD_UPGRADED
+LANG_ENGLISH        "Улучшенная \"Энфилд\""
+
+REFERENCE           ZOMBIE_EXTRA_LIFE
+LANG_ENGLISH        "Получена новая жизнь\n"
+
+REFERENCE           ZOMBIE_FAMAS_UPGRADED
+LANG_ENGLISH        "G16-GL35"
+
+REFERENCE           ZOMBIE_FIRE_SALE_COST
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 10]"
+
+REFERENCE           ZOMBIE_FNFAL_UPGRADED
+LANG_ENGLISH        "ЭПК ВИН"
+
+REFERENCE           ZOMBIE_FREEZEGUN
+LANG_ENGLISH        "Вой зимы"
+
+REFERENCE           ZOMBIE_FREEZEGUN_UPGRADED
+LANG_ENGLISH        "Гнев зимы"
+
+REFERENCE           ZOMBIE_G11_LPS_UPGRADED
+LANG_ENGLISH        "G115 \"Генератор\""
+
+REFERENCE           ZOMBIE_G11_UPGRADED
+LANG_ENGLISH        "G115 \"Генератор\""
+
+REFERENCE           ZOMBIE_GALIL_UPGRADED
+LANG_ENGLISH        "Скорбец"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "Игра окончена"
+
+REFERENCE           ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы взять улучшенное оружие"
+
+REFERENCE           ZOMBIE_HAS_ABILITY
+LANG_ENGLISH        "У вас уже есть эта способность"
+
+REFERENCE           ZOMBIE_HELICOPTER_COMLINK_INBOUND
+LANG_ENGLISH        "Вертолет связи вылетел"
+
+REFERENCE           ZOMBIE_HELICOPTER_COMLINK_NOT_AVAILABLE
+LANG_ENGLISH        "Вертолет связи временно недоступен"
+
+REFERENCE           ZOMBIE_HELICOPTER_INBOUND
+LANG_ENGLISH        "Вызов вертолетов"
+
+REFERENCE           ZOMBIE_HELICOPTER_NOT_AVAILABLE
+LANG_ENGLISH        "Вертолет недоступен"
+
+REFERENCE           ZOMBIE_HELICOPTER_X2_INBOUND
+LANG_ENGLISH        "Вертолет X2 вылетел"
+
+REFERENCE           ZOMBIE_HELICOPTER_X2_NOT_AVAILABLE
+LANG_ENGLISH        "Вертолет X2 временно недоступен"
+
+REFERENCE           ZOMBIE_HK21_UPGRADED
+LANG_ENGLISH        "O115 \"Осциллятор\""
+
+REFERENCE           ZOMBIE_HS10_UPGRADED
+LANG_ENGLISH        "Тифозная Мэри"
+
+REFERENCE           ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "Требуется активировать телепорт"
+
+REFERENCE           ZOMBIE_ITHACA_UPGRADED
+LANG_ENGLISH        "Рейдер"
+
+REFERENCE           ZOMBIE_KNIFE_BALLISTIC_UPGRADED
+LANG_ENGLISH        "Рефибриллятор Краусса"
+
+REFERENCE           ZOMBIE_L96A1_UPGRADED
+LANG_ENGLISH        "I115 \"Изолятор\""
+
+REFERENCE           ZOMBIE_LANDER_HAS_ARRIVED
+LANG_ENGLISH        "Модуль сел. Готов к использованию"
+
+REFERENCE           ZOMBIE_LANDER_LAUNCH_IN
+LANG_ENGLISH        "Запуск модуля:"
+
+REFERENCE           ZOMBIE_LEADERBOARDS
+LANG_ENGLISH        "СПИСОК ЛИДЕРОВ"
+
+REFERENCE           ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "Связь установлена"
+
+REFERENCE           ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы переместиться к центральному компьютеру"
+
+REFERENCE           ZOMBIE_M14_UPGRADED
+LANG_ENGLISH        "Мнемозина"
+
+REFERENCE           ZOMBIE_M16_UPGRADED
+LANG_ENGLISH        "Костолом"
+
+REFERENCE           ZOMBIE_M1911_UPGRADED
+LANG_ENGLISH        "Мустанг и Салли"
+
+REFERENCE           ZOMBIE_M202_FLASH_UPGRADED
+LANG_ENGLISH        "Улучшенный \"Жнец\""
+
+REFERENCE           ZOMBIE_M72_LAW_UPGRADED
+LANG_ENGLISH        "M72 \"Анархия\""
+
+REFERENCE           ZOMBIE_MAC11_UPGRADED
+LANG_ENGLISH        "Улучшенный MAC11"
+
+REFERENCE           ZOMBIE_MAIN_MENU
+LANG_ENGLISH        "Главное меню"
+
+REFERENCE           ZOMBIE_MISSION_SELECT
+LANG_ENGLISH        "Выбор эпизода"
+
+REFERENCE           ZOMBIE_MP40_UPGRADED
+LANG_ENGLISH        "Форсаж"
+
+REFERENCE           ZOMBIE_MP5K_UPGRADED
+LANG_ENGLISH        "MP115 \"Коллайдер\""
+
+REFERENCE           ZOMBIE_MPL_UPGRADED
+LANG_ENGLISH        "MPL-LF"
+
+REFERENCE           ZOMBIE_MUTATORS
+LANG_ENGLISH        "Модификаторы"
+
+REFERENCE           ZOMBIE_NAPALM_INBOUND_NEAR_YOUR_POSITION
+LANG_ENGLISH        "Напалмовый удар по вашим координатам"
+
+REFERENCE           ZOMBIE_NAPALM_NOT_AVAILABLE
+LANG_ENGLISH        "Напалмовый удар недоступен"
+
+REFERENCE           ZOMBIE_NEED_POWER
+LANG_ENGLISH        "Сначала нужно включить питание!"
+
+REFERENCE           ZOMBIE_OPTIONS
+LANG_ENGLISH        "Настройка"
+
+REFERENCE           ZOMBIE_PARIS_TRANSPORTER_ACTIVATED
+LANG_ENGLISH        "Транспорт готов"
+
+REFERENCE           ZOMBIE_PARIS_TRANSPORTER_WAITING
+LANG_ENGLISH        "Транспорт ждет всех игроков"
+
+REFERENCE           ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы использовать орудие [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_PERK_BANDOLIER
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Патрон-спрайт\" [стоимость: &&1] "
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Пиф-паф-пиво\" [стоимость: &&1] "
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Быстроколу\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Удерживайте ^3&&1^7 для покупки"
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Джаггер-фанту\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Улучшайзер\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Реаниматор\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE_SOLO
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Реаниматор\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_PERK_STOPPINGPOWER
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы приобрести \"Урон-плюс\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_PLAYER_ABILITIES
+LANG_ENGLISH        "СПОСОБНОСТИ ИГРОКА"
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Зомби уничтожен!"
+
+REFERENCE           ZOMBIE_PM63_UPGRADED
+LANG_ENGLISH        "Токио Роуз"
+
+REFERENCE           ZOMBIE_PORTAL_NOT_AVAILABLE
+LANG_ENGLISH        "Портал недоступен"
+
+REFERENCE           ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы установить связь с центральным компьютером"
+
+REFERENCE           ZOMBIE_POWERCELL_DROPOFF
+LANG_ENGLISH        "Нажмите и удерживайте ^3&&1^7, чтобы установить элемент питания"
+
+REFERENCE           ZOMBIE_POWERCELL_PICKUP
+LANG_ENGLISH        "Нажмите и удерживайте ^3&&1^7, чтобы подобрать элемент питания"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Удвоение очков:"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Мгновенное убийство:"
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Максимум боеприпасов!"
+
+REFERENCE           ZOMBIE_POWERUP_MINIGUN
+LANG_ENGLISH        "Тяжелый пулемет!"
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Зомби-бомба!"
+
+REFERENCE           ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы открыть дверь"
+
+REFERENCE           ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы запустить лифт [стоимость: 500]"
+
+REFERENCE           ZOMBIE_PYTHON_UPGRADED
+LANG_ENGLISH        "Кобра"
+
+REFERENCE           ZOMBIE_RADAR_NOT_AVAILABLE
+LANG_ENGLISH        "Радар недоступен"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 650]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 750]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 850]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы получить случайное оружие [стоимость: 950]"
+
+REFERENCE           ZOMBIE_RAY_GUN_UPGRADED
+LANG_ENGLISH        "Лучемет X2"
+
+REFERENCE           ZOMBIE_RCBOMB_NOT_AVAILABLE
+LANG_ENGLISH        "Радиоуправляемая бомба недоступна"
+
+REFERENCE           ZOMBIE_REVIVING_SOLO
+LANG_ENGLISH        "Реанимация  "
+
+REFERENCE           ZOMBIE_REWARD
+LANG_ENGLISH        "Награда:"
+
+REFERENCE           ZOMBIE_ROTTWEIL72_UPGRADED
+LANG_ENGLISH        "Аид"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Раунд"
+
+REFERENCE           ZOMBIE_ROUND_AIRSTRIKE
+LANG_ENGLISH        "Авиаудар доступен в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_ARTILLERY
+LANG_ENGLISH        "Арт.удар доступен в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "И да начнется бойня!"
+
+REFERENCE           ZOMBIE_ROUND_CLOAK
+LANG_ENGLISH        "Маскировка доступна в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_DOGS
+LANG_ENGLISH        "Собаки доступны в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "Выжили в бойне"
+
+REFERENCE           ZOMBIE_ROUND_ENDURANCE
+LANG_ENGLISH        "\"Выносливость\" будет доступна в &&1 раунде"
+
+REFERENCE           ZOMBIE_ROUND_HELICOPTER
+LANG_ENGLISH        "Вертолет доступен в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_NAPALM
+LANG_ENGLISH        "Напалмовый удар доступен в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_PORTAL
+LANG_ENGLISH        "Портал доступен в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_RCBOMB
+LANG_ENGLISH        "Радиоуправляемая бомба доступна в раунде &&1"
+
+REFERENCE           ZOMBIE_ROUND_TIMEDISTORTION
+LANG_ENGLISH        "Искажение времени будет доступно в &&1 раунде"
+
+REFERENCE           ZOMBIE_ROUND_TURRET
+LANG_ENGLISH        "Стационарное орудие доступно в раунде &&1"
+
+REFERENCE           ZOMBIE_RPK_UPGRADED
+LANG_ENGLISH        "R115 \"Резонатор\""
+
+REFERENCE           ZOMBIE_SOLO
+LANG_ENGLISH        "ОДИН ИГРОК"
+
+REFERENCE           ZOMBIE_SOLO_LIFE_LOST
+LANG_ENGLISH        "Жизнь потеряна, реанимация игрока"
+
+REFERENCE           ZOMBIE_SPAS_UPGRADED
+LANG_ENGLISH        "SPAZ-24"
+
+REFERENCE           ZOMBIE_SPECTRE_UPGRADED
+LANG_ENGLISH        "Фантом"
+
+REFERENCE           ZOMBIE_START_TPAD
+LANG_ENGLISH        "Вернитесь к ядру"
+
+REFERENCE           ZOMBIE_SURVIVED_NONE
+LANG_ENGLISH        "Раундов пережито: 0"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Раундов пережито: 1"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Раундов пережито: &&1"
+
+REFERENCE           ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "Телепорт готовится к работе."
+
+REFERENCE           ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы переместиться к центральному компьютеру [стоимость: 1500]"
+
+REFERENCE           ZOMBIE_TESLA_GUN
+LANG_ENGLISH        "Сверхоружие DG-2"
+
+REFERENCE           ZOMBIE_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "Сверхоружие DG-3 JZ\n"
+
+REFERENCE           ZOMBIE_THUNDERGUN_UPGRADED
+LANG_ENGLISH        "Десница Зевса"
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы торговать оружием"
+
+REFERENCE           ZOMBIE_TRAP_ACTIVE
+LANG_ENGLISH        "Ловушка готова."
+
+REFERENCE           ZOMBIE_TRAP_COOLDOWN
+LANG_ENGLISH        "Ловушка перезаряжается."
+
+REFERENCE           ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы активировать ловушку [стоимость: 1000]"
+
+REFERENCE           ZOMBIE_TURRET_NOT_AVAILABLE
+LANG_ENGLISH        "Стационарное орудие недоступно"
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "затычка"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать орудие у фонтана [стоимость: 750]"
+
+REFERENCE           ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы использовать телепорт [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_VERSUS
+LANG_ENGLISH        "Противники"
+
+REFERENCE           ZOMBIE_WEAPON_AK47
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить AK-47 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AK47_MK
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить AK-47 с гранатометом ГП-30 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AK74U
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить AK-74У [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_AUG
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить AUG [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить нож Боуи [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_BOX_STORE
+LANG_ENGLISH        "Нажмите и удерживайте ^3&&1^7, чтобы перейти на склад оружия"
+
+REFERENCE           ZOMBIE_WEAPON_CHINA_LAKE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить CHINA_LAKE [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CLAYMORE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить мину \"Клэймор\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_COMMANDO
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить COMMANDO [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CROSSBOW_EXPLOSIVE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить CROSSBOW_EXPLOSIVE [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_CZ75DW
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить CZ75DW [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_DRAGUNOV
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить СВД [цена: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ENFIELD
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить ENFIELD [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FAMAS
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить FAMAS [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FNFAL
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить FNFAL [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_FRAG_GRENADE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить осколочные гранаты [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_G11
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить G11 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_GALIL
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить GALIL [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_HK21
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить HK21 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_HS10
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить HS10 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ITHACA
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить дробовик \"Итака-37\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_KIPARIS
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить \"Кипарис\" (2 шт.) [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_L96A1
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить L96A1 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M14
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить М14 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M16
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить М16 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M16_GL
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить М16 с гранатометом М203 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M1911
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить М1911 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M202_FLASH
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить светошумовую гранату М202 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M60
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить М60 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_M72_LAW
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить M72_LAW [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MAC11
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить МАС-11 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MINIGUN
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить тяжелый пулемет [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MP40
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить MP40 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MP5K
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить МР5 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_MPL
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить MPL [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_P90
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить Р90 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_PM63
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить ПМ-63 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_PYTHON
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить \"Питон\" [цена: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить лучевое оружие [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_ROTTWEIL72
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить \"Олимпию\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_RPK
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить РПК [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SABERTOOTH
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить \"Сэйбертус\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SKORPION
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить \"Скорпион\" [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SPAS
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить SPAS [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_SPECTRE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 чтобы купить SPECTRE [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы купить гранату-липучку [стоимость: 10]"
+
+REFERENCE           ZOMBIE_WEAPON_STONER63
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить ручной пулемет Stoner 63 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_TESLA
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить орудие Тесла [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_THUNDERGUN
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить электроорудие [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_UZI
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить UZI [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPON_WA2000
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы купить WA-2000 [стоимость: &&1]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7:  оружие [&&1], боеприпасы [&&2]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO_UPGRADE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7:  оружие [&&1], боеприпасы [&&2],   \n             улучшенные боеприпасы [4500]"
+
+REFERENCE           ZOMBIE_XP
+LANG_ENGLISH        "опыт"
+
+REFERENCE           ZOMBIE_XP_REWARD
+LANG_ENGLISH        "Дополнительный опыт"
+
+REFERENCE           ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать трос"
+
+REFERENCE           ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "Сначала надо задействовать трос"
+
+REFERENCE           ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Удерживайте ^3&&1^7, чтобы задействовать трос [стоимость: 1500]"
+
+ENDMARKER

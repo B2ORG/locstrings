@@ -1,0 +1,67 @@
+// Dumped from fastfile "ber3b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3B_OBJ_3
+LANG_ENGLISH        "Prosegui con la liberazione del Reichstag."
+
+REFERENCE           BER3B_INTROSCREEN_INFO
+LANG_ENGLISH        "150a divisione fucilieri"
+
+REFERENCE           BER3B_INTROSCREEN_DATE
+LANG_ENGLISH        "30 aprile 1945"
+
+REFERENCE           BER3B_INTROSCREEN_PLACE
+LANG_ENGLISH        "Il Reichstag - Berlino, Germania"
+
+REFERENCE           BER3B_OBJ_2
+LANG_ENGLISH        "Libera il piano terra del Parlamento."
+
+REFERENCE           BER3B_OBJ_1
+LANG_ENGLISH        "Assalta il Reichstag."
+
+REFERENCE           BER3B_OBJ_4
+LANG_ENGLISH        "Raccogli la bandiera russa a terra."
+
+REFERENCE           BER3B_OBJ_5
+LANG_ENGLISH        "Innalza la bandiera russa sul Reichstag."
+
+REFERENCE           BER3B_INTROSCREEN_TITLE
+LANG_ENGLISH        "'La caduta'"
+
+REFERENCE           BER3B_OBJ_FLAG_RETRIEVE
+LANG_ENGLISH        "Recupera la bandiera russa."
+
+REFERENCE           BER3B_OBJ_FLAG_CARRY
+LANG_ENGLISH        "Porta la bandiera russa sul tetto."
+
+REFERENCE           BER3B_HINT_FLAG_PICKUP
+LANG_ENGLISH        "Tieni premuto [{+activate}] per raccogliere la bandiera."
+
+REFERENCE           BER3B_HINT_FLAG_DROP
+LANG_ENGLISH        "Tieni premuto [{+usereload}] per lasciar cadere la bandiera."
+
+REFERENCE           BER3B_FLAG_FAIL_DEADQUOTE
+LANG_ENGLISH        "Hai abbandonato la bandiera!"
+
+REFERENCE           BER3B_FLAG_FAIL_WARNING
+LANG_ENGLISH        "Compagno, non abbandonare la bandiera!"
+
+REFERENCE           BER3B_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Dimitri Petrenko"
+
+REFERENCE           BER3B_OBJ_2A
+LANG_ENGLISH        "Arrampicati sulla balconata per fornire fuoco di copertura."
+
+REFERENCE           BER3B_DIARY_SKIP
+LANG_ENGLISH        "(Premi [{+activate}] per saltare.)"
+
+REFERENCE           BER3B_OBJ_2B
+LANG_ENGLISH        "Elimina i tedeschi sulla balconata sud."
+
+REFERENCE           BER3B_FLAG_PLANT_TRIGGER_HINT
+LANG_ENGLISH        "Premi [{+activate}] per piantare la bandiera."
+
+ENDMARKER

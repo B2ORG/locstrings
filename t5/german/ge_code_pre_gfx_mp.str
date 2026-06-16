@@ -1,0 +1,211 @@
+// Dumped from fastfile "ge_code_pre_gfx_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLASS_ANTIARMOR
+LANG_ENGLISH        "Soldat"
+
+REFERENCE           CLASS_ANTIARMOR_UC
+LANG_ENGLISH        "Soldat"
+
+REFERENCE           CLASS_ASSAULT
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_ASSAULT_UC
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_CLASS
+LANG_ENGLISH        "Klasse:"
+
+REFERENCE           CLASS_CLASS1
+LANG_ENGLISH        "MP"
+
+REFERENCE           CLASS_CLASS2
+LANG_ENGLISH        "Häuserkampf"
+
+REFERENCE           CLASS_CLASS3
+LANG_ENGLISH        "Soldat"
+
+REFERENCE           CLASS_CLASS4
+LANG_ENGLISH        "MG"
+
+REFERENCE           CLASS_CLASS5
+LANG_ENGLISH        "Scharfschütze"
+
+REFERENCE           CLASS_CLOSEQUARTERS
+LANG_ENGLISH        "Nahkampf"
+
+REFERENCE           CLASS_CLOSEQUARTERS_UC
+LANG_ENGLISH        "Häuserkampf"
+
+REFERENCE           CLASS_CUSTOM1
+LANG_ENGLISH        "Soldat"
+
+REFERENCE           CLASS_CUSTOM10
+LANG_ENGLISH        "Prestige-Index 5"
+
+REFERENCE           CLASS_CUSTOM2
+LANG_ENGLISH        "Leichter Schütze"
+
+REFERENCE           CLASS_CUSTOM3
+LANG_ENGLISH        "Schütze"
+
+REFERENCE           CLASS_CUSTOM4
+LANG_ENGLISH        "Nahkämpfer"
+
+REFERENCE           CLASS_CUSTOM5
+LANG_ENGLISH        "Scharfschütze"
+
+REFERENCE           CLASS_CUSTOM6
+LANG_ENGLISH        "Prestige-Index 1"
+
+REFERENCE           CLASS_CUSTOM7
+LANG_ENGLISH        "Prestige-Index 2"
+
+REFERENCE           CLASS_CUSTOM8
+LANG_ENGLISH        "Prestige-Index 3"
+
+REFERENCE           CLASS_CUSTOM9
+LANG_ENGLISH        "Prestige-Index 4"
+
+REFERENCE           CLASS_DEFAULT_ASSAULT
+LANG_ENGLISH        "Standard-Soldat"
+
+REFERENCE           CLASS_DEFAULT_HEAVYGUNNER
+LANG_ENGLISH        "Standard-Schütze"
+
+REFERENCE           CLASS_DEFAULT_SPECOPS
+LANG_ENGLISH        "Standard-Leichter Schütze"
+
+REFERENCE           CLASS_ENGINEER_UC
+LANG_ENGLISH        "Aufklärung"
+
+REFERENCE           CLASS_GRENADIER
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_MARINES_CLASSES_CAPS
+LANG_ENGLISH        "SOG-KLASSEN"
+
+REFERENCE           CLASS_NEWPROF
+LANG_ENGLISH        "Sie haben eine neue Fertigkeit erlangt:"
+
+REFERENCE           CLASS_OFFLINE_CLASS1
+LANG_ENGLISH        "Zerstörer"
+
+REFERENCE           CLASS_OFFLINE_CLASS10
+LANG_ENGLISH        "Scharfschütze"
+
+REFERENCE           CLASS_OFFLINE_CLASS11
+LANG_ENGLISH        "M1 Garand"
+
+REFERENCE           CLASS_OFFLINE_CLASS2
+LANG_ENGLISH        "Infiltrator"
+
+REFERENCE           CLASS_OFFLINE_CLASS3
+LANG_ENGLISH        "Spezialist"
+
+REFERENCE           CLASS_OFFLINE_CLASS4
+LANG_ENGLISH        "Späher"
+
+REFERENCE           CLASS_OFFLINE_CLASS5
+LANG_ENGLISH        "Infanterist"
+
+REFERENCE           CLASS_OFFLINE_CLASS6
+LANG_ENGLISH        "Veteran"
+
+REFERENCE           CLASS_OFFLINE_CLASS7
+LANG_ENGLISH        "Rächer"
+
+REFERENCE           CLASS_OFFLINE_CLASS8
+LANG_ENGLISH        "Vollstrecker"
+
+REFERENCE           CLASS_OFFLINE_CLASS9
+LANG_ENGLISH        "Beschützer"
+
+REFERENCE           CLASS_OPFOR_CLASSES_CAPS
+LANG_ENGLISH        "GEGNERKLASSEN"
+
+REFERENCE           CLASS_PRESTIGE1
+LANG_ENGLISH        "Eigen 6"
+
+REFERENCE           CLASS_PRESTIGE1_CAPS
+LANG_ENGLISH        "EIGEN 6"
+
+REFERENCE           CLASS_PRESTIGE2
+LANG_ENGLISH        "Eigen 7"
+
+REFERENCE           CLASS_PRESTIGE2_CAPS
+LANG_ENGLISH        "EIGEN 7"
+
+REFERENCE           CLASS_PRESTIGE3
+LANG_ENGLISH        "Eigen 8"
+
+REFERENCE           CLASS_PRESTIGE3_CAPS
+LANG_ENGLISH        "EIGEN 8"
+
+REFERENCE           CLASS_PRESTIGE4
+LANG_ENGLISH        "Eigen 9"
+
+REFERENCE           CLASS_PRESTIGE4_CAPS
+LANG_ENGLISH        "EIGEN 9"
+
+REFERENCE           CLASS_PRESTIGE5
+LANG_ENGLISH        "Eigen 10"
+
+REFERENCE           CLASS_PRESTIGE5_CAPS
+LANG_ENGLISH        "EIGEN 10"
+
+REFERENCE           CLASS_PRESTIGE_UNCLASSIFY_DESC
+LANG_ENGLISH        "Zugang gewährt ab Prestige-Stufe &&1."
+
+REFERENCE           CLASS_PRESTIGE_UNLOCK_DESC
+LANG_ENGLISH        "Freigeschaltet ab Prestige-Stufe &&1."
+
+REFERENCE           CLASS_PROFICIENCY
+LANG_ENGLISH        "Fertigkeit"
+
+REFERENCE           CLASS_PROFICIENCY_EXPERT
+LANG_ENGLISH        "Experte"
+
+REFERENCE           CLASS_PROFICIENCY_MARKSMAN
+LANG_ENGLISH        "Scharfschütze"
+
+REFERENCE           CLASS_PROFICIENCY_SHARPSHOOTER
+LANG_ENGLISH        "Scharfschütze"
+
+REFERENCE           CLASS_PURCHASE_TO_UNLOCK
+LANG_ENGLISH        "Kaufen Sie '&&1' zum Ansehen."
+
+REFERENCE           CLASS_RIFLEMAN
+LANG_ENGLISH        "Schütze"
+
+REFERENCE           CLASS_SLOT1_CAPS
+LANG_ENGLISH        "EIGEN 1"
+
+REFERENCE           CLASS_SLOT2_CAPS
+LANG_ENGLISH        "EIGEN 2"
+
+REFERENCE           CLASS_SLOT3_CAPS
+LANG_ENGLISH        "EIGEN 3"
+
+REFERENCE           CLASS_SLOT4_CAPS
+LANG_ENGLISH        "EIGEN 4"
+
+REFERENCE           CLASS_SLOT5_CAPS
+LANG_ENGLISH        "EIGEN 5"
+
+REFERENCE           CLASS_SNIPER
+LANG_ENGLISH        "Scharfschütze"
+
+REFERENCE           CLASS_SNIPER_UC
+LANG_ENGLISH        "Scharfschütze"
+
+REFERENCE           CLASS_SUPPORT
+LANG_ENGLISH        "Unterstützung"
+
+REFERENCE           CLASS_SUPPORT_UC
+LANG_ENGLISH        "Unterstützung"
+
+ENDMARKER

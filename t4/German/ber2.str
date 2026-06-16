@@ -1,0 +1,46 @@
+// Dumped from fastfile "ber2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER2_INTROSCREEN_INFO
+LANG_ENGLISH        "3. Stoßtrupp"
+
+REFERENCE           BER2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Berlin"
+
+REFERENCE           BER2_OBJ_REGROUP
+LANG_ENGLISH        "Stoßen Sie zu Ihrem Trupp."
+
+REFERENCE           BER2_OBJ_FIGHT_THRU_METRO
+LANG_ENGLISH        "Kämpfen Sie sich durch die U-Bahn."
+
+REFERENCE           BER2_OBJ_MOVE_THRU_STREET
+LANG_ENGLISH        "Rücken Sie mit den Panzern die Straße vor."
+
+REFERENCE           BER2_INTROSCREEN_DATE
+LANG_ENGLISH        "24. April 1945"
+
+REFERENCE           BER2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Räumungsbefehl'"
+
+REFERENCE           BER2_OBJ_CLEAR_BLDGS
+LANG_ENGLISH        "Sichern Sie die Gebäude."
+
+REFERENCE           BER2_OBJ_STAY_WITH_TANK
+LANG_ENGLISH        "Bleiben Sie nahe beim Panzer."
+
+REFERENCE           BER2_OBJ_DEFEND_SARGE
+LANG_ENGLISH        "Beschützen Sie Reznov, während er die Tür öffnet."
+
+REFERENCE           BER2_OBJ_EXECUTE
+LANG_ENGLISH        "Schalten Sie die restlichen Feinde aus."
+
+REFERENCE           BER2_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           BER2_OBJ_GET_TO_METRO
+LANG_ENGLISH        "Begeben Sie sich in die U-Bahn, um den Raketen zu entkommen."
+
+ENDMARKER

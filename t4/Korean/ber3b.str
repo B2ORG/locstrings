@@ -1,0 +1,67 @@
+// Dumped from fastfile "ber3b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER3B_OBJ_3
+LANG_ENGLISH        "제국의회에 있는 적을 계속 소탕하십시오."
+
+REFERENCE           BER3B_INTROSCREEN_INFO
+LANG_ENGLISH        "제 150보병사단"
+
+REFERENCE           BER3B_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 4월 30일"
+
+REFERENCE           BER3B_INTROSCREEN_PLACE
+LANG_ENGLISH        "독일, 베를린 - 제국의회"
+
+REFERENCE           BER3B_OBJ_2
+LANG_ENGLISH        "의회 1층에 있는 적을 소탕하십시오."
+
+REFERENCE           BER3B_OBJ_1
+LANG_ENGLISH        "제국의회를 공격하십시오."
+
+REFERENCE           BER3B_OBJ_4
+LANG_ENGLISH        "땅에 떨어진 러시아 깃발을 집으십시오."
+
+REFERENCE           BER3B_OBJ_5
+LANG_ENGLISH        "제국의회의 꼭대기에 러시아 깃발을 꼽으십시오."
+
+REFERENCE           BER3B_INTROSCREEN_TITLE
+LANG_ENGLISH        "'몰락'"
+
+REFERENCE           BER3B_OBJ_FLAG_RETRIEVE
+LANG_ENGLISH        "러시아 깃발을 회수하십시오."
+
+REFERENCE           BER3B_OBJ_FLAG_CARRY
+LANG_ENGLISH        "옥상까지 러시아 깃발을 옮기십시오."
+
+REFERENCE           BER3B_HINT_FLAG_PICKUP
+LANG_ENGLISH        "깃발을 집으려면 [{+usereload}]를 누르고 계십시오."
+
+REFERENCE           BER3B_HINT_FLAG_DROP
+LANG_ENGLISH        "깃발을 버리려면 [{+usereload}]를 누르고 계십시오."
+
+REFERENCE           BER3B_FLAG_FAIL_DEADQUOTE
+LANG_ENGLISH        "깃발을 놔두고 오셨습니다!"
+
+REFERENCE           BER3B_FLAG_FAIL_WARNING
+LANG_ENGLISH        "동무, 우리 깃발을 놓고 오지 마!"
+
+REFERENCE           BER3B_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 디미트리 페트렌코"
+
+REFERENCE           BER3B_OBJ_2A
+LANG_ENGLISH        "발코니로 올라가 화력지원을 제공하십시오."
+
+REFERENCE           BER3B_DIARY_SKIP
+LANG_ENGLISH        "(넘기려면 [{+usereload}]를 누르십시오.)"
+
+REFERENCE           BER3B_OBJ_2B
+LANG_ENGLISH        "남쪽 발코니에 있는 독일군을 제거하십시오."
+
+REFERENCE           BER3B_FLAG_PLANT_TRIGGER_HINT
+LANG_ENGLISH        "깃발을 꽂으려면 [{+usereload}]를 누르십시오."
+
+ENDMARKER

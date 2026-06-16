@@ -1,0 +1,58 @@
+// Dumped from fastfile "sniper".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SNIPER_OBJ_1
+LANG_ENGLISH        "Stai con il sergente Reznov"
+
+REFERENCE           SNIPER_HINT_CROUCH
+LANG_ENGLISH        "Premi [{+stance}] per accovacciarti"
+
+REFERENCE           SNIPER_OBJ_2
+LANG_ENGLISH        "Elimina tutti i tedeschi in strada"
+
+REFERENCE           SNIPER_OBJ_3
+LANG_ENGLISH        "Segui il sergente Reznov"
+
+REFERENCE           SNIPER_OBJ_5
+LANG_ENGLISH        "Supporta i tuoi compagni con fuoco di copertura da cecchino"
+
+REFERENCE           SNIPER_INTROSCREEN_DATE
+LANG_ENGLISH        "17 settembre 1942"
+
+REFERENCE           SNIPER_INTROSCREEN_PLACE
+LANG_ENGLISH        "Stalingrado, Russia"
+
+REFERENCE           SNIPER_OBJ_6
+LANG_ENGLISH        "Uccidi il Generale Amsel"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO
+LANG_ENGLISH        "Sol. Petrenko"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO2
+LANG_ENGLISH        "62a armata fucilieri"
+
+REFERENCE           SNIPER_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Vendetta'"
+
+REFERENCE           SNIPER_OBJ_4
+LANG_ENGLISH        "Uccidi il cecchino nemico"
+
+REFERENCE           SNIPER_TO_BE_CONTINUED
+LANG_ENGLISH        "Continua..."
+
+REFERENCE           SNIPER_GENERAL_ESCAPED
+LANG_ENGLISH        "Il Generale è scappato!"
+
+REFERENCE           SNIPER_REZNOV_KILLED
+LANG_ENGLISH        "Reznov è morto per causa tua."
+
+REFERENCE           SNIPER_JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           SNIPER_EASY_PRONE_DESC
+LANG_ENGLISH        "Premi [{goprone}] per distenderti a terra"
+
+ENDMARKER

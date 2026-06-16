@@ -1,0 +1,385 @@
+// Dumped from fastfile "nazi_zombie_prototype".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "라운드"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "스프링필드 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "캐비닛을 열려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "무기를 거래하려면 &&1를 누르십시오."
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "아무 무기나 구입하려면 &&1를 누르십시오. [가격: 950]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "무기[가격: &&1], 탄약[가격:&&2]을 구입하려면 를 누르고 계십시오."
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "적의 맹공격이 시작됩니다."
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "99식을 구입하려면 &&1를 누르고 계십시오. [가격: 400]"
+
+REFERENCE           ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "남부를 구입하려면 &&1를 누르고 계십시오. [가격: 50]"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "BAR을 구입하려면 &&1를 누르고 계십시오. [가격: 1800]"
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "맹공격에서 살아남았습니다."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 500]"
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "후방 방어막을 구입하려면 &&1를 누르고 계십시오. [가격: 10]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "&&1라운드에서 살아남았습니다."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "후방 방어막을 구입하려면 &&1를 누르고 계십시오. [가격: 20]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "M1 개런드를 구입하려면 &&1를 누르고 계십시오. [가격: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "PPSh-41을 구입하려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "후방 방어막을 구입하려면 &&1를 누르고 계십시오. [가격: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "후방 방어막을 구입하려면 &&1를 누르고 계십시오. [가격: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "모신나강을 구입하려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "방어막을 다시 생성하려면 &&1를 누르고 계십시오. [보상: 40]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "토카레프 TT-30을 구입하려면 &&1를 누르고 계십시오. [가격: 50]"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "M1 카빈 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "콜트 헤비 듀티를 구입하려면 &&1를 누르고 계십시오. [가격: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "파편을 치우려면 &&1를 누르고 계십시오. [가격: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "357구경 매그넘을 구입하려면 &&1를 누르고 계십시오. [가격: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "문을 열려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "콜트를 구입하려면 &&1를 누르고 계십시오. [가격: 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Kar98k을 구입하려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "좀비 콜트를 구입하려면 &&1를 누르고 계십시오. [가격: 25]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 1250]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "99식 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 400]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "게베어 43을 구입하려면 &&1를 누르고 계십시오. [가격: 600]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "지역을 열려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "캐비닛을 열려면 &&1를 누르고 계십시오. [가격: 500]"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "광선총을 구입하려면 &&1를 누르고 계십시오. [가격: 10000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "캐비닛을 열려면 &&1를 누르고 계십시오. [가격: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "모신나강 + 총류탄을 구입하려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "캐비닛을 열려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "발터 P38을 구입하려면 &&1를 누르고 계십시오. [가격: 50]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "모신나강을 구입하려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "DP-28을 구입하려면 &&1를 누르고 계십시오. [가격: 2250]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "스프링필드를 구입하려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Kar98k + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "M1 카빈을 구입하려면 &&1를 누르고 계십시오. [가격: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "M1 개런드 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "SVT-40을 구입하려면 &&1를 누르고 계십시오. [가격: 600]"
+
+REFERENCE           ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "M2 세열수류탄을 구입하려면 &&1를 누르고 계십시오. [가격: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "화염병을 구입하려면 &&1를 누르고 계십시오. [가격: 200]"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "BAR + 양각대를 구입하려면 &&1를 누르고 계십시오. [가격: 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "RGD-33 막대형 수류탄을 구입하려면 &&1를 누르고 계십시오. [가격: 250]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "1라운드에서 살아남았습니다."
+
+REFERENCE           ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "슈틸한트그라나테를 구입하려면 &&1를 누르고 계십시오. [가격: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "97식 세열수류탄을 구입하려면 &&1를 누르고 계십시오. [가격: 250]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Kar98k + 조준경을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Kar98k + 조준경 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "M1897 산탄총을 구입하려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "모신나강 + 조준경을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "모신나강 + 조준경 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "PTRS-41을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "스프링필드 + 조준경을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "스프링필드 + 조준경 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "방어막을 다시 생성하려면 &&1를 누르고 계십시오. [보상: 10]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "99식 + 조준경을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "99식 + 조준경 + 총검을 구입하려면 &&1를 누르고 계십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "MP40을 구입하려면 &&1를 누르고 계십시오. [가격: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "STG-44를 구입하려면 &&1를 누르고 계십시오. [가격: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_THOMPSON_1500
+LANG_ENGLISH        "톰슨을 구입하려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "100식을 구입하려면 &&1를 누르고 계십시오. [가격: 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "2연발 산탄총을 구입하려면 &&1를 누르고 계십시오. [가격: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "단축형 산탄총을 구입하려면 &&1를 누르고 계십시오. [가격: 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "브라우닝 M1919를 구입하려면 &&1를 누르고 계십시오. [가격: 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "FG42를 구입하려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "FG42 + 조준경을 구입하려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "MG42를 구입하려면 &&1를 누르고 계십시오. [가격: 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "99식 경기관총을 구입하려면 &&1를 누르고 계십시오. [가격: 1750]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "M1 개런드 + 총류탄을 구입하려면 &&1를 누르고 계십시오. [가격: 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "브라우닝 M1919 + 양각대를 구입하려면 &&1를 누르고 계십시오. [가격: 3500]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "DP-28 + 양각대를 구입하려면 &&1를 누르고 계십시오. [가격: 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "FG42 + 양각대를 구입하려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "MG42 + 양각대를 구입하려면 &&1를 누르고 계십시오. [가격: 3500]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "99식 경기관총 + 양각대를 구입하려면 &&1를 누르고 계십시오. [가격: 2250]"
+
+REFERENCE           ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "M9A1 바주카를 구입하려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "판저슈렉을 구입하려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "화염방사기를 구입하려면 &&1를 누르고 계십시오. [가격: 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "박격포탄을 구입하려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "가방형 폭탄을 구입하려면 &&1를 누르고 계십시오. [가격: 2000]"
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "좀비 쓰러짐!"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "즉시 살해:"
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "좀비 핵 공격!"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "점수 두 배:"
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "탄약 최대!"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "방어막을 다시 생성하려면 &&1를 누르고 계십시오. [보상: 20]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "방어막을 다시 생성하려면 &&1를 누르고 계십시오. [보상: 30]"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "게임 끝"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "방어막을 다시 생성하려면 &&1를 누르고 계십시오. [보상: 50]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "아무 무기나 구입하려면 &&1를 누르십시오. [가격: 850]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "아무 무기나 구입하려면 &&1를 누르십시오. [가격: 750]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "아무 무기나 구입하려면 &&1를 누르십시오. [가격: 650]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "방어막을 다시 생성하려면 &&1를 누르고 계십시오."
+
+ENDMARKER

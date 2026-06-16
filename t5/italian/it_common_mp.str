@@ -1,0 +1,1273 @@
+// Dumped from fastfile "it_common_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CGAME_AM_IN_FIRST_PLACE
+LANG_ENGLISH        "&&1 è in vantaggio"
+
+REFERENCE           CGAME_COMPLAINTDISMISSED
+LANG_ENGLISH        "Reclamo rifiutato"
+
+REFERENCE           CGAME_COMPLAINTFILED
+LANG_ENGLISH        "Il tuo reclamo è stato registrato"
+
+REFERENCE           CGAME_COMPLAINTSERVERHOST
+LANG_ENGLISH        "Non è possibile presentare reclamo contro l'host"
+
+REFERENCE           CGAME_COMPLAINTTEAMKILLFILE
+LANG_ENGLISH        "Vuoi presentare reclamo contro &&1 per essere stato vittima di fuoco amico?"
+
+REFERENCE           CGAME_CONNECTIONINTERUPTED
+LANG_ENGLISH        "Connessione interrotta"
+
+REFERENCE           CGAME_CONTINUE_SAVING
+LANG_ENGLISH        "Salva ed esci"
+
+REFERENCE           CGAME_CONTINUE_SAVING_CAP
+LANG_ENGLISH        "SALVA ED ESCI"
+
+REFERENCE           CGAME_COOP_FOUND_COLLECTIBLE
+LANG_ENGLISH        "&&1 ha trovato una carta Morte"
+
+REFERENCE           CGAME_CRUSH
+LANG_ENGLISH        "schiantato"
+
+REFERENCE           CGAME_DIED
+LANG_ENGLISH        "morto"
+
+REFERENCE           CGAME_DROWN
+LANG_ENGLISH        "annegato"
+
+REFERENCE           CGAME_DW_ACCEPTED_FRIEND
+LANG_ENGLISH        "ha accettato la tua richesta d'amicizia"
+
+REFERENCE           CGAME_DW_CANCEL_FRIEND
+LANG_ENGLISH        "ha annullato la sua richiesta d'amicizia"
+
+REFERENCE           CGAME_DW_IS_OFFLINE
+LANG_ENGLISH        "è offline"
+
+REFERENCE           CGAME_DW_IS_ONLINE
+LANG_ENGLISH        "è online"
+
+REFERENCE           CGAME_DW_REJECTED_FRIEND
+LANG_ENGLISH        "ha rifiutato la tua richiesta d'amicizia"
+
+REFERENCE           CGAME_DW_REVOKED_FRIEND
+LANG_ENGLISH        "ha annullato l'amicizia."
+
+REFERENCE           CGAME_DW_SENT_GAME_INVITE
+LANG_ENGLISH        "ti ha inviato un invito a un gioco."
+
+REFERENCE           CGAME_DW_WANTS_TO_BE_FRIEND
+LANG_ENGLISH        "vuole diventare tuo amico."
+
+REFERENCE           CGAME_FALLING
+LANG_ENGLISH        "caduta"
+
+REFERENCE           CGAME_FOLLOWING
+LANG_ENGLISH        "stai seguendo"
+
+REFERENCE           CGAME_FOR
+LANG_ENGLISH        "per"
+
+REFERENCE           CGAME_HEAD_SHOT
+LANG_ENGLISH        "colpo alla testa"
+
+REFERENCE           CGAME_HEALTH
+LANG_ENGLISH        "Salute"
+
+REFERENCE           CGAME_KILLED
+LANG_ENGLISH        "Hai ucciso"
+
+REFERENCE           CGAME_KILLEDBY
+LANG_ENGLISH        "Ucciso da"
+
+REFERENCE           CGAME_LISTENSERVER
+LANG_ENGLISH        "Server di ascolto"
+
+REFERENCE           CGAME_MELEE
+LANG_ENGLISH        "corpo a corpo"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES
+LANG_ENGLISH        "Obiettivi di missione"
+
+REFERENCE           CGAME_MISSIONOBJECTIVES_CAP
+LANG_ENGLISH        "OBIETTIVI DI MISSIONE"
+
+REFERENCE           CGAME_NEEDS_REVIVE
+LANG_ENGLISH        "deve essere rianimato."
+
+REFERENCE           CGAME_NO
+LANG_ENGLISH        "NO"
+
+REFERENCE           CGAME_NOSPECTATORVOICECHAT
+LANG_ENGLISH        "Come spettatore non puoi partecipare a una chat vocale."
+
+REFERENCE           CGAME_NOW_SAVING
+LANG_ENGLISH        "Salvataggio"
+
+REFERENCE           CGAME_OBJECTIVE_ABOVE
+LANG_ENGLISH        "Obiettivo precedente"
+
+REFERENCE           CGAME_OBJECTIVE_BELOW
+LANG_ENGLISH        "Obiettivo successivo"
+
+REFERENCE           CGAME_PAUSED
+LANG_ENGLISH        "Pausa"
+
+REFERENCE           CGAME_PLAYERRENAMES
+LANG_ENGLISH        "rinominato come"
+
+REFERENCE           CGAME_PRESSYESNO
+LANG_ENGLISH        "Premi '&&1' per SÌ o '&&2' per NO"
+
+REFERENCE           CGAME_PRONE_BLOCKED
+LANG_ENGLISH        "Bloccato a terra"
+
+REFERENCE           CGAME_PRONE_BLOCKED_WEAPON
+LANG_ENGLISH        "Non puoi sdraiarti con quest'arma."
+
+REFERENCE           CGAME_QUAKE_SUICIDE
+LANG_ENGLISH        "Sono stati commessi degli errori"
+
+REFERENCE           CGAME_RESTART_WARNING
+LANG_ENGLISH        "Riavviando adesso, tutti \ni progressi ottenuti in questa\nmissione andranno persi.\n\nContinuare?"
+
+REFERENCE           CGAME_SAVE_VICTORY
+LANG_ENGLISH        "Vuoi salvare i progressi?"
+
+REFERENCE           CGAME_SAVE_WARNING
+LANG_ENGLISH        "Salvando adesso, tutti i progressi \ndall'ultimo checkpoint andranno persi.\n\nContinuare?"
+
+REFERENCE           CGAME_SB_ACCURACY
+LANG_ENGLISH        "Precisione"
+
+REFERENCE           CGAME_SB_ASSISTS
+LANG_ENGLISH        "Assist"
+
+REFERENCE           CGAME_SB_CAPTURES
+LANG_ENGLISH        "Catturate"
+
+REFERENCE           CGAME_SB_CP
+LANG_ENGLISH        "Punti COD"
+
+REFERENCE           CGAME_SB_DEATHS
+LANG_ENGLISH        "Morti"
+
+REFERENCE           CGAME_SB_DEFENDS
+LANG_ENGLISH        "Difese"
+
+REFERENCE           CGAME_SB_DEFUSES
+LANG_ENGLISH        "Disin."
+
+REFERENCE           CGAME_SB_DESTRUCTIONS
+LANG_ENGLISH        "Distruzioni"
+
+REFERENCE           CGAME_SB_DOWNS
+LANG_ENGLISH        "A terra"
+
+REFERENCE           CGAME_SB_HEADSHOTS
+LANG_ENGLISH        "Alla testa"
+
+REFERENCE           CGAME_SB_KDRATIO
+LANG_ENGLISH        "Rateo"
+
+REFERENCE           CGAME_SB_KILLS
+LANG_ENGLISH        "Ucc."
+
+REFERENCE           CGAME_SB_PING
+LANG_ENGLISH        "Ping"
+
+REFERENCE           CGAME_SB_PLANTS
+LANG_ENGLISH        "Piazzate"
+
+REFERENCE           CGAME_SB_PLAYER
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SB_PLAYERS
+LANG_ENGLISH        "&&1"
+
+REFERENCE           CGAME_SB_POINTS
+LANG_ENGLISH        "Punti"
+
+REFERENCE           CGAME_SB_RETURNS
+LANG_ENGLISH        "Recup."
+
+REFERENCE           CGAME_SB_REVIVES
+LANG_ENGLISH        "Rianim."
+
+REFERENCE           CGAME_SB_SCORE
+LANG_ENGLISH        "Punti"
+
+REFERENCE           CGAME_SERVERHOSTTEAMKILLED
+LANG_ENGLISH        "Sei stato vittima di fuoco amico da parte dell'host"
+
+REFERENCE           CGAME_SLIME
+LANG_ENGLISH        "melma"
+
+REFERENCE           CGAME_SPECTATING
+LANG_ENGLISH        "MODALITÀ SPETTATORE"
+
+REFERENCE           CGAME_SPECTATOR
+LANG_ENGLISH        "SPETTATORE"
+
+REFERENCE           CGAME_SPECTATORS
+LANG_ENGLISH        "Spettatori"
+
+REFERENCE           CGAME_SQUAD_ATTACK
+LANG_ENGLISH        "Ordine d'attacco impartito dal leader della squadra"
+
+REFERENCE           CGAME_SQUAD_CLEAR
+LANG_ENGLISH        "Il leader della squadra ha annullato l'ordine"
+
+REFERENCE           CGAME_SQUAD_CREATEDSQUAD
+LANG_ENGLISH        "Hai creato la squadra"
+
+REFERENCE           CGAME_SQUAD_DEFEND
+LANG_ENGLISH        "Ordine di difesa impartito dal leader della squadra"
+
+REFERENCE           CGAME_SQUAD_DISBANDED
+LANG_ENGLISH        "La tua squadra è stata sciolta. Ora sei un lupo solitario."
+
+REFERENCE           CGAME_SQUAD_INVITERECEIVED
+LANG_ENGLISH        "ti ha invitato nella squadra"
+
+REFERENCE           CGAME_SQUAD_JOINEDSQUAD
+LANG_ENGLISH        "Ti sei unito alla squadra"
+
+REFERENCE           CGAME_SQUAD_LEADERCHANGED
+LANG_ENGLISH        "Leader della squadra cambiato! Il nuovo leader della squadra è "
+
+REFERENCE           CGAME_SQUAD_LEFTSQUAD
+LANG_ENGLISH        "Hai lasciato la squadra"
+
+REFERENCE           CGAME_SQUAD_LONEWOLF
+LANG_ENGLISH        "Ora sei un lupo solitario."
+
+REFERENCE           CGAME_SQUAD_MEMBERJOINED
+LANG_ENGLISH        "è entrato in squadra"
+
+REFERENCE           CGAME_SQUAD_MEMBERKICKED
+LANG_ENGLISH        "ti ha espulso dalla squadra"
+
+REFERENCE           CGAME_SQUAD_MEMBERLEFT
+LANG_ENGLISH        "ha lasciato la squadra"
+
+REFERENCE           CGAME_SQUAD_REGROUP
+LANG_ENGLISH        "Ordine di raggruppamento impartito dal leader della squadra"
+
+REFERENCE           CGAME_SUICIDE
+LANG_ENGLISH        "suicidio"
+
+REFERENCE           CGAME_TEAMKILLED
+LANG_ENGLISH        "Uccisione compagno"
+
+REFERENCE           CGAME_TEAMKILLEDBY
+LANG_ENGLISH        "Ucciso dal compagno"
+
+REFERENCE           CGAME_TEAMMATE
+LANG_ENGLISH        "COMPAGNO DI SQUADRA"
+
+REFERENCE           CGAME_THIS_WEAPON_HAS_NO_ALTERNATE
+LANG_ENGLISH        "Quest'arma non dispone di una modalità di fuoco alternativa."
+
+REFERENCE           CGAME_UNKNOWN
+LANG_ENGLISH        "sconosciuto"
+
+REFERENCE           CGAME_VOTE
+LANG_ENGLISH        "VOTAZIONE"
+
+REFERENCE           CGAME_WAGER_SPEC_BET_ON_PLAYER
+LANG_ENGLISH        "Hai scommesso su questo giocatore"
+
+REFERENCE           CGAME_WAITINGFORSERVERLOAD
+LANG_ENGLISH        "In attesa che il server carichi la nuova mappa"
+
+REFERENCE           CGAME_YES
+LANG_ENGLISH        "SÌ"
+
+REFERENCE           CGAME_YOUKILLED
+LANG_ENGLISH        "Hai ucciso &&1"
+
+REFERENCE           CGAME_YOUREVIVED
+LANG_ENGLISH        "Hai rianimato &&1"
+
+REFERENCE           CGAME_YOUWEREKILLED
+LANG_ENGLISH        "Ucciso da &&1"
+
+REFERENCE           CGAME_YOUWEREREVIVED
+LANG_ENGLISH        "Rianimato da &&1"
+
+REFERENCE           MEDAL_AFTERLIFE
+LANG_ENGLISH        "Aldilà"
+
+REFERENCE           MEDAL_AFTERLIFE_DESC
+LANG_ENGLISH        "Hai ucciso un nemico mentre eri morto"
+
+REFERENCE           MEDAL_AIRCRAFT_ASSIST
+LANG_ENGLISH        "Gregario di valore"
+
+REFERENCE           MEDAL_AIRCRAFT_ASSIST_DESC
+LANG_ENGLISH        "Hai eseguito un assist nell'abbattimento di un velivolo nemico."
+
+REFERENCE           MEDAL_ANTI_BOMBER
+LANG_ENGLISH        "Anti-bomba"
+
+REFERENCE           MEDAL_ANTI_BOMBER_DESC
+LANG_ENGLISH        "Ucciso un nemico che stava disinnescando."
+
+REFERENCE           MEDAL_ASSISTED_SUICIDE
+LANG_ENGLISH        "Infame"
+
+REFERENCE           MEDAL_ASSISTED_SUICIDE_DESC
+LANG_ENGLISH        "Hai ferito un nemico che si è ucciso"
+
+REFERENCE           MEDAL_ASSISTS
+LANG_ENGLISH        "Finezza"
+
+REFERENCE           MEDAL_ASSISTS_DESC
+LANG_ENGLISH        "Hai eseguito un assist"
+
+REFERENCE           MEDAL_AVENGER
+LANG_ENGLISH        "Vendicatore"
+
+REFERENCE           MEDAL_AVENGER_DESC
+LANG_ENGLISH        "Hai ucciso un nemico che ha appena eliminato un compagno."
+
+REFERENCE           MEDAL_BACK_STABBER
+LANG_ENGLISH        "Traditore"
+
+REFERENCE           MEDAL_BACK_STABBER_DESC
+LANG_ENGLISH        "Hai accoltellato un giocatore alla schiena"
+
+REFERENCE           MEDAL_BALLISTIC_KNIFE_KILL
+LANG_ENGLISH        "Infilzato"
+
+REFERENCE           MEDAL_BALLISTIC_KNIFE_KILL_DESC
+LANG_ENGLISH        "Hai colpito e ucciso un nemico con il coltello balistico."
+
+REFERENCE           MEDAL_BANK_SHOT
+LANG_ENGLISH        "Rimbalzo"
+
+REFERENCE           MEDAL_BANK_SHOT_DESC
+LANG_ENGLISH        "Hai ucciso un nemico di rimbalzo con un tomahawk."
+
+REFERENCE           MEDAL_BOMBER
+LANG_ENGLISH        "Attentatore"
+
+REFERENCE           MEDAL_BOMBER_DESC
+LANG_ENGLISH        "Hai fatto detonare la bomba"
+
+REFERENCE           MEDAL_BULLS_EYE
+LANG_ENGLISH        "Scalpo"
+
+REFERENCE           MEDAL_BULLS_EYE_DESC
+LANG_ENGLISH        "Hai ucciso un nemico con un Tomahawk"
+
+REFERENCE           MEDAL_BUZZ_KILL
+LANG_ENGLISH        "Guastafeste"
+
+REFERENCE           MEDAL_BUZZ_KILL_DESC
+LANG_ENGLISH        "Hai fermato una serie di uccisioni di un nemico"
+
+REFERENCE           MEDAL_COMEBACK
+LANG_ENGLISH        "Ritorno"
+
+REFERENCE           MEDAL_COMEBACK_DESC
+LANG_ENGLISH        "Hai recuperato da una serie di morti"
+
+REFERENCE           MEDAL_CP_POPUP
+LANG_ENGLISH        "^2+&&1^7"
+
+REFERENCE           MEDAL_DEFENSE
+LANG_ENGLISH        "Difesa"
+
+REFERENCE           MEDAL_DEFENSE_DESC
+LANG_ENGLISH        "Hai ucciso un nemico vicino al punto di difesa"
+
+REFERENCE           MEDAL_DESC_POPUP
+LANG_ENGLISH        "&&1 &&2"
+
+REFERENCE           MEDAL_DESTROYER
+LANG_ENGLISH        "Smantellato"
+
+REFERENCE           MEDAL_DESTROYER_COUNTERUAV_DESC
+LANG_ENGLISH        "Hai abbattuto un Controspionaggio."
+
+REFERENCE           MEDAL_DESTROYER_DESC
+LANG_ENGLISH        "Hai distrutto un veicolo nemico"
+
+REFERENCE           MEDAL_DESTROYER_HELICOPTER_DESC
+LANG_ENGLISH        "Hai abbattuto un elicottero."
+
+REFERENCE           MEDAL_DESTROYER_M220_TOW
+LANG_ENGLISH        "Via dal cielo"
+
+REFERENCE           MEDAL_DESTROYER_M220_TOW_DESC
+LANG_ENGLISH        "Hai distrutto un Valkyrie."
+
+REFERENCE           MEDAL_DESTROYER_RCBOMB
+LANG_ENGLISH        "Fuoco e fiamme"
+
+REFERENCE           MEDAL_DESTROYER_RCBOMB_DESC
+LANG_ENGLISH        "Hai distrutto un RC-XD!"
+
+REFERENCE           MEDAL_DESTROYER_TURRET
+LANG_ENGLISH        "Distruggitorre"
+
+REFERENCE           MEDAL_DESTROYER_TURRET_DESC
+LANG_ENGLISH        "Hai distrutto una torretta"
+
+REFERENCE           MEDAL_DESTROYER_UAV_DESC
+LANG_ENGLISH        "Abbattuto un aereo spia."
+
+REFERENCE           MEDAL_DOUBLE_KILL
+LANG_ENGLISH        "Doppio"
+
+REFERENCE           MEDAL_DOUBLE_KILL_DESC
+LANG_ENGLISH        "Hai ucciso 2 persone in rapida successione."
+
+REFERENCE           MEDAL_EXECUTION
+LANG_ENGLISH        "Esecuzione"
+
+REFERENCE           MEDAL_EXECUTION_DESC
+LANG_ENGLISH        "Hai ucciso un nemico a terra con un colpo alla testa"
+
+REFERENCE           MEDAL_FIRST_BLOOD
+LANG_ENGLISH        "Primo sangue"
+
+REFERENCE           MEDAL_FIRST_BLOOD_DESC
+LANG_ENGLISH        "Esegui la prima uccisione"
+
+REFERENCE           MEDAL_FLAG_CAPTURE
+LANG_ENGLISH        "Ruba bandiera"
+
+REFERENCE           MEDAL_FLAG_CAPTURE_DESC
+LANG_ENGLISH        "Hai catturato la bandiera nemica"
+
+REFERENCE           MEDAL_FLAG_RETURN
+LANG_ENGLISH        "Rendi bandiera"
+
+REFERENCE           MEDAL_FLAG_RETURN_DESC
+LANG_ENGLISH        "Hai riportato la bandiera"
+
+REFERENCE           MEDAL_FLAG_RUNNER
+LANG_ENGLISH        "Porta bandiera"
+
+REFERENCE           MEDAL_FLAG_RUNNER_DESC
+LANG_ENGLISH        "Hai raccolto la bandiera nemica"
+
+REFERENCE           MEDAL_HEAD_SHOT
+LANG_ENGLISH        "Colpo in testa"
+
+REFERENCE           MEDAL_HEAD_SHOT_DESC
+LANG_ENGLISH        "Boom, colpo alla testa!"
+
+REFERENCE           MEDAL_HERO
+LANG_ENGLISH        "Eroe"
+
+REFERENCE           MEDAL_HERO_DESC
+LANG_ENGLISH        "Hai disinnescato la bomba"
+
+REFERENCE           MEDAL_HEROIC
+LANG_ENGLISH        "Gesto eroico"
+
+REFERENCE           MEDAL_HEROIC_DESC
+LANG_ENGLISH        "Ha ottenuto un punto durante Seconda occasione."
+
+REFERENCE           MEDAL_HIJACKER
+LANG_ENGLISH        "Dirottatore"
+
+REFERENCE           MEDAL_HIJACKER_DESC
+LANG_ENGLISH        "Hai rubato una cassa nemica."
+
+REFERENCE           MEDAL_LONG_SHOT
+LANG_ENGLISH        "Cecchino"
+
+REFERENCE           MEDAL_LONG_SHOT_DESC
+LANG_ENGLISH        "Hai ucciso un nemico da lontano"
+
+REFERENCE           MEDAL_MULTI_KILL
+LANG_ENGLISH        "Strage"
+
+REFERENCE           MEDAL_MULTI_KILL_DESC
+LANG_ENGLISH        "Hai ucciso più di 3 persone in rapida successione."
+
+REFERENCE           MEDAL_OFFENSE
+LANG_ENGLISH        "Attacco"
+
+REFERENCE           MEDAL_OFFENSE_DESC
+LANG_ENGLISH        "Hai ucciso un nemico vicino all'obiettivo"
+
+REFERENCE           MEDAL_ONE_SHOT_KILL
+LANG_ENGLISH        "Un colpo, un morto"
+
+REFERENCE           MEDAL_ONE_SHOT_KILL_DESC
+LANG_ENGLISH        "Hai ucciso un nemico con un colpo solo"
+
+REFERENCE           MEDAL_PAYBACK
+LANG_ENGLISH        "Vendetta"
+
+REFERENCE           MEDAL_PAYBACK_DESC
+LANG_ENGLISH        "Hai ucciso il tuo assassino"
+
+REFERENCE           MEDAL_POSITION_SECURE
+LANG_ENGLISH        "Occupazione"
+
+REFERENCE           MEDAL_POSITION_SECURE_DESC
+LANG_ENGLISH        "Hai occupato un obiettivo"
+
+REFERENCE           MEDAL_RESCUER
+LANG_ENGLISH        "Soccorritore"
+
+REFERENCE           MEDAL_RESCUER_DESC
+LANG_ENGLISH        "Hai salvato un compagno di squadra ferito"
+
+REFERENCE           MEDAL_REVIVE
+LANG_ENGLISH        "Medico"
+
+REFERENCE           MEDAL_REVIVE_DESC
+LANG_ENGLISH        "Hai riportato in vita un compagno di squadra."
+
+REFERENCE           MEDAL_SABOTEUR
+LANG_ENGLISH        "Sabotatore"
+
+REFERENCE           MEDAL_SABOTEUR_DESC
+LANG_ENGLISH        "Hai piazzato la bomba"
+
+REFERENCE           MEDAL_SHARE_PACKAGE
+LANG_ENGLISH        "Lavoro"
+
+REFERENCE           MEDAL_SHARE_PACKAGE_DESC
+LANG_ENGLISH        "Un compagno di squadra ha salvato la tua cassa."
+
+REFERENCE           MEDAL_STREAKER
+LANG_ENGLISH        "Serie letale"
+
+REFERENCE           MEDAL_STREAKER_DESC
+LANG_ENGLISH        "Hai attivato una serie di uccisioni"
+
+REFERENCE           MEDAL_STUCK_TO_PLAYER
+LANG_ENGLISH        "Attaccata"
+
+REFERENCE           MEDAL_STUCK_TO_PLAYER_DESC
+LANG_ENGLISH        "Attacca un esplosivo su un nemico."
+
+REFERENCE           MEDAL_TRIPLE_KILL
+LANG_ENGLISH        "Triplo"
+
+REFERENCE           MEDAL_TRIPLE_KILL_DESC
+LANG_ENGLISH        "Hai ucciso 3 persone in rapida successione."
+
+REFERENCE           MEDAL_XP_POPUP
+LANG_ENGLISH        "^3+&&1^7"
+
+REFERENCE           OBJECTIVES_AQ
+LANG_ENGLISH        "Ottieni punti trasportando la bandiera."
+
+REFERENCE           OBJECTIVES_AQ_HINT
+LANG_ENGLISH        "Cattura e trasporta la bandiera."
+
+REFERENCE           OBJECTIVES_AQ_SCORE
+LANG_ENGLISH        "Ottieni punti trasportando la bandiera. Vince il primo giocatore che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_AQ_TEAM
+LANG_ENGLISH        "Ottieni punti trasportando la bandiera per la tua squadra."
+
+REFERENCE           OBJECTIVES_AQ_TEAM_HINT
+LANG_ENGLISH        "Aiuta la tua squadra a catturare e trasportare la bandiera."
+
+REFERENCE           OBJECTIVES_AQ_TEAM_SCORE
+LANG_ENGLISH        "Ottieni punti trasportando la bandiera per la tua squadra. Vince il primo giocatore che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_CTF
+LANG_ENGLISH        "Ottieni punti rubando la bandiera nemica e catturala portandola a contatto della bandiera nella tua base."
+
+REFERENCE           OBJECTIVES_CTF_HINT
+LANG_ENGLISH        "CATTURA BANDIERA"
+
+REFERENCE           OBJECTIVES_CTF_SCORE
+LANG_ENGLISH        "Ottieni punti rubando la bandiera nemica e catturala portandola a contatto della bandiera nella tua base. Cattura &&1 bandiere per vincere il round."
+
+REFERENCE           OBJECTIVES_DEM_ATTACKER
+LANG_ENGLISH        "Distruggi i bersagli A e B piazzando esplosivi sulla loro posizione."
+
+REFERENCE           OBJECTIVES_DEM_ATTACKER_HINT
+LANG_ENGLISH        "DISTRUGGI I BERSAGLI A E B"
+
+REFERENCE           OBJECTIVES_DEM_ATTACKER_SCORE
+LANG_ENGLISH        "Distruggi i bersagli A e B piazzando esplosivi sulla loro posizione. Una volta posizionati, impedisci al nemico di disinnescarli.\nLimite punti: &&1"
+
+REFERENCE           OBJECTIVES_DM
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori."
+
+REFERENCE           OBJECTIVES_DM_HINT
+LANG_ENGLISH        "ELIMINA GLI ALTRI GIOCATORI"
+
+REFERENCE           OBJECTIVES_DM_SCORE
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori. Vince il primo giocatore che raggiunge &&1 punti."
+
+REFERENCE           OBJECTIVES_DOM
+LANG_ENGLISH        "Cattura e difendi la bandiera."
+
+REFERENCE           OBJECTIVES_DOM_HINT
+LANG_ENGLISH        "CATTURA LE BANDIERE E DIFENDILE"
+
+REFERENCE           OBJECTIVES_DOM_SCORE
+LANG_ENGLISH        "Cattura e difendi le bandiere. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_FLAG_AWAY_CAPS
+LANG_ENGLISH        "INATTIVO"
+
+REFERENCE           OBJECTIVES_FLAG_HOME_CAPS
+LANG_ENGLISH        "ALLA BASE"
+
+REFERENCE           OBJECTIVES_GUN
+LANG_ENGLISH        "Ottieni un'uccisione con ogni arma."
+
+REFERENCE           OBJECTIVES_GUN_HINT
+LANG_ENGLISH        "VINCE CHI UCCIDE CON OGNI ARMA"
+
+REFERENCE           OBJECTIVES_GUN_SCORE
+LANG_ENGLISH        "Ottieni un'uccisione con tutte le &&1 armi. Accoltella i giocatori per degradarli."
+
+REFERENCE           OBJECTIVES_HLND
+LANG_ENGLISH        "Elimina gli altri giocatori."
+
+REFERENCE           OBJECTIVES_HLND_HINT
+LANG_ENGLISH        "ELIMINA GLI ALTRI GIOCATORI"
+
+REFERENCE           OBJECTIVES_HLND_SCORE
+LANG_ENGLISH        "Elimina gli altri giocatori. Usa il Tomahawk per mandarli in bancarotta."
+
+REFERENCE           OBJECTIVES_KOTH
+LANG_ENGLISH        "Conquista il QG e difendilo per ottenere punti."
+
+REFERENCE           OBJECTIVES_KOTH_HINT
+LANG_ENGLISH        "DIFENDI LA COLLINA"
+
+REFERENCE           OBJECTIVES_KOTH_SCORE
+LANG_ENGLISH        "Conquista il QG e difendilo per ottenere punti. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_KOTH_TEAM
+LANG_ENGLISH        "Conquista il QG e difendilo per ottenere punti."
+
+REFERENCE           OBJECTIVES_KOTH_TEAM_HINT
+LANG_ENGLISH        "DIFENDI LA COLLINA PER LA TUA SQUADRA"
+
+REFERENCE           OBJECTIVES_KOTH_TEAM_SCORE
+LANG_ENGLISH        "Conquista il QG e difendilo per ottenere punti. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_NVC_ATTACKER
+LANG_ENGLISH        "Entra nell'area bersaglio per ottenere punti per la tua squadra."
+
+REFERENCE           OBJECTIVES_NVC_ATTACKER_HINT
+LANG_ENGLISH        "Attenzione: il nemico è veloce, ma è sempre visualizzato sul radar."
+
+REFERENCE           OBJECTIVES_NVC_ATTACKER_SCORE
+LANG_ENGLISH        "Entra nell'area bersaglio e resta al suo interno per ottenere punti per la tua squadra.  "
+
+REFERENCE           OBJECTIVES_NVC_DEFENDER
+LANG_ENGLISH        "Impedisci al nemico di entrare nell'area bersaglio."
+
+REFERENCE           OBJECTIVES_NVC_DEFENDER_HINT
+LANG_ENGLISH        "Attenzione: il nemico è lento, ma dispone di armi potenti."
+
+REFERENCE           OBJECTIVES_NVC_DEFENDER_SCORE
+LANG_ENGLISH        "Impedisci al nemico di entrare nell'area bersaglio, costi quel che costi."
+
+REFERENCE           OBJECTIVES_OIC_HINT
+LANG_ENGLISH        "ELIMINA GLI ALTRI GIOCATORI"
+
+REFERENCE           OBJECTIVES_PREGAME
+LANG_ENGLISH        "Pre-partita"
+
+REFERENCE           OBJECTIVES_SAB
+LANG_ENGLISH        "Recupera gli esplosivi e piazzali sull'obiettivo nemico, proteggendo il tuo territorio."
+
+REFERENCE           OBJECTIVES_SAB_HINT
+LANG_ENGLISH        "DISTRUGGI IL BERSAGLIO NEMICO"
+
+REFERENCE           OBJECTIVES_SAB_SCORE
+LANG_ENGLISH        "Recupera gli esplosivi e piazzali sull'obiettivo nemico, proteggendo il tuo territorio. Vince la prima squadra che distrugge l'obiettivo.\nLimite punti: &&1"
+
+REFERENCE           OBJECTIVES_SD_ATTACKER
+LANG_ENGLISH        "Distruggi l'obiettivo A o B piazzando esplosivi sulla sua posizione."
+
+REFERENCE           OBJECTIVES_SD_ATTACKER_HINT
+LANG_ENGLISH        "DISTRUGGI IL BERSAGLIO A O B"
+
+REFERENCE           OBJECTIVES_SD_ATTACKER_SCORE
+LANG_ENGLISH        "Distruggi l'obiettivo A o B piazzando esplosivi sulla sua posizione. Una volta posizionati, impedisci al nemico di disinnescarli.\nLimite punti: &&1"
+
+REFERENCE           OBJECTIVES_SD_DEFENDER
+LANG_ENGLISH        "Impedisci al nemico di distruggere gli obiettivi."
+
+REFERENCE           OBJECTIVES_SD_DEFENDER_HINT
+LANG_ENGLISH        "PROTEGGI GLI OBIETTIVI A E B"
+
+REFERENCE           OBJECTIVES_SD_DEFENDER_SCORE
+LANG_ENGLISH        "Proteggi gli obiettivi affinché non vengano distrutti. Se vi sono esplosivi piazzati in una posizione o nell'altra, disarmali prima che esplodano.\nLimite punti: &&1"
+
+REFERENCE           OBJECTIVES_SHRP
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori."
+
+REFERENCE           OBJECTIVES_SHRP_HINT
+LANG_ENGLISH        "OTTIENI SPECIALITÀ CON LE SERIE DI UCCISIONI"
+
+REFERENCE           OBJECTIVES_SHRP_SCORE
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori."
+
+REFERENCE           OBJECTIVES_TAG
+LANG_ENGLISH        "Ottieni punti eliminando i giocatori quando sei contrassegnato. Elimina il giocatore contrassegnato per prendere il suo posto."
+
+REFERENCE           OBJECTIVES_TAG_HINT
+LANG_ENGLISH        "Diventa contrassegnato ed elimina gli altri giocatori."
+
+REFERENCE           OBJECTIVES_TAG_SCORE
+LANG_ENGLISH        "Ottieni punti eliminando i giocatori quando sei contrassegnato. Elimina il giocatore contrassegnato per prendere il suo posto. Vince il primo giocatore che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_TAG_TEAM
+LANG_ENGLISH        "Ottieni punti eliminando i giocatori nemici quando sei contrassegnato. Elimina il nemico contrassegnato per prendere il suo posto."
+
+REFERENCE           OBJECTIVES_TAG_TEAM_HINT
+LANG_ENGLISH        "Diventa contrassegnato ed elimina i giocatori nemici."
+
+REFERENCE           OBJECTIVES_TAG_TEAM_SCORE
+LANG_ENGLISH        "Ottieni punti eliminando i giocatori nemici quando sei contrassegnato. Elimina il nemico contrassegnato per prendere il suo posto. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_TDM
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori."
+
+REFERENCE           OBJECTIVES_TDM_HINT
+LANG_ENGLISH        "ELIMINA I GIOCATORI NEMICI"
+
+REFERENCE           OBJECTIVES_TDM_SCORE
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_THP
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori."
+
+REFERENCE           OBJECTIVES_THP_HINT
+LANG_ENGLISH        "Elimina gli altri giocatori."
+
+REFERENCE           OBJECTIVES_THP_SCORE
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_VTDM
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori."
+
+REFERENCE           OBJECTIVES_VTDM_HINT
+LANG_ENGLISH        "Elimina gli altri giocatori."
+
+REFERENCE           OBJECTIVES_VTDM_SCORE
+LANG_ENGLISH        "Ottieni punti eliminando gli altri giocatori. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           OBJECTIVES_WAR
+LANG_ENGLISH        "Cattura tutte le bandiere."
+
+REFERENCE           OBJECTIVES_WAR_HINT
+LANG_ENGLISH        "Cattura la bandiera contesa."
+
+REFERENCE           OBJECTIVES_WAR_SCORE
+LANG_ENGLISH        "Ottieni punti catturando la bandiera contesa. Vince la prima squadra che realizza &&1 punti."
+
+REFERENCE           SCRIPT_AM_BONUS_HARDEST_2_KILL
+LANG_ENGLISH        "Più difficile da uccidere +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_HEADSHOTS
+LANG_ENGLISH        "Più colpi alla testa +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_REVIVES
+LANG_ENGLISH        "Più rianimazioni +&&1"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS
+LANG_ENGLISH        "Bonus difficoltà"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS_X
+LANG_ENGLISH        "x&&1"
+
+REFERENCE           SCRIPT_AM_LOW_SCORE_WARNING
+LANG_ENGLISH        "ATTENZIONE: verrai espulso se ottieni un punteggio negativo eccessivo"
+
+REFERENCE           SCRIPT_AM_MISSION_SCORE
+LANG_ENGLISH        "Punti missione"
+
+REFERENCE           SCRIPT_AM_NEW_HIGH_SCORE
+LANG_ENGLISH        "NUOVO RECORD!"
+
+REFERENCE           SCRIPT_AM_PLAYER_KICKED
+LANG_ENGLISH        "&&1 è stato espulso"
+
+REFERENCE           SCRIPT_AM_PLAYERNAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           SCRIPT_AM_ROUND_BONUS
+LANG_ENGLISH        "Bonus round"
+
+REFERENCE           SCRIPT_AM_STREAK_BONUS_LOST
+LANG_ENGLISH        "Bonus terminato"
+
+REFERENCE           SCRIPT_AM_STREAK_COMPLETE
+LANG_ENGLISH        "Bonus completato"
+
+REFERENCE           SCRIPT_AM_SUICIDE_COMMITED
+LANG_ENGLISH        "Sei stato penalizzato per aver commesso un suicidio"
+
+REFERENCE           SCRIPT_AM_SUICIDE_KICKED
+LANG_ENGLISH        "Sei stato espulso per aver commesso troppi suicidi"
+
+REFERENCE           SCRIPT_AM_SUICIDE_ONE_LAST_GO
+LANG_ENGLISH        "Ancora un suicidio e verrai espulso"
+
+REFERENCE           SCRIPT_AM_X
+LANG_ENGLISH        "x"
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_ENGLISH        "Puoi danneggiare i corazzati\nsolo con C4 e razzi."
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_ENGLISH        "Sei troppo lontano dalla radio per richiedere il fuoco d'artiglieria."
+
+REFERENCE           SCRIPT_C4_USE
+LANG_ENGLISH        "Premi ^3[{+actionslot 2}]^7 per usare il C4."
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_ENGLISH        "Sgombera l'edificio utilizzando le mitragliatrici."
+
+REFERENCE           SCRIPT_COLLECTIBLE
+LANG_ENGLISH        "Informazioni acquisite"
+
+REFERENCE           SCRIPT_COLLECTIBLE_FOUND
+LANG_ENGLISH        "Informazioni trovate: %1 di %2."
+
+REFERENCE           SCRIPT_COLLECTIBLE_PICKUP
+LANG_ENGLISH        "Tieni premuto ^3 &&1 ^7 per acquisire informazioni"
+
+REFERENCE           SCRIPT_COLON
+LANG_ENGLISH        ":"
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_ENGLISH        "Fine del livello corrente."
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_ENGLISH        "$"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_ENGLISH        "Elimina le squadre Flak 88 [ancora &&1]."
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_ENGLISH        "Elimina le squadre Flak 88."
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_ENGLISH        "Sei stato ucciso da un barile esplosivo.\nI barili rossi esplodono quando colpiti."
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_ENGLISH        "Sei stato investito dall'esplosione di un veicolo.\nI veicoli in fiamme esplodono facilmente."
+
+REFERENCE           SCRIPT_EXPLOSIVE_BOLT_DEATH
+LANG_ENGLISH        "Sei stato ucciso da un dardo esplosivo."
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_ENGLISH        "ESPLOSIVO PIAZZATO. ALLONTANATI!"
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_ENGLISH        "Premi FUOCO per continuare."
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_ENGLISH        "Cerca il segnale lampeggiante sul veicolo antiaereo tedesco."
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_ENGLISH        "Sei stato ucciso da una granata.\nTieni sempre d'occhio l'indicatore di granata in arrivo."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_ENGLISH        "Sei morto per aver trattenuto la granata troppo a lungo."
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_ENGLISH        "Tieni premuto ^3[{+frag}]^7 per ritardare il lancio delle granate."
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_ENGLISH        "Questa porta non si può aprire. Puoi tralasciare le porte chiuse."
+
+REFERENCE           SCRIPT_HINT_DOOR
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per aprire la porta"
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_ENGLISH        "Mentre sei piegato ti muovi più lentamente."
+
+REFERENCE           SCRIPT_HINT_MELEE
+LANG_ENGLISH        "Premi ^3[{+melee}]^7 per attaccare corpo a corpo"
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_ENGLISH        "La stella sulla bussola indica il tuo prossimo obiettivo."
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_ENGLISH        "Per prendere munizioni da un'altra arma, avvicinati a essa oppure guardala e premi USA [&&1]."
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_ENGLISH        "Premi ^3[{+throw}]^7 per lanciare il C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_ENGLISH        "Premi ^3[{+speed_throw}]^7 per lanciare il C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_ENGLISH        "Premi ^3[{+speed_throw}]^7 per lanciare il C4."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_ENGLISH        "Premi ^3[{+toggleads_throw}]^7 per lanciare il C4."
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_ENGLISH        "Non puoi trasportare altre granate."
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_ENGLISH        "Tieni premuto ^3 &&1 ^7 per utilizzare."
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_ENGLISH        "Hai trovato dei documenti intelligence sul nemico."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_ENGLISH        "Documenti intelligence trovati: &&1 su 45."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_ENGLISH        "Documenti intelligence trovati: &&1 su 45."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_ENGLISH        "Documenti intelligence trovati: &&1 su 45."
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_ENGLISH        "È rimasto solo &&1 documento intelligence da trovare."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_ENGLISH        "Tieni premuto ^3 &&1 ^7 per riporre i documenti intelligence al sicuro."
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_ENGLISH        "Hai trovato &&1 punti intelligence nemici."
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_ENGLISH        "Rimangono ancora &&1 documenti intelligence da trovare."
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_ENGLISH        "Supporto aereo ravvicinato pronto all'azione!"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_ENGLISH        "Supporto aereo ravvicinato pronto all'azione! Premi ^3[{+actionslot 4}]^7."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per piazzare le mine Claymore."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_ENGLISH        "Premi ^3[{+actionslot 4}]^7 per usare una Claymore."
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_ENGLISH        "Premi ^3[{+actionslot 3}]^7 per usare il lanciagranate M203."
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_ENGLISH        "Premi ^3[{weapnext}]^7 per passare al fucile di precisione M21"
+
+REFERENCE           SCRIPT_MANTLE
+LANG_ENGLISH        "Premi ^3[{+gostand}]^7 per "
+
+REFERENCE           SCRIPT_MINUS
+LANG_ENGLISH        "-"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_ENGLISH        "%s"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_ENGLISH        "-$"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_ENGLISH        "Il fuoco amico non sarà tollerato!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_ENGLISH        "Il fuoco amico non sarà tollerato!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_NEUTRAL
+LANG_ENGLISH        "Hai sparato a un civile. Attento a dove spari!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_ENGLISH        "Hai tradito i tuoi fratelli!"
+
+REFERENCE           SCRIPT_MOVING_VEHICLE_DEATH
+LANG_ENGLISH        "Sei stato ucciso da un veicolo in movimento!"
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_ENGLISH        "Premi ^3[{+actionslot 1}]^7 per disattivare il visore notturno."
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_ENGLISH        "Premi ^3[{+actionslot 1}]^7 per usare il visore notturno."
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_ENGLISH        "Distruggi i carri antiaerei Flakpanzer [ancora &&1]."
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_ENGLISH        "Vai dal capitano Price all'incrocio per il debriefing."
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_ENGLISH        "Hai preso delle Stielhandgranate."
+
+REFERENCE           SCRIPT_PLATFORM_AIRLIFT_HINT_GETPILOT
+LANG_ENGLISH        "Avvicinati al pilota e tieni premuto ^3[{+activate}]^7 per tirarla fuori."
+
+REFERENCE           SCRIPT_PLATFORM_AIRLIFT_HINT_PICKUP_PILOT
+LANG_ENGLISH        "Tieni premuto ^3 &&1 ^7 per portare via il pilota."
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_DEATH_DO_NOTHING
+LANG_ENGLISH        "Pugnala l'assalitore banzai mentre sta per colpirti. ^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_DEATH_TOO_LATE
+LANG_ENGLISH        "Pugnala l'assalitore banzai prima che ti colpisca. ^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_DEATH_TOO_SOON
+LANG_ENGLISH        "Pugnala l'assalitore banzai dopo che ti ha atterrato. ^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_PLATFORM_BANZAI_HINT
+LANG_ENGLISH        "Premi ^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_PLATFORM_CHEAT_USETOSLOWMO
+LANG_ENGLISH        "Usa ^3[{+melee}]^7 per avviare o fermare la moviola."
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_DO_NOTHING
+LANG_ENGLISH        "Assali fisicamente il cane quando ti attacca e afferralo alla gola. ^3( ^3[{+melee}]^7 )^7 "
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_LATE
+LANG_ENGLISH        "Assali fisicamente il cane prima che attacchi per prenderlo alla gola. ^3( ^3[{+melee}]^7 )^7 "
+
+REFERENCE           SCRIPT_PLATFORM_DOG_DEATH_TOO_SOON
+LANG_ENGLISH        "Attendi che il cane morda per prenderlo alla gola. ^3( ^3[{+melee}]^7 )^7 "
+
+REFERENCE           SCRIPT_PLATFORM_DOG_HINT
+LANG_ENGLISH        "Premi ^3( ^3[{+melee}]^7 )^7"
+
+REFERENCE           SCRIPT_PLATFORM_FIRE_TO_SKIP
+LANG_ENGLISH        "Premi FUOCO per continuare."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSKEY
+LANG_ENGLISH        "Premi [&&1] per prendere la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_ADSSTOP
+LANG_ENGLISH        "Premi [&&1] un'altra volta per smettere di usare il mirino."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CHECKCURRENTOBJECTIVE
+LANG_ENGLISH        "Premi [&&1] per controllare il tuo obiettivo attuale."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHKEY
+LANG_ENGLISH        "Premi [&&1] per accovacciarti."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_CROUCHTOGGLEFROM
+LANG_ENGLISH        "Premi [&&1] un'altra volta per alzarti dalla posizione accovacciata."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPPRONEKEY
+LANG_ENGLISH        "Premi due volte [&&1] per sdraiarti."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_DOUBLETAPSTANDKEY
+LANG_ENGLISH        "Premi due volte [&&1] per alzarti dalla posizione sdraiata."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTOBJECTIVE
+LANG_ENGLISH        "Avvicinati al tuo primo obiettivo e premi USA [&&1] per recuperarlo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_FIRSTWEAPONKEY
+LANG_ENGLISH        "Premi [&&1] per passare alla tua arma primaria."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_GET_DETONATOR
+LANG_ENGLISH        "Tieni premuto ^3 &&1 ^7 per prendere il detonatore."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNADSKEY
+LANG_ENGLISH        "Premi senza rilasciare [&&1] per prendere la mira."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNCROUCHKEY
+LANG_ENGLISH        "Premi senza rilasciare [&&1] per accovacciarti."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_HOLDDOWNPRONEKEY
+LANG_ENGLISH        "Premi senza rilasciare [&&1] per sdraiarti."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_JUMPSTANDKEY
+LANG_ENGLISH        "Quando sei in piedi, premi [&&1] per saltare."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANLEFTKEY
+LANG_ENGLISH        "Premi senza rilasciare [&&1] per piegarti a sinistra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANOUTWINDOW
+LANG_ENGLISH        "Premi USA [&&1] per sporgerti dal finestrino."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_LEANRIGHTKEY
+LANG_ENGLISH        "Premi senza rilasciare [&&1] per piegarti a destra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MELEEATTACK
+LANG_ENGLISH        "Premi [&&1] per ingaggiare un attacco corpo a corpo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEBACKWARD
+LANG_ENGLISH        "Premi il tasto di spostamento all'indietro [&&1] per spostarti all'indietro."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_MOVEFORWARD
+LANG_ENGLISH        "Premi il tasto di spostamento in avanti [&&1] per spostarti in avanti."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_OBJECTIVEKEY
+LANG_ENGLISH        "Premi [&&1] per vedere i tuoi obiettivi."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PICKUP_PANZERSCHRECK
+LANG_ENGLISH        "Premi [&&1] per prendere il Panzerschreck."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PICKUPWEAPONKEY
+LANG_ENGLISH        "Per prendere un'arma, guardala e premi USA [&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTBEACON
+LANG_ENGLISH        "Premi ^3 &&1 ^7 per piazzare il trasmettitore IR."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PLANTEXPLOSIVES
+LANG_ENGLISH        "Avvicinati alla posizione in cui piazzare l'esplosivo e premi [&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_PRONEKEY
+LANG_ENGLISH        "Premi [&&1] per sdraiarti."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMCROUCHTOSTAND
+LANG_ENGLISH        "Premi una volta [&&1] per alzarti dalla posizione accovacciata."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RAISEFROMPRONETOCROUCH
+LANG_ENGLISH        "Premi [&&1] per passare dalla posizione accovacciata a quella sdraiata."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_RELOAD
+LANG_ENGLISH        "Premi [&&1] per ricaricare l'arma."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SECONDWEAPONKEY
+LANG_ENGLISH        "Premi [&&1] per passare alla tua arma secondaria."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SIGHTARTILLERY
+LANG_ENGLISH        "Premi [^3[{+binoculars}]^7] per usare il binocolo e dirigere l'artiglieria."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SIGHTARTILLERY_BREATH
+LANG_ENGLISH        "Premi [^3[{+breath_binoculars}]^7] per usare il binocolo e dirigere l'artiglieria."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMCROUCHKEY
+LANG_ENGLISH        "Premi due volte [&&1] per alzarti dalla posizione accovacciata."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDFROMPRONEKEY
+LANG_ENGLISH        "Premi [&&1] per alzarti dalla posizione sdraiata."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDKEY
+LANG_ENGLISH        "Premi [&&1] per alzarti."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOCROUCHKEY
+LANG_ENGLISH        "Rilascia [&&1] per non stare più accovacciato."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOPRONEKEY
+LANG_ENGLISH        "Rilascia [&&1] per non stare più sdraiato."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STANDLETGOSECONDKEY
+LANG_ENGLISH        "Se questo ti fa sdraiare, premi due volte [&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFELEFT
+LANG_ENGLISH        "Premi il tasto di spostamento a sinistra [&&1] per spostarti a sinistra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_STRAFERIGHT
+LANG_ENGLISH        "Premi il tasto di spostamento a destra [&&1] per spostarti a destra."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWAPWEAPONSKEY
+LANG_ENGLISH        "Premi senza rilasciare USA [&&1] per scambiare la tua arma attuale con quella che stai guardando."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOGRENADE
+LANG_ENGLISH        "Premi [&&1] per passare alle granate."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_SWITCHTOSECONDWEAPON
+LANG_ENGLISH        "Ora hai due armi. Premi [&&1] per passare all'arma secondaria."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_TRAINING_SWITCHTOGRENADE
+LANG_ENGLISH        "Premi [&&1] per passare alle granate."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USEARTILLERY
+LANG_ENGLISH        "Premi [^3[{+activate}]^7] per richiedere il fuoco d'artiglieria"
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USECINDERBLOCKWALL
+LANG_ENGLISH        "Avvicinati al frammento di muro e premi il tasto USA [&&1] per piazzare l'esplosivo."
+
+REFERENCE           SCRIPT_PLATFORM_HINT_USERADIO
+LANG_ENGLISH        "Premi [&&1] per usare la radio."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_BINOCULAR
+LANG_ENGLISH        "Guarda col binocolo premendo [&&1]."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_DOCUMENTS
+LANG_ENGLISH        "Premi [&&1] per prendere i documenti."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPEXPLOSIVES
+LANG_ENGLISH        "Premi [&&1] per prendere gli esplosivi."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPGRENADES
+LANG_ENGLISH        "Premi [&&1] per prendere le granate."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PICKUPPATROLLOGS
+LANG_ENGLISH        "Premi [&&1] per prendere il registro di pattuglia."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_PLANTEXPLOSIVES
+LANG_ENGLISH        "Premi [&&1] per piazzare gli esplosivi."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_RAPPEL
+LANG_ENGLISH        "Tieni premuto ^3 &&1 ^7 per calarti."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_TAKEEXPLOSIVES
+LANG_ENGLISH        "Premi [&&1] per prendere gli esplosivi."
+
+REFERENCE           SCRIPT_PLATFORM_HINTSTR_USEELEVATOR
+LANG_ENGLISH        "Premi [&&1] per azionare l'ascensore."
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_PLANT_C4_GLOW
+LANG_ENGLISH        "Avvicinati all'indicatore luminoso e tieni premuto ^3[{+activate}]^7 per piazzare il C4."
+
+REFERENCE           SCRIPT_PLATFORM_LAUNCHFACILITY_A_HINT_SMOKE
+LANG_ENGLISH        "Premi ^3[{+smoke}]^7 per lanciare una granata fumogena e avvicinarti al veicolo nemico in tutta sicurezza."
+
+REFERENCE           SCRIPT_PLATFORM_LEARN_CHOPPER_AIR_SUPPORT2
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per inviare le coordinate d'attacco."
+
+REFERENCE           SCRIPT_PLATFORM_OFF_TANK
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per uscire dal carro"
+
+REFERENCE           SCRIPT_PLATFORM_PIANO
+LANG_ENGLISH        "Premi [&&1]"
+
+REFERENCE           SCRIPT_PLATFORM_SNIPER_HINT_CROUCH
+LANG_ENGLISH        "Premi ^3[{gocrouch}]^7 per accovacciarti"
+
+REFERENCE           SCRIPT_PLATFORM_SPOOL_MINIGUN
+LANG_ENGLISH        "Tieni premuto ^3[{+speed_throw}]^7 \nper preparare la minigun."
+
+REFERENCE           SCRIPT_PLUS
+LANG_ENGLISH        "+"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_ENGLISH        "+%s"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_ENGLISH        "+$"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_ENGLISH        "Evita le zone radioattive.\nFai attenzione agli impulsi emessi dal contatore Geiger."
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_ENGLISH        "Hai sparato a un compagno!"
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_ENGLISH        "Prendi il fianco sinistro."
+
+REFERENCE           SCRIPT_TANKSHELL_DEATH
+LANG_ENGLISH        "Sei stato ucciso da una cannonata di carro armato!"
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_ENGLISH        "TEMPO RIMASTO:"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_ENGLISH        "PUNTI TOTALE:"
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_ENGLISH        "Usa le armi anticarro Panzerfaust dietro al bunker per distruggere i carri."
+
+REFERENCE           SCRIPT_X2
+LANG_ENGLISH        "x2"
+
+REFERENCE           SCRIPT_X3
+LANG_ENGLISH        "x3"
+
+ENDMARKER

@@ -1,0 +1,1042 @@
+// Dumped from fastfile "it_hue_city".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HUE_CITY_ACTION_4_BOMB
+LANG_ENGLISH        "Premi ^3[{+actionslot 4}]^7 per chiedere il supporto aereo"
+
+REFERENCE           HUE_CITY_ACTION_4_GUNSHIP
+LANG_ENGLISH        "Premi ^3[{+actionslot 4}]^7 per chiedere il supporto aereo"
+
+REFERENCE           HUE_CITY_ACTION_4_GUNSHIP_FIRE
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per indicare i bersagli al supporto aereo"
+
+REFERENCE           HUE_CITY_APC_NAME
+LANG_ENGLISH        "Il parassita"
+
+REFERENCE           HUE_CITY_APC_TYPE
+LANG_ENGLISH        "M113"
+
+REFERENCE           HUE_CITY_BASH_HINT
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per spingere"
+
+REFERENCE           HUE_CITY_BOTTOM_FEEDER
+LANG_ENGLISH        "Il parassita"
+
+REFERENCE           HUE_CITY_BREACH
+LANG_ENGLISH        "Irrompi"
+
+REFERENCE           HUE_CITY_C4_HINT_EQUIP
+LANG_ENGLISH        "Premi ^3[{+actionslot 1}]^7 per equipaggiare le cariche C4"
+
+REFERENCE           HUE_CITY_C4_HINT_THROW
+LANG_ENGLISH        "Premi ^3[{+speed_throw}]^7 per lanciare il C4 e ^3[{+attack}]^7 per detonarlo"
+
+REFERENCE           HUE_CITY_C4_PLANT
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per piazzare gli esplosivi"
+
+REFERENCE           HUE_CITY_CLAYMORE_HINT_EQUIP
+LANG_ENGLISH        "Premi ^3[{+actionslot 4}]^7 per equipaggiare le cariche C4"
+
+REFERENCE           HUE_CITY_CLAYMORE_HINT_THROW
+LANG_ENGLISH        "Premi ^3[{+attack}]^7 per usare le Claymore"
+
+REFERENCE           HUE_CITY_CLAYMORES
+LANG_ENGLISH        "Claymore"
+
+REFERENCE           HUE_CITY_DEFEND
+LANG_ENGLISH        "Difendi"
+
+REFERENCE           HUE_CITY_DETONATE_EXPLOSIVE
+LANG_ENGLISH        "Fai detonare l'esplosivo"
+
+REFERENCE           HUE_CITY_ESCAPE_FAILED
+LANG_ENGLISH        "Non sei riuscito a fuggire in tempo."
+
+REFERENCE           HUE_CITY_ESCORT
+LANG_ENGLISH        "Scorta"
+
+REFERENCE           HUE_CITY_EXTRACTION_IN
+LANG_ENGLISH        "Estrazione in: "
+
+REFERENCE           HUE_CITY_FOLLOW
+LANG_ENGLISH        "Segui"
+
+REFERENCE           HUE_CITY_GET_TO_BOAT
+LANG_ENGLISH        "Raggiungi la barca!"
+
+REFERENCE           HUE_CITY_HUEY_TYPE
+LANG_ENGLISH        "Elicottero Huey"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE1
+LANG_ENGLISH        "^LTrasmissione n° 20-8-5-18-5. Destinatario: OSCAR^L"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE2
+LANG_ENGLISH        "^C1Hue^C ^Lè stata invasa.^L"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE3
+LANG_ENGLISH        "^LNon possiamo perdere il disertore sovietico e le sue informazioni.^L"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE4
+LANG_ENGLISH        "^LCapo squadra estrazione:^L ^C1Mason^C ^Laiutato dalle unità SOG.^L"
+
+REFERENCE           HUE_CITY_INTROSCREEN_LINE5
+LANG_ENGLISH        "^LOre 19:00,^L ^C12 febbraio 1968^C"
+
+REFERENCE           HUE_CITY_INTROSCREEN_NAME
+LANG_ENGLISH        "Sergente Carter"
+
+REFERENCE           HUE_CITY_INTROSCREEN_PLACE
+LANG_ENGLISH        "Hue, Vietnam"
+
+REFERENCE           HUE_CITY_LANDING_ZONE
+LANG_ENGLISH        "Zona d'atterraggio"
+
+REFERENCE           HUE_CITY_OBJ_1
+LANG_ENGLISH        "Preleva il disertore e le informazioni"
+
+REFERENCE           HUE_CITY_OBJ_2A
+LANG_ENGLISH        "Raggiungi la zona d'atterraggio"
+
+REFERENCE           HUE_CITY_OBJ_2B
+LANG_ENGLISH        "Combatti fino alla zona d'atterraggio"
+
+REFERENCE           HUE_CITY_OBJ_3
+LANG_ENGLISH        "Prendi la radio e richiedi il supporto aereo"
+
+REFERENCE           HUE_CITY_OBJ_3A
+LANG_ENGLISH        "Prendi la radio"
+
+REFERENCE           HUE_CITY_OBJ_4
+LANG_ENGLISH        "Distruggi la postazione ZSU"
+
+REFERENCE           HUE_CITY_OBJ_5
+LANG_ENGLISH        "Difendi la zona d'atterraggio fino all'estrazione"
+
+REFERENCE           HUE_CITY_OBJ_6
+LANG_ENGLISH        "Imposta le difese per proteggere la zona d'atterraggio"
+
+REFERENCE           HUE_CITY_OBJ_7A
+LANG_ENGLISH        "UCCIDI GLI ARTIGLIERI (ancora 3 di 3)"
+
+REFERENCE           HUE_CITY_OBJ_7B
+LANG_ENGLISH        "UCCIDI GLI ARTIGLIERI (ancora 2 di 3)"
+
+REFERENCE           HUE_CITY_OBJ_7C
+LANG_ENGLISH        "UCCIDI GLI ARTIGLIERI (ancora 1 di 3)"
+
+REFERENCE           HUE_CITY_OBJ_8
+LANG_ENGLISH        "Prendi la radio e richiedi un attacco aereo"
+
+REFERENCE           HUE_CITY_OBJ_9
+LANG_ENGLISH        "Raggiungi la barca"
+
+REFERENCE           HUE_CITY_OBJ_ACOG
+LANG_ENGLISH        "Prendi il commando con mirino ACOG"
+
+REFERENCE           HUE_CITY_OBJ_HELP_WOODS
+LANG_ENGLISH        "Aiuta Woods"
+
+REFERENCE           HUE_CITY_PLANT_C4
+LANG_ENGLISH        "Piazza il C4"
+
+REFERENCE           HUE_CITY_PROMPT_PRESS
+LANG_ENGLISH        "Premi"
+
+REFERENCE           HUE_CITY_PROMPT_PRESS_BUTTON
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           HUE_CITY_PROMPT_PRESS_OPEN
+LANG_ENGLISH        "Premi ^F^3[{+activate}]^7^F per aprire la porta"
+
+REFERENCE           HUE_CITY_PUSH_DOOR
+LANG_ENGLISH        "Premi ripetutamente ^3[{+activate}]^7 per aprire la porta"
+
+REFERENCE           HUE_CITY_RAPELHINT
+LANG_ENGLISH        "Premi X per calarti"
+
+REFERENCE           HUE_CITY_REGROUP
+LANG_ENGLISH        "Raggruppati"
+
+REFERENCE           HUE_CITY_RIGHTSTICK
+LANG_ENGLISH        "^3[{+melee}]^7"
+
+REFERENCE           HUE_CITY_SATCHEL_CHARGES
+LANG_ENGLISH        "Cariche satchel"
+
+REFERENCE           HUE_CITY_SCOPED_RIFLE
+LANG_ENGLISH        "Commando con mirino Acog"
+
+REFERENCE           HUE_CITY_SPAS_SWITCH
+LANG_ENGLISH        "Premi ^3[{+actionslot 3}]^7 per usare le munizioni Dragon's Breath"
+
+REFERENCE           HUE_CITY_SPOTTER
+LANG_ENGLISH        "Artigliere"
+
+REFERENCE           HUE_CITY_SUPPLIES
+LANG_ENGLISH        "Rifornimenti"
+
+REFERENCE           HUE_CITY_SUPPORT
+LANG_ENGLISH        "Supporto"
+
+REFERENCE           HUE_CITY_TAKE_C4_FROM_STASH
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per raccogliere gli esplosivi"
+
+REFERENCE           HUE_CITY_TAKE_CLAYMORE_FROM_STASH
+LANG_ENGLISH        "Premi ^3[{+activate}]^7 per raccogliere le Claymore"
+
+REFERENCE           HUE_CITY_TAKE_RADIO
+LANG_ENGLISH        "Tieni premuto ^3[{+activate}]^7 per prendere la radio"
+
+REFERENCE           HUE_CITY_TAKE_RADIO_OBJ
+LANG_ENGLISH        "Prendi la radio"
+
+REFERENCE           HUE_CITY_TARGET
+LANG_ENGLISH        "Bersaglio"
+
+REFERENCE           HUE_CITY_TARGET_IS_FRIENDLY
+LANG_ENGLISH        "Bersaglio alleato"
+
+REFERENCE           HUE_CITY_TARGET_TOO_CLOSE
+LANG_ENGLISH        "Bersaglio troppo vicino"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_001A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, negativo! La squadra Texas non è nel settore."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_002A_MAR3_F
+LANG_ENGLISH        "^1MARINE USA: ^7Ci serve un supporto aereo ravvicinato! Subito!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_003A_USS1_F
+LANG_ENGLISH        "^1MARINE USA: ^7Ci hanno colpiti! Ci hanno colpiti!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_004A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7MACV East è stato occupato. Ripeto: MACV East è perduto."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_005A_USS1_F
+LANG_ENGLISH        "^1MARINE USA: ^7Portate quell'APC! Qui ci sono dei feriti!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_006A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ci stanno massacrando a nord. I ragazzi non resisteranno a lungo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_007A_MAR3_F
+LANG_ENGLISH        "^1MARINE USA: ^7Me ne frego degli ordini! Dirigete il fuoco sul settore Tango Lima Five IMMEDIATAMENTE."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_008A_USS1_F
+LANG_ENGLISH        "^1MARINE USA: ^7Ritirata! Ritirata!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_009A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Complesso MACV in vista. Woods, fra un po' sarai nella merda fino al collo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_009A_USC1_S_F_S
+LANG_ENGLISH        "^1PILOTA USA: ^7Complesso MACV in vista. Woods, fra un po' sarai nella merda fino al collo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_014A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Quad-50! Ci hanno colpiti!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_015A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Lima niner, stiamo precipitando!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_017A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Resistete!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_018A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Hotel Six, rispondete. Mi ricevete, Hotel Six?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_019A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Lima niner, Hotel Six è andato."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_020A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Tieni questo SPAS-12. Conterrà le granate incendiarie. Mason, dove siamo diretti?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_029A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Lima niner in arrivo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_030A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7XRay, tenete giù la testa!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_031A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7XRay, potete andare."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_032A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Forza, muoversi!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_033A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Via dalla strada! Via!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_038A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7L'intero edificio è occupato, cazzo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_040A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman, che sta dicendo?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_041A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Di uccidere i civili."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_042A_NVA3
+LANG_ENGLISH        "^1BASE LOUDSPEAKER: ^7Avete collaborato con gli Americani e questo prova la vostra colpevolezza. Secondo le tradizioni del partito, la sentenza verrà eseguita immediatamente."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_044A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sta' giù!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_045A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Spiacente, pezzo di merda!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_045A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7Spiacente, bastardo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_049A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Molotov!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_050A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Alla finestra!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_051A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Sì."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_058A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Merda."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_058A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7No."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_059A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7OK. Ricevuto, Lima niner."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_060A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Se volete andarvene, è meglio che vi muoviate."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_067A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Siamo nel comando centrale. L'uscita è dall'altra parte."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_350A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman! L'angolo a nord-est!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_400A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dobbiamo recuperare un disertore con informazioni vitali sul coinvolgimento sovietico in Vietnam..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_401A_MASO
+LANG_ENGLISH        "^1MASON: ^7Abbiamo perso il contatto con la sua squadra di sicurezza. Potrebbero essersi trincerati nella camera blindata del MACV."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_402A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lo troveremo... se è vivo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_403A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Squadra SOG XRay, agganciarsi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_404A_USC1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Squadra agganciata."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_405A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7ATTENTI!!!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_406A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Muoversi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_407A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Lima niner, vedo XRay."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_408A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Woods, tutta l'ala nord è piena di soldati nordvietnamiti."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_409A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Falli saltare in aria, Bowman!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_410A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7Andiamo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_411A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7XRay, stiamo entrando dal tetto."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_412A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7L'obiettivo è al piano di sotto."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_413A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Pensi che il disertore sia sopravvissuto all'attacco?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_414A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7*Se è così, è un figlio di puttana bello tosto!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_414A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Nel caso, è uno bello tosto!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_415A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, qui Lima niner. O uscite in fretta, o restate lì dentro per sempre. I Nordvietnamiti hanno occupato l'intera ala nord."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_416A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto, Lima niner. Ci muoviamo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_417A_MASO
+LANG_ENGLISH        "^1MASON: ^7La camera blindata è lì davanti."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_418A_MASO
+LANG_ENGLISH        "^1MASON: ^7La camera blindata è laggiù."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_419A_MASO
+LANG_ENGLISH        "^1MASON: ^7Breccia nella camera blindata!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_420A_MASO
+LANG_ENGLISH        "^1MASON: ^7È stata violata."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_421A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Dov'è il tuo contatto?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_422A_MASO
+LANG_ENGLISH        "^1MASON: ^7Deve essersi rifugiato nella sala comandi. Forse è ancora vivo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_423A_MASO
+LANG_ENGLISH        "^1MASON: ^7Andiamo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_424A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lima niner, rapporto!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_425A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, i Nordvietnamiti hanno ripreso il MACV a sud. Siete tagliati fuori."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_426A_MASO
+LANG_ENGLISH        "^1MASON: ^7Andiamo. Seguitemi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_427A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dovrebbe essere in una di queste stanze."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_428A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, apri la porta in fondo al salone."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_429A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bowman, con me."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_430A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Mason?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_431A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Reznov. Come sei fuggito da Vorkuta?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_432A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Non pensavo di rivederti vivo..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_433A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Neanch'io, amico mio."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_434A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Sei tu il disertore?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_435A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Ho un messaggio che il tuo governo farebbe bene ad ascoltare..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_436A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Dragovich vuole attaccare l'occidente."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_437A_WOOD_F_M
+LANG_ENGLISH        "^1WOODS: ^7Mason! Hai trovato quello che cercavi?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_438A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Possiamo andare."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_439A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Dragovich... Sapevo che non era finita."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_440A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7La sua influenza si estende come un cancro. Nemmeno il Cremlino conosce le sue vere intenzioni."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_441A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Bisogna fermarlo, Mason."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_442A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Dragovich... Kravchenko... Steiner... Devono morire tutti."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_443A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Questi sono i tuoi uomini?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_444A_MASO
+LANG_ENGLISH        "^1MASON: ^7Woods. Bowman."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_445A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Io sono Reznov... Viktor."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_446A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, perché ci hai messo tanto? Speriamo che ne valga la pena..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_448A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Lima niner... Dove cazzo è il nostro passaggio?!?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_449A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, attenti. I Marine sono impegnati in uno scontro pesante a ovest del MACV."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_450A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ci vediamo al punto di ritrovo Delta, due chilometri a nord del fiume."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_451A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ci saremo... Vedete di non tardare..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_452A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Cazzo, avremo bisogno di supporto aereo ravvicinato."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_452A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Cazzo, avremo bisogno di supporto aereo ravvicinato."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_545A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Le camere blindate sono dall'altra parte della stanza di guerra."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_554A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, sfonda la porta!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_555A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, devi sfondare la porta."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_556A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7La sfondi o no, quella cazzo di porta?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_557A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Non possiamo fermarci. Sfonda la porta."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_558A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, non abbiamo molto tempo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_559A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7RPG!!!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_700A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Hue. È lì che hai iniziato a capire qualcosa, Mason."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_701A_MASO
+LANG_ENGLISH        "^1MASON: ^7Il disertore."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_702A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non riuscivo a crederci: Reznov era a Hue... ed era il disertore."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_703A_INTE
+LANG_ENGLISH        "^1INTERROGATORE: ^7Era tornato per te, Mason. Reznov era tornato."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_704A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7NUMERI... costruzione... Stazione radio dei NUMERI... NUMERI..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S01_705A_DRAG
+LANG_ENGLISH        "^1DRAGOVICH: ^7NUMERI... costruzione... Stazione radio dei NUMERI... NUMERI..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_068A_NVA3
+LANG_ENGLISH        "^1BASE LOUDSPEAKER: ^7Soldati americani! Abbassate le armi! Questa non è la vostra guerra! Non vogliamo farvi del male. L'esercito popolare del Vietnam è qui per liberarvi!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_069A_CROS_M
+LANG_ENGLISH        "^1CROSBY: ^7RT-Texas, qui One Five. Ci serve supporto aereo immediato alla griglia seven Delta Oscar Tango!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_070A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, One Five. Il nostro obiettivo primario è il MACV a sud. Restate con la vostra compagnia."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_071A_CROS_M
+LANG_ENGLISH        "^1CROSBY: ^7Non c'è più la compagnia. Ci siamo separati nell'attacco!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_072A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7One Five, non siamo autorizzati a operare in quel settore. Siamo tutti nella merda, figliolo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_072A_USC3_S_F_S
+LANG_ENGLISH        "^1PILOTA USA: ^7One Five, non siamo autorizzati a operare in quella griglia."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_073A_CROS_M
+LANG_ENGLISH        "^1CROSBY: ^7Figlio di puttana... Cazzo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_073A_CROS_M_S
+LANG_ENGLISH        "^1CROSBY: ^7Figlio di..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_074A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ehi, dammi quella radio."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_075A_CROS_M
+LANG_ENGLISH        "^1CROSBY: ^7E chi sei? Un SOG?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_076A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dammi quella radio e basta."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_077A_CROS_M
+LANG_ENGLISH        "^1CROSBY: ^7Beh, auguri!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_077A_CROS_M_S
+LANG_ENGLISH        "^1CROSBY: ^7Beh, auguri!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_078A_MASO
+LANG_ENGLISH        "^1MASON: ^7Texas, qui Sierra Oscar Golf XRay. Al mio ordine, sferrare attacco priorità uno. Autenticazione golf shoe, passo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_079A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Diteci dove avete bisogno di noi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_080A_CROS_M
+LANG_ENGLISH        "^1CROSBY: ^7Figlio di puttana... Porca troia!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_080A_CROS_M_S
+LANG_ENGLISH        "^1CROSBY: ^7Figlio di..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_088A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, ordina l'attacco su quegli edifici!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_090A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason! Se non usi quella maledetta radio, passala a me."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_091A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, Texas in attesa."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_092A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Texas in attesa dell'ordine di attacco, passo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_093A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, non vediamo il bersaglio. Richiediamo le coordinate, passo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_094A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Colpiamo l'edificio a 2 piani."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_095A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Colpiamo l'edificio a 3 piani."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_096A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Fuoco a volontà sull'edificio a 4 piani."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_097A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Spariamo sull'edificio a 5 piani."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_098A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Coordinate confermate. Contatto all'edificio di 6 piani."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_099A_MASO
+LANG_ENGLISH        "^1MASON: ^7Texas, mi serve un po' di fuoco."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_100A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto. Arriviamo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_101A_MASO
+LANG_ENGLISH        "^1MASON: ^7Texas, esplosivi al mio segnale."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_102A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Tenetevi forte."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_103A_MASO
+LANG_ENGLISH        "^1MASON: ^7Stiamo inviando le coordinate. Fateli fuori."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_104A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Tutto chiaro, XRay. Attacchiamo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_105A_MASO
+LANG_ENGLISH        "^1MASON: ^7Texas, ora colpite il nido a destra. Pericolo ravvicinato!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_106A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Arriviamo, XRay. Tenete giù la testa."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_107A_MASO
+LANG_ENGLISH        "^1MASON: ^7Bersaglio segnato. Fateli a pezzi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_108A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Texas in arrivo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_109A_MASO
+LANG_ENGLISH        "^1MASON: ^7Texas, bersaglio segnato."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_110A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Vi vediamo, XRay. Il supporto è in arrivo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_111A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, XRay. Ci sono degli alleati sul bersaglio."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_112A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, ci sono degli alleati sulle coordinate. Confermate? Passo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_113A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, XRay. Il bersaglio non è valido."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_114A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Allontanate la squadra dalla zona."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_115A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sgomberare la zona. Pericolo imminente!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_116A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Affermativo, XRay. Sgomberate la zona."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_117A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prima squadra, via di lì! Stiamo per sparare sulla vostra posizione."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_118A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, contatto nemico sul tetto dell'edificio a 4 piani."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_119A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, RPG nemico sul tetto."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_120A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Bersaglio eliminato."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_121A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Nemico a terra."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_122A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Uccisioni multiple. La zona è sgombra."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_123A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7L'APC è andato! C'è un carro del cazzo, là fuori!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_123A_BOWM_S
+LANG_ENGLISH        "^1BOWMAN: ^7L'APC è andato! C'è un carro, là fuori!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_124A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Segnala subito quel pezzo di merda!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_124A_WOOD_S
+LANG_ENGLISH        "^1WOODS: ^7Mason! Segnala subito quel bastardo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_125A_MASO
+LANG_ENGLISH        "^1MASON: ^7Texas, colpite il carro davanti a noi con tutto quello che avete."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_126A_MASO
+LANG_ENGLISH        "^1MASON: ^7Texas, corazzato nemico a Victor Zulu Seven Foxtrot."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_128A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Quel T-55 ci sta massacrando! Mason, segnalalo agli aerei!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_129A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Affermativo, XRay. Inizia la pioggia di fuoco."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_130A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Iniziamo a spazzare l'area."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_133A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Merda... Manovra evasiva. XRay, siamo sotto attacco pesante!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_133A_USC3_S_F_S
+LANG_ENGLISH        "^1PILOTA USA: ^7Manovra evasiva. XRay, siamo sotto attacco pesante!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_134A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, la zona scotta. RT-Texas si ritira. Distruggete l'antiaerea e torneremo ad aiutarvi, passo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_137A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Ecco lo ZSU. Piano 2, in fondo alla strada."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_140A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Così andrà bene. Aiutami a toglierlo di mezzo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_144A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Mason! Aiutami! Argh..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_148A_WOOD_M
+LANG_ENGLISH        "^1WOODS: ^7Più forte!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_150A_MASO_M
+LANG_ENGLISH        "^1MASON: ^7Cazzo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_150A_MASO_M_S
+LANG_ENGLISH        "^1MASON: ^7Cazzo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_157A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7D'accordo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_158A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Bloccata. Su per le scale."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_159A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7XRay, Charlie viene verso di noi. Fate in fretta."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_164A_BOWM_F
+LANG_ENGLISH        "^1BOWMAN: ^7One zero, abbiamo Charlie attaccato al culo. Quanto vi manca?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_300A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, l'edificio è sicuro. Passo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_301A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Uccisione multiple confermate. La zona è sicura."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_302A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, potete procedere. Avete la priorità."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_303A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, l'edificio è sotto controllo. Muovetevi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_453A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Corri a prendere la radio!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_454A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Prendi quella cazzo di radio!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_455A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ma che aspetti?!? Ci serve la radio, Mason!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_456A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7XRay, muoversi!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_457A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Negativo, XRay. Vediamo degli RPG sui tetti."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_458A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, è troppo pericoloso! Distruggete gli RPG!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_459A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Allontanate la squadra dalla zona."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_460A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ottimo!!!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_461A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Facciamo piovere fuoco!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_462A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Continua così, Mason!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_463A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7È bello combattere di nuovo al tuo fianco! URA! URA!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_464A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Mason! Che aspetti?!?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_465A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Carro distrutto. XRay, potete avanzare."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_466A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7XRay, muoversi!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_467A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7La zona d'atterraggio è in fondo alla strada. Manca solo mezzo chilometro."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_468A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ricevuto, Texas."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_469A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Apri quel cancello! Qui intorno c'è l'antiaerea."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_470A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Dobbiamo trovare un'altra via. La strada è un inferno."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_471A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Giriamo intorno a quell'edificio!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_472A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7C'è un carro!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_473A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Via dalla strada!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_474A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Sei tutto intero, amico?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_475A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sto bene."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_476A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, dobbiamo distruggere lo ZSU... Bowman, proteggi i ragazzi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_477A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ci siamo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_478A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason!!!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_479A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Tutto OK, fratello?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_480A_MASO
+LANG_ENGLISH        "^1MASON: ^7Respiro ancora."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_481A_MASO
+LANG_ENGLISH        "^1MASON: ^7Ci vediamo al punto di raduno."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_482A_MASO
+LANG_ENGLISH        "^1MASON: ^7Lo ZSU è proprio sopra di noi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_483A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Piazza una carica sul soffitto. Gli facciamo crollare la terra sotto i piedi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_484A_MASO
+LANG_ENGLISH        "^1MASON: ^7Circa 3 secondi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_485A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Allontaniamoci!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_486A_MASO
+LANG_ENGLISH        "^1MASON: ^7Qui va bene! Pronto, Reznov?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S02_487A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Ottimo lavoro, Mason!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_488A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, il supporto aereo non può agire mentre facciamo evacuare i feriti."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_489A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_490A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ecco il nostro passaggio."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_491A_MASO
+LANG_ENGLISH        "^1MASON: ^7Non sono sicuro..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_492A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Prima i feriti!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_493A_USC3_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Altri velivoli in arrivo! Mantenete la posizione."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_494A_NVA3
+LANG_ENGLISH        "^1ALTOPARLANTE DELLA BASE: ^7Soldati americani! L'aggressione ai danni della Repubblica Popolare del Vietnam non resterà impunita."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_495A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mi sa che dobbiamo aspettare. Preparatevi: voglio che la zona d'atterraggio sia sicura!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_496A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, mina tutto il perimetro!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_497A_NVA3
+LANG_ENGLISH        "^1ALTOPARLANTE DELLA BASE: ^7Invece di tornare nel vostro paese, morirete nel nostro."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_500A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Arrivano!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_501A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Fuoco a volontà!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_502A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sul tetto!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_503A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Respingiamoli!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_504A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Si avvicinano!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_505A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Ci hanno circondati!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_506A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Quei bastardi non finiscono mai!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_507A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sono a nord-est!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_508A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sono a est!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_509A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Sono a sud-est!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_510A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Vengono da sud!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_511A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7A sud-ovest!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_512A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7L'artiglieria!!!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_513A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Uccidi gli artiglieri!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_514A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7Lassù, sul tetto!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_515A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Si ritirano!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_516A_REZN
+LANG_ENGLISH        "^1REZNOV: ^7No, si stanno raggruppando!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_522A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Comando! Qui XRay one zero!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_523A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Quaggiù è un inferno. Dov'è la nostra cazzo di evacuazione?!?"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_524A_COMM_F
+LANG_ENGLISH        "^1COMANDO: ^7La città sta cadendo in mano ai nordvietnamiti. Stanno abbattendo i nostri velivoli. Non siete i soli a cercare di andarsene!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_525A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Abbiamo una consegna da effettuare, priorità uno! Ci serve l'evacuazione!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_526A_COMM_F
+LANG_ENGLISH        "^1COMANDO: ^7Troveremo un modo. Mantenete la posizione."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_527A_COMM_F
+LANG_ENGLISH        "^1COMMAND: ^7XRay, stiamo cercando di rimediare una barca della Marina, ma ci vorrà del tempo. Mantenete la posizione."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_528A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7 Concentratevi!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_529A_COMM_F
+LANG_ENGLISH        "^1COMMAND: ^7XRay, occhio alle spalle: vi stiamo mandando un PBR della Marina."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_530A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto! Non è mai troppo presto!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_531A_COMM_F
+LANG_ENGLISH        "^1COMANDO: ^7Fuoco diretto di supporto per coprire l'arrivo. Lo squadrone Delta è già posizionato."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_532A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Ricevuto. XRay, chiudo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_533A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason! Segnala quel bersaglio!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_534A_MASO
+LANG_ENGLISH        "^1MASON: ^7Sto inviando le coordinate, squadrone Delta: fateli a pezzi."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_535A_USP1_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Indietreggiate, arriviamo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_536A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Il PBR!!!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_537A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Arrivano... sono vicini!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_538A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Portate il culo sulla barca!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_539A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Muoversi, presto!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_540A_MASO
+LANG_ENGLISH        "^1MASON: ^7Forza! Sulla barca!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_541A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Entrate!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_542A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Addio tregua di capodanno..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_543A_REZN_M
+LANG_ENGLISH        "^1REZNOV: ^7Forse il nemico ha ritrovato coraggio grazie al nuovo alleato..."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_544A_MASO
+LANG_ENGLISH        "^1MASON: ^7Dragovich."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_546A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, Prendi quel fucile con mirino telescopico e fai fuori gli artiglieri!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_549A_BOWM
+LANG_ENGLISH        "^1BOWMAN: ^7Mason, ci stanno massacrando! Prendi il fucile!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_550A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, Prendi quel commando con mirino telescopico e fai fuori gli artiglieri!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_551A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Devi far fuori gli artiglieri!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_552A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Prendi quel fucile e fai fuori gli artiglieri, cazzo!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S03_553A_WOOD
+LANG_ENGLISH        "^1WOODS: ^7Mason, ci stanno massacrando! Prendi il fucile!"
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_800A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Ricevuto, XRay. Attendete il passaggio degli aerei."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_801A_USC2_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, stiamo arrivando."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_802A_USC4_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, il nostro PBR è a un minuto da voi. Tenete duro."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_803A_USC4_F
+LANG_ENGLISH        "^1PILOTA USA: ^7XRay, evacuazione in arrivo."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_804A_USC4_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Arrivo stimato in 2 minuti."
+
+REFERENCE           HUE_CITY_VOX_HUE1_S99_805A_USC4_F
+LANG_ENGLISH        "^1PILOTA USA: ^7Arrivo stimato in 1 minuto."
+
+REFERENCE           HUE_CITY_X_BUTTON
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+ENDMARKER

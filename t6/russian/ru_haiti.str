@@ -1,0 +1,553 @@
+// Dumped from fastfile "ru_haiti".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           HAITI_OBJ_STOP_TRANSMISSION
+LANG_RUSSIAN        "Остановить передачу"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LСУДНЫЙ ДЕНЬ^L"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_032A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Избавься от CLAW, Сектор!"
+
+REFERENCE           HAITI_OBJ_STOP_CONTROL
+LANG_RUSSIAN        "Отключить управление дронами"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ЗАПАДНОЕ ПОБЕРЕЖЬЕ ^LГАИТИ^L"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "Д. МЭЙСОН // ПОЗЫВНОЙ ^LСЕКТОР^L"
+
+REFERENCE           HAITI_OBJ_FIND_MENENDEZ
+LANG_RUSSIAN        "Найти Менендеса"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_032A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Избавься от CLAW, Сектор!"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "АНТИТЕРРОРИСТИЧЕСКАЯ ГРУППА ^LОКСО^L"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_037A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Целимся в квады.  Осторожно!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_016A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сейчас же!"
+
+REFERENCE           HAITI_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "19 ИЮНЯ ^L2025^L"
+
+REFERENCE           HAITI_OBJ_AVOID_COLLISIONS
+LANG_RUSSIAN        "Избежать столкновения с обломками и ракетами"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           HAITI_OBJ_ASSAULT_BUILDING
+LANG_RUSSIAN        "Попасть на военную базу"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_018A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Группа 2, вы на месте?"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_014A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Время до цели - 15 секунд."
+
+REFERENCE           HAITI_OBJ_GOTO_CONTROL_ROOM
+LANG_RUSSIAN        "Найти командный пункт"
+
+REFERENCE           HAITI_SHOOT_MENENDEZ
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы застрелить Менендеса"
+
+REFERENCE           HAITI_CAPTURE_MENENDEZ
+LANG_RUSSIAN        "Нажмите ^3[{+gostand}]^7, чтобы захватить Менендеса"
+
+REFERENCE           HAITI_HARPER_KILL
+LANG_RUSSIAN        "Вы убили Харпера"
+
+REFERENCE           HAITI_SOURCE_MISMATCH
+LANG_RUSSIAN        "Несовпадение с источником"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_033A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Если бы это зависело от меня, ты сейчас был бы с сестрой."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Внимание!  Мы получили несколько заданий."
+
+REFERENCE           HAITI_SOURCE_SCANNING
+LANG_RUSSIAN        "Поиск источника передачи"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Все в порядке."
+
+REFERENCE           HAITI_SOURCE_NOT_FOUND
+LANG_RUSSIAN        "Невозможно определить местоположение источника"
+
+REFERENCE           HAITI_SOURCE_CLOSEST_MATCH
+LANG_RUSSIAN        " Наиболее подходящие районы"
+
+REFERENCE           HAITI_JETWING_MOVE
+LANG_RUSSIAN        "Используйте ^3[{+movestick}]^7 для управления."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_002A_SOL1_D
+LANG_RUSSIAN        "^1Рейнджер: ^7Окей... Все готово."
+
+REFERENCE           HAITI_JETWING_LOOK
+LANG_RUSSIAN        "^3[{+lookstick}]^7 - осмотреться."
+
+REFERENCE           HAITI_PLAYER_FAIL
+LANG_RUSSIAN        "Задание провалено"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_001A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Время до цели - 60 секунд."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_010A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Я за уничтожение... В прошлый раз его уже брали живьем, и что?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_003A_SOL1_D
+LANG_RUSSIAN        "^1Рейнджер: ^7Харпер, интерфейс работает?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_005A_SOL2_D
+LANG_RUSSIAN        "^1Рейнджер: ^7Подтверждаю."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_026A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Приближаются наши CLAW. Используйте их для прикрытия!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_021A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Они не сдаются!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_006A_SOL1_D
+LANG_RUSSIAN        "^1Рейнджер: ^7Все в порядке, Сектор.  Путь чист."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_048A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сними стрелка!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_011A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Время до цели - 30 секунд."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_008A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нейтрализовать сигнал, управляющий дронами..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_009A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Уничтожить или захватить объект - Рауля Менендеса."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_017A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Прыгайте все!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_012A_SOL1_M
+LANG_RUSSIAN        "^1Рейнджер: ^7Еле пронесло!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_012A_SOL1_S
+LANG_RUSSIAN        "^1Рейнджер: ^7Еле пронесло!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_015A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Группа поддержки 1, доложите обстановку!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_036A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Увидимся через год. Перечитывай \"Улисса\" и готовься."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_013A_SOL2_M
+LANG_RUSSIAN        "^1Рейнджер: ^7Ух ты!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_013A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Контролирую снижение!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_013A_SOL2_S
+LANG_RUSSIAN        "^1Рейнджер: ^7Ух ты!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_01_018A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Прыгайте! Прыгайте!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_02_001A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Ну же, брат! Хочешь жить вечно?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_02_001A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Ну же, брат! Хочешь жить вечно?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_024A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Да, Харпер... В другой раз."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_010A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Стреляют с земли! Берегись зениток!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_012A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Уходи от них!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_012A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Уходи от них!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_014A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Уходи от ракет!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_016A_SE1_D
+LANG_RUSSIAN        "^1Морпех: ^7Заняли позицию по западному флангу, сотые здания."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_017A_SE1_D
+LANG_RUSSIAN        "^1Морпех: ^7Спецсилы Китая на подходе!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_019A_SE2_D
+LANG_RUSSIAN        "^1Морпех: ^7Так точно, на позиции с востока, параллельно вашему маршруту.  На крышах трехсотых зданий."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_020A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вас понял.  Главная группа идет на юг. Связь по необходимости!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_021A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Они не сдаются!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_022A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вперед!  Это наш последний шанс!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_023A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Войска с тыла не успевают приземлиться. Их уничтожают!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_025A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нейтрализовать зенитные лазеры на крышах!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_034A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вперед!  Очистить вторую палубу!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_036A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Квады готовы.  Переходим на боевую позицию!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_040A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кинетическое оружие активировано.  Внимание! Вызываю гром и молнии!"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_041A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Наведение на кинетическое оружие!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_042A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Приближается гиперскоростная установка. Всем в укрытие!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_043A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Запущен кинетический удар! Ложись!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_047A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Истребим их всех."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_053A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нужное здание прямо по курсу."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_054A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Китайские спецсилы приземляются на крыши!  Они разберутся со снайперами."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_021A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Блин..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_056A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Группы 1 и 2 занимают позиции для поддержки.  По своим не стрелять."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_057A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Не отвлекаться! Наша задача - прекратить передачу и убить Менендеса."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_063A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Не останавливайтесь!  Вверх по лестнице!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_064A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Группа 1. Вражеские CLAW у заданного здания.  Требуется огневая поддержка."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_067A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Все за мной!  Прорываемся в здание."
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_068A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Все слышали приказ. Вперед!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_070A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Не стреляйте! Наверху наши!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_071A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это свои! Смотрите, куда стреляете!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_073A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сюда, вниз по лестнице!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_074A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Ответный огонь!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_1_03_074A_SECT_S
+LANG_RUSSIAN        "^1Сектор: ^7Ответный огонь!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_001A_GENE_D
+LANG_RUSSIAN        "^1Генерал: ^7Лейтенант-коммандер... Мы на пороге глобальной катастрофы."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_022A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Группа 1, переключайтесь на контрольные пункты.  Территорию надо изолировать!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_002A_GENE_D
+LANG_RUSSIAN        "^1Генерал: ^7Дроны Менендеса собираются уничтожить Америку и Китай."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_003A_GENE_D
+LANG_RUSSIAN        "^1Генерал: ^7У нас нет времени.  Найдите пункт управления и отрубите сигнал."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_013A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Они занимают оборонительные позиции!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Огонь по нижнему уровню!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_015A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Вперед! Не давайте им отдыхать!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_016A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вражеский ASD перепрограммирован!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_014A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Считайте Лос-Анджелес их доказательством."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_019A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Не останавливайтесь!  Транслятор прямо впереди!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_020A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Основная группа обнаружила источник сигнала.  Группа 1, доложите обстановку."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_021A_SE1_D
+LANG_RUSSIAN        "^1Морпех: ^7Установлен периметр по сотым зданиям."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_023A_SE1_D
+LANG_RUSSIAN        "^1Морпех: ^7Вас понял."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_009A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Чтобы эти страдания не были напрасны, навсегда запомните этот момент."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_024A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Еще квады!  Уничтожить их!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_025A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Приближаются вражеские квады!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_004A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Чисто!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сектор... Отрубите сигнал."
+
+REFERENCE           HAITI_VOX_VOX_HAT_3_01_036A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Так.  Выходим."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_002A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7...роскошь - это грех, и мы должны расплачиваться за нее... Лос-Анджелес был флагманом их абсурдного материализма, и я его уничтожил... Они думали, что я хочу убить президента. Госпожа президент, имея в распоряжении всех ваших дронов, я бы вас уже миллион раз уничтожил. Нет... я хочу, чтобы вы это видели, чтобы почувствовали, каково это."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_003A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я просто придерживался ваших правил ведения войны. Я смог достичь цели с вполне приемлемыми потерями, разве нет?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_004A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Сегодня два миллиарда людей живут в абсолютной нищете, страдая от непрекращающихся войн, а корпорации, как паразиты, питаются их слабостью. Я требую, чтобы их освободили от таких неоправданных жертв."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_005A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Так и будет."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_006A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Кордис Дие провозглашает начало новой эры."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_007A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Смотрите, как гибнет ваш безумный материализм."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_008A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Как и миллиарды других до нее, моя сестра Жозефина пострадала за их грехи."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_010A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Госпожа президент, вы лишились своих военных машин. Ваша армия парализована. Вам нас не остановить. Кордис Дие, восстань и нанеси удар, пока они еще не поднялись с колен. Ударь изо всех сил."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_012A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7А если тебя постигнет неудача и ничего не изменится..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_013A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7...то ровно через год я нанесу еще один удар... который истребит все. Если вы сомневаетесь в моих намерениях..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_015A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я увижу, как мир сгорает в пламени, а потом отпущу ее."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_016A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7У вас все меньше времени."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_042A_USR0_D
+LANG_RUSSIAN        "^1Рейнджер: ^7Сектор!   Мы обнаружили труп. Один из наших. У него забрали форму и оружие!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_043A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Стойте!  Не трогайте его!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_044A_SE2_D
+LANG_RUSSIAN        "^1Морпех: ^7Сектор.  Говорит группа 2. По всему комплексу проходит серия взрывов!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_045A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Это Менендес.  Он пытается уйти и отвлечь от себя внимание."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_046A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Всем на частоте.  Всем контрольным пунктам задерживать каждого, кто пытается покинуть квадрат. Даже тех, кто в форме!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_047A_USR3_D
+LANG_RUSSIAN        "^1Рейнджер: ^7КПП 4. К нам приближаются неизвестные лица."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_048A_USR3_D
+LANG_RUSSIAN        "^1Рейнджер: ^7Стоять!!!  Руки вверх! Бросайте оружие!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_049A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сбросьте мне координаты КПП 4!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_050A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Мы американцы.  Спокойно."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_051A_USR3_D
+LANG_RUSSIAN        "^1Рейнджер: ^7Приказано никого не пропускать. Стойте на месте."
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_052A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Спокойно, мы на одной стороне."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_053A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7КПП 4 разбит.  Надо спешить!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_054A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Сектор!  Сигнал получил?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_018A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я стану мучеником за Кордис Дие."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_062A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7НУ ЖЕ!!!  ...Дэвид."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_038A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Он всего лишь грустный старик, который говорит сам с собой. Пусть говорит."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_017A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Нет. Давай шевели задницей!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_017A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7No."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_019A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Я тебя держу, брат."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_020A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты прикончил его... Да?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_021A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Блин..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_022A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сюда!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_023A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7В другой раз, Сектор..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_025A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7У Кордис Дие есть мои распоряжения.  Я даю им год."
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_026A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Для моих людей я Спаситель. Для вас - грешник. Конечно, мы и то и другое."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_027A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7И... у нас есть незаконченное дело."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_028A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Нет, Дефалко."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_029A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Я тебя держу, брат."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_030A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Заставил ты меня поволноваться, приятель. В какой-то момент я подумал, что ты отпустишь этого ублюдка."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_030A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Я переживал за тебя, приятель.  В какой-то момент я подумал, что гад останется в живых."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_031A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Сюда!"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_032A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Потом, Сектор..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_034A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Эй! Никто мне не подмогнет?"
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_035A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Потом, Сектор..."
+
+REFERENCE           HAITI_VOX_VOX_HAT_4_01_037A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нет."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+ENDMARKER

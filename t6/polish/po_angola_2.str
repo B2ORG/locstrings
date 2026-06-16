@@ -1,0 +1,835 @@
+// Dumped from fastfile "po_angola_2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_027A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Wyeliminuj tych...!"
+
+REFERENCE           ANGOLA_2_CHASE_BOAT_FAIL
+LANG_POLISH         "Łódź eksplodowała."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_074A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie możemy tu zostać! Musimy ruszać naprzód!"
+
+REFERENCE           ANGOLA_2_BEARTRAP_HELPER
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby wybrać potrzask"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_007A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Osłaniaj nas!"
+
+REFERENCE           ANGOLA_2_WOODS_KILLED
+LANG_POLISH         "Woods został zabity przez przeciwnika"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           ANGOLA_2_ESCAPE_JUNGLE
+LANG_POLISH         "Ucieknij do dżungli"
+
+REFERENCE           ANGOLA_2_PLAYER_COVER_BROKEN_SPOTTED
+LANG_POLISH         "Przykucnij i pozostań za osłoną, żeby nie zauważył cię przeciwnik"
+
+REFERENCE           ANGOLA_2_MEATSHIELD_FAILURE
+LANG_POLISH         "Przesuń zakładnika bliżej, żeby przeciwnik nie mógł do ciebie strzelić."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_059A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie poddamy się bez walki!"
+
+REFERENCE           ANGOLA_2_PERK_FLAK_JACKET
+LANG_POLISH         "Ciężka kamizelka chroni przed obrażeniami od wybuchów"
+
+REFERENCE           ANGOLA_2_PRIME_BEARTRAP_WITH_MORTAR
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby uzbroić potrzask pociskiem moździerza"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_KEEP_UP_WITH_HUDSON
+LANG_POLISH         "Trzymaj się blisko Hudsona, żeby uniknąć patroli"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_024A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Uch, cholera..."
+
+REFERENCE           ANGOLA_2_SWIMMING
+LANG_POLISH         "Za pomocą ^3[{+back}]^7 możesz pływać"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_026A_KRAV_D
+LANG_POLISH         "^1Krawczenko: ^7O co ci chodzi?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_067A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Na mój znak ruszamy w stronę trawy."
+
+REFERENCE           ANGOLA_2_MISSION_FAILED_LOST_CONTACT_WITH_HUDSON
+LANG_POLISH         "Misja nieudana: stracono kontakt z Hudsonem."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_019A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie wychylaj się."
+
+REFERENCE           ANGOLA_2_STAY_IN_COVER_CHILD_SOLDIERS_AROUND
+LANG_POLISH         "Mason, pozostań w krzakach, w pobliżu znajdują się patrole żołnierzy - dzieci"
+
+REFERENCE           ANGOLA_2_DEFEND_POSITION
+LANG_POLISH         "Obroń pozycję"
+
+REFERENCE           ANGOLA_2_EXIT_VILLAGE_CANT_FIND_HUDSON
+LANG_POLISH         "Nie udało się odszukać Hudsona i Woodsa w lesie"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_008A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Woods ledwo się rusza! Musimy utrzymać tę pozycję!"
+
+REFERENCE           ANGOLA_2_TOW_INSTRUCTION
+LANG_POLISH         "Użyj ^3[{+lookstick}]^7 do naprowadzenia pocisku"
+
+REFERENCE           ANGOLA_2_PLAYER_COVER_BROKEN_CROUCHED
+LANG_POLISH         "Gracz opuścił osłonę, należy pozostać w przykucnięciu"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_042A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Tutaj."
+
+REFERENCE           ANGOLA_2_STEALTH_MASON_USE_GRASS_AS_COVER
+LANG_POLISH         "Naciśnij ^3[{+stance}]^7, żeby przykucnąć"
+
+REFERENCE           ANGOLA_2_STEALTH_MASON_USE_GRASS_AS_COVER_PC
+LANG_POLISH         "Naciśnij ^3[{gocrouch}]^7, żeby przykucnąć"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_038A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zwłoki są w stanie zaawansowanego rozkładu. Ci ludzie nie żyją od wielu tygodni."
+
+REFERENCE           ANGOLA_2_LOCATE_CONVOY
+LANG_POLISH         "Odszukaj konwój łodzi"
+
+REFERENCE           ANGOLA_2_NEUTRALIZE_ESCORT
+LANG_POLISH         "Zniszcz wszystkie LRWA na pokładzie barki."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_004A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Mason, za nami!"
+
+REFERENCE           ANGOLA_2_DESTROY_PATROL_BOAT
+LANG_POLISH         "Zniszcz małe łodzie patrolowe, osłaniające barkę.  [&&1 of 4]"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_065A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zajmę się nią! Ukryj Woodsa!"
+
+REFERENCE           ANGOLA_2_DESTROY_AA_GUN
+LANG_POLISH         "Zniszcz wszystkie działka plot. na łodziach średniej wielkości. [&&1 z 8]"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_028A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Atakuje nas Hind!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_020A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Z każdej strony barki są zamocowane KM!"
+
+REFERENCE           ANGOLA_2_TRUCK_DESTROY
+LANG_POLISH         "Ciężarówki zostały zniszczone. Nie możesz trafić ciężarówki z MGL."
+
+REFERENCE           ANGOLA_2_RPG_TRIGGER
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby uzupełnić amunicję."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_015A_MASO_D
+LANG_POLISH         "^1Mason: ^7Strzelaj, Hudson!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_034A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Weź wyrzutnię!"
+
+REFERENCE           ANGOLA_2_OPEN_TRUCK_DOOR
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć"
+
+REFERENCE           ANGOLA_2_TOW_INSTRUCTION_WIIU_REMOTE
+LANG_POLISH         "Użyj ^3[{+movestick}]^7 do naprowadzenia pocisku"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_039A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Już po nas!"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_023A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Chodź, człowieku!"
+
+REFERENCE           ANGOLA_2_SECURE_THE_BARGE
+LANG_POLISH         "Zabezpiecz barkę i uratuj Woodsa"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_023A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Teraz!"
+
+REFERENCE           ANGOLA_2_SEARCH_WOODS_TRUCK
+LANG_POLISH         "Poszukaj Woodsa w kontenerze"
+
+REFERENCE           ANGOLA_2_TAKE_OUT_HIND
+LANG_POLISH         "Użyj wyrzutni Walkiria, żeby zniszczyć Hinda"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_065A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Pokład czysty!"
+
+REFERENCE           ANGOLA_2_RADIO_FOR_EXTRACTION
+LANG_POLISH         "Idź do wioski i użyj radia, żeby poprosić Savimbiego o ewakuację"
+
+REFERENCE           ANGOLA_2_DONT_GET_DISCOVERED
+LANG_POLISH         "Nikt nie może cię odkryć"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_068A_MASO_D
+LANG_POLISH         "^1Mason: ^7Weź Woodsa!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_010A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods! Jesteś tam, bracie?"
+
+REFERENCE           ANGOLA_2_MEATSHIELD_ADS
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7, żeby zakładnik znalazł się bliżej."
+
+REFERENCE           ANGOLA_2_FIND_RADIO
+LANG_POLISH         "Idź do wioski i znajdź radio"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_016A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Skacz, Mason!"
+
+REFERENCE           ANGOLA_2_OBJ_MENENDEZ_MEATSHIELD
+LANG_POLISH         "Osłoń się przed atakami, używając Menendeza w charakterze żywej tarczy"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           ANGOLA_2_OVERPOWER_RADIO_OP
+LANG_POLISH         "Zbliż się i ogłusz radiooperatora"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           ANGOLA_2_APPROACH_HUT_WINDOW
+LANG_POLISH         "Podejdź do okna chaty z wieżą radiową"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_036A_MASO_D
+LANG_POLISH         "^1Mason: ^7Musimy się znaleźć tuż obok, Hudson!"
+
+REFERENCE           ANGOLA_2_EXIT_INTO_FOREST
+LANG_POLISH         "Opuść wioskę i idź do lasu"
+
+REFERENCE           ANGOLA_2_RSTICK_MEATSHIELD
+LANG_POLISH         "Obracaj ^3[{+lookstick}]^7, żeby osłonić się przed atakami."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_043A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Goni nas kilka kanonierek!"
+
+REFERENCE           ANGOLA_2_UNJAM_GUN
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby odblokować broń"
+
+REFERENCE           ANGOLA_2_ABANDON
+LANG_POLISH         "Opuszczenie Hudsona i Woodsa doprowadziło do ich śmierci."
+
+REFERENCE           ANGOLA_2_FAIL_RADIO
+LANG_POLISH         "Przegapiłeś możliwość wysłania sygnału z prośbą o ewakuację"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_018A_MASO_D
+LANG_POLISH         "^1Mason: ^7O to chodziło... Powoli i spokojnie."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_057A_MASO_D
+LANG_POLISH         "^1Mason: ^7Pospiesz się, Hudson!"
+
+REFERENCE           ANGOLA_2_FALL_BACK_TO_RIVER
+LANG_POLISH         "Wycofaj się do rzeki"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_VILLAGE
+LANG_POLISH         "Odszukaj radio, nie alarmując strażników"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_AFTER_LOG
+LANG_POLISH         "Ukryj się w krzakach, żeby uniknąć patroli"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_07_003A_MASO_D
+LANG_POLISH         "^1Mason: ^7Barka pasuje do opisu Savimbiego. Woods powinien być na pokładzie."
+
+REFERENCE           ANGOLA_2_FAIL_ABANDON
+LANG_POLISH         "Opuściłeś swój oddział"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_028A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera! Atakuje nas Hind!"
+
+REFERENCE           ANGOLA_2_HINT_AMMO
+LANG_POLISH         "Uzupełnij amunicję"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_001A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zbliżamy się do konwoju."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_015A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera! Jesteśmy ostrzeliwani!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_015A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Jesteśmy ostrzeliwani!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_034A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Oni ciągle się zbliżają!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_039A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Szlag! Spadamy!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_006A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Oczyść pokłady!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_043A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera! Goni nas kilka kanonierek!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_015A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7To tylko dzieci."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_055A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zbliżają się!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_046A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Ja zajmę się Woodsem."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_006A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Strzelaj do nich! Nie pozwól im się dostać na pokład!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_081A_MASO_D
+LANG_POLISH         "^1Mason: ^7Nie poddawaj się, Hudson!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_027A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Wyeliminuj tych skurczybyków!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_032A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Oni ciągle nas gonią, Mason!"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_054A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Strzelaj do tych cholernych kanonierek!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_064A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Dawaj, Mason. Otwieraj."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_054A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Strzelaj do tych kanonierek!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_071A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Musimy ruszać, już!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_080A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Zauważyli nas, Mason!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_033A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera! Rozpoczęli abordaż!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_080A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera! Zauważyli nas, Mason!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_033A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Rozpoczęli abordaż!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_080A_MASO_D
+LANG_POLISH         "^1Mason: ^7Jeszcze mamy szansę!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_016A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Ruszajmy."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_056A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7LRWA na pokładzie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_048A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Są na pokładzie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_060A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nieprzyjaciel na pokładzie! Górny pokład!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_019A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zbliżają się do nas! Musimy zyskać trochę czasu!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_061A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nieprzyjaciel na dolnym pokładzie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_031A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Otwórz kontener."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_044A_MASO_D
+LANG_POLISH         "^1Mason: ^7To już ostatnia kanonierka."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_062A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Dobrze, Mason. Jest czysto."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_007A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zabezpiecz łódź!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_058A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie mogę tego otworzyć. Zacięło się!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_044A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera! Osiedliśmy na mieliźnie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_012A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Pomóż mi, Mason."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_009A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Woods musi tu być."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_037A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7O, mój Boże..."
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_014A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_015A_MASO_D
+LANG_POLISH         "^1Mason: ^7Frank?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_066A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Dobra, na mój znak biegniemy do drewnianej chaty."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_048A_MASO_D
+LANG_POLISH         "^1Mason: ^7Frank! To ja! To ja, Mason!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_027A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7WOODS!!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_061A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Chodź, Woods. Zabieramy się stąd."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_066A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ukryj Woodsa!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_067A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Chodź, Woods!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_006A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Kurwa, co się tam stało??"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_029A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zestrzel go!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_042A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Ta skrzynia z bronią to kopalnia złota. Weź TGM!"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_030A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zestrzel go, Mason!"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_030A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zaczekaj."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_044A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Osiedliśmy na mieliźnie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_045A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Woods tonie, Mason!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_046A_MASO_D
+LANG_POLISH         "^1Mason: ^7Wyciągnę go!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_047A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dawaj, Frank. Dawaj. Mam cię."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_021A_MASO_D
+LANG_POLISH         "^1Mason: ^7Co oni mu zrobili, Hudson?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_022A_MASO_M
+LANG_POLISH         "^1Mason: ^7Ktokolwiek to zrobił, ma nieźle pojebane w głowie."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_001A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Prawdopodobnie przyciągnęliśmy uwagę każdego żołnierza LRWA znajdującego się w okolicy."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_002A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Musimy się zbierać."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_006A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Dawaj, Woods, mam cię."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_007A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mam cię, bracie."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_010A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Stój."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_013A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Ukryj się za tym drzewem."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_078A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera, Mason. Nie wychylaj się."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_083A_MASO_M
+LANG_POLISH         "^1Mason: ^7Cholera, co tu robią Kubańczycy?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_041A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Cóż... Mamy go, Mason."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_078A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Mason, nie wychylaj się."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_083A_MASO_S
+LANG_POLISH         "^1Mason: ^7Co tu robią Kubańczycy?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_020A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie ruszaj się. Niech przejdą."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_025A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Trzymaj się mnie."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_029A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie ruszaj się. Idą kolejne patrole."
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_084A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Trzymaj się blisko."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_033A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Trzymaj się mnie."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_085A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Utrzymaj pozycję. Są tuż przed nami."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_075A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Dobra, czysto. Możesz wyjść z trawy."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_040A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mason! Gdzie ty idziesz?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_077A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Padnij!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_048A_CUB0_D
+LANG_POLISH         "^1Kubański żołnierz: ^7Nadal żadnych wiadomości od grup poszukiwawczych."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_087A_MASO_D
+LANG_POLISH         "^1Mason: ^7Wszystko będzie dobrze, Frank. Wezwę pomoc przez radio."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_043A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Przed nami jest wioska. Antena oznacza, że mają tam radio."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_044A_MASO_D
+LANG_POLISH         "^1Mason: ^7Możemy poprosić Savimbiego o pilną ewakuację."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_039A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Uważaj tam na siebie. Postaraj się nie zwracać na siebie uwagi."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_088A_MASO_D
+LANG_POLISH         "^1Mason: ^7To się może przydać."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_001A_MENE_D
+LANG_POLISH         "^1Menendez: ^7W ostatniej dostawie były braki."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_014A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ostrzegam cię."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_002A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Dokładnie chodzi o 40 granatów z napędem rakietowym."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_003A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Krawczenko, ja nie prowadzę interesów z ludźmi, którym nie ufam."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_004A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Czy mam ci przypomnieć, co robię z tymi, którzy mnie zawiedli?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_027A_KRAV_D
+LANG_POLISH         "^1Krawczenko: ^7Afgańscy rebelianci nie chcą współpracować. Trudno się dogadać z Mullahem Rahmaanem."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_005A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Mullah Rahmaan... Nie zawracaj sobie głowy lokalną polityką."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_006A_MENE_D
+LANG_POLISH         "^1Menendez: ^7To tylko marionetka... tak jak ty."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_007A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Rób, co mówię."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_008A_MASO_D
+LANG_POLISH         "^1Mason: ^7Będziesz martwy, jeśli nie zrobisz dokładnie tego, co ci powiem... Nastaw radio na..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_024A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Chcesz mnie zabić, tak?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_056A_CUB1_D
+LANG_POLISH         "^1Kubański żołnierz: ^7Uciekajmy!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_049A_CUB0_M
+LANG_POLISH         "^1Kubański żołnierz: ^7Szlag!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_050A_CUB0_D
+LANG_POLISH         "^1Kubański żołnierz: ^7To ten intruz, Amerykanin! Do mnie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_066A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Jest ich zbyt wielu!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_051A_CUB0_D
+LANG_POLISH         "^1Kubański żołnierz: ^7Puścić go! Puścić go!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_052A_CHI0_D
+LANG_POLISH         "^1Siły specjalne PLA: ^7Co się dzieje?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_001A_MASO_D
+LANG_POLISH         "^1Mason: ^7Hudson! Ruszamy! Kieruj się w stronę plaży!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_053A_CUB1_D
+LANG_POLISH         "^1Kubański żołnierz: ^7Cofnij się."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_054A_CHI0_D
+LANG_POLISH         "^1Siły specjalne PLA: ^7Przepuście mnie, chcę zobaczyć!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_067A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mason, musimy się wycofać!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_055A_CUB1_D
+LANG_POLISH         "^1Kubański żołnierz: ^7Powiedziałem, cofnij się."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_025A_MASO_M
+LANG_POLISH         "^1Mason: ^7Niech nikt się nie rusza albo ten sukinsyn oberwie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_025A_MASO_S
+LANG_POLISH         "^1Mason: ^7Niech nikt się nie rusza albo ten... oberwie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_011A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zamknij się."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_012A_MASO_D
+LANG_POLISH         "^1Mason: ^7Rzucić broń!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_035A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_013A_MASO_D
+LANG_POLISH         "^1Mason: ^7Powiedziałem, opuścić broń!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_015A_MASO_M
+LANG_POLISH         "^1Mason: ^7Przysięgam na Boga, że zabiję tego bydlaka!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_025A_MASO_D
+LANG_POLISH         "^1Mason: ^7Wal to, Hudson! Tylko się nie zatrzymuj!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_015A_MASO_S
+LANG_POLISH         "^1Mason: ^7Przysięgam... Zabiję tego bydlaka..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_016A_MASO_D
+LANG_POLISH         "^1Mason: ^7Tak, to prawda."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_017A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dobra. Spokojnie."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_020A_MASO_D
+LANG_POLISH         "^1Mason: ^7Powiedziałem, ZAMKNIJ SIĘ!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_023A_MASO_M
+LANG_POLISH         "^1Mason: ^7Ty sukinsynu!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_023A_MASO_S
+LANG_POLISH         "^1Mason: ^7NIE!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_002A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Załatwiłeś ewakuację?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_045A_MASO_D
+LANG_POLISH         "^1Mason: ^7Nie! Jesteśmy zdani na własne siły."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_046A_MASO_D
+LANG_POLISH         "^1Mason: ^7Kieruj się w stronę rzeki!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_004A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera, Mason! Za nami!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_059A_MASO_D
+LANG_POLISH         "^1Mason: ^7Weź Woodsa! Ja ich zatrzymam!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_005A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera, Mason! Co najmniej połowa wioski chce nas dorwać!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_006A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Co się tam stało??"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_076A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Biegnij, Mason!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_016A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ukryj Woodsa!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_037A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Nie ma wyjścia."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_009A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Strzelaj do nich z ambon kłusowników!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_011A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Idź na górę! Osłaniaj nas!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_048A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Zaminuj kilka potrzasków!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_050A_MASO_D
+LANG_POLISH         "^1Mason: ^7Musimy ruszać, Hudson! Rzuć dymnym!"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_051A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Dymny!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_020A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mam go! Ruszajmy!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_052A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Siedzą nam na tyłku!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_053A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Będziemy się bronić!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_057A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Atakują Woodsa! Pomóż mu, Mason!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_086A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ukryj Woodsa!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_087A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ciągle się zbliżają!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_058A_MASO_D
+LANG_POLISH         "^1Mason: ^7Musimy pobiec do rzeki!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_060A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Rzucam dymnym!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_014A_MASO_D
+LANG_POLISH         "^1Mason: ^7Ruszaj! JUŻ!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_027A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mam cię, bracie."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_063A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_013A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Ciągle nacierają!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_070A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie możemy się zatrzymywać!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_072A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie możemy tu zostać!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_062A_MASO_D
+LANG_POLISH         "^1Mason: ^7Nie zatrzymuj się!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_073A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Dawaj, Mason. Ruszaj się!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_075A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Szybko się zbliżają! Ruszaj się!"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_055A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zatrzymaj ich! Musimy osłaniać Woodsa!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_056A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Jest zupełnie bezbronny!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_026A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Szybko! Zabieramy się stąd!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_064A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Ciężarówka z KM, przy wodospadzie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_030A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Uwaga, moździerze!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_077A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Na plaży jest łódź! Szybko!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_078A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dawaj, Frank. Dawaj. Wynosimy się stąd."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_079A_MASO_D
+LANG_POLISH         "^1Mason: ^7Hudson, wracaj!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_036A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Pieprzone ruski..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_036A_HUDS_S
+LANG_POLISH         "^1Hudson: ^7Rosjanie..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_037A_HUDS_M
+LANG_POLISH         "^1Hudson: ^7Cholera. Nie ma wyjścia."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_038A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Co do..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_039A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Myśleliście, że was zostawię, co?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_040A_SAVI_D
+LANG_POLISH         "^1Savimbi: ^7Szybko! Chodźcie!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_043A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Nie możesz mnie zabić."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_044A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dobrze cię widzieć, Woods."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_082A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Nie możesz mnie zabić..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_083A_WOOD_D
+LANG_POLISH         "^1Woods: ^7...dzięki twojemu staruszkowi. Wszystko dla mnie zaryzykował..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_084A_WOOD_D
+LANG_POLISH         "^1Woods: ^7...dla honoru i przyjaźni."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_085A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Tak. Był taki jak ty, dzieciaku."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+ENDMARKER

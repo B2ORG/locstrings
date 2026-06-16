@@ -1,0 +1,574 @@
+// Dumped from fastfile "ru_yemen".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_004A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Он знает!  Я уверен."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_014A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Да."
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LАХИЛЛЕСОВА ЗАВЕСА^L"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "ДЭВИД МЕЙСОН // ПОЗЫВНОЙ: ^LСЕКТОР^L"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ОСТРОВ СОКОТРА, ^LЙЕМЕН^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_002A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Среди нас есть предатель."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_089A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Армия Йемена оцепит город"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_010A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Собираемся у цитадели."
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ОСТРОВ СОКОТРА, ^LЙЕМЕН^L"
+
+REFERENCE           YEMEN_DRONES_OFFLINE
+LANG_RUSSIAN        "ОШИБКА!\nСИСТЕМА НАВЕДЕНИЯ ОТКЛЮЧЕНА..."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_023A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ты - направо!  Левая сторона - моя."
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "^LФАРИД^L // АГЕНТ ЦРУ ПОД ПРИКРЫТИЕМ"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "^LПРОНИК В ОКРУЖЕНИЕ^L МЕНЕНДЕСА"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "19 ИЮНЯ ^L2025^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_091A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Помни, для йеменцев ты просто еще один террорист"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_013A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7ДАВАЙ!!!"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LАХИЛЛЕСОВА ЗАВЕСА^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_001A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Американцы идут, Фарид."
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "АНТИТЕРРОРИСТИЧЕСКАЯ ГРУППА ^LОКСО^L"
+
+REFERENCE           YEMEN_SHOOT_HARPER
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы выстрелить в Харпера"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_020A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ботаник!  Послушай меня."
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "19 ИЮНЯ ^L2025^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_002A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Харпер!  Менендес исчез! Он сбежал, как только началась стрельба!"
+
+REFERENCE           YEMEN_OBJ_CAPTURE_MENENDEZ
+LANG_RUSSIAN        "Захватить Менендеса"
+
+REFERENCE           YEMEN_OPEN_DOOR
+LANG_RUSSIAN        "Нажмите и удерживайте ^3[{+reload}]^7 , чтобы открыть дверь."
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+REFERENCE           YEMEN_PULL_HAMMER
+LANG_RUSSIAN        "^3[{+lookstick}] ^7 - вытянуть \"Хаммер\"."
+
+REFERENCE           YEMEN_PULL_TRIGGER
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7 , чтобы открыть огонь."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_053A_REDS_D
+LANG_RUSSIAN        "^1Морпех: ^7Объект, по-видимому, находится внутри сбитого командного СВВП и ведет по нам интенсивный огонь из бортового тяжелого пулемета."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты не можешь знать наверняка.  Если бы он знал, ты был бы уже мертв."
+
+REFERENCE           YEMEN_OBJ_BRIDGE
+LANG_RUSSIAN        "Преследовать и схватить Менендеса"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Канал связи установлен."
+
+REFERENCE           YEMEN_DRONES_ONLINE
+LANG_RUSSIAN        "СИСТЕМА ЗАПУЩЕНА\n ВКЛЮЧЕНО НАВЕДЕНИЕ НА ЦЕЛЬ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_016A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7А-а-а-а!!!  Отвалите от меня!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот и все, Фарид.  Сегодня мы разберемся с этим засранцем."
+
+REFERENCE           YEMEN_USE_GRID
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 , чтобы пометить цель."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_009A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Идем Фарид!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_050A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кракен, мы видим Менендеса. Переходим к захвату"
+
+REFERENCE           YEMEN_CONFIRM_TARGET
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7, чтобы подтвердить цель"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_007A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Отлично. Чем меньше внимания ты привлечешь, тем лучше."
+
+REFERENCE           YEMEN_SHOOT_MENENDEZ
+LANG_RUSSIAN        "Нажмите ^3[{+gostand}]^7, чтобы выстрелить в Менендеса"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_005A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Спокойно, Фарид. Мы выдержим."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Вот и все, Фарид.  Сегодня мы разберемся с этим типом."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_003A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Докажи мне свою преданность, Фарид!"
+
+REFERENCE           YEMEN_OBJ_SPEECH
+LANG_RUSSIAN        "Подняться вместе с Менендесом на трибуну"
+
+REFERENCE           YEMEN_PRESS_X
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Что-то не так, Фарид?"
+
+REFERENCE           YEMEN_FALL_DEATH
+LANG_RUSSIAN        "Смотрите под ноги!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7И как бы ситуация ни складывалась, когда кругом засвистят пули, помни - раскрываться НЕЛЬЗЯ."
+
+REFERENCE           YEMEN_OBJ_MEET_MENENDEZ
+LANG_RUSSIAN        "Встретиться с Менендесом у цитадели"
+
+REFERENCE           YEMEN_OBJ_LZ
+LANG_RUSSIAN        "Зачистить зону посадки"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_002A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Принято, Харпер."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_003A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Система отслеживания союзников не работает. Мы не можем пометить тебя как своего."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_006A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Мы почти готовы."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Менендес... Он направился к Цитадели."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_005A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я все равно на шаг впереди него."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_007A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Мы готовы."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_003A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Но как?!.. Кто?.."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_004A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Это неважно."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_008A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Харпер! Я так больше не могу. Их слишком много!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_002A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Харпер.  Харпер!  Слышишь меня?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_017A_DEFA_D
+LANG_RUSSIAN        "^1Дефалко: ^7Кордис Дие ждут твоего слова."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_018A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Они всегда хотели свободы, и они ее получат."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_003A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Я..."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_008A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Идем, Фарид.  Пора."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_092A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Открывай огонь только если нет другого выбора"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_010A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Пора, Фарид! Пошли!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_03_002A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Кордис Дие!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_009A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Выдвигаемся. Давай, вперед."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_016A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Он сказал, что мы встретимся у цитадели."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_032A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Мы не можем позволить ему где-нибудь закопаться. Пройди через город и восстанови контакт."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_090A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Иди на юг через рынок. Удачи, Фарид."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_006A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Харпер, я нашел камуфляжный костюм"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_023A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Друг, ты продержись еще немного и обещаю, я тебя вытащу оттуда.  Уговор?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_024A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Да."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_093A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Ты сказал что Менендес направлялся к Цитадели... Как быстрее всего покинуть город?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_059A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Они десантируются у моста и выйдут на связь."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_094A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7От западных ворот через окраины идет горная тропа"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_095A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Иди туда. Мы встретимся когда наши СВВП будут на месте."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_06_001A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Осталась пара минут, Фарид!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_06_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Иди дальше.  Ты должен найти Менендеса!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_096A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Фарид, ты нашел Менендеса?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_097A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Нет."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Черт. Наверное он проскочил через йеменцев"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Наверное, он проскочил через йеменцев"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_099A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Фарид... я вижу движение внизу на улице"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_003A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7У тебя на руках кровь американцев, Фарид?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_004A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Конечно, Менендес.  Тебя нужно переправить в безопасное место. У нас слишком большие потери."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_002A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Фарид... Ты там как?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_005A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Победа не измеряется в потерях, Фарид."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_006A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Для нее намного важнее успехи."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_013A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Фарид!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_014A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7В нас попали!  Мы падаем!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вот черт...  Твою мать... Я... Черт."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Не могу... не... А-а-а!.."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Вы... Вы грязные животные!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Вы... вы... звери!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_008A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Все в порядке Харпер.  Мы его возьмем."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_018A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Здесь."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_001A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Ты знал, что я буду здесь. Кто меня предал?"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_044A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Взять его."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_002A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Кто меня предал?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Ты зря теряешь время, чертов... ублюдок!  Ты... Ты НИХРЕНА от меня не добьешься!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Зря тратишь время!  Ты... Ты НИ ХРЕНА от меня не добьешься!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_004A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Фарид."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_005A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Убей его."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Да, так и есть.  Убей меня, Ботаник!  А ты... ты бесхребетный кусок дерьма! Заставляешь других делать за тебя грязную работу!  Какой ты после этого мужчина?!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Да, так и есть.  Убей меня, Ботаник!  А ты... ты бесхребетный кусок ---! Заставляешь других делать за тебя грязную работу!  Какой ты после этого мужик?!"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Парень, сделай это!  Давай, или яиц нет меня пристрелить?!  Давай, Ботаник!  НУ ЖЕ!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_002A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Харпер мертв."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_S
+LANG_RUSSIAN        "^1Харпер: ^7Парень, сделай это!  Давай, или яиц нет меня пристрелить?!   Давай, Ботаник!   НУ ЖЕ!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_011A_HARP_D
+LANG_RUSSIAN        "^1Харпер: ^7Давай уже, Ботаник! Делай свою работу!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_DEFA_D
+LANG_RUSSIAN        "^1ДеФалко: ^7Что-то не так, Фарид?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_004A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7ДАВАЙ, Фарид!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_001A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Ты предал нас, Фарид."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_002A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7И ради чего?"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_003A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Для тех, кому ты служишь, твоя жизнь не значит НИЧЕГО!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_007A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Фарид."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_053A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Стяните все доступные силы в этот квадрат. Блокируйте все возможные пути отступления."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_001A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Сектор"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7У тебя не было выбора."
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_005A_FARI_D
+LANG_RUSSIAN        "^1Фарид: ^7Менендес направляется в цитадель, откуда сможет видеть весь город."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нужна команда медицинской эвакуации, чтобы перевезти Фарида и Харпера на Обаму."
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_M
+LANG_RUSSIAN        "^1Сектор: ^7Черт, что-то здесь не так."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_S
+LANG_RUSSIAN        "^1Section: ^7Something's wrong."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_003A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вочтауэр, это Лайнбэкер-два. Стычка с противником на пути к сбитой птичке."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_010A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Это Салазар. Сбито много орлов. Нужна эвакуация из точки СПАРРОУ."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_048A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Передайте имеющееся видео места падения мне на экран"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_019A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7РПГ!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_049A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Менендес"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_004A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7По нам ведут сильный огонь с крыш!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_M
+LANG_RUSSIAN        "^1Харпер: ^7Менендес... Этот сукин сын отправился в Цитадель."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_006A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Нужна команда медицинской эвакуации, чтобы перевезти Харпера на Обаму."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_012A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кракен, мне нужен контроль над эскадрой дронов для захвата Менендеса."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_013A_COMM_D
+LANG_RUSSIAN        "^1Командование: ^7Отправляем вам коды, дроны перепрограммированы."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_055A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Приближаются вражеские квады."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_056A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Приказываем вашим квадам открыть огонь."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_057A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кракен, без дронов нас некому будет прикрывать при наступлении."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_058A_VTOL_D
+LANG_RUSSIAN        "^1Пилот: ^7Отправляем к вам вертолет с группой сдерживания."
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_060A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ясно. Конец связи."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_061A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Группа сдерживания десантируется."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_062A_US0_D
+LANG_RUSSIAN        "^1Морпех: ^7Сэр, группа из пяти человек будет сопровождать вас на пути к объекту."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_063A_US1_D
+LANG_RUSSIAN        "^1Морпех: ^7Мы будем прикрывать с тыла."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_064A_US0_D
+LANG_RUSSIAN        "^1Морпех: ^7Как только вы найдете Менендеса, мы совершим захват."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_065A_US1_D
+LANG_RUSSIAN        "^1Морпех: ^7Выдвигаюсь."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_066A_US0_D
+LANG_RUSSIAN        "^1Морпех: ^7Окружить СВВП, ждать сигнала."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_067A_US1_D
+LANG_RUSSIAN        "^1Морпех: ^7Сначала огонь по дронам."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_020A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7На улице сплошная мясорубка!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_021A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Разделимся. Займи позицию повыше."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_022A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Ты идешь налево, я - направо."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_024A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Вперед!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_033A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Сектор!  Используйте дронов!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_036A_SALA_D
+LANG_RUSSIAN        "^1Салазар: ^7Помечайте цели!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_052A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Кракен, по нашим данным Менендес направляется к Цитадели."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_054A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Блок-посты, где сейчас находится Менендес?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_055A_REDS_D
+LANG_RUSSIAN        "^1Морпех: ^7Сэр, силы противника установили защитный периметр вокруг Цитадели."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_056A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Следите за ним, но в бой не вступайте - он нам нужен живым."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_043A_SECT_D
+LANG_RUSSIAN        "^1Сектор: ^7Менендес!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_045A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Спасибо, Дэвид."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_046A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Помоги мне найти новый мир."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_021A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Фарид!"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+ENDMARKER

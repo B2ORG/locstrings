@@ -1,0 +1,58 @@
+// Dumped from fastfile "oki2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Miotacz i korkoci¹g'"
+
+REFERENCE           OKI2_OBJ_1
+LANG_ENGLISH        "Zaatakuj prze³êcz Wana."
+
+REFERENCE           OKI2_INTROSCREEN_WHO
+LANG_ENGLISH        "Szeregowy Miller"
+
+REFERENCE           OKI2_INTROSCREEN_DATE
+LANG_ENGLISH        "14 maja 1945"
+
+REFERENCE           OKI2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Wana Ridge, Okinawa"
+
+REFERENCE           OKI2_OBJ_2_4
+LANG_ENGLISH        "Wyeliminuj dzia³a 200 mm - zosta³y 4."
+
+REFERENCE           OKI2_INTROSCREEN_WHAT
+LANG_ENGLISH        "1. Dywizja Marines"
+
+REFERENCE           OKI2_OBJ_2
+LANG_ENGLISH        "Wyeliminuj dzia³a 200 mm."
+
+REFERENCE           OKI2_OBJ_2_2
+LANG_ENGLISH        "Wyeliminuj dzia³a 200 mm - zosta³y 2."
+
+REFERENCE           OKI2_OBJ_2_3
+LANG_ENGLISH        "Wyeliminuj dzia³a 200 mm - zosta³y 3."
+
+REFERENCE           OKI2_OBJ_2_1
+LANG_ENGLISH        "Wyeliminuj dzia³a 200 mm - zosta³o 1."
+
+REFERENCE           OKI2_DESTROY_GUN
+LANG_ENGLISH        "Przytrzymaj [{+activate}], aby pod³o¿yæ ³adunek wybuchowy."
+
+REFERENCE           OKI2_OBJ_4
+LANG_ENGLISH        "Odszukaj wejœcie do bunkra."
+
+REFERENCE           OKI2_OBJ_5
+LANG_ENGLISH        "Zabezpiecz bunkier."
+
+REFERENCE           OKI2_OBJ_3
+LANG_ENGLISH        "Spotkaj siê z sier¿antem."
+
+REFERENCE           OKI2_SATCHEL_HINT1
+LANG_ENGLISH        "Naciœnij [{+actionslot 3}], aby wybraæ ³adunek wybuchowy"
+
+REFERENCE           OKI2_SATCHEL_HINT2
+LANG_ENGLISH        "Naciœnij [{+toggleads_throw}] , aby rzuciæ ³adunkiem. Naciœnij [{+attack}], aby go zdetonowaæ."
+
+ENDMARKER

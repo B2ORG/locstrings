@@ -1,0 +1,574 @@
+// Dumped from fastfile "ja_yemen".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_004A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7メネンデスは 全部わかってる… 間違いない"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_014A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7はい"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_1
+LANG_JAPANESE       "^L\"ACHILLES' VEIL\"^L"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_3
+LANG_JAPANESE       "デイビッド・メイソン//コードネーム: ^L\"セクション\"^L"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_2
+LANG_JAPANESE       "^Lイエメン^L ソコトラ島"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_002A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7我らの中に裏切り者がいる"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_089A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7イエメン軍は 街を囲むように 防衛線を張るだろう"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_010A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7城塞で合流するとしよう"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_2
+LANG_JAPANESE       "^Lイエメン^L ソコトラ島"
+
+REFERENCE           YEMEN_DRONES_OFFLINE
+LANG_JAPANESE       "システムエラー！\nドローンターゲティング オフライン"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_023A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7右へ向かえ 俺は左から行く"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_3
+LANG_JAPANESE       "^L\"ファリド\"^L // CIA潜入工作員"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_4
+LANG_JAPANESE       "^Lメネンデス^Lへの接近"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_5
+LANG_JAPANESE       "^L2025年^L6月19日"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_091A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7忘れるな イエメン軍にとっては お前もテロリストの一員でしかないんだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_013A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7今こそ！！！"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_1
+LANG_JAPANESE       "^L\"ACHILLES' VEIL\"^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_001A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7アメリカ人が来るぞ ファリド"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_4
+LANG_JAPANESE       "^LJSOC^L対テロ部隊"
+
+REFERENCE           YEMEN_SHOOT_HARPER
+LANG_JAPANESE       "^3[{+activate}]^7でハーパーを撃つ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_020A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7よく聞けよ 天才野郎"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_5
+LANG_JAPANESE       "^L2025年^L6月19日"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_002A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7ハーパー！ 銃撃戦が 始まってすぐに メネンデスが 行ってしまった！"
+
+REFERENCE           YEMEN_OBJ_CAPTURE_MENENDEZ
+LANG_JAPANESE       "メネンデスを捕らえろ"
+
+REFERENCE           YEMEN_OPEN_DOOR
+LANG_JAPANESE       "^3[{+reload}]^7長押しでドアを開ける"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_JAPANESE       "接近中(ヘリ)"
+
+REFERENCE           YEMEN_PULL_HAMMER
+LANG_JAPANESE       "^3[{+lookstick}]^7でハンマーをしまう"
+
+REFERENCE           YEMEN_PULL_TRIGGER
+LANG_JAPANESE       "^3[{+attack}]^7で発射"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_053A_REDS_D
+LANG_JAPANESE       "^1SEALs隊員: ^7HVIは墜落した VTOL内にいる模様です 同機のミニガンから 激しい攻撃を受けています"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_005A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7もしヤツが お前がスパイだって 気付いていたら とっくに殺されてるだろ"
+
+REFERENCE           YEMEN_OBJ_BRIDGE
+LANG_JAPANESE       "メネンデスを追って捕らえろ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_001A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7部内通信 接続完了"
+
+REFERENCE           YEMEN_DRONES_ONLINE
+LANG_JAPANESE       "システム初期化終了\nターゲティング オンライン"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_016A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7ああ！ 放せ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7いよいよだファリド 今日こそクソ野郎を 捕まえてやろうぜ"
+
+REFERENCE           YEMEN_USE_GRID
+LANG_JAPANESE       "^3[{+actionslot 1}]^7でターゲットをマーク"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_009A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7来い ファリド！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_050A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7クラーケン メネンデスを視認した これから捕獲に向かう"
+
+REFERENCE           YEMEN_CONFIRM_TARGET
+LANG_JAPANESE       "^3[{+attack}]^7でターゲットを確定"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_007A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7よし… 目立たないのは いいことだ"
+
+REFERENCE           YEMEN_SHOOT_MENENDEZ
+LANG_JAPANESE       "^3[{+gostand}]^7でメネンデスを撃つ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_005A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7冷静にな 指示通りに動くんだぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7いよいよだファリド 今日こそクソ野郎を 捕まえてやろうぜ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_003A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7私の命令に従い 忠誠を示すがいい ファリド！"
+
+REFERENCE           YEMEN_OBJ_SPEECH
+LANG_JAPANESE       "メネンデスの集会に立ち会え"
+
+REFERENCE           YEMEN_PRESS_X
+LANG_JAPANESE       "^3[{+activate}]^7を押す"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7そんなんでビビらせたつもりか！？"
+
+REFERENCE           YEMEN_FALL_DEATH
+LANG_JAPANESE       "足元に注意！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_003A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7だから 銃撃戦になっても何が起きても 絶対に素性をバラすなよ"
+
+REFERENCE           YEMEN_OBJ_MEET_MENENDEZ
+LANG_JAPANESE       "城塞でメネンデスと合流しろ"
+
+REFERENCE           YEMEN_OBJ_LZ
+LANG_JAPANESE       "着陸地点を制圧しろ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_002A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7聞こえてるよ ハーパー"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_003A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7識別システムが ダウンしてる こっちからは味方だと 分からない"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_006A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7もう少しで準備完了だ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7メネンデス… 奴が城塞に向かっている"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_005A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7私は彼らの一歩先を行っている"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_007A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7準備ができたぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_003A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7し…しかしどうやって？誰が？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_004A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7どうでもいいことだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_008A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7ハーパー！ これ以上は無理だ 数が多すぎる！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_002A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7ハーパー ハーパー！ 応答しろ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_017A_DEFA_D
+LANG_JAPANESE       "^1デファルコ: ^7コルディス・ダイがお言葉を待っています"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_018A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7彼らが 待っているのは \"自由\"だ それは当然の報酬…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_003A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7僕は…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_008A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7来るがいい ファリド 時間だ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_092A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7交戦するのは最後の手段だ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_010A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7時間だ ファリド！ 来るのだ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_03_002A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7コルディス・ダイ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_009A_SALA_D
+LANG_JAPANESE       "^1サラザール: ^7さあ 行くぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_016A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7城塞で合流しろと言われた"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_032A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7奴を逃すわけにはいかない 街を通り抜けて 合流するんだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_090A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7市場を抜けて南へ向かえ 幸運を祈る"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_006A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7ハーパー 光学迷彩スーツを手に入れた"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_023A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7心配すんな 俺たちが ガッチリと バックアップするからよ わかったな？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_024A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7ああ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_093A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7メネンデスは城塞に向かってるんだよな？ 最短ルートは？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_059A_VTOL_D
+LANG_JAPANESE       "^1パイロット: ^7特別チームは ロープ降下して 橋で合流する"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_094A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7西の門を通れば外周部の山道へと続いてる"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_095A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7そこに向かえ VTOLが空域に入ったら そこで集合しよう"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_06_001A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7もうちょっとだぞ ファリド"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_06_002A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7休まず進め メネンデスを見つけ出すんだ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_096A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7ファリド メネンデスの居場所は分かったか？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_097A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7ダメだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7クソ あいつめ イエメン軍の前線を すり抜けたとしか思えんな"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7イエメンの前線をすり抜けたとしか思えんな"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_099A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7ファリド この近くは 敵の動きが激しい"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_JAPANESE       "Destroy"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_003A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7アメリカ人の血で手を汚したのか ファリド？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_004A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7もちろんです さあ 早く安全な場所へ… 仲間を失いすぎました"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_002A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7ファリド 聞こえるか？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_005A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7勝利は失った物によって 決まるものではないぞ ファリド"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_006A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7得たものによって決まるのだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_013A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7ファリド 応答せよ…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_014A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7被弾した！ 墜落する！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7クソ… クソ… あああ…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7ダメだ…ああっ…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7この… 人でなし共が！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7この… 人でなし共が！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_008A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7ハーパー了解 ヤツを捕まえてやろう"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_018A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7これはこれは"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_001A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7私がここにくると 察していたようだな 誰が裏切った？"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_JAPANESE       "Pick Up"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_044A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7拘束しろ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_002A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7裏切り者は誰だ？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7時間の無駄だ この…クソ野郎！ 俺は何も しゃべらねえぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7時間の無駄だ この…クソ野郎！ 俺は何も しゃべらねえぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_004A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7ファリド！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_005A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7やれ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7ああそうだ 俺を殺してみろよ 頭でっかちが！ …そしてそこの 腐れチキン野郎は 自分の手も汚せないのか？！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7ああそうだ 俺を殺してみろよ 頭でっかちが！ …そしてそこの 腐れチキン野郎は 自分の手も汚せないのか？！"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_JAPANESE       "Help"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7やれよ！ どうした 撃ち殺すタマすらねえのか？ やってみろ 頭でっかちが！俺をやれ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_002A_SALA_D
+LANG_JAPANESE       "^1サラザール: ^7死んだか…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_S
+LANG_JAPANESE       "^1ハーパー: ^7やれよ！ どうした 撃ち殺すタマすらねえのか？ やってみろ 頭でっかちが！俺をやれ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_011A_HARP_D
+LANG_JAPANESE       "^1ハーパー: ^7やれよ！ やれって 言ってんだろうが！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_DEFA_D
+LANG_JAPANESE       "^1デファルコ: ^7どうした ファリド？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_004A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7やるのだ ファリド！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_001A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7我々を裏切ったな ファリド"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_002A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7それで何を成し遂げた？"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_JAPANESE       "Climb"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_003A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7おまえが仕える連中にとって おまえの人生など 無意味なのだぞ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_007A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7ファリド"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_053A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7使える装備を全て この区画に運び入れろ 行く手を阻んで 逃げ道を断つんだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_001A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7セクション…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_004A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7仕方無かったさ…"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_JAPANESE       "Protect"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_005A_FARI_D
+LANG_JAPANESE       "^1ファリド: ^7メネンデスは 町を見下ろす 城塞に向かってる"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_006A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7サラザール 救護ヘリを手配してくれ"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_JAPANESE       "Shoot"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_M
+LANG_JAPANESE       "^1セクション: ^7ちくしょう！ 何かおかしいぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_S
+LANG_JAPANESE       "^1セクション: ^7ちくしょう！ 何かおかしいぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_003A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7クラーケン こちらラインバッカー2 墜落現場に向かっている 敵と交戦中"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_JAPANESE       "Support"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_010A_SALA_D
+LANG_JAPANESE       "^1サラザール: ^7サラザールより 優先衛星回線で交信中 複数の仲間がダウン 至急 救援部隊の投下を求む"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_048A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7墜落現場のビデオを ありったけHUDに 送り込んでくれ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_019A_SALA_D
+LANG_JAPANESE       "^1サラザール: ^7RPG！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_049A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7メネンデス！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_004A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7屋根の上から激しい攻撃を受けている！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_M
+LANG_JAPANESE       "^1ハーパー: ^7メネンデス… 奴が城塞に向かっている"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_006A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7サラザール 救護ヘリを手配してくれ ハーパーをオバマに運びたい"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_012A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7司令部 メネンデス確保のために ドローン部隊を使いたい"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_013A_COMM_D
+LANG_JAPANESE       "^1司令官: ^7コードをディスプレイに送る 操作可能だ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_055A_VTOL_D
+LANG_JAPANESE       "^1パイロット: ^7敵のクアッドドローンが 向かって来る"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_056A_VTOL_D
+LANG_JAPANESE       "^1パイロット: ^7そっちの クアッドドローンを 回して欲しい"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_057A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7クラーケン ドローンがなければ 援護がなくなってしまう"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_058A_VTOL_D
+LANG_JAPANESE       "^1パイロット: ^7特別チームを支援に向かわせる"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_JAPANESE       "Sweep"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_060A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7了解 セクション アウト"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_061A_SALA_D
+LANG_JAPANESE       "^1サラザール: ^7特別チームが降下してくるぞ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_062A_US0_D
+LANG_JAPANESE       "^1SEALs隊員: ^7HVIの所に向かう間 5人のチームで支援します"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_063A_US1_D
+LANG_JAPANESE       "^1SEALs隊員: ^7後方支援は 任せてください"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_064A_US0_D
+LANG_JAPANESE       "^1SEALs隊員: ^7メネンデスの居場所が分かり次第 ただちに拘束に向かいます"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_065A_US1_D
+LANG_JAPANESE       "^1SEALs隊員: ^7前進します"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_066A_US0_D
+LANG_JAPANESE       "^1SEALs隊員: ^7VTOLを包囲 次の指示まで待機"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_067A_US1_D
+LANG_JAPANESE       "^1SEALs隊員: ^7まずドローンと交戦を"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_020A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7街中で激戦になってるぞ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_021A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7二手に別れよう 高所に向かってくれ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_022A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7 左を頼む 俺は右から行く"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_024A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7ゴー！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_033A_SALA_D
+LANG_JAPANESE       "^1サラザール: ^7セクション！ ドローンを使って 敵を片づけろ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_036A_SALA_D
+LANG_JAPANESE       "^1サラザール: ^7目標をマークしろ！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_052A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7クラーケン メネンデスは城塞に 向かっているようだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_054A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7準備完了 メネンデスの居場所は わかったか？"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_055A_REDS_D
+LANG_JAPANESE       "^1SEALs隊員: ^7敵軍が城塞の周囲に 防衛線を張りました"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_056A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7目を離すな ただし交戦は控えろ 生け捕りにするんだ"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_043A_SECT_D
+LANG_JAPANESE       "^1セクション: ^7メネンデス！"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_045A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7ありがとう デイビッド"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_046A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7新たな世界の 夜明けは近い…"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_021A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7ファリド！"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_JAPANESE       "Follow"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_JAPANESE       "Use"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_JAPANESE       "Enter"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_JAPANESE       "Defend"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_JAPANESE       "Regroup"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_JAPANESE       "Kill"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_JAPANESE       "Breach"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_JAPANESE       "Target"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_JAPANESE       "ラペリング"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_JAPANESE       "Access"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_JAPANESE       "Jump"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_JAPANESE       "Melee"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_JAPANESE       "Disable"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_JAPANESE       "Detonate"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_JAPANESE       "Search"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_JAPANESE       "Clear"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_JAPANESE       "Weapons"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_JAPANESE       "Ammo"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_JAPANESE       "Escort"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_JAPANESE       "接近中(戦車)"
+
+ENDMARKER

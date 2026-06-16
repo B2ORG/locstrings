@@ -1,0 +1,154 @@
+// Dumped from fastfile "ge_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aufnehmen des Höllen-Rückholers"
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Bauen des Flugzeugs"
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Bauen des Blundergat-Upgrade"
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_GERMAN         "Die Gondel ist aktiv"
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aktivieren der Ventilatorfalle [Kosten: &&1]"
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_GERMAN         "^3[{+activate}]^7 drücken aktiviert Waschmaschine"
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Bauen des Zombieschilds"
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_GERMAN         "^3[{+activate}]^7 halten zum Aufnehmen der Blundergat"
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Betanken des Flugzeugs"
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für MP [Kosten: &&1]"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_GERMAN         "Überlasten mit Elektroschock"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_GERMAN         "Teil dem Flugzeug hinzugefügt"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aufnehmen des Höllen-Erlösers"
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_GERMAN         "Treibstoff dem Flugzeug hinzugefügt"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_GERMAN         "^3[{+attack}]^7 drücken für Energiestoß"
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_GERMAN         "^3[{+activate}]^7 drücken zum Besteigen des Flugzeugs"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_GERMAN         "^3[{+gostand}]^7 drücken zum Schweben"
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_GERMAN         "^3[{+activate}]^7 halten ruft die Gondel"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Betreten des Jenseits"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_GERMAN         "Ein Elektroschock schaltet den Strom an"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_GERMAN         "Wächterschlüssel benötigt"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_GERMAN         "Die Tür braucht Strom"
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_GERMAN         "Säurefalle nicht verfügbar"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_GERMAN         "Halten Sie [{+activate}] zum Wandeln der Blundergat in eine Acidgat"
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_GERMAN         "Halten Sie [{+activate}] zum Nehmen der umgewandelten Waffe"
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 für Elektrokirsche [Kosten: &&1]"
+
+REFERENCE           ZM_PRISON_BAD
+LANG_GERMAN         "DER TEUFELSKREIS GEHT WEITER ..."
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_GERMAN         "Drücken Sie ^3[{+attack}]^7 zum Einsetzen des Schilds"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_GERMAN         "Drücken Sie ^3[{+melee}]^7 zum Angriff mit dem Schild"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_GERMAN         "Drücken Sie [{+actionslot 1}] oder [{+actionslot 2}] zum Wechseln"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_GERMAN         "Drücken Sie ^3[{+smoke}]^7 zum Werfen des Rückholers"
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_GERMAN         "Schild"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_GERMAN         "DER TEUFELSKREIS IST BEENDET."
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_GERMAN         "Acidgat-Kit"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_GERMAN         "Flugzeugteile"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_GERMAN         "^3[{+activate}]^7 drücken aktiviert elektrischen Stuhl"
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_GERMAN         "^3[{+activate}]^7 drücken für Startvorbereitungen"
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Öffnen"
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_GERMAN         "Ventilatorfalle nicht verfügbar"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aktivieren der Säurefalle [Kosten: &&1]"
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Aktivieren der Turmfalle [Kosten: &&1]"
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_GERMAN         "Halten Sie ^3[{+activate}]^7 zum Benutzen der Gondel [Kosten: &&1]"
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_GERMAN         "Gondel benötigt Strom"
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_GERMAN         "Die Gondel lädt auf"
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_GERMAN         "^3[{+activate}]^7  halten zum Aufnehmen der Acidgat"
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_GERMAN         "Blundergat benötigt"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_GERMAN         "Kein Jenseits mehr"
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_GERMAN         "LEBEN AUSGEHAUCHT"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_GERMAN         "Sie tragen schon ein Teil."
+
+ENDMARKER

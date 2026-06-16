@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "Do³¹cz do g³ównej Armii Radzieckiej."
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Krew i ¿elazo'"
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Udaj siê w kierunku Seelow."
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Zniszcz ocala³e czo³gi."
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Petrenko"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Wzgórza Seelow, Niemcy"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "Zaatakuj miasto."
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "Trzecia Armia Uderzeniowa"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "16 kwietnia 1945"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "PoprowadŸ Tygrysa."
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Zniszcz zbli¿aj¹ce siê Pantery."
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Zniszcz wrogie czo³gi wokó³ poci¹gu."
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "Wyeliminuj wszystkie stanowiska artylerii nieprzyjaciela - pozosta³o: &&1."
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "Udaj siê do wie¿y radiowej."
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "Zniszcz wie¿ê radiow¹."
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Korzystaj¹c z Tygrysa, udaj siê w kierunku Seelow."
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "Prze³am liniê Niemców i zajmij stacjê kolejow¹."
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "Dokonaj zwiadu pod k¹tem wycofuj¹cych siê przeciwników."
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "Zniszcz zapasy paliwa."
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "Prze³¹cz ADS., aby spojrzeæ na odleg³e cele"
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "Naciœnij [{+frag}], aby u¿yæ miotacza ognia"
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "Naciœnij [{+frag}], aby strzeliæ z karabinu maszynowego"
+
+ENDMARKER

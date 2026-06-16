@@ -1,0 +1,1093 @@
+// Dumped from fastfile "ru_nicaragua".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           NICARAGUA_MENENDEZ_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "РЯДОМ СЕСТРА, ^LДЖОЗЕФИНА^L"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_008A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Не хочу я сражаться вместе с этими козлами."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_011A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Тронешь мою сестру, и ты покойник!"
+
+REFERENCE           SCRIPT_NIGHTVISION_STOP_USE
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 1}] ^7, чтобы отключить ПНВ."
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "^LВРЕМЯ И СУДЬБА^L"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_005A_PDF3_S
+LANG_RUSSIAN        "^1Солдат: ^7Он с ума сошел!"
+
+REFERENCE           NICARAGUA_MENENDEZ_INTROSCREEN_LINE_1
+LANG_RUSSIAN        "РАУЛЬ ^LМЕНЕНДЕС^L"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ваши люди готовы выдвигаться?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_009A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Помоги мне!"
+
+REFERENCE           NICARAGUA_MENENDEZ_TRUCK_ROAD_WARNING
+LANG_RUSSIAN        "Вы двигаетесь в неверном направлении"
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_2
+LANG_RUSSIAN        "ВАСА КИНГ, ^LНИКАРАГУА^L"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           NICARAGUA_OBJ_MASON_FIND_MENENDEZ
+LANG_RUSSIAN        "Найти и схватить Менендеса"
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE1
+LANG_RUSSIAN        "Вы погибли, т.к. слишком долго держали гранату в руках"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_040A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Круто!  Давно пора."
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_3
+LANG_RUSSIAN        "АЛЕКС ^LМЕЙСОН^L"
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_4
+LANG_RUSSIAN        "^LЦРУ^L ПОДРАЗДЛЕНИЕ СПЕЦОПЕРАЦИЙ"
+
+REFERENCE           NICARAGUA_OBJ_MASON_OBSERVE_MENENDEZ
+LANG_RUSSIAN        "Следить за Менендесом"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_012A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Жозефина..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_021A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Снайперы на крыше!"
+
+REFERENCE           NICARAGUA_OBJ_OPEN_DOOR
+LANG_RUSSIAN        "Открыть дверь"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS_X
+LANG_RUSSIAN        "x&&1"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_024A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Грузовик с пулеметом!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_006A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Ты где, Рауль?!!"
+
+REFERENCE           NICARAGUA_INTROSCREEN_LINE_5
+LANG_RUSSIAN        "25 СЕНТЯБРЯ ^L1986^L"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_013A_WOOD_S
+LANG_RUSSIAN        "^1Woods: ^7Noriega's... animals... almost killed Menendez's sister.  But she was still alive."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_005A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7По первому слову."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_011A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Где ты, Рауль!?"
+
+REFERENCE           NICARAGUA_CIA
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять карточку ЦРУ"
+
+REFERENCE           NICARAGUA_MOLOTOV_TUTORIAL
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7, чтобы выбрать \"коктейли Молотова\""
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_003A_PDF2_S
+LANG_RUSSIAN        "^1Солдат: ^7Взять его!!!"
+
+REFERENCE           SCRIPT_LEARN_M14_SWITCH
+LANG_RUSSIAN        "Нажмите ^3[{weapnext}]^7, чтобы переключиться на винтовку M21."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_001A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7Menendez!"
+
+REFERENCE           NICARAGUA_MORTAR_TUTORIAL
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7 чтобы выбрать мины"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_03_001A_PDF3_D
+LANG_RUSSIAN        "^1Солдат: ^7Очнись."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_013A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Грязные твари Норьеги чуть было не убили сестру Менендеса... Но она выжила."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_013A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Пулемет в окне!  Здание справа!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_036A_CRT0_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Вы его слышали.  Прорываемся к дому!"
+
+REFERENCE           NICARAGUA_MASON_FAIL
+LANG_RUSSIAN        "Вы бросили свой отряд"
+
+REFERENCE           NICARAGUA_MASON_FAIL_WARNING
+LANG_RUSSIAN        "Вы слишком сильно удаляетесь от своего отряда"
+
+REFERENCE           NICARAGUA_RAGE_MELEE_PROMPT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7, чтобы использовать"
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CLAW
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7, чтобы отметить цель"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Это Рауль Менендес."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_008A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Фрэнк."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_030A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Уходи!"
+
+REFERENCE           NICARAGUA_OBJ_MENENDEZ_OBSERVE_MENENDEZ
+LANG_RUSSIAN        "Следить за Менендесом"
+
+REFERENCE           NICARAGUA_OBJ_SAVE_JOSEFINA
+LANG_RUSSIAN        "Спасти Джозефину"
+
+REFERENCE           NICARAGUA_TRANSITION_AGENTS
+LANG_RUSSIAN        "Агент Хадсон, оперативники Мейсон и Вудс"
+
+REFERENCE           NICARAGUA_OBJ_MASON_UP_HILL
+LANG_RUSSIAN        "Зачистить деревню картеля"
+
+REFERENCE           NICARAGUA_OBJ_MASON_CLEAR_THE_MISSION
+LANG_RUSSIAN        "Провести штурм"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_03_002A_PDF1_D
+LANG_RUSSIAN        "^1Солдат: ^7Эй!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_007A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Жозефина..."
+
+REFERENCE           NICARAGUA_OBJ_MASON_BUNKER
+LANG_RUSSIAN        "Зачистить лабораторию в подвале"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_005A_PDF3_M
+LANG_RUSSIAN        "^1Солдат: ^7Он с ума сошел!"
+
+REFERENCE           NICARAGUA_TRANSITION_TITLE
+LANG_RUSSIAN        "ЗА 15 МИНУТ ДО СЛУЧИВШЕГОСЯ"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_015A_MENE_M
+LANG_RUSSIAN        "^1Менендес: ^7Какого черта?"
+
+REFERENCE           NICARAGUA_TRANSITION_BODY
+LANG_RUSSIAN        "Северная сторона деревни"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_008A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Не будем херней маяться, парни. Поджарим этого мудака."
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ON
+LANG_RUSSIAN        "Камуфляж: Включен"
+
+REFERENCE           NICARAGUA_MENENDEZ_TRUCK_ROAD_FAIL
+LANG_RUSSIAN        "Вы должны спасти Жозефину."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Все совпадает..."
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_006A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не спускай глаз с Вудса. Снова увидев Менендеса... Он сорвется."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_003A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Я же сказал, он будет здесь."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_008A_PDF3_D
+LANG_RUSSIAN        "^1Солдат: ^7Держите его!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_006A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давайте."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_002A_PDF1_S
+LANG_RUSSIAN        "^1Солдат: ^7Эй!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_007A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Выдвигайтесь."
+
+REFERENCE           SCRIPT_X2
+LANG_RUSSIAN        "x2"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_008A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Не будем фигней маяться, парни... Поджарим этого козла."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_010A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7У нас не такой приказ, Вудс.  Его надо брать живым."
+
+REFERENCE           SCRIPT_GOD_ROD_INVALID_TARGET
+LANG_RUSSIAN        "Отмечена неверная зона"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_005A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Я спас тебе жизнь - ты чуть не попал в лапы американцев."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_014A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я же просил меня не беспокоить."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_012A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Жозефина!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_001A_PDF1_D
+LANG_RUSSIAN        "^1Солдат: ^7Это... чудовище?"
+
+REFERENCE           SCRIPT_X3
+LANG_RUSSIAN        "x3"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_01_013A_MENE_D
+LANG_RUSSIAN        "^1Menendez: ^7Animal!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_007A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_032A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Умри за грехи свои!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_002A_PDF1_M
+LANG_RUSSIAN        "^1Солдат: ^7Эй!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_001A_PDF3_D
+LANG_RUSSIAN        "^1Солдат: ^7Я сказал - очнись."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_003A_PDF2_M
+LANG_RUSSIAN        "^1Солдат: ^7Взять его!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_004A_PDF1_D
+LANG_RUSSIAN        "^1Солдат: ^7Утихомирьте его!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_006A_PDF3_D
+LANG_RUSSIAN        "^1Солдат: ^7Успокойте его!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_021A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Звери!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_02_007A_PDF1_D
+LANG_RUSSIAN        "^1Солдат: ^7Живо!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_002A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Все тихо сделали?"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_006A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Назовем это одолжением."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_003A_PDF1_D
+LANG_RUSSIAN        "^1Солдат: ^7Да... Еле утихомирили вчетвером."
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_004A_NORI_D
+LANG_RUSSIAN        "^1Норьега: ^7Нас никто не видел."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_010A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7С дороги!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_004A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вот он. В мешке."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_017A_CF6_D
+LANG_RUSSIAN        "^1Женщина: ^7Пожалуйста, отпустите нас!  Мы ничего не сделали!"
+
+REFERENCE           SCRIPT_COLLECTIBLE_FOUND
+LANG_RUSSIAN        "Обнаружено %1 из %2 фрагментов информации."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_019A_CF7_D
+LANG_RUSSIAN        "^1Женщина: ^7Умоляю! Сжальтесь!"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88
+LANG_RUSSIAN        "Уничтожьте экипаж установки ПВО Flak 88 [осталось &&1]."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_022A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Грязные!  Бессердечные!  Звери!!!"
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_026A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Сдохни!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_008A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7(крик)"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Нужно зачистить там все.  Ищи любую информацию о картеле Менендеса."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_027A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7А-а-а!"
+
+REFERENCE           SCRIPT_C4_USE
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 2}] ^7, чтобы использовать заряд взрывчатки."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_028A_CF7_D
+LANG_RUSSIAN        "^1Женщина: ^7Не-е-ет!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_011A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Я за тобой, брат!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_030A_CF7_D
+LANG_RUSSIAN        "^1Женщина: ^7Отвали!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_034A_CRT0_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Менендес!   Ты как?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_035A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Жозефина...  Надо спешить к дому!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_015A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай побыстрее.  Не хочу упустить главный трофей.  Готов, Мэйсон?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_037A_CRT0_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Вперед!   Захватить двор!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_044A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Сбивай ворота!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс.  Мэйсон.  Коксовая лаборатория в подвале."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_038A_CRT1_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Убить их всех!"
+
+REFERENCE           SCRIPT_AFGHANSTINGER_DETONATE_HINT
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7, чтобы подорвать"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_039A_CRT2_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Защищайте Менендеса!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_045A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Держись, Жозефина!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_046A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я уже иду!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_04_040A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я здесь, Жозефина!  Я здесь!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_002A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Вудс, НЕТ!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_003A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Рауль!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_029A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Давай, Вудс... Все будет хорошо."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_004A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я здесь!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Отвали!!!"
+
+REFERENCE           SCRIPT_GOD_ROD_WIIU
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7, чтобы отметить цель"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_010A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Граната!!!"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           SCRIPT_RADIATION_DEATH
+LANG_RUSSIAN        "Не подходите к источникам радиации.\nСледите за показаниями счетчика Гейгера"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_05_007A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Жозефина!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Кто эта девушка?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Это неважно. Она точно не наша цель."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_003A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Шлюха наверное..."
+
+REFERENCE           SCRIPT_HINT_OBJECTIVEONCOMPASS
+LANG_RUSSIAN        "Ваша следующая цель на компасе обозначена звездочкой."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_003A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Наверное, никто..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_004A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Люди Норьеги приближаются. Пошли."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_040A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Круто!  Давно пора."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_001A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Ты ходячий труп, Менендес!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_006A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Впереди перестрелка!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_007A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Люди Норьеги прорываются через реку!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_008A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Не хочу я сражаться вместе с этими козлами."
+
+REFERENCE           SCRIPT_OBJ_FOLEYDEBRIEF
+LANG_RUSSIAN        "Доберитесь до перекрестка и обратитесь к капитану Фоули."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_009A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Поверь, Вудс.  Парни из картеля круты.  Еще спасибо им скажешь."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_010A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7За мной!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_012A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Прикажите им не стрелять!  У нас гражданские!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_014A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7На крышах солдаты!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_015A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Осторожно, с балконов!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_016A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Готовы!  Выдвигаемся!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_017A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Враг приближается!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_029A_CRT2_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Мы все не унесем!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_018A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7В окне!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_011A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не надо, Вудс. Мы контролируем ситуацию."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_019A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Рассредоточиться!"
+
+REFERENCE           SCRIPT_LEARN_GRENADE_LAUNCHER
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 3}] ^7, чтобы переключиться на гранатомет M203."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_015A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Граната!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_020A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Еще один пулемет!"
+
+REFERENCE           SCRIPT_HINT_MELEE
+LANG_RUSSIAN        "Нажмите ^3[{+melee}]^7, чтобы ударить"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_021A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Правый фланг!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_022A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Группа врагов! В том здании!"
+
+REFERENCE           SCRIPT_FIRE_DIRECTION_CONFIRM
+LANG_RUSSIAN        "Нажмите ^3[{+attack}]^7, чтобы подтвердить цель"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_023A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Бросай туда гранату!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_025A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Сними водилу, Мэйсон!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_025A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Сними водилу, Мэйсон!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_026A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Как в старые добрые времена!  Да, Мейсон?"
+
+REFERENCE           SCRIPT_PLUS
+LANG_RUSSIAN        "+"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_027A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Это точно."
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_002A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Вудс, НЕТ!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_020A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Идем уже, твою мать!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_010A_WOOD_D
+LANG_RUSSIAN        "^1Woods: ^7You got no idea what happened in Angola.  None!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_028A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Поживее, Мэйсон!"
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1
+LANG_RUSSIAN        "Авиаподдержка в режиме готовности!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_003A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Поймайте козла, тащите ко мне. Он у меня заговорит."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_011A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не стоит, мы же на задании."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_029A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Сними стрелка!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_031A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Через огонь!  Поживее."
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_033A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Они нас спалить хотят!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_033A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Они нас спалить хотят!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_034A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Уходи!  Уходи с дороги!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_041A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7По нам стреляют с балкона!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_035A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7В здание!  Всех уничтожить!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_036A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7За мной."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_028A_CRT0_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Иностранные солдаты по всему комплексу.  Пора грузить товар по грузовикам!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_024A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Я на позиции.  Вперед!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_038A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, Мэйсон.  Вверх по лестнице."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_008A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Хадсон.  Объект удалось обнаружить?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Военные реально постарались в этой деревне."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_06_039A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мы тебя ждем, Мэйсон."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Стоп... Нет... Не может быть."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_003A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Что?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_004A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Долбаный Норьега. Его люди должны были взять Менендеса!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_004A_HUDS_S
+LANG_RUSSIAN        "^1Хадсон: ^7Норьега!  Его люди должны были взять Менендеса!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_005A_WOOD_M
+LANG_RUSSIAN        "^1Woods: ^7Did you fucking see Menendez?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_006A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Мать!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_006A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7А-а-а!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_009A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7А ну живо соберись!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_009A_HUDS_S
+LANG_RUSSIAN        "^1Хадсон: ^7А ну живо соберись!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_012A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Он направился к дому... Мы его возьмем.  Но действовать будем вместе."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_013A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Идем..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_018A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Главное здание прямо по курсу!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_RUSSIAN
+LANG_RUSSIAN        "Вы предали Родину!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_019A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Прорывайтесь вверх по лестнице!  Захватить двор!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_020A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Пора уходить!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_022A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7РПГ!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_023A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Я прикрою с колокольни!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_025A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Пулеметчик! Парадный вход!"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_HEADSHOTS
+LANG_RUSSIAN        "Рекорд попаданий в голову +&&1"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_026A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7РПГ!  На балконе!"
+
+REFERENCE           SCRIPT_MINUS
+LANG_RUSSIAN        "-"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_027A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Снайперы в окнах!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_07_028A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Это был последний."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_003A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Поймайте козла, тащите ко мне. Он у меня заговорит."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_004A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7У тебя приказ, сержант."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_005A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон."
+
+REFERENCE           SCRIPT_HINT_LOCK_BREAKER
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7, чтобы вскрыть замок"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_007A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Не волнуйся, Хадсон.  Я его прикрываю."
+
+REFERENCE           SCRIPT_ARTILLERY_TOOFAR
+LANG_RUSSIAN        "Вызвать артиллерию невозможно - вы слишком далеко от радиста."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_026A_CRT0_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Собирайся!  Мы уходим!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_027A_CRT1_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Мы слышали выстрелы.  Что происходит?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_030A_CRT0_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Что не унесем, сожжем.  Хватит болтать, живо за дело!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_001A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Менендес, сука, ты покойник!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_031A_CRT1_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Живо!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_006A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Рауль, помоги мне!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_016A_CRT0_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Вражеские солдаты!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_017A_CRT1_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Ответный огонь!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_018A_CRT2_D
+LANG_RUSSIAN        "^1Солдат картеля: ^7Уносите товар!"
+
+REFERENCE           SCRIPT_HINT_BRUTE_FORCE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_019A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Хватайте все улики, пока они не спалили тут все дотла!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_020A_MASO_M
+LANG_RUSSIAN        "^1Мэйсон: ^7Какого хера? ЦРУ?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_020A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Какого... ЦРУ?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_021A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Давай, Мэйсон!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_022A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Сраные наркоманы..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_022A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Сраные наркоманы..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_008A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Хадсон.  Выцелил этого ублюдка?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Выведите его..."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_009A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Он в доме.  Мы идем к нему."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_010A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Выдвигаюсь."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_012A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_033A_MASO_M
+LANG_RUSSIAN        "^1Мэйсон: ^7Черт, Вудс!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_033A_MASO_S
+LANG_RUSSIAN        "^1Мэйсон: ^7Спокойно, Вудс!"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_023A_WOOD_M
+LANG_RUSSIAN        "^1Вудс: ^7Живее, Мэйсон!  Нельзя упустить этого ублюдка!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_023A_WOOD_S
+LANG_RUSSIAN        "^1Вудс: ^7Живее, Мэйсон!  Нельзя упустить этого ублюдка!"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           SCRIPT_HINTSTR_GRENADESFULL
+LANG_RUSSIAN        "Вы не сможете унести столько гранат."
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_08_024A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Помедленнее!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_003A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Рауль!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_004A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я здесь!!!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_005A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Отвали!!!"
+
+REFERENCE           SCRIPT_COLLECTIBLE
+LANG_RUSSIAN        "Сведения получены"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_007A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Жозефина!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_010A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Помоги мне!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_012A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Где ты!?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_09_013A_JOSE_D
+LANG_RUSSIAN        "^1Жозефина: ^7Не-е-ет!"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_001A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Фрэнк... Все в порядке?"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_003A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Что случилось, Хадсон? Где Менендес?"
+
+REFERENCE           SCRIPT_AM_X
+LANG_RUSSIAN        "X"
+
+REFERENCE           NICARAGUA_VOX_VOX_NIC_1_10_005A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7С этого момента... Здесь ничего не произошло."
+
+REFERENCE           SCRIPT_HINT_BIGDOG_CHARGED_SHOT
+LANG_RUSSIAN        "Используйте усиленные заряды, чтобы пробивать броню"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_BRITISH
+LANG_RUSSIAN        "Не стреляйте в своих!"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_AMERICAN
+LANG_RUSSIAN        "Не стреляйте в своих!"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SCRIPT_SHOT_TEAMMATE
+LANG_RUSSIAN        "Вы застрелили своего!"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SCRIPT_OBJ_DESTROYFLAKPANZERS
+LANG_RUSSIAN        "Уничтожьте мобильные установки ПВО [осталось &&1]."
+
+REFERENCE           SCRIPT_COLLECTIBLE_PICKUP
+LANG_RUSSIAN        "Удерживайте^3 &&1 ^7для получения сведений"
+
+REFERENCE           SCRIPT_HINT_CANT_OPEN_DOORS
+LANG_RUSSIAN        "Дверь заперта. Вам никогда не понадобится открывать закрытые двери."
+
+REFERENCE           SCRIPT_EXPLOSIVESPLANTED
+LANG_RUSSIAN        "ВЗРЫВЧАТКА ЗАЛОЖЕНА. НАЗАД!"
+
+REFERENCE           SCRIPT_HINT_PICKUPAMMOKEY
+LANG_RUSSIAN        "Чтобы подобрать боеприпасы с лежащего оружия, подойдите к нему и нажмите кнопку \"ИСПОЛЬЗОВАТЬ\" [&&1]."
+
+REFERENCE           SCRIPT_HINT_LEANINGSLOWMOVE
+LANG_RUSSIAN        "Скорость передвижения ниже, если вы на корточках."
+
+REFERENCE           SCRIPT_PICKUPSTIELHANDGRANATES
+LANG_RUSSIAN        "Вы взяли несколько немецких гранат."
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           SCRIPT_GLOWING_MARKER
+LANG_RUSSIAN        "Найдите мигающую отметку на немецком орудии."
+
+REFERENCE           SCRIPT_CLEARBUILDING
+LANG_RUSSIAN        "Зачистить здание с пулеметными точками."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           SCRIPT_TAKELEFTFLANK
+LANG_RUSSIAN        "Займите левый фланг."
+
+REFERENCE           SCRIPT_FIRE_TO_SKIP
+LANG_RUSSIAN        "Нажмите ОГОНЬ, чтобы пропустить."
+
+REFERENCE           SCRIPT_USE_THE_PANZERFAUST_ANTITANK
+LANG_RUSSIAN        "Уничтожьте танки за укреплениями с помощью фаустпатронов."
+
+REFERENCE           SCRIPT_AMMO_REFILL
+LANG_RUSSIAN        "Зажмите ^3[{+activate}]^7, чтобы восполнить боезапас"
+
+REFERENCE           SCRIPT_ELIMINATE_THE_FLAK_88_DONE
+LANG_RUSSIAN        "Уничтожьте расчет установки ПВО Flak 88."
+
+REFERENCE           SCRIPT_EXPLOSIVE_BOLT_DEATH
+LANG_RUSSIAN        "Вы были убиты разрывной стрелой"
+
+REFERENCE           SCRIPT_EXPLOSIVE_FLECHETTE_DEATH
+LANG_RUSSIAN        "Вас убило разрывным снарядом"
+
+REFERENCE           SCRIPT_GRENADE_DEATH
+LANG_RUSSIAN        "Вас убило гранатой\nСледите за индикатором гранат"
+
+REFERENCE           SCRIPT_AM_SUICIDE_COMMITED
+LANG_RUSSIAN        "Вам начислен штраф за самоубийство"
+
+REFERENCE           SCRIPT_GRENADE_SUICIDE_LINE2
+LANG_RUSSIAN        "Зажав кнопку гранаты, вы можете отложить ее бросок на некоторое время."
+
+REFERENCE           SCRIPT_EXPLODING_VEHICLE_DEATH
+LANG_RUSSIAN        "Вы погибли при взрыве машины\nГорящая техника рано или поздно взрывается"
+
+REFERENCE           SCRIPT_EXPLODING_BARREL_DEATH
+LANG_RUSSIAN        "Вы погибли при взрыве бочки.\nКрасные бочки взрываются при попадании в них пули."
+
+REFERENCE           SCRIPT_HINT_INTRUDER
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вскрыть"
+
+REFERENCE           SCRIPT_PLUS_AMOUNT
+LANG_RUSSIAN        "+%s"
+
+REFERENCE           SCRIPT_MINUS_AMOUNT
+LANG_RUSSIAN        "-%s"
+
+REFERENCE           SCRIPT_PLUS_DOLLAR
+LANG_RUSSIAN        "+$"
+
+REFERENCE           SCRIPT_MINUS_DOLLAR
+LANG_RUSSIAN        "-$"
+
+REFERENCE           SCRIPT_DOLLAR
+LANG_RUSSIAN        "$"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PICKUP
+LANG_RUSSIAN        "Нажмите и удерживайте ^3 &&1 ^7, чтобы забрать сведения о противнике."
+
+REFERENCE           SCRIPT_AM_DIFFICULTY_BONUS
+LANG_RUSSIAN        "Бонус за сложность"
+
+REFERENCE           SCRIPT_INTELLIGENCE_FOUND
+LANG_RUSSIAN        "Вы нашли вражеские разведданные."
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_THIRTY
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_FOURTYFIVE
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_OF_SIXTY
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_EXPLODING_NITROGEN_TANK_DEATH
+LANG_RUSSIAN        "Вы погибли от взрыва бака с азотом\nБаки с азотом взрываются при попадании в них"
+
+REFERENCE           SCRIPT_INTELLIGENCE_PTS
+LANG_RUSSIAN        "Разведданных обнаружено: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_REMAINING
+LANG_RUSSIAN        "Осталось обнаружить разведданных: &&1"
+
+REFERENCE           SCRIPT_INTELLIGENCE_ONEREMAINING
+LANG_RUSSIAN        "Осталось обнаружить разведданных: &&1"
+
+REFERENCE           SCRIPT_DEBUG_LEVEL_END
+LANG_RUSSIAN        "Конец текущего уровня."
+
+REFERENCE           SCRIPT_NIGHTVISION_USE
+LANG_RUSSIAN        "Нажмите ^3 [{+actionslot 1}] ^7, чтобы включить ПНВ."
+
+REFERENCE           SCRIPT_LEARN_CHOPPER_AIR_SUPPORT1_PC
+LANG_RUSSIAN        "Поддержка с воздуха готова! Нажмите ^3[{+actionslot 4}]."
+
+REFERENCE           SCRIPT_ARMOR_DAMAGE
+LANG_RUSSIAN        "Бронетехнику можно повредить только\nракетами и взрывчаткой."
+
+REFERENCE           SCRIPT_MANTLE
+LANG_RUSSIAN        "^3[{+gostand}]^7 : "
+
+REFERENCE           SCRIPT_AM_SUICIDE_ONE_LAST_GO
+LANG_RUSSIAN        "Вам осталось одно самоубийство до исключения."
+
+REFERENCE           SCRIPT_LEARN_CLAYMORES
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7, чтобы использовать мины."
+
+REFERENCE           SCRIPT_HOLD_TO_USE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7, чтобы использовать"
+
+REFERENCE           SCRIPT_LEARN_CLAYMORE_PLACEMENT
+LANG_RUSSIAN        "Отклоните^3 [{+attack}] ^7, чтобы заложить мины."
+
+REFERENCE           SCRIPT_COLON
+LANG_RUSSIAN        ":"
+
+REFERENCE           SCRIPT_HINT_THROW_C4
+LANG_RUSSIAN        "Нажмите ^3[{+throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_TOGGLE
+LANG_RUSSIAN        "Нажмите ^3[{+toggleads_throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           SCRIPT_HINT_THROW_C4_SPEED_TRIGGER
+LANG_RUSSIAN        "Отклоните ^3[{+speed_throw}]^7, чтобы бросить заряд взрывчатки."
+
+REFERENCE           SCRIPT_AM_ROUND_BONUS
+LANG_RUSSIAN        "Бонус за раунд"
+
+REFERENCE           SCRIPT_AM_SUICIDE_KICKED
+LANG_RUSSIAN        "Вас исключили из игры за слишком частые самоубийства"
+
+REFERENCE           SCRIPT_AM_LOW_SCORE_WARNING
+LANG_RUSSIAN        "ВНИМАНИЕ: Вы будете исключены из игры за отрицательный счет"
+
+REFERENCE           SCRIPT_AM_PLAYER_KICKED
+LANG_RUSSIAN        "Игрок &&1 был исключен"
+
+REFERENCE           SCRIPT_AM_MISSION_SCORE
+LANG_RUSSIAN        "Счет эпизода"
+
+REFERENCE           SCRIPT_AM_STREAK_COMPLETE
+LANG_RUSSIAN        "Бонус получен"
+
+REFERENCE           SCRIPT_AM_STREAK_BONUS_LOST
+LANG_RUSSIAN        "Бонус аннулирован"
+
+REFERENCE           SCRIPT_AM_NEW_HIGH_SCORE
+LANG_RUSSIAN        "НОВЫЙ РЕКОРД!"
+
+REFERENCE           SCRIPT_TOTAL_SCORE
+LANG_RUSSIAN        "ОБЩИЙ СЧЕТ:"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           SCRIPT_GOD_ROD_OFFLINE
+LANG_RUSSIAN        "Кинетический удар - Недоступен"
+
+REFERENCE           SCRIPT_TIME_REMAINING
+LANG_RUSSIAN        "ОСТАЛОСЬ ВРЕМЕНИ:"
+
+REFERENCE           SCRIPT_AM_BONUS_HARDEST_2_KILL
+LANG_RUSSIAN        "Самый живучий +&&1"
+
+REFERENCE           SCRIPT_AM_BONUS_MOST_REVIVES
+LANG_RUSSIAN        "Рекорд реанимаций +&&1"
+
+REFERENCE           SCRIPT_AM_PLAYERNAME
+LANG_RUSSIAN        "&&1"
+
+REFERENCE           SCRIPT_TANKSHELL_DEATH
+LANG_RUSSIAN        "Вас убило танковым снарядом."
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_ACTIVATE
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 2}]^7, чтобы включить оптический камуфляж"
+
+REFERENCE           SCRIPT_HINT_DOOR
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть дверь"
+
+REFERENCE           SCRIPT_MISSIONFAIL_KILLTEAM_NEUTRAL
+LANG_RUSSIAN        "Вы ранили гражданского. Аккуратнее!"
+
+REFERENCE           SCRIPT_MOVING_VEHICLE_DEATH
+LANG_RUSSIAN        "Вы были сбиты движущейся техникой."
+
+REFERENCE           SCRIPT_FIRE_DIRECTION
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7, чтобы отметить цель"
+
+REFERENCE           SCRIPT_HINT_BIGDOG_BULLET_DAMAGE
+LANG_RUSSIAN        "Легкое стрелковое оружие не может пробить нательную броню"
+
+REFERENCE           SCRIPT_HINT_CANT_DISMOUNT_HERE
+LANG_RUSSIAN        "Высадка невозможна."
+
+REFERENCE           SCRIPT_HINT_CAMO_SUIT_OFF
+LANG_RUSSIAN        "Камуфляж: Отключен"
+
+REFERENCE           SCRIPT_AFGHANSTINGER_SWITCHTO_LOCKON
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 3}]^7 чтобы переключиться в режим ПВО"
+
+REFERENCE           SCRIPT_GOD_ROD
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 4}]^7, чтобы отметить цель"
+
+REFERENCE           SCRIPT_HINT_HACK
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 для взлома "
+
+REFERENCE           SCRIPT_COMPROMISE_FAIL
+LANG_RUSSIAN        "Ваши действия привели к провалу задания"
+
+REFERENCE           SCRIPT_MISSIONFAIL_ESCAPE
+LANG_RUSSIAN        "Вы не успели уйти."
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+ENDMARKER

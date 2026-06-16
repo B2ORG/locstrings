@@ -1,0 +1,34 @@
+// Dumped from fastfile "pel1a".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1A_INTROSCREEN_INFO
+LANG_ENGLISH        "1a divisione marine"
+
+REFERENCE           PEL1A_OBJECTIVE2
+LANG_ENGLISH        "Elimina gli operatori dei mortai. (ancora &&1)"
+
+REFERENCE           PEL1A_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Bruciateli tutti'"
+
+REFERENCE           PEL1A_OBJECTIVE3
+LANG_ENGLISH        "Raggiungi la squadra nell'ultima buca di mortaio"
+
+REFERENCE           PEL1A_INTROSCREEN_PLACE
+LANG_ENGLISH        "White Beach, Peleliu"
+
+REFERENCE           PEL1A_INTROSCREEN_DATE
+LANG_ENGLISH        "15 settembre 1944"
+
+REFERENCE           PEL1A_OBJECTIVE1
+LANG_ENGLISH        "Entra nelle trincee."
+
+REFERENCE           PEL1A_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           PEL1A_THROWSMOKE
+LANG_ENGLISH        "Lancia un fumogeno [{+smoke}] per nasconderti dal fuoco nemico"
+
+ENDMARKER

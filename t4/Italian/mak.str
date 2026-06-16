@@ -1,0 +1,52 @@
+// Dumped from fastfile "mak".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MAK_OBJ_PLANTCHARGE
+LANG_ENGLISH        "Piazza le cariche nel bunker di munizioni con Roebuck"
+
+REFERENCE           MAK_OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "Qualcuno supporti Roebuck nel piazzamento delle cariche"
+
+REFERENCE           MAK_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Semper Fidelis'"
+
+REFERENCE           MAK_INTROSCREEN_PLACE
+LANG_ENGLISH        "Atollo Makin, Pacifico del sud"
+
+REFERENCE           MAK_INTROSCREEN_DATE
+LANG_ENGLISH        "17 agosto 1942"
+
+REFERENCE           MAK_PLANTING
+LANG_ENGLISH        "Allestimento esplosivo in corso..."
+
+REFERENCE           MAK_INTROSCREEN_INFO
+LANG_ENGLISH        "2o battaglione incursori marine (Carlson's Raiders)"
+
+REFERENCE           MAK_OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "Prendi il controllo del villaggio"
+
+REFERENCE           MAK_OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "Raggiungi la seconda squadra"
+
+REFERENCE           MAK_OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "Procedi fino al punto di estrazione"
+
+REFERENCE           MAK_TRUCK_TRIGGER
+LANG_ENGLISH        "Premi ^3&&1^7 per attivare il camion"
+
+REFERENCE           MAK_TRUCK_HINT
+LANG_ENGLISH        "Puoi attivare un oggetto premendo ^3[{+usereload}]^7"
+
+REFERENCE           MAK_CONTINUED
+LANG_ENGLISH        "Continua..."
+
+REFERENCE           MAK_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller (disperso)"
+
+REFERENCE           MAK_OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "Salva la seconda squadra"
+
+ENDMARKER

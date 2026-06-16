@@ -1,0 +1,166 @@
+// Dumped from fastfile "it_zm_buried".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_BURIED_SQ_SWIT_U
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per usare la leva."
+
+REFERENCE           ZM_BURIED_EQ_SP_HTS
+LANG_ITALIAN        "Premi ^3[{+actionslot 1}]^7 per equipaggiare il vaporizzatore."
+
+REFERENCE           ZM_BURIED_EQ_HC
+LANG_ITALIAN        "Tagliateste"
+
+REFERENCE           ZM_BURIED_PU_870MCS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma: Remington 870 MCS"
+
+REFERENCE           ZM_BURIED_WB_AN94
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: AN-94"
+
+REFERENCE           ZM_BURIED_EQ_SP
+LANG_ITALIAN        "Vaporizzatore"
+
+REFERENCE           ZM_BURIED_WB_TAZER
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: tirapugni taser"
+
+REFERENCE           ZM_BURIED_EQ_HC_PHS
+LANG_ITALIAN        "Tieni premuto ^3[{+actionslot 1}]^7 per il Tagliateste."
+
+REFERENCE           ZM_BURIED_EQ_HC_HTS
+LANG_ITALIAN        "Premi ^3[{+actionslot 1}]^7 per equipaggiare il Tagliateste."
+
+REFERENCE           ZM_BURIED_WB_STICKY
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: Semtext"
+
+REFERENCE           ZM_BURIED_EQ_SW
+LANG_ITALIAN        "Risuonatore sotterraneo"
+
+REFERENCE           ZM_BURIED_WB_MP5K
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: MP5"
+
+REFERENCE           ZM_BURIED_KEYS_BL
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per aprire."
+
+REFERENCE           ZM_BURIED_EQ_SW_PHS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per il risuonatore sotterraneo."
+
+REFERENCE           ZM_BURIED_EQ_SW_HTS
+LANG_ITALIAN        "Premi ^3[{+actionslot 1}]^7 per equipaggiare il risuonatore sotterraneo."
+
+REFERENCE           ZM_BURIED_SQ_EGM_BUT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per usare il pulsante."
+
+REFERENCE           ZM_BURIED_EQ_SP_PHS
+LANG_ITALIAN        "Tieni premuto ^3[{+actionslot 1}]^7 per il vaporizzatore."
+
+REFERENCE           ZM_BURIED_BOOZE_GV
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per consegnare alcolici."
+
+REFERENCE           ZM_BURIED_KEY_G
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per la chiave."
+
+REFERENCE           ZM_BURIED_BOOZE_G
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per alcolici."
+
+REFERENCE           ZM_BURIED_CANDY_G
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per dolci."
+
+REFERENCE           ZM_BURIED_BOOZE_B
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per alcolici [costo: &&1]"
+
+REFERENCE           ZM_BURIED_GIVING
+LANG_ITALIAN        "Consegna in corso..."
+
+REFERENCE           ZM_BURIED_WB_M16
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: Colt M16A1"
+
+REFERENCE           ZM_BURIED_UNLOCKING
+LANG_ITALIAN        "Apertura in corso..."
+
+REFERENCE           ZM_BURIED_SQ_SEARCHING
+LANG_ITALIAN        "Ricerca..."
+
+REFERENCE           ZM_BURIED_CANDY_GV
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per consegnare dolci."
+
+REFERENCE           ZM_BURIED_PU_AK74U
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma: AK74u"
+
+REFERENCE           ZM_BURIED_CANDY_B
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per dolci [costo: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_GL_HB
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il pezzo."
+
+REFERENCE           ZM_BURIED_DRAW
+LANG_ITALIAN        "Disegno in corso..."
+
+REFERENCE           ZM_BURIED_WALLBUILD
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma personalizzata."
+
+REFERENCE           ZM_BURIED_WB
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma &&1"
+
+REFERENCE           ZM_BURIED_WB_AK74U
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: AK74u"
+
+REFERENCE           ZM_BURIED_SQ_FOUNT_U
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per esprimere un desiderio."
+
+REFERENCE           ZM_BURIED_WB_BERETTA93R
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: B23R"
+
+REFERENCE           ZM_BURIED_WB_PDW57
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: PDW-57"
+
+REFERENCE           ZM_BURIED_WB_SVU
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: SVU-AS"
+
+REFERENCE           ZM_BURIED_WB_M14
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: M14"
+
+REFERENCE           ZM_BURIED_WB_USRPG
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: RPG"
+
+REFERENCE           ZM_BURIED_PU_SVU
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma: SVU-AS"
+
+REFERENCE           ZM_BURIED_WB_BOWIE
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: coltello Bowie"
+
+REFERENCE           ZM_BURIED_WB_CLAYMORE
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: Claymore"
+
+REFERENCE           ZM_BURIED_WB_870MCS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per disegnare la sagoma: Remington 870 MCS"
+
+REFERENCE           ZM_BURIED_PU_AN94
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma: AN-94"
+
+REFERENCE           ZM_BURIED_PU_PDW57
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma: PDW-57"
+
+REFERENCE           ZM_BURIED_SQ_BUT_U
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per usare il campanello."
+
+REFERENCE           ZM_BURIED_PU_TAZER
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per sagoma: tirapugni taser"
+
+REFERENCE           ZM_BURIED_SQ_LANTERN_G
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la lanterna."
+
+REFERENCE           ZM_BURIED_HINT_GHOST_PIANO
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per dare la mancia [costo: &&1]"
+
+REFERENCE           ZM_BURIED_SQ_SCH
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per perquisire il corpo."
+
+REFERENCE           ZM_BURIED_SQ_FND
+LANG_ITALIAN        "Hai trovato un interruttore"
+
+REFERENCE           ZM_BURIED_SQ_NFND
+LANG_ITALIAN        "Non hai trovato niente..."
+
+ENDMARKER

@@ -1,0 +1,109 @@
+// Dumped from fastfile "oki3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI3_OBJ4
+LANG_ENGLISH        "Recupera munizioni dalle casse lanciate"
+
+REFERENCE           OKI3_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Punto di rottura'"
+
+REFERENCE           OKI3_STARTS_PLANTERS_END
+LANG_ENGLISH        "EVENTO 4 - Fine della battaglia dei vasi"
+
+REFERENCE           OKI3_INTROSCREEN_DATE
+LANG_ENGLISH        "29 maggio 1945"
+
+REFERENCE           OKI3_OBJ2_3
+LANG_ENGLISH        "Elimina gli operatori dei mortai ( ancora 3 )"
+
+REFERENCE           OKI3_INTROSCREEN_INFO
+LANG_ENGLISH        "1a divisione marine"
+
+REFERENCE           OKI3_INTROSCREEN_PLACE
+LANG_ENGLISH        "\"Castello Shuri\", Okinawa"
+
+REFERENCE           OKI3_OBJ1
+LANG_ENGLISH        "Assalto al Castello Shuri"
+
+REFERENCE           OKI3_OBJ2_4
+LANG_ENGLISH        "Elimina gli operatori dei mortai ( ancora 4 )"
+
+REFERENCE           OKI3_OBJ2_2
+LANG_ENGLISH        "Elimina gli operatori dei mortai ( ancora 2 )"
+
+REFERENCE           OKI3_OBJ2_1
+LANG_ENGLISH        "Elimina gli operatori dei mortai ( ancora 1 )"
+
+REFERENCE           OKI3_OBJ2
+LANG_ENGLISH        "Elimina gli operatori dei mortai"
+
+REFERENCE           OKI3_OBJ5
+LANG_ENGLISH        "Mantieni il controllo dell'area"
+
+REFERENCE           OKI3_OBJ6
+LANG_ENGLISH        "Respingi la carica Banzai"
+
+REFERENCE           OKI3_STARTS_MORTARPITS
+LANG_ENGLISH        "Evento 2 - Buche dei mortai"
+
+REFERENCE           OKI3_USE_MORTAR
+LANG_ENGLISH        "Tieni premuto &&1 per raccogliere e caricare"
+
+REFERENCE           OKI3_OBJ4_A
+LANG_ENGLISH        "Entra e libera il tunnel"
+
+REFERENCE           OKI3_TAKE_COVER
+LANG_ENGLISH        "Al riparo!"
+
+REFERENCE           OKI3_REGROUP_BY_WALL
+LANG_ENGLISH        "Rendezvous con la squadra"
+
+REFERENCE           OKI3_REGROUP
+LANG_ENGLISH        "Raggiungi la tua squadra"
+
+REFERENCE           OKI3_STARTS_AMBUSH
+LANG_ENGLISH        "Evento 1 - Imboscata"
+
+REFERENCE           OKI3_STARTS_COURTYARD
+LANG_ENGLISH        "Evento 4 - Cortile"
+
+REFERENCE           OKI3_OBJ9
+LANG_ENGLISH        "Richiedi un attacco aereo sull'edificio a est"
+
+REFERENCE           OKI3_OBJ8
+LANG_ENGLISH        "Richiedi un attacco aereo sugli edifici a nord"
+
+REFERENCE           OKI3_OBJ7
+LANG_ENGLISH        "Mantieni il controllo delle casse lanciate nel cortile"
+
+REFERENCE           OKI3_STARTS_PLANTERS
+LANG_ENGLISH        "Evento 3 - Vasi"
+
+REFERENCE           OKI3_AIRSTRIKE_HOWTO
+LANG_ENGLISH        "Premi [{+actionslot 4}], quindi [{+attack}] per richiedere un attacco aereo."
+
+REFERENCE           OKI3_TAKE_AMMO
+LANG_ENGLISH        "Tieni premuto &&1 per prendere le munizioni"
+
+REFERENCE           OKI3_OBJ6A
+LANG_ENGLISH        "Elimina tutti i nemici nell'area"
+
+REFERENCE           OKI3_HINT_PRONE
+LANG_ENGLISH        "Premi [{+gocrouch}] per accovacciarti"
+
+REFERENCE           OKI3_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Miller"
+
+REFERENCE           OKI3_OBJ8_A
+LANG_ENGLISH        "Difendi l'area"
+
+REFERENCE           OKI3_MORTAR_HINT
+LANG_ENGLISH        "Premi [{+attack}] per sparare col mortaio"
+
+REFERENCE           OKI3_RADIO_INUSE
+LANG_ENGLISH        "La radio sta già venendo utilizzata"
+
+ENDMARKER

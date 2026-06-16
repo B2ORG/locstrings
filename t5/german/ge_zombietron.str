@@ -1,0 +1,232 @@
+// Dumped from fastfile "ge_zombietron".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIETRON_1ST
+LANG_ENGLISH        "1.: &&1"
+
+REFERENCE           ZOMBIETRON_2ND
+LANG_ENGLISH        "2.: &&1"
+
+REFERENCE           ZOMBIETRON_3RD
+LANG_ENGLISH        "3.: &&1"
+
+REFERENCE           ZOMBIETRON_4TH
+LANG_ENGLISH        "4.: &&1"
+
+REFERENCE           ZOMBIETRON_APE_BOSS
+LANG_ENGLISH        "Kosmischer Silberrücken"
+
+REFERENCE           ZOMBIETRON_ARMORY
+LANG_ENGLISH        "Das entdeckte Waffenlager"
+
+REFERENCE           ZOMBIETRON_BONUS
+LANG_ENGLISH        "Bonusraum entdeckt"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND
+LANG_ENGLISH        "Boss-Runde"
+
+REFERENCE           ZOMBIETRON_BOSS_ROUND_VICTORY
+LANG_ENGLISH        "SIEG!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGMONEY
+LANG_ENGLISH        "Fette Kohle!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_BIGPRIZES
+LANG_ENGLISH        "Hauptgewinn!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_DEAD
+LANG_ENGLISH        "Bin ich tot?"
+
+REFERENCE           ZOMBIETRON_BUBBLE_FCUK
+LANG_ENGLISH        "$@H*!§&E!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_GRUMBLE
+LANG_ENGLISH        "<GRUMMEL>"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHA
+LANG_ENGLISH        "HAHAHA!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_HAHADOH
+LANG_ENGLISH        "Bye bye!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_IMBACK
+LANG_ENGLISH        "Bin zurück!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NEXTTIME
+LANG_ENGLISH        "Nächstes Mal!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOOO
+LANG_ENGLISH        "NEEEIIIIIN!!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_NOTBAD
+LANG_ENGLISH        "Nicht übel ..."
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHNO
+LANG_ENGLISH        "Oh nein!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_OHYEAH
+LANG_ENGLISH        "Oh ja!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RELAX
+LANG_ENGLISH        "Zeit zum Entspannen!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_RICH
+LANG_ENGLISH        "Wir sind reich!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_TREASURE
+LANG_ENGLISH        "Mein Schatz"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WHAT
+LANG_ENGLISH        "Was zum ...?!"
+
+REFERENCE           ZOMBIETRON_BUBBLE_WINNER
+LANG_ENGLISH        "Gewinner!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE
+LANG_ENGLISH        "Herausforderungsrunde"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_COW
+LANG_ENGLISH        "Stampede!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_DOG
+LANG_ENGLISH        "Der sich den Wolf verschanzt."
+
+REFERENCE           ZOMBIETRON_CHALLENGE_ENGINEER
+LANG_ENGLISH        "Runter kommen sie alle!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_PIG
+LANG_ENGLISH        "Fisch im Fass"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_QUAD
+LANG_ENGLISH        "Krabbelgetier"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SERGEI
+LANG_ENGLISH        "Gefängnisausbruch!"
+
+REFERENCE           ZOMBIETRON_CHALLENGE_SNOW
+LANG_ENGLISH        "Abscheulicher Märtyrer"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB
+LANG_ENGLISH        "Der kosmische Silberrücken"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED
+LANG_ENGLISH        "Der kosmische Silberrücken, BESIEGT!"
+
+REFERENCE           ZOMBIETRON_COSMIC_SB_DEFEATED2
+LANG_ENGLISH        ". . . hoffentlich . . ."
+
+REFERENCE           ZOMBIETRON_FATE_EXIT
+LANG_ENGLISH        "Ihr Schicksal wurde entschieden"
+
+REFERENCE           ZOMBIETRON_FATE_FIREPOWER
+LANG_ENGLISH        "Das Schicksal hat Ihnen Feuerkraft geschenkt"
+
+REFERENCE           ZOMBIETRON_FATE_FORTUNE
+LANG_ENGLISH        "Das Schicksal hat Ihnen Glück und Kraft geschenkt\n"
+
+REFERENCE           ZOMBIETRON_FATE_FRIENDSHIP
+LANG_ENGLISH        "Das Schicksal hat Ihnen Freundschaft geschenkt\n"
+
+REFERENCE           ZOMBIETRON_FATE_FURIOUS_FEET
+LANG_ENGLISH        "Das Schicksal hat Ihnen Rasende Füße geschenkt"
+
+REFERENCE           ZOMBIETRON_FATE_HURRY
+LANG_ENGLISH        "Das Schicksal wartet nicht ewig"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO
+LANG_ENGLISH        "Der Raum des Schicksals"
+
+REFERENCE           ZOMBIETRON_FATE_INTRO2
+LANG_ENGLISH        "Wählen Sie einen Ausgang und besiegeln Sie Ihr Schicksal"
+
+REFERENCE           ZOMBIETRON_GAMEOVER
+LANG_ENGLISH        "Game Over"
+
+REFERENCE           ZOMBIETRON_INSTRUCTION1
+LANG_ENGLISH        "Das ultimative Ziel dieses Spiels ist die Konfrontation mit dem niederträchtigen kosmischen Silberrücken, um den Tod der Prinzessin zu rächen."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION10
+LANG_ENGLISH        "Sie werden unterwegs Schätze finden. Sammeln Sie sie möglichst auf."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION11
+LANG_ENGLISH        "Die Schätze erhöhen Ihren Überlebenspunktemultiplikator. Alle &&1 Überlebenspunkte erhalten Sie ein Extraleben."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION12
+LANG_ENGLISH        "Sie werden einige Waffen und Spezialgegenstände finden. Sammeln Sie sie auf! Alle sind auf ihre Art nützlich."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION13
+LANG_ENGLISH        "Begeben Sie sich nun zum Ausgangspfeil. Viel Glück bei Ihrer Reise zur Vernichtung des kosmischen Silberrücken."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION2
+LANG_ENGLISH        "Der kosmische Silberrücken wird es Ihnen nicht leicht machen. Zwischen ihm und Ihnen steht eine Armee von Untoten."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION3
+LANG_ENGLISH        "Verzweifeln Sie nicht! Entlang des Weges finden Sie mächtige Waffen und Reichtümer, die Ihnen im Kampf helfen werden."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION4
+LANG_ENGLISH        "Mit  bewegen Sie den Spieler."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION5
+LANG_ENGLISH        "Mit  feuern Sie Ihre Waffe ab."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION6
+LANG_ENGLISH        "Drücken Sie  zum Platzieren einer taktischen Bombe, die viele Feinde auf einmal eliminiert."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION7
+LANG_ENGLISH        "Drücken Sie  für einen Geschwindigkeitsschub. Nützlich, um aus brenzligen Situationen zu entkommen."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION8
+LANG_ENGLISH        "Sammeln Sie Bomben wie diese auf, um Ihren Vorrat an taktischen Bomben aufzustocken.\nSie werden zur späteren Verwendung mitgenommen."
+
+REFERENCE           ZOMBIETRON_INSTRUCTION9
+LANG_ENGLISH        "Geschwindigkeitsschübe lassen sich ähnlich wie taktische Bomben sammeln. Ich lasse ein paar erscheinen.\nBeachten Sie, wie sie gesammelt werden."
+
+REFERENCE           ZOMBIETRON_NAME
+LANG_ENGLISH        "&&1"
+
+REFERENCE           ZOMBIETRON_NEXT_PAGE
+LANG_ENGLISH        "^3[{+activate}]^7: NÄCHSTE SEITE"
+
+REFERENCE           ZOMBIETRON_PAGE
+LANG_ENGLISH        "Seite &&1 von &&2"
+
+REFERENCE           ZOMBIETRON_PICK_A_PATH
+LANG_ENGLISH        "Weg wählen"
+
+REFERENCE           ZOMBIETRON_ROUND
+LANG_ENGLISH        "Runde: &&1"
+
+REFERENCE           ZOMBIETRON_ROUND_COMPLETE
+LANG_ENGLISH        "Runde &&1 abgeschlossen"
+
+REFERENCE           ZOMBIETRON_SCORE
+LANG_ENGLISH        "Punkte: &&1"
+
+REFERENCE           ZOMBIETRON_SKIP_SCENE
+LANG_ENGLISH        "DRÜCKEN SIE ^3[{+activate}]^7 ZUM ÜBERSPRINGEN"
+
+REFERENCE           ZOMBIETRON_SURVIVED_ROUNDS
+LANG_ENGLISH        "Sie haben Runde &&1 erreicht"
+
+REFERENCE           ZOMBIETRON_TELEPORTER
+LANG_ENGLISH        "Teleporter für neuen Bereich betreten\n"
+
+REFERENCE           ZOMBIETRON_TITLE
+LANG_ENGLISH        "ZOMBIETRON"
+
+REFERENCE           ZOMBIETRON_TUTORIAL1
+LANG_ENGLISH        "Der kosmische Silberrücken ist geflohen! Ihm nach!"
+
+REFERENCE           ZOMBIETRON_TUTORIAL2
+LANG_ENGLISH        "Alternativ treten Sie aufs Teleporter-Pad für eine kurze Einführung."
+
+REFERENCE           ZOMBIETRON_TUTORIAL3
+LANG_ENGLISH        "Anweisungen"
+
+REFERENCE           ZOMBIETRON_WINNER_SKIP
+LANG_ENGLISH        "GEWINNER: ^3[{+activate}]^7 ÜBERSPRINGT"
+
+ENDMARKER

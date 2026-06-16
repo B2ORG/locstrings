@@ -1,0 +1,574 @@
+// Dumped from fastfile "po_yemen".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_004A_FARI_D
+LANG_POLISH         "^1Farid: ^7Menendez wie! Jestem tego pewny."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_014A_FARI_D
+LANG_POLISH         "^1Farid: ^7Tak."
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"PIĘTA ACHILLESA\"^L"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_3
+LANG_POLISH         "DAVID MASON // KRYPTONIM: ^L'SEKCJA'^L"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_2
+LANG_POLISH         "WYSPA SOKOTRA, ^LJEMEN^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_002A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Wśród nas... jest zdrajca."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_089A_HARP_D
+LANG_POLISH         "^1Harper: ^7Siły jemeńskie otoczyły miasto."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_010A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Spotkamy się w cytadeli."
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_2
+LANG_POLISH         "WYSPA SOKOTRA, ^LJEMEN^L"
+
+REFERENCE           YEMEN_DRONES_OFFLINE
+LANG_POLISH         "BŁĄD SYSTEMU!\nSYSTEM CELOWNICZY DRONA WYŁĄCZONY..."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_023A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Idź w prawo! Ja pójdę w lewo!"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_3
+LANG_POLISH         "TAJNY AGENT CIA // ^L\"FARID\"^L"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_4
+LANG_POLISH         "^LPRZENIKNĄŁ DO KRĘGU ZAUFANYCH MENENDEZA^L"
+
+REFERENCE           YEMEN_INTROSCREEN_LINE_5
+LANG_POLISH         "19 CZERWCA ^L2025^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_091A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pamiętaj, dla Jemeńczyków jesteś tylko jednym z terrorystów."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_013A_MENE_D
+LANG_POLISH         "^1Menendez: ^7TERAZ!!"
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"PIĘTA ACHILLESA\"^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_001A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Zbliżają się Amerykanie, Faridzie."
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_4
+LANG_POLISH         "GRUPA ZADANIOWA ^LJSOC^L DO WALKI Z TERRORYZMEM"
+
+REFERENCE           YEMEN_SHOOT_HARPER
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby strzelić do Harpera"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_020A_HARP_D
+LANG_POLISH         "^1Harper: ^7Mądralo! Posłuchaj mnie..."
+
+REFERENCE           YEMEN_MASON_INTROSCREEN_LINE_5
+LANG_POLISH         "19 CZERWCA ^L2025^L"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_002A_FARI_D
+LANG_POLISH         "^1Farid: ^7Harper! Menendez zniknął. Ulotnił się, kiedy rozpoczęła się strzelanina!"
+
+REFERENCE           YEMEN_OBJ_CAPTURE_MENENDEZ
+LANG_POLISH         "Schwytaj Menendeza."
+
+REFERENCE           YEMEN_OPEN_DOOR
+LANG_POLISH         "Naciśnij i przytrzymaj ^3[{+reload}]^7, żeby otworzyć drzwi."
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+REFERENCE           YEMEN_PULL_HAMMER
+LANG_POLISH         "Użyj ^3[{+lookstick}]^7 do pociągnięcia młota."
+
+REFERENCE           YEMEN_PULL_TRIGGER
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby strzelić."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_053A_REDS_D
+LANG_POLISH         "^1Navy SEAL: ^7Wydaje się, że HVI znajduje się wewnątrz zestrzelonego samolotu dowodzenia VTOL. Jesteśmy ostrzeliwani z jego miniguna!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nie możesz być tego pewny. Gdyby wiedział, już byś nie żył."
+
+REFERENCE           YEMEN_OBJ_BRIDGE
+LANG_POLISH         "Ścigaj i schwytaj Menendeza"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Wewnętrzne połączenie nawiązane."
+
+REFERENCE           YEMEN_DRONES_ONLINE
+LANG_POLISH         "URUCHAMIANIE SYSTEMU\nSYSTEM CELOWNICZY GOTOWY"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_016A_HARP_D
+LANG_POLISH         "^1Harper: ^7Aaargh! Puść mnie!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_M
+LANG_POLISH         "^1Harper: ^7To jest ten dzień, Farid. Dziś dorwiemy tego sukinsyna."
+
+REFERENCE           YEMEN_USE_GRID
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby oznaczyć cel."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_009A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Chodź, Farid!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_050A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kraken, widzimy Menendeza. Ruszamy, żeby go schwytać."
+
+REFERENCE           YEMEN_CONFIRM_TARGET
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby zatwierdzić cel"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dobrze. Im mniej cię będzie widać, tym lepiej."
+
+REFERENCE           YEMEN_SHOOT_MENENDEZ
+LANG_POLISH         "Naciśnij ^3[{+gostand}]^7, żeby strzelić do Menendeza"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zachowaj spokój. Wyciągniemy cię z tego."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_002A_HARP_S
+LANG_POLISH         "^1Harper: ^7Tu, Farid. Dziś w końcu dorwiemy tego gościa."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_003A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Wykonaj mój rozkaz i udowodnij swoją lojalność, Faridzie!"
+
+REFERENCE           YEMEN_OBJ_SPEECH
+LANG_POLISH         "Dołącz do Menendeza na scenie"
+
+REFERENCE           YEMEN_PRESS_X
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dawaj! Czy to wszystko, na co cię stać?! Co?"
+
+REFERENCE           YEMEN_FALL_DEATH
+LANG_POLISH         "Patrz, gdzie idziesz!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Bez względu na to, co się stanie, kiedy w powietrzu zaczną latać pociski, NIE wolno ci się ujawnić."
+
+REFERENCE           YEMEN_OBJ_MEET_MENENDEZ
+LANG_POLISH         "Spotkaj się z Menendezem w cytadeli"
+
+REFERENCE           YEMEN_OBJ_LZ
+LANG_POLISH         "Oczyść SL"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_002A_FARI_D
+LANG_POLISH         "^1Farid: ^7Zrozumiałem, Harper."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_01_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nasz system rozpoznania nie działa. Nie możemy was zidentyfikować jako przyjaciela."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7Jesteśmy prawie gotowi."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_S
+LANG_POLISH         "^1Harper: ^7Menendez... kieruje się w stronę cytadeli."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_005A_MENE_D
+LANG_POLISH         "^1Menendez: ^7I tak jestem wciąż o krok przed nim."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_007A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Jesteśmy gotowi."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_003A_FARI_D
+LANG_POLISH         "^1Farid: ^7Ale jak? Kto?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_004A_MENE_D
+LANG_POLISH         "^1Menendez: ^7To nieważne."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_008A_FARI_D
+LANG_POLISH         "^1Farid: ^7Harper! Dłużej nie dam rady! Jest ich zbyt wielu!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_002A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Harper. Harper! Słyszysz mnie?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_017A_DEFA_D
+LANG_POLISH         "^1DeFalco: ^7Cordis Die czeka na twój sygnał."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_018A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Czekają na wolność... i otrzymają ją."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_003A_FARI_D
+LANG_POLISH         "^1Farid: ^7Ja..."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_008A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Chodź, Farid. Już czas."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_092A_HARP_D
+LANG_POLISH         "^1Harper: ^7Atakuj tylko wtedy, kiedy nie będziesz miał innego wyjścia."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_02_010A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Nadszedł nasz czas, Farid! Chodź!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_03_002A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Cordis Die!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_009A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Ruszajmy. Szybko, ruszajmy."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_016A_FARI_D
+LANG_POLISH         "^1Farid: ^7Powiedział, że mam się z nim spotkać w cytadeli."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_032A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nie możemy pozwolić, żeby się z tego wywinął. Rusz przez miasto i nawiąż kontakt."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_090A_HARP_D
+LANG_POLISH         "^1Harper: ^7Farid, udaj się na południe, przez targ... Powodzenia."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_04_006A_FARI_D
+LANG_POLISH         "^1Farid: ^7Harper, zdobyłem kamuflaż optyczny."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_023A_HARP_D
+LANG_POLISH         "^1Harper: ^7Trzymaj się, przyjacielu. Obiecuję, że cię z tego wyciągnę. Dobrze?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_024A_FARI_D
+LANG_POLISH         "^1Farid: ^7Tak."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_093A_HARP_D
+LANG_POLISH         "^1Harper: ^7Powiedziałeś, że Menendez udał się do cytadeli. Którędy prowadzi najkrótsza droga z miasta?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_059A_VTOL_D
+LANG_POLISH         "^1Pilot: ^7Zjadą po linie i dołączą do was na moście."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_094A_FARI_D
+LANG_POLISH         "^1Farid: ^7Zachodnia brama prowadzi do górskiej drogi."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_095A_HARP_D
+LANG_POLISH         "^1Harper: ^7Udaj się tam. Dołączymy do ciebie, kiedy nasze samoloty dotrą do OD."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_06_001A_HARP_D
+LANG_POLISH         "^1Harper: ^7Farid, pojawimy się za kilka minut!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_06_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Ruszaj. Musisz odnaleźć Menendeza!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_096A_HARP_D
+LANG_POLISH         "^1Harper: ^7Farid, czy udało ci się znaleźć Menendeza?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_097A_FARI_D
+LANG_POLISH         "^1Farid: ^7Nie."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera, człowieku. Musiał się prześlizgnąć przez siły Jemeńczyków."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_098A_HARP_S
+LANG_POLISH         "^1Harper: ^7Musiał się prześlizgnąć przez siły Jemeńczyków."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_1_05_099A_HARP_D
+LANG_POLISH         "^1Harper: ^7Farid, widzę jakiś ruch na ulicy poniżej."
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_003A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Krew Amerykanów plami twoje ręce, Farid?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_004A_FARI_D
+LANG_POLISH         "^1Farid: ^7Oczywiście, Menendez. Musimy zabrać cię w bezpieczne miejsce. Straciliśmy zbyt wielu ludzi."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_002A_HARP_D
+LANG_POLISH         "^1Harper: ^7Farid... Czy nadal mnie słyszysz?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_005A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Zwycięstwa nie mierzy się stratami, Faridzie..."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_006A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Lecz zyskami."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_013A_HARP_D
+LANG_POLISH         "^1Harper: ^7Farid... Zgłoś się..."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_014A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zostaliśmy trafieni! Spadamy!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera... Pieprzyć... Ja... Argh."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_015A_HARP_S
+LANG_POLISH         "^1Harper: ^7Nie mogę... Ja... Argh..."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_M
+LANG_POLISH         "^1Harper: ^7Zostawcie mnie, wy pieprzone zwierzęta!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_025A_HARP_S
+LANG_POLISH         "^1Harper: ^7Zostawcie mnie, wy... wy pieprzone zwierzęta!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_008A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7W porządku, Harper. Dorwiemy go."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_018A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Tutaj."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_001A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Wiedziałeś, że tu będę. Kto mnie zdradził?"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_044A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zabezpieczyć go."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_002A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Kto mnie zdradził?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_M
+LANG_POLISH         "^1Harper: ^7Marnujesz tylko czas, ty pieprzony... sukinsynu! Ty... GÓWNO ci powiem!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_003A_HARP_S
+LANG_POLISH         "^1Harper: ^7Marnujesz tylko czas, ty pieprzony... sukinsynu! Ty... NIC ci nie powiem!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_004A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Farid."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_03_005A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Zabij go."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_M
+LANG_POLISH         "^1Harper: ^7Właśnie tak. Zabij mnie, mądralo! A ty... ty pozbawiony jaj mięczaku! Rozkazujesz innym, żeby wykonywali za ciebie brudną robotę! Co z ciebie za pieprzony mężczyzna?! Co?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_002A_HARP_S
+LANG_POLISH         "^1Harper: ^7Właśnie tak. Zabij mnie, mądralo! A ty... ty pozbawiony... mięczaku! Rozkazujesz innym, żeby wykonywali za ciebie brudną robotę! Co z ciebie za mężczyzna?! Co?"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_M
+LANG_POLISH         "^1Harper: ^7Zrób to, człowieku! No dawaj! Co jest, nie masz jaj, żeby mnie, kurwa, zastrzelić?! Rusz się, mądralo! ZRÓB TO!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_002A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Harper nie żyje."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_010A_HARP_S
+LANG_POLISH         "^1Harper: ^7Zrób to, człowieku! No dawaj! Co jest, nie masz..., żeby mnie zastrzelić?! Rusz się, mądralo! ZRÓB TO!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_011A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zrób to, mądralo! Wykonaj swoje zadanie!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_001A_DEFA_D
+LANG_POLISH         "^1DeFalco: ^7Coś nie tak, Farid?"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_004A_MENE_D
+LANG_POLISH         "^1Menendez: ^7TERAZ, Faridzie!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_001A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Zdradziłeś nas, Faridzie."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_002A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Dlaczego?"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_05_003A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Dla tych, którym służysz, twoje życie nie jest NIC warte!!!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_5_04_007A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Farid."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_053A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Wyślijcie wszystkie dostępne siły na te współrzędne. Zablokujcie im również wszystkie drogi ucieczki. "
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_001A_FARI_D
+LANG_POLISH         "^1Farid: ^7Sekcjo"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nie miałeś wyboru."
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_005A_FARI_D
+LANG_POLISH         "^1Farid: ^7Menendez kieruje się do cytadeli, górującej nad miastem."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_6_01_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Salazar, zorganizuj zespół ewakuacyjny, który wróci na Obamę."
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_M
+LANG_POLISH         "^1Sekcja: ^7Cholera! Coś jest nie tak."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_001A_SECT_S
+LANG_POLISH         "^1Sekcja: ^7Coś jest nie tak."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kraken, tu Linebacker dwa. Po drodze do zestrzelonego samolotu walczymy z siłami nieprzyjaciela."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_010A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Salazar na głównym kanale SAT. Straciliśmy wiele samolotów. Proszę o natychmiastowe wysłanie ekip ratowniczych. SL SPARROW."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_048A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Prześlij zapis wideo z miejsca katastrofy na mój HUD."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_019A_SALA_D
+LANG_POLISH         "^1Salazar: ^7RPG!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_049A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Menendez."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_004A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Silny ostrzał z dachów!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_007A_HARP_M
+LANG_POLISH         "^1Harper: ^7Menendez... Sukinsyn kieruje się w stronę cytadeli."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_006A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Salazar, zorganizuj zespół ewakuacyjny, który zabierze Harpera na Obamę."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_012A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kraken, muszę przejąć kontrolę nad flotą dronów, żeby zapewnić wsparcie niezbędne do schwytania Menendeza."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_013A_COMM_D
+LANG_POLISH         "^1Dowodzenie: ^7Przesyłam kody, drony wysłane w kierunku twojego celu."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_055A_VTOL_D
+LANG_POLISH         "^1Pilot: ^7Zbliżają się wrogie drony quad."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_056A_VTOL_D
+LANG_POLISH         "^1Pilot: ^7Wysyłamy twoje drony quad do ataku."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_057A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kraken, bez dronów nie będziemy posiadać żadnego wsparcia podczas naszego natarcia."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_058A_VTOL_D
+LANG_POLISH         "^1Pilot: ^7Wysyłamy do was śmigłowiec z oddziałem wsparcia."
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_060A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Zrozumiałem. Sekcja bez odbioru."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_061A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Oddział wsparcia właśnie dotarł na miejsce."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_062A_US0_D
+LANG_POLISH         "^1Navy SEAL: ^7Sir, melduje się pięcioosobowy oddział, który będzie was osłaniać w drodze do HVT."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_063A_US1_D
+LANG_POLISH         "^1Navy SEAL: ^7Będziemy osłaniać wasze tyły."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_064A_US0_D
+LANG_POLISH         "^1Navy SEAL: ^7Przejmiemy Menendeza, kiedy go zlokalizujecie."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_065A_US1_D
+LANG_POLISH         "^1Navy SEAL: ^7Ruszamy."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_066A_US0_D
+LANG_POLISH         "^1Navy SEAL: ^7Otoczyć VTOL. Czekać na sygnał."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_067A_US1_D
+LANG_POLISH         "^1Navy SEAL: ^7Najpierw wyeliminować drony."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_020A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ta ulica zmieniła się w strefę walk!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_021A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Rozdzielmy się! Ty idź na górę!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_022A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ty pójdziesz w lewo! A ja w prawo!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_024A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Ruszaj!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_033A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Sekcjo! Użyj dronów!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_01_036A_SALA_D
+LANG_POLISH         "^1Salazar: ^7Oznaczyć cele!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_052A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Kraken, uważamy, że Mendendez kieruje się w stronę cytadeli."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_054A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Uwaga, wszystkie blokady, potrzebne mi informacje o lokalizacji Menendeza."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_055A_REDS_D
+LANG_POLISH         "^1Navy SEAL: ^7Sir, siły nieprzyjaciela otoczyły cytadelę."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_056A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Obserwować, ale nie atakować. Jest nam potrzebny żywy."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_02_043A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Menendez!"
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_045A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Dziękuję, Davidzie."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_7_03_046A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Pomóż mi w odnalezieniu nowego świata."
+
+REFERENCE           YEMEN_VOX_VOX_YEM_2_01_021A_MENE_D
+LANG_POLISH         "^1Menendez: ^7Farid!"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+ENDMARKER

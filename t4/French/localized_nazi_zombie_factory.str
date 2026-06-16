@@ -1,0 +1,535 @@
+// Dumped from fastfile "localized_nazi_zombie_factory".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_2000
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 2000]"
+
+REFERENCE           ZOMBIE_ROUND
+LANG_ENGLISH        "Manche"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_B_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Springfield + baïonnette [Coût : 200]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_2000
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir le casier [Coût : 2000]"
+
+REFERENCE           ZOMBIE_ZIPLINE_DEACTIVATED
+LANG_ENGLISH        "La Tyrolienne doit être activée"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_950
+LANG_ENGLISH        "Appuyez sur &&1 pour une arme aléatoire [Coût : 950]"
+
+REFERENCE           ZOMBIE_WEAPONCOSTAMMO
+LANG_ENGLISH        "Pour les armes : [Coût: &&1], pour les munitions :[Coût: &&2], munitions améliorées [Cost: 4500]"
+
+REFERENCE           ZOMBIE_ROUND_BEGIN
+LANG_ENGLISH        "Que le massacre commence !"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_HIMMLER
+LANG_ENGLISH        "Wittenau Sanatorium"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Arisaka [Coût : 200]"
+
+REFERENCE           ZOMBIE_WEAPON_NAMBU_50
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Nambu [Coût : 50]"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_1800
+LANG_ENGLISH        "Maintenez &&1 pour acheter le BAR [Coût : 1800]"
+
+REFERENCE           ZOMBIE_ROUND_END
+LANG_ENGLISH        "Massacre survécu"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 500]"
+
+REFERENCE           ZOMBIE_UNDEFINED
+LANG_ENGLISH        "UNDEFINED!! PLEASE SET THE SCRIPT_HINT ON THE ENT PROPERLY!"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_10
+LANG_ENGLISH        "Maintenez &&1 pour racheter la barrière [Coût : 10]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUNDS
+LANG_ENGLISH        "Vous avez survécu &&1 manches."
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_20
+LANG_ENGLISH        "Maintenez &&1 pour racheter la barrière [Coût : 20]"
+
+REFERENCE           ZOMBIE_WEAPON_PPSH_2000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le PPSh-41 [Coût : 2000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_50
+LANG_ENGLISH        "Maintenez &&1 pour racheter la barrière [Coût : 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_BACK_BARRIER_100
+LANG_ENGLISH        "Maintenez &&1 pour racheter la barrière [Coût : 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_100
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_200
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 200]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_B_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Mosin-Nagant [Coût : 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_500
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_250
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_750
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 750]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_40
+LANG_ENGLISH        "Maintenez &&1 pour reconstruire la barrière [Récompense : 40]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1000
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_TOKAREV_50
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Tokarev TT-33 [Coût : 50]"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_B_600
+LANG_ENGLISH        "Maintenez &&1 pour acheter la carabine M1 + baïonnette [Coût : 600]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_DH_100
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Colt Heavy Duty [Coût : 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1250
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1500
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1250
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 1250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_CLEAR_DEBRIS_1750
+LANG_ENGLISH        "Maintenez &&1 pour nettoyer les débris [Coût : 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_100
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_200
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1750
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1000
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 1000]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_250
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_750
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1000
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_SW357_100
+LANG_ENGLISH        "Maintenez &&1 pour acheter le .357 Magnum [Coût : 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 1500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_1750
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 1750]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_100
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 100]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_DOOR_2000
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte [Coût : 2000]"
+
+REFERENCE           ZOMBIE_PERK_QUICKREVIVE
+LANG_ENGLISH        "Maintenez &&1 pour acheter Réanimation [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_COLT_50
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Colt [Coût : 50]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_200
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 200]"
+
+REFERENCE           ZOMBIE_BETTY_HOWTO
+LANG_ENGLISH        "Appuyez sur [{+actionslot 4}] puis sur [{+attack}] pour placer une \"Betty la bondissante\""
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Kar98k [Coût : 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_250
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 250]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_750
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_ZOMBIECOLT_25
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Colt Zombie [Coût : 25]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1250
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 1250]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_B_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Type 99 + baïonnette [Coût : 200]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_1500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_GEWEHR43_600
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Gewehr 43 [Coût : 600]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2000
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 2000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir le casier [Coût : 500]"
+
+REFERENCE           ZOMBIE_WEAPON_RAYGUN_10000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le pistolet laser [Coût : 10000]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1000
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir le casier [Coût : 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_GL_1500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Mosin-Nagant + lance-grenades [Coût : 1500]"
+
+REFERENCE           ZOMBIE_CABINET_OPEN_1500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir le casier [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_WALTHER_50
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Walther P38 [Coût : 50]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Mosin-Nagant [Coût : 200]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_2250
+LANG_ENGLISH        "Maintenez &&1 pour acheter le DP-28 [Coût : 2250]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Springfield [Coût : 200]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_B_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Kar98k + baïonnette [Coût : 200]"
+
+REFERENCE           ZOMBIE_WEAPON_M1CARBINE_600
+LANG_ENGLISH        "Maintenez &&1 pour acheter la carabine M1 [Coût : 600]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_600
+LANG_ENGLISH        "Maintenez &&1 pour acheter le M1 Garand [Coût : 600]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_B_600
+LANG_ENGLISH        "Maintenez &&1 pour acheter le M1 Garand + baïonnette [Coût : 600]"
+
+REFERENCE           ZOMBIE_TELEPORT_TO_CORE
+LANG_ENGLISH        "Maintenez &&1 pour vous téléporter jusqu'à l'unité centrale [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_SVT40_600
+LANG_ENGLISH        "Maintenez &&1 pour acheter le SVT-40 [Coût : 600]"
+
+REFERENCE           ZOMBIE_WEAPON_FRAGGRENADE_250
+LANG_ENGLISH        "Maintenez &&1 pour acheter la grenade à fragmentation M2 [Coût : 250]"
+
+REFERENCE           ZOMBIE_WEAPON_MOLOTOV_200
+LANG_ENGLISH        "Maintenez &&1 pour acheter la Molotov [Coût : 200]"
+
+REFERENCE           ZOMBIE_WEAPON_BAR_BIPOD_2500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le BAR + bipied [Coût : 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKGRENADE_250
+LANG_ENGLISH        "Maintenez &&1 pour acheter la grenade collante RGD-33 [Coût : 250]"
+
+REFERENCE           ZOMBIE_SURVIVED_ROUND
+LANG_ENGLISH        "Vous avez survécu une manche."
+
+REFERENCE           ZOMBIE_WEAPON_STIELHANDGRANATE_250
+LANG_ENGLISH        "Maintenez &&1 pour acheter des Stielhandgranates [Coût : 250]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE97FRAG_250
+LANG_ENGLISH        "Maintenez &&1 pour acheter la fragmentation pour le Type97 [Coût : 250]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Kar98k + lunette [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_KAR98K_S_B_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Kar98k + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SHOTGUN_1500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le fusil à pompe M1897 [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Mosin-Nagant + lunette [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_MOSIN_S_B_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Mosin-Nagant + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_PTRS41_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le PTRS-41 [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le SpringField + lunette [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_SPRINGFIELD_S_B_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Springfield + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_10
+LANG_ENGLISH        "Maintenez &&1 pour reconstruire la barrière [Récompense : 10]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Arisaka + lunette [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_S_B_750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Type 99 + lunette + baïonnette [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_MP40_1000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le MP40 [Coût : 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_STG44_1200
+LANG_ENGLISH        "Maintenez &&1 pour acheter STG-44 [Coût : 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_BIPOD_2250
+LANG_ENGLISH        "Maintenez &&1 pour acheter le fusil-mitrailleur Type 99 + bipied [Coût : 2250]"
+
+REFERENCE           ZOMBIE_WEAPON_THOMPSON_1200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Thompson [Coût : 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE100_1000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Type 100 [Coût : 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_1200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le double canon [Coût : 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_DOUBLEBARREL_SAWED_1200
+LANG_ENGLISH        "Maintenez &&1 pour acheter le fusil à canon scié [Coût : 1200]"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_3000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Browning M1919 [Coût : 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_1500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le FG42 [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_S_1500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le FG42 + lunette [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_3000
+LANG_ENGLISH        "Maintenez &&1 pour acheter la MG42 [Coût : 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_TYPE99_LMG_1750
+LANG_ENGLISH        "Maintenez &&1 pour acheter le fusil-mitrailleur Type 99 [Coût : 1750]"
+
+REFERENCE           ZOMBIE_WEAPON_M1GARAND_GL_1500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le M1 Garand + lance-grenades [Coût : 1500]"
+
+REFERENCE           ZOMBIE_WEAPON_30CAL_BIPOD_3500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Browning M1919 + bipied [Coût : 3500]"
+
+REFERENCE           ZOMBIE_AMMO_BOX
+LANG_ENGLISH        "Maintenez &&1 pour acheter Munitions au max [Coût : tout ce que vous avez, minimum 10 000]"
+
+REFERENCE           ZOMBIE_WEAPON_DP28_BIPOD_2500
+LANG_ENGLISH        "Maintenez &&1 pour acheter le DP-28 + bipied [Coût : 2500]"
+
+REFERENCE           ZOMBIE_WEAPON_FG42_BIPOD_2000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le FG42 + bipied [Coût : 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_BAZOOKA_2000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le bazooka M9A1 [Coût : 2000]"
+
+REFERENCE           ZOMBIE_WEAPON_MG42_BIPOD_3500
+LANG_ENGLISH        "Maintenez &&1 pour acheter la MG42 + bipied [Coût : 3500]"
+
+REFERENCE           ZOMBIE_WEAPON_PANZERSCHREK_2000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le Panzerschrek [Coût : 2000]"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_SEPTEMBER
+LANG_ENGLISH        "Septembre, 1945"
+
+REFERENCE           ZOMBIE_WEAPON_M2_FLAMETHROWER_3000
+LANG_ENGLISH        "Maintenez &&1 pour acheter le lance-flammes [Coût : 3000]"
+
+REFERENCE           ZOMBIE_WEAPON_MORTARROUND_2000
+LANG_ENGLISH        "Maintenez &&1 pour acheter les obus de mortier [Coût : 2000]"
+
+REFERENCE           ZOMBIE_BUILD_BRIDGE
+LANG_ENGLISH        "Maintenez &&1 pour construire un pont [Coût : 1000]"
+
+REFERENCE           ZOMBIE_WEAPON_SATCHEL_2000
+LANG_ENGLISH        "Maintenez &&1 pour acheter la charge explosive [Coût : 2000]"
+
+REFERENCE           ZOMBIE_USE_AUTO_TURRET
+LANG_ENGLISH        "Maintenez &&1 pour activer la tourelle de la fontaine [Coût : 750]"
+
+REFERENCE           ZOMBIE_WEAPON_BOWIE_BUY
+LANG_ENGLISH        "Maintenez &&1 pour acheter un couteau Bowie [Coût : 3000]"
+
+REFERENCE           ZOMBIE_PLAYERZOMBIE_DOWNED
+LANG_ENGLISH        "Un zombie de moins !"
+
+REFERENCE           ZOMBIE_PERK_FASTRELOAD
+LANG_ENGLISH        "Maintenez &&1 pour acheter Speed Cola [Coût : 3000]"
+
+REFERENCE           ZOMBIE_PERK_DOUBLETAP
+LANG_ENGLISH        "Maintenez &&1 pour acheter Binouze Double coup [Coût : 2000]"
+
+REFERENCE           ZOMBIE_PERK_JUGGERNAUT
+LANG_ENGLISH        "Maintenez &&1 pour acheter Mastodonte [Coût : 2500]"
+
+REFERENCE           ZOMBIE_PERK_PACKAPUNCH
+LANG_ENGLISH        "Maintenez &&1 pour acheter une amélioration Sacré punch [Coût : 5000]"
+
+REFERENCE           ZOMBIE_POWERUP_INSTA_KILL
+LANG_ENGLISH        "Morts instantanées :"
+
+REFERENCE           ZOMBIE_POWERUP_NUKE
+LANG_ENGLISH        "Missile zombie !"
+
+REFERENCE           ZOMBIE_POWERUP_DOUBLE_POINTS
+LANG_ENGLISH        "Points doubles :"
+
+REFERENCE           ZOMBIE_POWERUP_MAX_AMMO
+LANG_ENGLISH        "Munitions au max !"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_20
+LANG_ENGLISH        "Maintenez &&1 pour reconstruire la barrière [Récompense : 20]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_30
+LANG_ENGLISH        "Maintenez &&1 pour reconstruire la barrière [Récompense : 30]"
+
+REFERENCE           ZOMBIE_GAME_OVER
+LANG_ENGLISH        "FIN DE PARTIE"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER_50
+LANG_ENGLISH        "Maintenez &&1 pour reconstruire la barrière [Récompense : 50]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_850
+LANG_ENGLISH        "Appuyez sur &&1 pour une arme aléatoire [Coût : 850]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_750
+LANG_ENGLISH        "Appuyez sur &&1 pour une arme aléatoire [Coût : 750]"
+
+REFERENCE           ZOMBIE_RANDOM_WEAPON_650
+LANG_ENGLISH        "Appuyez sur &&1 pour une arme aléatoire [Coût : 650]"
+
+REFERENCE           ZOMBIE_BUTTON_REWARD_BARRIER
+LANG_ENGLISH        "Maintenez &&1 pour reconstruire la barrière."
+
+REFERENCE           ZOMBIE_FLAMES_UNAVAILABLE
+LANG_ENGLISH        "L'électricité doit d'abord être allumée"
+
+REFERENCE           ZOMBIE_BUTTON_SOUTH_FLAMES
+LANG_ENGLISH        "Maintenez &&1 pour activer la barrière de flammes [Coût : 500]"
+
+REFERENCE           ZOMBIE_BUTTON_BUY_OPEN_AREA_2500
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la zone [Coût : 2500]"
+
+REFERENCE           ZOMBIE_BUTTON_NORTH_FLAMES
+LANG_ENGLISH        "Maintenez &&1 pour activer la barrière électrique [Coût : 1 000]"
+
+REFERENCE           ZOMBIE_BETTY_PURCHASE
+LANG_ENGLISH        "Maintenez &&1 pour acheter une \"Betty la bondissante\" [Coût : 1000 - une à la fois]"
+
+REFERENCE           ZOMBIE_BETTY_ALREADY_PURCHASED
+LANG_ENGLISH        "Vous avez déjà acheté des \"Betty la bondissante\""
+
+REFERENCE           ZOMBIE_ELECTRIC_SWITCH
+LANG_ENGLISH        "Maintenez &&1 pour allumer l'électricité"
+
+REFERENCE           ZOMBIE_INTRO_ASYLUM_LEVEL_BERLIN
+LANG_ENGLISH        "Berlin, Allemagne"
+
+REFERENCE           ZOMBIE_BUY_TESLA
+LANG_ENGLISH        "Maintenez &&1 pour acheter le pistolet Tesla [Coût : 10]"
+
+REFERENCE           ZOMBIE_WEAPON_STICKY
+LANG_ENGLISH        "Maintenez &&1 pour acheter une grenade collante [Coût : 10]"
+
+REFERENCE           ZOMBIE_ZIPLINE_USE
+LANG_ENGLISH        "Maintenez &&1 pour activer la tyrolienne [Coût : 1500]"
+
+REFERENCE           ZOMBIE_ACTIVATE_TRAP
+LANG_ENGLISH        "Maintenez &&1 pour activer le piège [Coût : 750]"
+
+REFERENCE           ZOMBIE_CLEAR_DEBRIS
+LANG_ENGLISH        "Vous devez d'abord dégager la porte."
+
+REFERENCE           ZOMBIE_TRADE_WEAPONS
+LANG_ENGLISH        "Appuyez sur &&1 pour échanger des armes"
+
+REFERENCE           ZOMBIE_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Maintenez &&1 pour vous diriger sur la tyrolienne."
+
+REFERENCE           ZOMBIE_PERK_GENERIC
+LANG_ENGLISH        "Maintenez &&1 pour acheter"
+
+REFERENCE           ZOMBIE_POWER_UP_TPAD
+LANG_ENGLISH        "Maintenez &&1 pour mettre en place le lien jusqu'à l'unité centrale"
+
+REFERENCE           ZOMBIE_LINK_TPAD
+LANG_ENGLISH        "Maintenez &&1 pour lier le téléporteur à l'unité centrale"
+
+REFERENCE           ZOMBIE_LINK_ACTIVE
+LANG_ENGLISH        "Lien activé"
+
+REFERENCE           ZOMBIE_INACTIVE_TPAD
+LANG_ENGLISH        "Il faut activer le téléporteur"
+
+REFERENCE           ZOMBIE_START_TPAD
+LANG_ENGLISH        "Retournez au centre"
+
+REFERENCE           ZOMBIE_TELEPORT_COOLDOWN
+LANG_ENGLISH        "Le téléporteur refroidit"
+
+REFERENCE           ZOMBIE_TRAP_DOOR
+LANG_ENGLISH        "Maintenez &&1 pour activer la porte du piège [Coût : 1000]"
+
+REFERENCE           ZOMBIE_PROJ_DOOR
+LANG_ENGLISH        "Maintenez &&1 pour ouvrir la porte"
+
+REFERENCE           ZOMBIE_PROJ_LIFT
+LANG_ENGLISH        "Maintenez &&1 pour activer l'ascenseur [Coût : 500]"
+
+REFERENCE           ZOMBIE_PAY_TURRET
+LANG_ENGLISH        "Maintenez [{+activate}] pour utiliser la tourelle [Coût : &&1]"
+
+REFERENCE           ZOMBIE_AUTO_TURRET
+LANG_ENGLISH        "Press & hold [{+activate}] to activate automatic Turret [Cost &&1]"
+
+REFERENCE           ZOMBIE_GET_UPGRADED
+LANG_ENGLISH        "Maintenez &&1 pour prendre votre arme améliorée"
+
+REFERENCE           ZOMBIE_USE_TELEPORTER
+LANG_ENGLISH        "Maintenez &&1 pour utiliser le téléporteur [Coût : 1500]"
+
+REFERENCE           ZOMBIE_ACTIVATE_TELEPORTER
+LANG_ENGLISH        "Maintenez &&1 pour activer le téléporteur"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE
+LANG_ENGLISH        "Maintenez &&1 pour utiliser la tyrolienne [Coût : 1000]"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_WAIT
+LANG_ENGLISH        "Il faut d'abord activer la tyrolienne"
+
+REFERENCE           ZOMBIE_COAST_ZIPLINE_ACTIVATE
+LANG_ENGLISH        "Maintenez &&1 pour activer la tyrolienne"
+
+REFERENCE           ZOMBIE_INTRO_FACTORY_LEVEL_PLACE
+LANG_ENGLISH        "Environs de Breslau, Allemagne"
+
+REFERENCE           ZOMBIE_INTRO_FACTORY_LEVEL_TIME
+LANG_ENGLISH        "Heure : inconnue"
+
+REFERENCE           ZOMBIE_INTRO_FACTORY_LEVEL_DATE
+LANG_ENGLISH        "Date : inconnue"
+
+ENDMARKER

@@ -1,0 +1,856 @@
+// Dumped from fastfile "fr_patch_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_ENGLISH        "COMPTE À REBOURS D'AVANT MATCH"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_ENGLISH        "Modifiez le temps avant le début d'une partie."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_ENGLISH        "RADAR TOUJOURS ACTIF"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_ENGLISH        "Les ennemis apparaissent toujours sur le radar."
+
+REFERENCE           EXE_COD_BOOSTER_RESET
+LANG_ENGLISH        "Vos statistiques ont été réinitialisées pour non-respect de la politique de sécurité en ligne de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Cette console n'est plus autorisée à utiliser cet élément. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 n'est plus autorisé à utiliser cet élément. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Cette console n'est plus autorisée à utiliser cet élément pour le moment. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_FEATURE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 n'est plus autorisé à utiliser cet élément pour le moment. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_LEADERBOARD_WRITE_BAN
+LANG_ENGLISH        "Vous n'êtes plus autorisé à apparaître dans ce classement."
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été définitivement exclue des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été définitivement exclu des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été temporairement exclue des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_ONLINE_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été temporairement exclu des serveurs de Call of Duty: Black Ops. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été définitivement exclue des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_PERM_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été définitivement exclu des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help"
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_CONSOLE
+LANG_ENGLISH        "Cette console a été temporairement exclue des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_PIRACY_TEMP_BAN_PLAYER
+LANG_ENGLISH        "&&1 a été temporairement exclu des serveurs de Call of Duty: Black Ops pour contenu non autorisé. Pour en savoir plus, rendez-vous sur www.callofduty.com/blackops/help."
+
+REFERENCE           EXE_COD_TEMP_BAN_DAYS
+LANG_ENGLISH        "&&1 jours restants avant que l'accès ne soit autorisé."
+
+REFERENCE           EXE_COD_TEMP_BAN_HOURS
+LANG_ENGLISH        "&&1 heures restantes avant que l'accès ne soit autorisé."
+
+REFERENCE           EXE_DOWNLOADSFULL
+LANG_ENGLISH        "Impossible de télécharger automatiquement le fichier de jeu : \n^3&&1^7\nLe serveur gère trop de sessions de téléchargement pour le moment. Réessayez plus tard."
+
+REFERENCE           EXE_INVALID_GAMERTAG
+LANG_ENGLISH        "Gamertag non valide"
+
+REFERENCE           EXE_SV_INFO_NAME
+LANG_ENGLISH        "nom"
+
+REFERENCE           EXE_SV_INFO_PING
+LANG_ENGLISH        "ping"
+
+REFERENCE           EXE_SV_INFO_SCORE
+LANG_ENGLISH        "score"
+
+REFERENCE           MENU_CONNECTING_TO_DW
+LANG_ENGLISH        "Connexion..."
+
+REFERENCE           MENU_DEMO_DOLLY_CAMERA_MODE
+LANG_ENGLISH        "Caméra travelling"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_CAM_NUMBER_CAPS
+LANG_ENGLISH        "CAMÉRA &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_EDIT
+LANG_ENGLISH        "Modifier marqueur caméra travelling n°&&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_NUMBER
+LANG_ENGLISH        "Marqueur caméra n°&&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE
+LANG_ENGLISH        "Retirer marqueur"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL
+LANG_ENGLISH        "Retirer tous les marqueurs"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REMOVE_ALL_CONFIRMATION
+LANG_ENGLISH        "Voulez-vous vraiment retirer tous les marqueurs de la caméra ?"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_REPOSITION
+LANG_ENGLISH        "Replacer caméra"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MARKER_SPEED
+LANG_ENGLISH        "Paramètres vitesse"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_MAX_POINTS
+LANG_ENGLISH        "Vous avez atteint le nombre maximum de marqueurs autorisé."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_NO_MARKERS
+LANG_ENGLISH        "Vous êtes passé en caméra travelling, mais vous n'avez pas placé de marqueurs. Vous pouvez placer des marqueurs avec l'option Modifier mode de caméra."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_PREVIEW_CAM_NUMBER_CAPS
+LANG_ENGLISH        "APERÇU CAMÉRA &&1"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SAME_TIME
+LANG_ENGLISH        "Vous ne pouvez pas placer deux marqueurs (ou plus) au même point de la chronologie."
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_FIXED
+LANG_ENGLISH        "Fixe"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_LINEAR
+LANG_ENGLISH        "Linéaire"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MANUAL
+LANG_ENGLISH        "Manuel"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_MODE
+LANG_ENGLISH        "Mode de vitesse"
+
+REFERENCE           MENU_DEMO_DOLLYCAM_SPEED_SETTING_VALUE
+LANG_ENGLISH        "Vitesse - &&1x"
+
+REFERENCE           MENU_DEMO_EDIT_CAMERA_MODE
+LANG_ENGLISH        "Modifier mode de caméra"
+
+REFERENCE           MENU_DEMO_FREE_ROAM_MODE
+LANG_ENGLISH        "Mode déplacement libre"
+
+REFERENCE           MENU_DEMO_NEXTFREECAMMODE
+LANG_ENGLISH        "^3SOURIS GAUCHE^7 Mode de caméra libre suiv."
+
+REFERENCE           MENU_DEMO_PREVFREECAMMODE
+LANG_ENGLISH        "^3SOURIS DROITE^7 Mode de caméra libre préc."
+
+REFERENCE           MENU_DLC1_MAPS
+LANG_ENGLISH        "Pack Rezurrection"
+
+REFERENCE           MENU_DLC2_MAPS
+LANG_ENGLISH        "Pack Initiative"
+
+REFERENCE           MENU_DLC3_MAPS
+LANG_ENGLISH        "Pack Escalation"
+
+REFERENCE           MENU_DLC4_MAPS
+LANG_ENGLISH        "Pack Annihilation"
+
+REFERENCE           MENU_DLC5_MAPS
+LANG_ENGLISH        "Pack Rezurrection"
+
+REFERENCE           MENU_DOWNLOADING_GAME_SETTINGS_CAPS
+LANG_ENGLISH        "Téléchargement des paramètres de jeu"
+
+REFERENCE           MENU_FREE_OFFER
+LANG_ENGLISH        "OFFRE GRATUITE"
+
+REFERENCE           MENU_GUN_DESC
+LANG_ENGLISH        "Tuez des joueurs avec votre arme pour passer à l'arme suivante. Le premier à faire une victime avec toutes les armes l'emporte."
+
+REFERENCE           MENU_HC_KILL_EVERYONE_FIRST_PLAYER
+LANG_ENGLISH        "Chacun pour soi. ATH limité, dégâts des balles accrus, pas de régénération de santé, ni insertion tactique."
+
+REFERENCE           MENU_HC_KILL_PLAYERS_ON_THE_OPPOSING
+LANG_ENGLISH        "Match à mort par équipe avec ATH limité, dégâts des balles accrus et tir ami activé."
+
+REFERENCE           MENU_HLND_DESC
+LANG_ENGLISH        "Une arbalète, un couteau balistique et un tomahawk. Tuez pour marquer des points. Tuez au tomahawk pour remettre à zéro le compteur d'un ennemi. Bonne chance."
+
+REFERENCE           MENU_INGAMESTORE
+LANG_ENGLISH        "BOUTIQUE"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_MOON
+LANG_ENGLISH        "Notre nation doit s'engager à faire atterrir l'Homme sur la Lune et à le ramener sur Terre sain et sauf avant la fin de la décennie. (JFK, 1961)"
+
+REFERENCE           MENU_LEVEL_DESC_ZOMBIE_TEMPLE
+LANG_ENGLISH        "Un temple légendaire perdu dans une jungle exotique. Aventurez-vous dans des cavernes tortueuses bourrées de morts-vivants, de pièges mortels et de sombres secrets."
+
+REFERENCE           MENU_LEVEL_ZOMBIE_MOON
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_LEVEL_ZOMBIE_TEMPLE
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           MENU_MATCHMAKING_IMPACTED_DUE_TO_PARTY
+LANG_ENGLISH        "Le NAT d'au moins un membre de votre groupe est strict ou modéré. Cela peut avoir une influence sur la recherche de partie."
+
+REFERENCE           MENU_MOD_CONFIRM
+LANG_ENGLISH        "Vous allez utiliser :"
+
+REFERENCE           MENU_MODS_LOADED_CAPS
+LANG_ENGLISH        "Mod activé de :"
+
+REFERENCE           MENU_NO_FRIENDS
+LANG_ENGLISH        "Vous n'avez pas d'ami."
+
+REFERENCE           MENU_NO_RECENT_PLAYERS
+LANG_ENGLISH        "Vous n'avez rencontré aucun joueur récemment."
+
+REFERENCE           MENU_OFFER_CODE
+LANG_ENGLISH        "Code :"
+
+REFERENCE           MENU_OIC_DESC
+LANG_ENGLISH        "Une balle dans le chargeur, un couteau, 3 vies et des morts instantanées. Les joueurs reçoivent une balle pour chaque victime."
+
+REFERENCE           MENU_PACKAGE_BOUGHT_AND_DOWNLOADED_DESCRIPTION
+LANG_ENGLISH        "Pack acheté et téléchargé."
+
+REFERENCE           MENU_PACKAGE_DOWNLOAD_DESCRIPTION
+LANG_ENGLISH        "Article acheté. Sélectionnez pour télécharger."
+
+REFERENCE           MENU_PACKAGE_SELECTION_DESCRIPTION
+LANG_ENGLISH        "Sélectionnez pour acheter et télécharger."
+
+REFERENCE           MENU_PURCHASE_CONFIRMAITON
+LANG_ENGLISH        "CONFIRMATION D'ACHAT"
+
+REFERENCE           MENU_SHRP_DESC
+LANG_ENGLISH        "Les armes changent toutes les 45 secondes. Tuez pour marquer des points. Les séries de victimes rapportent des atouts."
+
+REFERENCE           MENU_STORE_FETCHING
+LANG_ENGLISH        "Chargement..."
+
+REFERENCE           MENU_STORE_FREE_PRODUCT
+LANG_ENGLISH        "GRATUIT"
+
+REFERENCE           MENU_STORE_PS3_CAPS
+LANG_ENGLISH        "PlayStation®Store"
+
+REFERENCE           MENU_SYSINFO_Q
+LANG_ENGLISH        "Q : &&1"
+
+REFERENCE           MENU_TAB_STORE_AVATARS
+LANG_ENGLISH        "AVATARS"
+
+REFERENCE           MENU_TAB_STORE_MAP_PACKS
+LANG_ENGLISH        "PACKS DE CARTES"
+
+REFERENCE           MENU_TAB_STORE_THEMES
+LANG_ENGLISH        "THÈMES"
+
+REFERENCE           MENU_TESTINGBANDWIDTH
+LANG_ENGLISH        "Test des parties : &&1.&&2% - Partie(s) trouvée(s) : &&3/&&4"
+
+REFERENCE           MENU_UNLOAD_MODS_CAPS
+LANG_ENGLISH        "BLACK OPS SANS MODS"
+
+REFERENCE           MENU_UNLOAD_MODS_DESC
+LANG_ENGLISH        "Désactiver les mods activés"
+
+REFERENCE           MENU_USE_GUEST
+LANG_ENGLISH        "Jouer en tant qu'invité"
+
+REFERENCE           MENU_VISIT
+LANG_ENGLISH        " Rendez-vous sur le "
+
+REFERENCE           MENU_VISIT_COMPLETE_DESC
+LANG_ENGLISH        "Rendez-vous sur le site callofduty.com/blackops/dlc/zombies pour télécharger la bande-son Call of Duty: Zombies et 3 titres bonus !"
+
+REFERENCE           MENU_VISIT_DESC
+LANG_ENGLISH        "pour télécharger la bande-son de Call of Duty: Zombies ainsi que 3 morceaux bonus ! "
+
+REFERENCE           MENU_WAW_ZOMBIE_MAPS
+LANG_ENGLISH        "Pack Zombie classique"
+
+REFERENCE           MENU_ZOMBIE_COAST_CAPS
+LANG_ENGLISH        "CALL OF THE DEAD"
+
+REFERENCE           MENU_ZOMBIE_COAST_DESC
+LANG_ENGLISH        "En pleine Sibérie, des aventuriers intrépides se retrouvent perdus dans un avant-poste abandonné. Alors qu'ils rêvent de découvrir l'origine du mystérieux Élément 115, l'expédition risque de tourner au cauchemar..."
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_CAPS
+LANG_ENGLISH        "ASCENSION"
+
+REFERENCE           MENU_ZOMBIE_COSMODROME_DESC
+LANG_ENGLISH        "Les morts-vivants ont semé la panique en prenant le contrôle d'un cosmodrome soviétique. Le compte à rebours de l'apocalypse zombie a commencé."
+
+REFERENCE           MENU_ZOMBIE_MOON
+LANG_ENGLISH        "Moon"
+
+REFERENCE           MENU_ZOMBIE_MOON_CAPS
+LANG_ENGLISH        "MOON"
+
+REFERENCE           MENU_ZOMBIE_MOON_DESC
+LANG_ENGLISH        "Notre nation doit s'engager à faire atterrir l'Homme sur la Lune et à le ramener sur Terre sain et sauf avant la fin de la décennie. (JFK, 1961)"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE
+LANG_ENGLISH        "Shangri-La"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_CAPS
+LANG_ENGLISH        "SHANGRI-LA"
+
+REFERENCE           MENU_ZOMBIE_TEMPLE_DESC
+LANG_ENGLISH        "Un temple légendaire perdu dans une jungle exotique. Aventurez-vous dans des cavernes tortueuses bourrées de morts-vivants, de pièges mortels et de sombres secrets."
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SOLO_SURVIVAL_TIME
+LANG_ENGLISH        "Temps de survie"
+
+REFERENCE           MENU_ZOMBIES_NOMANS_SURVIVAL_TIME
+LANG_ENGLISH        "No Man's Land"
+
+REFERENCE           MENU_ZOMBIES_SOUNDTRACK
+LANG_ENGLISH        "BANDE-SON ZOMBIES "
+
+REFERENCE           MP_CALL_ELEVATOR
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour appeler l'ascenseur"
+
+REFERENCE           MP_CAPTURE_HQ
+LANG_ENGLISH        "CAPTUREZ LE QG"
+
+REFERENCE           MP_CONTROL_HQ
+LANG_ENGLISH        "CONTRÔLEZ LE SITE DU QG"
+
+REFERENCE           MP_DEFEND_HQ
+LANG_ENGLISH        "DÉFENDEZ LE QG"
+
+REFERENCE           MP_DESTROY_HQ
+LANG_ENGLISH        "DÉTRUISEZ LE QG"
+
+REFERENCE           MP_ELEVATOR_OVER_MAX
+LANG_ENGLISH        "Limite de poids maximum dépassée"
+
+REFERENCE           MP_ELEVATOR_UNAVAILABLE
+LANG_ENGLISH        "Ascenseur hors service"
+
+REFERENCE           MP_HOST_COMMS_FAILURE
+LANG_ENGLISH        "Échec de la communication avec l'hôte."
+
+REFERENCE           MP_OPERATE_DOOR
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour commander porte"
+
+REFERENCE           MP_ROUND_END_KILLCAM
+LANG_ENGLISH        "KILLCAM FIN DE MANCHE"
+
+REFERENCE           MP_USE_ELEVATOR
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour utiliser l'ascenseur"
+
+REFERENCE           MP_ZIPLINE
+LANG_ENGLISH        "Maintenez ^3&&1^7 pour utiliser la tyrolienne."
+
+REFERENCE           MPUI_AIRBASE
+LANG_ENGLISH        "Airbase"
+
+REFERENCE           MPUI_AIRBASE_CAPS
+LANG_ENGLISH        "AIRBASE"
+
+REFERENCE           MPUI_AREA51
+LANG_ENGLISH        "Hangar 18"
+
+REFERENCE           MPUI_AREA51_CAPS
+LANG_ENGLISH        "HANGAR 18"
+
+REFERENCE           MPUI_BASIC_TRAINING_HC_TDM
+LANG_ENGLISH        "MME HARDCORE"
+
+REFERENCE           MPUI_BERLINWALL2
+LANG_ENGLISH        "Berlin Wall"
+
+REFERENCE           MPUI_BERLINWALL2_CAPS
+LANG_ENGLISH        "BERLIN WALL"
+
+REFERENCE           MPUI_CARGO
+LANG_ENGLISH        "Cargo"
+
+REFERENCE           MPUI_CARGO_CAPS
+LANG_ENGLISH        "CARGO"
+
+REFERENCE           MPUI_COD_ELITE_CAPS
+LANG_ENGLISH        "CALL OF DUTY: ELITE"
+
+REFERENCE           MPUI_COMPETE_CAPS
+LANG_ENGLISH        "BATTEZ-VOUS"
+
+REFERENCE           MPUI_COMPETE_DESC
+LANG_ENGLISH        "Obtenez gloire et récompenses en participant à des ligues officielles et événements pour joueurs de tous niveaux."
+
+REFERENCE           MPUI_CONNECT_CAPS
+LANG_ENGLISH        "CONNECTEZ-VOUS"
+
+REFERENCE           MPUI_CONNECT_DESC
+LANG_ENGLISH        "Formez groupes et clans avec vos amis ou rencontrez de nouveaux joueurs de Call of Duty."
+
+REFERENCE           MPUI_CUBATOWN
+LANG_ENGLISH        "Cubatown"
+
+REFERENCE           MPUI_CUBATOWN_CAPS
+LANG_ENGLISH        "CUBATOWN"
+
+REFERENCE           MPUI_DESC_MAP_AREA51
+LANG_ENGLISH        "Les forces soviétiques ont infiltré un complexe américain top secret."
+
+REFERENCE           MPUI_DESC_MAP_BERLINWALL2
+LANG_ENGLISH        "Luttez pour le contrôle du mur de Berlin, mais méfiez-vous du No Man's Land."
+
+REFERENCE           MPUI_DESC_MAP_DISCOVERY
+LANG_ENGLISH        "Découvrez les mystères de cette station de recherches allemande abandonnée en Antarctique."
+
+REFERENCE           MPUI_DESC_MAP_DRIVEIN
+LANG_ENGLISH        "Combats rapprochés et points d'observation avantageux dans un cinéma en plein air abandonné."
+
+REFERENCE           MPUI_DESC_MAP_FIREBASE
+LANG_ENGLISH        "Grabuge dans une base de tir."
+
+REFERENCE           MPUI_DESC_MAP_GOLFCOURSE
+LANG_ENGLISH        "Faites attention aux tireurs d'élite en combattant sur ce terrain de golf côtier."
+
+REFERENCE           MPUI_DESC_MAP_GRIDLOCK
+LANG_ENGLISH        "Des combats intenses suite à une embuscade soviétique sur le sol américain."
+
+REFERENCE           MPUI_DESC_MAP_HOTEL
+LANG_ENGLISH        "Battez-vous pour le contrôle des toits d'un hôtel cubain huppé."
+
+REFERENCE           MPUI_DESC_MAP_KOWLOON
+LANG_ENGLISH        "Les toits de Kowloon City sont le lieu idéal pour les snipers et les adeptes de l'action furtive."
+
+REFERENCE           MPUI_DESC_MAP_OUTSKIRTS
+LANG_ENGLISH        "Combattez dans les ruelles et les maisons d'une ville de campagne soviétique."
+
+REFERENCE           MPUI_DESC_MAP_SALVAGE
+LANG_ENGLISH        "Deux équipes s'affrontent pour la victoire dans une casse."
+
+REFERENCE           MPUI_DESC_MAP_SILO
+LANG_ENGLISH        "Un conflit déclaré dans un complexe de lancement de missiles. Du combat rapproché et plusieurs options de contournement."
+
+REFERENCE           MPUI_DESC_MAP_SNOWMINE
+LANG_ENGLISH        "Une mine abandonnée, en plein hiver. Une carte idéale pour les modes de jeu à objectifs."
+
+REFERENCE           MPUI_DESC_MAP_STADIUM
+LANG_ENGLISH        "Des combats effrénés dans l'enceinte et à l'extérieur de la patinoire de hockey du Chance Stadium."
+
+REFERENCE           MPUI_DESC_MAP_WARMUSEUM
+LANG_ENGLISH        "Prenez le contrôle du musée. Combats intenses en intérieur."
+
+REFERENCE           MPUI_DESC_MAP_ZOO
+LANG_ENGLISH        "Préparez-vous pour des affrontements à distance dans ce zoo soviétique abandonné."
+
+REFERENCE           MPUI_DISCOVERY
+LANG_ENGLISH        "Discovery"
+
+REFERENCE           MPUI_DISCOVERY_CAPS
+LANG_ENGLISH        "DISCOVERY"
+
+REFERENCE           MPUI_DLC_CONTENT
+LANG_ENGLISH        "DLC"
+
+REFERENCE           MPUI_DLC_MAPS_CAPS
+LANG_ENGLISH        "CARTES TÉLÉCHARGEABLES"
+
+REFERENCE           MPUI_DRIVEIN
+LANG_ENGLISH        "Drive-In"
+
+REFERENCE           MPUI_DRIVEIN_CAPS
+LANG_ENGLISH        "DRIVE-IN"
+
+REFERENCE           MPUI_EDIT_EMAIL
+LANG_ENGLISH        "MODIFIER ADRESSE E-MAIL"
+
+REFERENCE           MPUI_ELITE_DISCLAIMER
+LANG_ENGLISH        "Les adresses e-mail sont supprimées chaque semaine. Call of Duty: ELITE n'est disponible qu'en anglais pour le moment."
+
+REFERENCE           MPUI_EMAIL_ACCEPTED
+LANG_ENGLISH        "Merci d'avoir choisi Call of Duty: ELITE. Vous recevrez des instructions pour terminer le processus d'inscription à l'adresse e-mail fournie. Pour plus d'informations, visitez CallofDuty.com/Elite."
+
+REFERENCE           MPUI_EMAIL_REJECTED_TITLE
+LANG_ENGLISH        "E-MAIL INVALIDE"
+
+REFERENCE           MPUI_ENTER_VALID_EMAIL
+LANG_ENGLISH        "Veuillez saisir une adresse e-mail valide pour être inscrit sur la liste d'invitation à la beta."
+
+REFERENCE           MPUI_FIREBASE
+LANG_ENGLISH        "Firebase"
+
+REFERENCE           MPUI_FIREBASE_CAPS
+LANG_ENGLISH        "FIREBASE"
+
+REFERENCE           MPUI_FREE_MEMBERSHIP_CAPS
+LANG_ENGLISH        "ENREGISTREZ-VOUS POUR AVOIR UN APERÇU DE CALL OF DUTY: ELITE"
+
+REFERENCE           MPUI_GAMEMODE_CAPS
+LANG_ENGLISH        "MODES DE JEU"
+
+REFERENCE           MPUI_GOLFCOURSE
+LANG_ENGLISH        "Hazard"
+
+REFERENCE           MPUI_GOLFCOURSE_CAPS
+LANG_ENGLISH        "HAZARD"
+
+REFERENCE           MPUI_GRIDLOCK
+LANG_ENGLISH        "Convoy"
+
+REFERENCE           MPUI_GRIDLOCK_CAPS
+LANG_ENGLISH        "CONVOY"
+
+REFERENCE           MPUI_HIDE_DLC
+LANG_ENGLISH        "Masquer DLC"
+
+REFERENCE           MPUI_HOTEL
+LANG_ENGLISH        "Hotel"
+
+REFERENCE           MPUI_HOTEL_CAPS
+LANG_ENGLISH        "HOTEL"
+
+REFERENCE           MPUI_I_HAVE
+LANG_ENGLISH        "Je possède"
+
+REFERENCE           MPUI_IMPROVE_CAPS
+LANG_ENGLISH        "DEVENEZ MEILLEUR"
+
+REFERENCE           MPUI_IMPROVE_DESC
+LANG_ENGLISH        "Accédez aux renseignements et améliorez votre jeu : stats, cartes thermiques, astuces et bien plus !"
+
+REFERENCE           MPUI_JOIN_UP_CAPS
+LANG_ENGLISH        "REJOIGNEZ-NOUS."
+
+REFERENCE           MPUI_KOWLOON
+LANG_ENGLISH        "Kowloon"
+
+REFERENCE           MPUI_KOWLOON_CAPS
+LANG_ENGLISH        "KOWLOON"
+
+REFERENCE           MPUI_MAPS_CAPS
+LANG_ENGLISH        "CARTES"
+
+REFERENCE           MPUI_OFFLINE_EDIT_GAME_OPTIONS_DESC
+LANG_ENGLISH        "Définissez vos propres règles pour ce mode."
+
+REFERENCE           MPUI_OUTSKIRTS
+LANG_ENGLISH        "Stockpile"
+
+REFERENCE           MPUI_OUTSKIRTS_CAPS
+LANG_ENGLISH        "STOCKPILE"
+
+REFERENCE           MPUI_OWNED
+LANG_ENGLISH        "Déjà téléchargé"
+
+REFERENCE           MPUI_PLAYLIST_MAPS_NOT_ENABLED
+LANG_ENGLISH        "Certains membres n'ont pas le contenu nécessaire pour jouer sur cette carte."
+
+REFERENCE           MPUI_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Vous devez acheter du contenu téléchargeable pour utiliser cette sélection."
+
+REFERENCE           MPUI_PRESTIGE_LB_PURCHASE_CONF
+LANG_ENGLISH        "Pour participer au Classement Prestige, vous devez être passé en mode Prestige au moins 1 fois et posséder &&1 ."
+
+REFERENCE           MPUI_PREV_DISABLED_CAPS
+LANG_ENGLISH        "VOTES NON AUTORISÉS"
+
+REFERENCE           MPUI_PURCHASED
+LANG_ENGLISH        "Acheté"
+
+REFERENCE           MPUI_RULES_6_5MINUTES_CAPS
+LANG_ENGLISH        "6,5 MINUTES"
+
+REFERENCE           MPUI_SALVAGE
+LANG_ENGLISH        "Salvage"
+
+REFERENCE           MPUI_SALVAGE_CAPS
+LANG_ENGLISH        "SALVAGE"
+
+REFERENCE           MPUI_SHOW_DLC_CONTENT
+LANG_ENGLISH        "Afficher DLC"
+
+REFERENCE           MPUI_SILO
+LANG_ENGLISH        "Silo"
+
+REFERENCE           MPUI_SILO_CAPS
+LANG_ENGLISH        "SILO"
+
+REFERENCE           MPUI_SNOWMINE
+LANG_ENGLISH        "Snow Mine"
+
+REFERENCE           MPUI_SNOWMINE_CAPS
+LANG_ENGLISH        "SNOW MINE"
+
+REFERENCE           MPUI_STADIUM
+LANG_ENGLISH        "Stadium"
+
+REFERENCE           MPUI_STADIUM_CAPS
+LANG_ENGLISH        "STADIUM"
+
+REFERENCE           MPUI_SUBMIT_EMAIL_CAPS
+LANG_ENGLISH        "ENVOYER E-MAIL"
+
+REFERENCE           MPUI_THEATER_PARTY_MISSING_MAP
+LANG_ENGLISH        "Un ou plusieurs membres du groupe ne possèdent pas cette carte."
+
+REFERENCE           MPUI_TRAINWRECK
+LANG_ENGLISH        "Trainwreck"
+
+REFERENCE           MPUI_TRAINWRECK_CAPS
+LANG_ENGLISH        "TRAINWRECK"
+
+REFERENCE           MPUI_WARMUSEUM
+LANG_ENGLISH        "War Museum"
+
+REFERENCE           MPUI_WARMUSEUM_CAPS
+LANG_ENGLISH        "WAR MUSEUM"
+
+REFERENCE           MPUI_ZOO
+LANG_ENGLISH        "Zoo"
+
+REFERENCE           MPUI_ZOO_CAPS
+LANG_ENGLISH        "ZOO"
+
+REFERENCE           PATCH_ALLOW_VOTING_CAPS
+LANG_ENGLISH        "AUTORISER LE VOTE"
+
+REFERENCE           PATCH_ALLOW_VOTING_DESC
+LANG_ENGLISH        "Autoriser les joueurs à voter pour la carte et le mode de jeu ou pour exclure un autre joueur."
+
+REFERENCE           PATCH_AUTO_BALANCE_DESC
+LANG_ENGLISH        "Les équipes seront régulièrement réorganisées en fonction du nombre de joueurs."
+
+REFERENCE           PATCH_AUTOBALANCE_TEAMS_CAPS
+LANG_ENGLISH        "ÉQUILIBRAGE AUTO"
+
+REFERENCE           PATCH_BAD_STATS
+LANG_ENGLISH        "Vos stats n'ont pas pu être validées."
+
+REFERENCE           PATCH_BANNED_FROM_SERVER
+LANG_ENGLISH        "Vous avez été exclu de ce serveur."
+
+REFERENCE           PATCH_CONNECTING_CAPS
+LANG_ENGLISH        "CONNEXION"
+
+REFERENCE           PATCH_COOPERATIVE_CAPS
+LANG_ENGLISH        "COOPÉRATION"
+
+REFERENCE           PATCH_DEMO_CHANGE_CAMERA
+LANG_ENGLISH        "^3F2^7"
+
+REFERENCE           PATCH_DEMO_SKIPBACK
+LANG_ENGLISH        "^3LA^7"
+
+REFERENCE           PATCH_DEMO_SKIPFOWARD
+LANG_ENGLISH        "^3RA^7"
+
+REFERENCE           PATCH_DEMO_SPEED_DOWN
+LANG_ENGLISH        "^3DN^7"
+
+REFERENCE           PATCH_DEMO_SPEED_UP
+LANG_ENGLISH        "^3UP^7"
+
+REFERENCE           PATCH_DEMO_TOGGLE_CONTROLS_HUD
+LANG_ENGLISH        "^3F1^7 Masquer commandes"
+
+REFERENCE           PATCH_DEMO_TOGGLE_HUD
+LANG_ENGLISH        "^3F4^7 Masquer ATH"
+
+REFERENCE           PATCH_EXE_KICKRESERVEDSLOT
+LANG_ENGLISH        "Éjection de l'emplacement réservé."
+
+REFERENCE           PATCH_GAME_CAPS
+LANG_ENGLISH        "PARTIE"
+
+REFERENCE           PATCH_LAPTOP_OR_SMALL_SPEAKERS_CAPS
+LANG_ENGLISH        "ORDINATEUR PORTABLE OU HAUT-PARLEURS PEU PUISSANTS"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "Le mod ^3&&1^7 est nécessaire pour voir la démo.\nVous devez activer le mod."
+
+REFERENCE           PATCH_LOADMOD_FILM
+LANG_ENGLISH        "Le mod ^3&&1^7 est nécessaire pour regarder la vidéo.\nVous devez activer le mod. "
+
+REFERENCE           PATCH_MAXIMUM_PING_CAPS
+LANG_ENGLISH        "PING MAXIMUM"
+
+REFERENCE           PATCH_MAXIMUM_PING_DESC
+LANG_ENGLISH        "Les joueurs au dessus du ping maximum ne pourront pas rejoindre la partie."
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_CAPS
+LANG_ENGLISH        "JOUEURS MAXI"
+
+REFERENCE           PATCH_MAXIMUM_PLAYERS_DESC
+LANG_ENGLISH        "Nombre maximum de joueurs qui peuvent rejoindre la partie."
+
+REFERENCE           PATCH_MENU_OPTION_SHADERWARMING_CAPS
+LANG_ENGLISH        "PRÉCHARGEMENT SHADER"
+
+REFERENCE           PATCH_MINIMUM_PING_CAPS
+LANG_ENGLISH        "PING MINIMUM"
+
+REFERENCE           PATCH_MINIMUM_PING_DESC
+LANG_ENGLISH        "Les joueurs sous le ping minimum ne pourront pas rejoindre la partie."
+
+REFERENCE           PATCH_MINIMUM_PLAYERS_DESC
+LANG_ENGLISH        "Nombre de joueurs requis pour terminer le pré-match et commencer la partie."
+
+REFERENCE           PATCH_MP_CANNOT_JOIN_TEAM
+LANG_ENGLISH        "Il n'est plus possible de modifier les équipes."
+
+REFERENCE           PATCH_MP_TEAM_UP_PERIOD
+LANG_ENGLISH        "Changements d'équipe autorisés pendant &&1 secondes."
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_CAPS
+LANG_ENGLISH        "CHANGEMENT D'ÉQUIPE"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_ALLOW_DESC
+LANG_ENGLISH        "Changement d'équipe autorisé"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_CAPS
+LANG_ENGLISH        "FORMATION DES ÉQUIPES"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_GRACEPERIOD_DESC
+LANG_ENGLISH        "Période initiale où les changements d'équipe sont autorisés et les équipes sont automatiquement équilibrées."
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_CAPS
+LANG_ENGLISH        "ASSURER ÉQUILIBRE DES ÉQUIPES"
+
+REFERENCE           PATCH_MP_TEAMCHANGE_KEEPBALANCED_DESC
+LANG_ENGLISH        "Les changements d'équipe sont autorisés seulement quand l'équilibre est conservé"
+
+REFERENCE           PATCH_NO_INVITES
+LANG_ENGLISH        "Pas d'invitations récentes."
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "NOM4D"
+
+REFERENCE           PATCH_OPTIONS_COLOR_FRIENDS_CAPS
+LANG_ENGLISH        "MARQUER VOS AMIS PRÉSENTS DANS L'ÉQUIPE"
+
+REFERENCE           PATCH_PASSWORD1_CAPS
+LANG_ENGLISH        "MOT DE PASSE"
+
+REFERENCE           PATCH_PASSWORD_DESC
+LANG_ENGLISH        "Mot de passe requis pour rejoindre votre serveur."
+
+REFERENCE           PATCH_PLAYLISTISNEW
+LANG_ENGLISH        "Vos sélections sont plus récentes que celles de l'hôte. Vous ne pourrez pas rejoindre la session tant que les autres utilisateurs n'auront pas redémarré le jeu."
+
+REFERENCE           PATCH_PLAYLISTISOLD
+LANG_ENGLISH        "Vos sélections sont plus anciennes que celles de l'hôte. Vous devez redémarrer le jeu pour obtenir les sélections les plus récentes."
+
+REFERENCE           PATCH_PRE_MATCH_DESC
+LANG_ENGLISH        "Pas de points, pas d'XP de Mêlée générale avant que la partie commence."
+
+REFERENCE           PATCH_PREGAME_ENABLED_CAPS
+LANG_ENGLISH        "PRÉ-MATCH"
+
+REFERENCE           PATCH_PREGAME_MINPLAYERS_CAPS
+LANG_ENGLISH        "JOUEURS MIN. PRÉ-MATCH"
+
+REFERENCE           PATCH_RESTORE_CONTROLS
+LANG_ENGLISH        "Les commandes par défaut vont être rétablies."
+
+REFERENCE           PATCH_SCREENSHOT_PAN
+LANG_ENGLISH        "Clic gauche pour déplacer"
+
+REFERENCE           PATCH_SCREENSHOT_ZOOM
+LANG_ENGLISH        "Molette de la souris pour zoomer"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "La sauvegarde de données de jeu est incompatible avec la version du jeu utilisée. Vous pouvez reprendre au début de la dernière mission jouée, ou retourner aux menus."
+
+REFERENCE           PATCH_SERVER_NAME_CAPS
+LANG_ENGLISH        "NOM DU SERVEUR"
+
+REFERENCE           PATCH_SERVER_NAME_DESC
+LANG_ENGLISH        "Nom de votre serveur."
+
+REFERENCE           PATCH_SHADER_WARMING
+LANG_ENGLISH        "Préchargement Shader"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "Tous les utilisateurs doivent avoir la même version du jeu pour jouer en liaison multiconsole. Connectez-vous à Xbox LIVE pour vérifier que vous possédez la dernière mise à jour du jeu."
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "Couleurs alt."
+
+REFERENCE           PATCH_TOGGLE_COMPARE_FRIENDS
+LANG_ENGLISH        "Masquer la comparaison avec un ami"
+
+REFERENCE           PATCH_UNLOADMOD_DEMO
+LANG_ENGLISH        "Le mod ^3&&1^7 est activé.\nVous devez désactiver le mod pour voir la démo."
+
+REFERENCE           PATCH_UNLOADMOD_FILM
+LANG_ENGLISH        "Le mod ^3&&1^7 est activé.\nVous devez désactiver le mod pour regarder la vidéo."
+
+REFERENCE           PATCH_VALVE_ANTI_CHEAT_DESC
+LANG_ENGLISH        "Protégez votre serveur des tricheurs."
+
+REFERENCE           PATCH_VOICECHAT_DESC
+LANG_ENGLISH        "Communiquer par chat vocal pendant la partie."
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "Les versions du jeu sont incompatibles pour jouer en ligne à ce mode de jeu."
+
+REFERENCE           PLATFORM_BANNED
+LANG_ENGLISH        "Ce compte a été banni de façon permanente des serveurs de Call of Duty: Black Ops."
+
+REFERENCE           PLATFORM_CANT_DOWNLOAD
+LANG_ENGLISH        "Ce fichier est différent du serveur :\n\n ^3&&1^7"
+
+REFERENCE           PLATFORM_CHEATSREQUIREAMOD
+LANG_ENGLISH        "Un mod est requis pour utiliser ce code de triche."
+
+REFERENCE           PLATFORM_DEMO_EDIT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Modifier marqueur caméra"
+
+REFERENCE           PLATFORM_DEMO_INSERT_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Insérer marqueur caméra"
+
+REFERENCE           PLATFORM_DEMO_PLACE_CAMERA_MARKER
+LANG_ENGLISH        "^3F5^7 Placer marqueur caméra"
+
+REFERENCE           PLATFORM_ENABLE_DOWNLOADS
+LANG_ENGLISH        "Il vous manque des fichiers référencés par le serveur :\n^3&&1^7\nAllez dans le menu des options multijoueur pour autoriser les téléchargements."
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_CHECKSUM
+LANG_ENGLISH        "Le fichier local existe avec une checksum incorrecte."
+
+REFERENCE           PLATFORM_LOCAL_FILE_EXISTS_WITH_WRONG_FILESIZE
+LANG_ENGLISH        "Le fichier local existe avec une taille de fichier incorrecte."
+
+REFERENCE           PLATFORM_MISSINGMAP
+LANG_ENGLISH        "Vous n'avez pas cette carte. Téléchargez les packs de contenu depuis le magasin de Steam pour l'obtenir."
+
+REFERENCE           PLATFORM_MISSINGMAP_YOU_NEED_CONTENTPACK
+LANG_ENGLISH        "Vous n'avez pas cette carte. Pour l'obtenir, téléchargez les packs de contenu depuis le magasin de Steam.\n\n Il vous faut : ^3&&1^7\n"
+
+REFERENCE           PLATFORM_OPEN_SOUNDTRACK_FOLDER
+LANG_ENGLISH        "Ouvrir le dossier Soundtrack (Bande-son)"
+
+REFERENCE           PLATFORM_OPTIONS_RESTRICT_EMBLEMS_CAPS
+LANG_ENGLISH        "DÉSACTIVER EMBLÈMES"
+
+REFERENCE           PLATFORM_STEAM_AUTH_DENIED
+LANG_ENGLISH        "Échec de l'autorisation de Steam."
+
+REFERENCE           PLATFORM_UNKNOWN
+LANG_ENGLISH        "Inconnu"
+
+REFERENCE           PLATFORM_ZOMBIE_NOMANS_SOLO_CAPS
+LANG_ENGLISH        "NO MAN'S LAND (SOLO)"
+
+REFERENCE           PLATFORM_ZOMBIE_SOUNDTRACK_LOCATION_DESC
+LANG_ENGLISH        "Les 3 morceaux bonus de la bande-son de Call of Duty: Zombies sont disponibles dans le répertoire d'installation du jeu, dans le dossier \"Soundtrack\"."
+
+REFERENCE           WEAPON_ZIPLINE
+LANG_ENGLISH        "Tyrolienne"
+
+ENDMARKER

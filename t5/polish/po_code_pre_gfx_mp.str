@@ -1,0 +1,211 @@
+// Dumped from fastfile "po_code_pre_gfx_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLASS_ANTIARMOR
+LANG_ENGLISH        "Szturm"
+
+REFERENCE           CLASS_ANTIARMOR_UC
+LANG_ENGLISH        "Szturm"
+
+REFERENCE           CLASS_ASSAULT
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_ASSAULT_UC
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_CLASS
+LANG_ENGLISH        "Klasa"
+
+REFERENCE           CLASS_CLASS1
+LANG_ENGLISH        "PM"
+
+REFERENCE           CLASS_CLASS2
+LANG_ENGLISH        "Walka bezpoœrednia"
+
+REFERENCE           CLASS_CLASS3
+LANG_ENGLISH        "Szturm"
+
+REFERENCE           CLASS_CLASS4
+LANG_ENGLISH        "LKM"
+
+REFERENCE           CLASS_CLASS5
+LANG_ENGLISH        "Snajper"
+
+REFERENCE           CLASS_CLOSEQUARTERS
+LANG_ENGLISH        "Walka bezpoœrednia"
+
+REFERENCE           CLASS_CLOSEQUARTERS_UC
+LANG_ENGLISH        "Walka bezpoœrednia"
+
+REFERENCE           CLASS_CUSTOM1
+LANG_ENGLISH        "Szturm"
+
+REFERENCE           CLASS_CUSTOM10
+LANG_ENGLISH        "WskaŸnik presti¿u 5"
+
+REFERENCE           CLASS_CUSTOM2
+LANG_ENGLISH        "Strzelec broni lekkiej"
+
+REFERENCE           CLASS_CUSTOM3
+LANG_ENGLISH        "Strzelec broni ciê¿kiej"
+
+REFERENCE           CLASS_CUSTOM4
+LANG_ENGLISH        "Szturm"
+
+REFERENCE           CLASS_CUSTOM5
+LANG_ENGLISH        "Snajper"
+
+REFERENCE           CLASS_CUSTOM6
+LANG_ENGLISH        "WskaŸnik presti¿u 1"
+
+REFERENCE           CLASS_CUSTOM7
+LANG_ENGLISH        "WskaŸnik presti¿u 2"
+
+REFERENCE           CLASS_CUSTOM8
+LANG_ENGLISH        "WskaŸnik presti¿u 3"
+
+REFERENCE           CLASS_CUSTOM9
+LANG_ENGLISH        "WskaŸnik presti¿u 4"
+
+REFERENCE           CLASS_DEFAULT_ASSAULT
+LANG_ENGLISH        "Szturm domyœlny"
+
+REFERENCE           CLASS_DEFAULT_HEAVYGUNNER
+LANG_ENGLISH        "Domyœlny strzelec broni ciê¿kiej"
+
+REFERENCE           CLASS_DEFAULT_SPECOPS
+LANG_ENGLISH        "Domyœlny strzelec broni lekkiej"
+
+REFERENCE           CLASS_ENGINEER_UC
+LANG_ENGLISH        "Zwiad"
+
+REFERENCE           CLASS_GRENADIER
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_MARINES_CLASSES_CAPS
+LANG_ENGLISH        "KLASY GOS"
+
+REFERENCE           CLASS_NEWPROF
+LANG_ENGLISH        "Zdobywasz now¹ bieg³oœæ:"
+
+REFERENCE           CLASS_OFFLINE_CLASS1
+LANG_ENGLISH        "Saper"
+
+REFERENCE           CLASS_OFFLINE_CLASS10
+LANG_ENGLISH        "Strzelec"
+
+REFERENCE           CLASS_OFFLINE_CLASS11
+LANG_ENGLISH        "M1Garand"
+
+REFERENCE           CLASS_OFFLINE_CLASS2
+LANG_ENGLISH        "Infiltrator"
+
+REFERENCE           CLASS_OFFLINE_CLASS3
+LANG_ENGLISH        "Specjalista "
+
+REFERENCE           CLASS_OFFLINE_CLASS4
+LANG_ENGLISH        "Szpica"
+
+REFERENCE           CLASS_OFFLINE_CLASS5
+LANG_ENGLISH        "Piechur"
+
+REFERENCE           CLASS_OFFLINE_CLASS6
+LANG_ENGLISH        "Weteran"
+
+REFERENCE           CLASS_OFFLINE_CLASS7
+LANG_ENGLISH        "Mœciciel"
+
+REFERENCE           CLASS_OFFLINE_CLASS8
+LANG_ENGLISH        "Egzekutor"
+
+REFERENCE           CLASS_OFFLINE_CLASS9
+LANG_ENGLISH        "Stra¿nik"
+
+REFERENCE           CLASS_OPFOR_CLASSES_CAPS
+LANG_ENGLISH        "KLASY NIEPRZYJACIELA"
+
+REFERENCE           CLASS_PRESTIGE1
+LANG_ENGLISH        "W³asna 6"
+
+REFERENCE           CLASS_PRESTIGE1_CAPS
+LANG_ENGLISH        "W£ASNA 6"
+
+REFERENCE           CLASS_PRESTIGE2
+LANG_ENGLISH        "W³asna 7"
+
+REFERENCE           CLASS_PRESTIGE2_CAPS
+LANG_ENGLISH        "W£ASNA 7"
+
+REFERENCE           CLASS_PRESTIGE3
+LANG_ENGLISH        "W³asna 8"
+
+REFERENCE           CLASS_PRESTIGE3_CAPS
+LANG_ENGLISH        "W£ASNA 8"
+
+REFERENCE           CLASS_PRESTIGE4
+LANG_ENGLISH        "W³asna 9"
+
+REFERENCE           CLASS_PRESTIGE4_CAPS
+LANG_ENGLISH        "W£ASNA 9"
+
+REFERENCE           CLASS_PRESTIGE5
+LANG_ENGLISH        "W³asna 10"
+
+REFERENCE           CLASS_PRESTIGE5_CAPS
+LANG_ENGLISH        "W£ASNA 10"
+
+REFERENCE           CLASS_PRESTIGE_UNCLASSIFY_DESC
+LANG_ENGLISH        "Odtajnione przy &&1 poziomie presti¿u."
+
+REFERENCE           CLASS_PRESTIGE_UNLOCK_DESC
+LANG_ENGLISH        "Odblokowane przy poziomie presti¿u &&1."
+
+REFERENCE           CLASS_PROFICIENCY
+LANG_ENGLISH        "Bieg³oœæ"
+
+REFERENCE           CLASS_PROFICIENCY_EXPERT
+LANG_ENGLISH        "Ekspert"
+
+REFERENCE           CLASS_PROFICIENCY_MARKSMAN
+LANG_ENGLISH        "Bieg³y strzelec"
+
+REFERENCE           CLASS_PROFICIENCY_SHARPSHOOTER
+LANG_ENGLISH        "Strzelec wyborowy"
+
+REFERENCE           CLASS_PURCHASE_TO_UNLOCK
+LANG_ENGLISH        "Kup &&1, aby wyœwietliæ wyzwanie."
+
+REFERENCE           CLASS_RIFLEMAN
+LANG_ENGLISH        "Strzelec"
+
+REFERENCE           CLASS_SLOT1_CAPS
+LANG_ENGLISH        "W£ASNA 1"
+
+REFERENCE           CLASS_SLOT2_CAPS
+LANG_ENGLISH        "W£ASNA 2"
+
+REFERENCE           CLASS_SLOT3_CAPS
+LANG_ENGLISH        "W£ASNA 3"
+
+REFERENCE           CLASS_SLOT4_CAPS
+LANG_ENGLISH        "W£ASNA 4"
+
+REFERENCE           CLASS_SLOT5_CAPS
+LANG_ENGLISH        "W£ASNA 5"
+
+REFERENCE           CLASS_SNIPER
+LANG_ENGLISH        "Snajper"
+
+REFERENCE           CLASS_SNIPER_UC
+LANG_ENGLISH        "Snajper"
+
+REFERENCE           CLASS_SUPPORT
+LANG_ENGLISH        "Wsparcie"
+
+REFERENCE           CLASS_SUPPORT_UC
+LANG_ENGLISH        "Wsparcie"
+
+ENDMARKER

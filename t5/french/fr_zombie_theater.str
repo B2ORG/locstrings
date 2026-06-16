@@ -1,0 +1,25 @@
+// Dumped from fastfile "fr_zombie_theater".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_THEATER_FILM_REEL
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour prendre la pellicule."
+
+REFERENCE           ZOMBIE_THEATER_LINK_CORE
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour initier liaison à la rampe."
+
+REFERENCE           ZOMBIE_THEATER_LINK_PAD
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour relier la rampe au coeur."
+
+REFERENCE           ZOMBIE_THEATER_REEL_PROJECTOR
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour ajouter la pellicule."
+
+REFERENCE           ZOMBIE_THEATER_START_CORE
+LANG_ENGLISH        "Lien non activé."
+
+REFERENCE           ZOMBIE_THEATER_USE_TELEPORTER
+LANG_ENGLISH        "Maintenez ^3[{+activate}]^7 pour utiliser le téléporteur."
+
+ENDMARKER

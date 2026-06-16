@@ -1,0 +1,154 @@
+// Dumped from fastfile "it_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il Cacciatore infernale."
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire l'aereo."
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire un potenziamento spingardatrice."
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_ITALIAN        "La gondola è attiva"
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per attivare la trappola ventola [costo: &&1]"
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_ITALIAN        "Premi ^3[{+activate}]^7 per attivare la lavatrice."
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire lo scudo zombi."
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la spingardatrice."
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per fare rifornimento all'aereo."
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per comprare Tommy Gun [costo: &&1]"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_ITALIAN        "Usa la scossa per sovraccaricare"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_ITALIAN        "Pezzo aggiunto all'aereo"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il Redentore infernale."
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_ITALIAN        "Rifornimento aereo completato"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_ITALIAN        "Premi ^3[{+attack}]^7 per dare la scossa."
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_ITALIAN        "Premi ^3[{+activate}]^7 per salire sull'aereo."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_ITALIAN        "Premi ^3[{+gostand}]^7 per levitare."
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per chiamare la gondola."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per entrare nell'Aldilà."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_ITALIAN        "Usa la scossa per attivare la corrente"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_ITALIAN        "Ti serve la chiave del direttore."
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_ITALIAN        "La porta ha bisogno di corrente"
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_ITALIAN        "Trappola acida non disponibile"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_ITALIAN        "Tieni premuto [{+activate}] per convertire la spingardatrice in spingacida."
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_ITALIAN        "Tieni premuto [{+activate}] per prendere la tua arma convertita."
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per comprare Ciliegia elettrica [costo: &&1]"
+
+REFERENCE           ZM_PRISON_BAD
+LANG_ITALIAN        "IL CICLO CONTINUA..."
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_ITALIAN        "Premi ^3[{+attack}]^7 per posizionare lo scudo"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_ITALIAN        "Premi ^3[{+melee}]^7 per attaccare con lo scudo"
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_ITALIAN        "Premi [{+actionslot 1}] o [{+actionslot 2}] per cambiare oggetto."
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_ITALIAN        "Premi ^3[{+smoke}]^7 per lanciare il Cacciatore infernale."
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_ITALIAN        "Scudo"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_ITALIAN        "IL CICLO È STATO SPEZZATO."
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_ITALIAN        "Kit spingacida"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_ITALIAN        "Pezzi dell'aereo"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_ITALIAN        "Premi ^3[{+activate}]^7 per attivare la sedia elettrica."
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_ITALIAN        "Premi ^3[{+activate}]^7 per avviare la sequenza di decollo."
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per aprire."
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_ITALIAN        "Trappola ventola non disponibile"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per attivare la trappola acida [costo: &&1]"
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per attivare la trappola torre [costo: &&1]"
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per usare la gondola [costo: &&1]"
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_ITALIAN        "La gondola ha bisogno di corrente"
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_ITALIAN        "La gondola si sta ricaricando"
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la spingacida."
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_ITALIAN        "Spingardatrice richiesta"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_ITALIAN        "Nessun aldilà"
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_ITALIAN        "VITA TERMINATA"
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_ITALIAN        "Stai già portando un pezzo."
+
+ENDMARKER

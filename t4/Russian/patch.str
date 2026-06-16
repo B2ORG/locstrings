@@ -1,0 +1,427 @@
+// Dumped from fastfile "patch".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PATCH_STATSERRORPRESTIGE
+LANG_ENGLISH        "Похоже, что данные о рейтинге для '&&4' повреждены. Ваш рейтинг был восстановлен по последнему резервному файлу: &&1 уровень - &&2 престиж - &&3."
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_A
+LANG_ENGLISH        "Бухта"
+
+REFERENCE           PATCH_STATSERROR
+LANG_ENGLISH        "Похоже, что данные о рейтинге для '&&4' повреждены. Ваш рейтинг был восстановлен по последнему резервному файлу: &&1 уровень - &&2."
+
+REFERENCE           PATCH_SUB_PENS
+LANG_ENGLISH        "Sub Pens"
+
+REFERENCE           PATCH_NOMAD
+LANG_ENGLISH        "НОМ4Д"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_A
+LANG_ENGLISH        "Причал"
+
+REFERENCE           PATCH_SCRIPTS_OUT_OF_DATE
+LANG_ENGLISH        "Сохраненные данные несовместимы с текущей версией игры. Вы можете начать последнюю миссию сначала или перейти в меню."
+
+REFERENCE           PATCH_DLC_MAP_PACK_3
+LANG_ENGLISH        "Третий набор карт"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_TEST
+LANG_ENGLISH        "Тестовая карта"
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED
+LANG_ENGLISH        "Гранатомет M7  "
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_B
+LANG_ENGLISH        "Двор"
+
+REFERENCE           PATCH_SYSTEMLINK_WARNING
+LANG_ENGLISH        "Для игры через System Link необходимо, чтобы у всех была одинаковая версия игры. Пожалуйста, подключитесь к Xbox LIVE, чтобы убедиться, что у вас установлено самое свежее обновление игры."
+
+REFERENCE           PATCH_SP_UNLOCK_DESC
+LANG_ENGLISH        "Доступ к этому совместному режиму есть в списках сетевых игр и из настроек закрытого матча."
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_COAST
+LANG_ENGLISH        "Берег мертвых"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_FACTORY
+LANG_ENGLISH        "Великан"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_D
+LANG_ENGLISH        "Бойлерная"
+
+REFERENCE           PATCH_TEAM_ALTERNATE_COLOR
+LANG_ENGLISH        "Альтернативная раскраска"
+
+REFERENCE           PATCH_SUBWAY
+LANG_ENGLISH        "Station"
+
+REFERENCE           PATCH_WRONGNETCODE
+LANG_ENGLISH        "Версии игры несовместимы для сетевой игры в данном режиме."
+
+REFERENCE           PATCH_PLAYER_DOESNT_HAVE_MAP_PACK
+LANG_ENGLISH        "&&2 недоступно!\n&&1 не имеет набора карт."
+
+REFERENCE           PATCH_MAKIN_BONUS_MAP
+LANG_ENGLISH        "Бонусная карта Makin"
+
+REFERENCE           PATCH_PTRS41_UPGRADED
+LANG_ENGLISH        "ПТРС-41"
+
+REFERENCE           PATCH_MAKIN_DAY
+LANG_ENGLISH        "Makin Day"
+
+REFERENCE           PATCH_MAKIN_DAY_CAPS
+LANG_ENGLISH        "MAKIN DAY"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_E
+LANG_ENGLISH        "Западная платформа"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_A
+LANG_ENGLISH        "Восточный район"
+
+REFERENCE           PATCH_LOADMOD_DEMO
+LANG_ENGLISH        "В этом демо-ролике используется модификация ^3&&1^7.\nДля просмотра необходимо загрузить эту модификацию."
+
+REFERENCE           PATCH_GET_DLC
+LANG_ENGLISH        "ЗАГРУЗИТЬ КАРТЫ"
+
+REFERENCE           PATCH_DLC_MAP_PACK_1
+LANG_ENGLISH        "Набор карт 1"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_C
+LANG_ENGLISH        "Мост"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_TEST_MAP
+LANG_ENGLISH        "Здесь вы можете выбрать все новые возможности!"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_PARIS
+LANG_ENGLISH        "Зомби в Париже"
+
+REFERENCE           PATCH_DLC_MAP_PACK_2
+LANG_ENGLISH        "Набор карт 2"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_ASYLUM
+LANG_ENGLISH        "Zombie Verrьckt"
+
+REFERENCE           PATCH_NAZI_ZOMBIES_CAP
+LANG_ENGLISH        "ЗОМБИ РЕЙХА"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_ASYLUM
+LANG_ENGLISH        "Электрошоковая терапия. Синтезированные химические напитки. Полчища нацистов-зомби. Отправьте их обратно в могилы!"
+
+REFERENCE           PATCH_KNEEDEEP
+LANG_ENGLISH        "Knee Deep"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_D
+LANG_ENGLISH        "Колодец"
+
+REFERENCE           PATCH_BGATE
+LANG_ENGLISH        "Breach"
+
+REFERENCE           PATCH_NACHTFEUER
+LANG_ENGLISH        "Nightfire"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_A
+LANG_ENGLISH        "Восточная платформа"
+
+REFERENCE           PATCH_KNEEDEEP_CAPS
+LANG_ENGLISH        "KNEE DEEP"
+
+REFERENCE           PATCH_SUBWAY_CAPS
+LANG_ENGLISH        "STATION"
+
+REFERENCE           PATCH_BGATE_CAPS
+LANG_ENGLISH        "BREACH"
+
+REFERENCE           PATCH_NACHTFEUER_CAPS
+LANG_ENGLISH        "NIGHTFIRE"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_D
+LANG_ENGLISH        "Бункер"
+
+REFERENCE           PATCH_CALLSIGN_KNEEDEEP_E
+LANG_ENGLISH        "Рисовое поле"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_B
+LANG_ENGLISH        "Ремонтная эстакада"
+
+REFERENCE           PATCH_CALLSIGN_SUBWAY_C
+LANG_ENGLISH        "Щебеночное полотно"
+
+REFERENCE           PATCH_DOWNLOADABLE_CONTENT_DAMAGED
+LANG_ENGLISH        "Загружаемый контент поврежден."
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_FACTORY
+LANG_ENGLISH        "Великан пробудился. Вам предстоит сразиться с зомби Рейха на их родной земле. Здесь все начиналось. Здесь все случилось. Закончится ли все здесь же?"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_A
+LANG_ENGLISH        "Депо"
+
+REFERENCE           PATCH_MG42_UPGRADED
+LANG_ENGLISH        "MG42"
+
+REFERENCE           PATCH_STALINGRAD_CAPS
+LANG_ENGLISH        "CORROSION"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_PARIS
+LANG_ENGLISH        "Зомби в Париже (описание)"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_B
+LANG_ENGLISH        "Поселок"
+
+REFERENCE           PATCH_ONLINE
+LANG_ENGLISH        "^2online^7"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_THEATER
+LANG_ENGLISH        "Театр зомби"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_THEATER
+LANG_ENGLISH        "Привет и добро пожаловать в новый эпизод увлекательной саги о зомби!"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_COAST
+LANG_ENGLISH        "Берег мертвых (описание)"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_B
+LANG_ENGLISH        "Нос субмарины"
+
+REFERENCE           PATCH_LEVEL_ZOMBIE_SUMPF
+LANG_ENGLISH        "Си-но-нума"
+
+REFERENCE           PATCH_STALINGRAD
+LANG_ENGLISH        "Corrosion"
+
+REFERENCE           PATCH_LEVEL_DESC_ZOM_SUMPF
+LANG_ENGLISH        "Гнилое болото. Разложившиеся трупы. И мертвая армия Рейха, тысячи их! Готовьтесь к бою до последней капли крови."
+
+REFERENCE           PATCH_BRANDENBURG
+LANG_ENGLISH        "Бранденбург"
+
+REFERENCE           PATCH_KWAI
+LANG_ENGLISH        "Banzai"
+
+REFERENCE           "PATCH_STG-44_UPGRADED"
+LANG_ENGLISH        "STG-44"
+
+REFERENCE           PATCH_BRANDENBURG_CAPS
+LANG_ENGLISH        "БРАНДЕНБУРГ"
+
+REFERENCE           PATCH_KWAI_CAPS
+LANG_ENGLISH        "BANZAI"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_D
+LANG_ENGLISH        "Корма субмарины"
+
+REFERENCE           PATCH_SUB_PENS_CAPS
+LANG_ENGLISH        "SUB PENS"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_B
+LANG_ENGLISH        "Завод"
+
+REFERENCE           PATCH_CALLSIGN_STALINGRAD_C
+LANG_ENGLISH        "Серное пятно"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_C
+LANG_ENGLISH        "Водопад"
+
+REFERENCE           PATCH_CALLSIGN_KWAI_E
+LANG_ENGLISH        "Западный район"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_C
+LANG_ENGLISH        "Ангар"
+
+REFERENCE           PATCH_CALLSIGN_DOCKS_E
+LANG_ENGLISH        "Оперативный пункт"
+
+REFERENCE           PATCH_360ONLY_MISSINGMAP
+LANG_ENGLISH        "У вас нет данной карты или контент поврежден. Вы можете загрузить наборы карт в магазине Xbox LIVE."
+
+REFERENCE           PATCH_MISSINGMAP
+LANG_ENGLISH        "У вас нет этой карты. Вы можете получить ее, загрузив наборы карт из магазина PlayStation®Store."
+
+REFERENCE           PATCH_PLAYLIST_REQUIRES_DLC
+LANG_ENGLISH        "Для данного списка игроков требуется набор карт, которого у вас нет. Вы можете загрузить наборы карт из магазина PlayStation®Store."
+
+REFERENCE           PATCH_UNHANDLEDEXCEPTION
+LANG_ENGLISH        "Ошибка чтения данных. Убедитесь, что все запоминающие устройства подключены правильно и диск с игрой не загрязнен."
+
+REFERENCE           PATCH_TESLA_GUN
+LANG_ENGLISH        "Сверхоружие DG-2"
+
+REFERENCE           PATCH_ZOMBIE_MAPS
+LANG_ENGLISH        "Зомби Рейха"
+
+REFERENCE           PATCH_ZOMBIE_MAPS_DESC
+LANG_ENGLISH        "Для игры в индивидуальном режиме нужно указать уровень зомби Рейха."
+
+REFERENCE           PATCH_CANNOT_FIND_ZONE
+LANG_ENGLISH        "Содержимое, которое вы хотите загрузить, не может быть найдено или расположено в недействительной области. Убедитесь, что ваш диск не поврежден и вы используете верные данные."
+
+REFERENCE           PATCH_30CAL_UPGRADED
+LANG_ENGLISH        "Browning M1919"
+
+REFERENCE           PATCH_BAR_UPGRADED
+LANG_ENGLISH        "BAR"
+
+REFERENCE           PATCH_COLT45_UPGRADED
+LANG_ENGLISH        "Кольт M1911"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_SAWED_GRIP_UPGRADED
+LANG_ENGLISH        "Обрез"
+
+REFERENCE           PATCH_SHOTGUN_DOUBLE_BARRELED_UPGRADED
+LANG_ENGLISH        "Двуствольное ружье"
+
+REFERENCE           PATCH_M1GARAND_UPGRADED
+LANG_ENGLISH        "M1 Garand"
+
+REFERENCE           PATCH_FG42_UPGRADED
+LANG_ENGLISH        "FG42"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_D
+LANG_ENGLISH        "Завод"
+
+REFERENCE           PATCH_GEWEHR43_UPGRADED
+LANG_ENGLISH        "Gewehr 43"
+
+REFERENCE           PATCH_M1A1CARBINE_UPGRADED
+LANG_ENGLISH        "M1A1 Карабин"
+
+REFERENCE           PATCH_RUSSIAN_HERO_DESC
+LANG_ENGLISH        "Посмотрите в глаза Николаю. Не можете? Сам Иосиф Виссарионович когда-то не выдержал. И все потому, что в глазах Коли плещется ничем не гасимая ненависть ко всему живому. У него в шкафу очень много скелетов - причем в буквальном смысле, и на некоторых еще осталась плоть.\n...\n До войны Николай сумел сделать хорошую карьеру по партийной линии, физически устраняя всех конкурентов и заключая выгодные браки. Удача изменила ему с последней, пятой женой, которая загадочным образом погибла от топора Николая. К сожалению, он не знал, что у нее был любовник из партийного аппарата. Дело замяли, но слухи о неуравновешенности и сумасшествии Николая дошли до самого товарища Сталина. Когда началась война, Белинского отправили на передовую и забыли, поставив на нем крест. Там он и прозябал несколько лет, оплакивая свою судьбу и заливая депрессию литрами водки. \n...\n Николай прекрасно владеет множеством видов вооружения (в том числе собственным перегаром). \n"
+
+REFERENCE           PATCH_MP40_UPGRADED
+LANG_ENGLISH        "MP40"
+
+REFERENCE           PATCH_PPSH_UPGRADED
+LANG_ENGLISH        "ППШ-41"
+
+REFERENCE           PATCH_SHOTGUN_UPGRADED
+LANG_ENGLISH        "Траншейное ружье M1897"
+
+REFERENCE           PATCH_357MAGNUM_UPGRADED
+LANG_ENGLISH        ".357 Magnum"
+
+REFERENCE           PATCH_THOMPSON_UPGRADED
+LANG_ENGLISH        "Thompson"
+
+REFERENCE           PATCH_TYPE100_SMG_UPGRADED
+LANG_ENGLISH        "Type 100"
+
+REFERENCE           PATCH_TYPE99_RIFLE_UPGRADED
+LANG_ENGLISH        "Arisaka"
+
+REFERENCE           PATCH_PANZERSCHREK_UPGRADED
+LANG_ENGLISH        "Панцершрек"
+
+REFERENCE           PATCH_RAY_GUN_UPGRADED
+LANG_ENGLISH        "Лучевое оружие  "
+
+REFERENCE           PATCH_TESLA_GUN_UPGRADED
+LANG_ENGLISH        "Сверхоружие DG-2  "
+
+REFERENCE           PATCH_M2_FLAMETHROWER_UPGRADED
+LANG_ENGLISH        "Огнемет M2  "
+
+REFERENCE           PATCH_KAR98K_UPGRADED
+LANG_ENGLISH        "Kar98k  "
+
+REFERENCE           PATCH_M7_LAUNCHER_UPGRADED_NONADE
+LANG_ENGLISH        "Гранатомет M7  "
+
+REFERENCE           PATCH_JAPANESE_HERO_NAME
+LANG_ENGLISH        "Такео Масаки"
+
+REFERENCE           PATCH_HERO_BIO_CAP
+LANG_ENGLISH        "БИОГРАФИИ"
+
+REFERENCE           PATCH_AMERICAN_HERO_DESC
+LANG_ENGLISH        "Танк Демпси - герой Америки. Для счастья ему нужны три вещи: заряженная пушка, хорошая баба и то, по чему можно пострелять. Но если кто-то его разозлит, Демпси выпустит этому \"кому-то\" кишки и намотает на себя вместо патронташа.\n...\n Демпси заметили и выбрали для этого задания после битвы за Пелелиу. Его отряд вел разведку перед началом вторжения основных сил, был обнаружен, уничтожен, а сам Демпси захвачен в плен, где провел две недели в кишащей крысами бамбуковой клетке. Выбрался он, разгрызя клетку и буквально перегрызя солдат врага, - из оружия при нем были лишь заколка для волос и орден Почета, которые он тщательно прятал в различных полостях тела.  \n...\nТакого, как он, не было ни до войны, ни после. Настоящий герой!\n"
+
+REFERENCE           PATCH_AMERICAN_HERO_NAME
+LANG_ENGLISH        "Танк Демпси"
+
+REFERENCE           PATCH_RUSSIAN_HERO_NAME
+LANG_ENGLISH        "Николай Белинский"
+
+REFERENCE           PATCH_JAPANESE_HERO_DESC
+LANG_ENGLISH        "Для Такео жизнь без служения, дисциплины и оттачивания мастества не имеет смысла. Настоящий воин презирает тех, кто цепляется за жизнь. Настоящий воин живет ради служения. Настоящий воин не думает - он действует, и катана его разит врагов без пощады и сожаления. \n...\nТакео родился в богатой семье, корни которой уходят на много веков вглубь истории, в клане самураев и настоящих буси. Уже в возрасте пяти лет он проявил первые зачатки будущего великого воина. Родители сразу поняли, что сын их далеко пойдет, когда увидели, как малолетний Такео ловко справлялся с соседскими кошками с помощью катаны. Ему было суждено принести славу дому Масаки. \n...\nВойна дала Такео отличный шанс найти славу и еще лучше изучить всех этих червей, не могущих сравниться по чести с кланом Масаки. Если вас убил Такео, можете быть уверены - вы помогли высшему и лучшему достичь очередной ступени на пути к совершенству.\n"
+
+REFERENCE           PATCH_GERMAN_HERO_NAME
+LANG_ENGLISH        "Доктор Рихтгофен"
+
+REFERENCE           PATCH_GERMAN_HERO_DESC
+LANG_ENGLISH        "Бойтесь Доктора. Эту фразу можно найти на каждой стене любого из городов стран Оси. Голод, дизентерия, расстрелы - все это просто детские шалости по сравнению с Доктором. Бойтесь его. \n...\n Познакомьтесь с Доктором - милейшим человеком, прозванным Мясником за то, что он обычно вытворяет с \"пациентами\". Доктора Рихтгофена всегда интересовали только пытки и способы насильственного получения информации. Неизлечимый психопат, в принципе не способный понять разницу между естественной смертью и убийством. \n...\nУ доктора Рихтгофена есть коллекция чучел животных, запечатленных в миг до смерти.\n"
+
+REFERENCE           PATCH_DRUM
+LANG_ENGLISH        "Battery"
+
+REFERENCE           PATCH_DRUM_CAPS
+LANG_ENGLISH        "BATTERY"
+
+REFERENCE           PATCH_VODKA
+LANG_ENGLISH        "Revolution"
+
+REFERENCE           PATCH_VODKA_CAPS
+LANG_ENGLISH        "REVOLUTION"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_A
+LANG_ENGLISH        "Улица"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_B
+LANG_ENGLISH        "Двор"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_C
+LANG_ENGLISH        "Сторожка"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_D
+LANG_ENGLISH        "Парк"
+
+REFERENCE           PATCH_CALLSIGN_BGATE_E
+LANG_ENGLISH        "Стоянка"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_A
+LANG_ENGLISH        "Воронка"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_B
+LANG_ENGLISH        "Батарея Е"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_C
+LANG_ENGLISH        "Столовая"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_D
+LANG_ENGLISH        "Вышка"
+
+REFERENCE           PATCH_CALLSIGN_DRUM_E
+LANG_ENGLISH        "Кран"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_A
+LANG_ENGLISH        "Склад"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_B
+LANG_ENGLISH        "Балкон"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_C
+LANG_ENGLISH        "Перегонный цех"
+
+REFERENCE           PATCH_CALLSIGN_VODKA_E
+LANG_ENGLISH        "Погрузочный док"
+
+REFERENCE           PATCH_SERVER_AUTHFAIL
+LANG_ENGLISH        "Ошибка авторизации сервера. Повторите попытку."
+
+REFERENCE           PATCH_BROUGHT_TO_YOU
+LANG_ENGLISH        "Brought to you by..."
+
+REFERENCE           PATCH_UNLOADMOD
+LANG_ENGLISH        "На этом сервере не поддерживается выбранная модификация.\nОтключите модификацию перед присоединением к серверу."
+
+REFERENCE           PATCH_ADD_CURRENT_SERVER_TO_FAVORITES
+LANG_ENGLISH        "Добавить сервер в избранное"
+
+REFERENCE           PATCH_OFFLINE
+LANG_ENGLISH        "^1offline^7"
+
+ENDMARKER

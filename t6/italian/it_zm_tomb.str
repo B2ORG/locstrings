@@ -1,0 +1,244 @@
+// Dumped from fastfile "it_zm_tomb".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_TOMB_SHAG
+LANG_ITALIAN        "Puoi portare solo una pala."
+
+REFERENCE           ZM_TOMB_EHT
+LANG_ITALIAN        "Premi ^3[{+activate}]^7 per uscire dalla testa del robot."
+
+REFERENCE           ZM_TOMB_BOR
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per raccogliere il parafulmine."
+
+REFERENCE           ZM_TOMB_PUIS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per scambiare con il bastone del Ghiaccio."
+
+REFERENCE           ZM_TOMB_PERK_ONEINCH
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per comprare Pugno a un pollice [costo: &&1]"
+
+REFERENCE           ZM_TOMB_NS
+LANG_ITALIAN        "Ti serve una pala per scavare"
+
+REFERENCE           ZM_TOMB_PUAS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per scambiare con il bastone del Vento."
+
+REFERENCE           ZM_TOMB_PUFS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per scambiare con il bastone del Fuoco."
+
+REFERENCE           ZM_TOMB_ZOMBIE_STAFF_PICKUP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per il bastone."
+
+REFERENCE           ZM_TOMB_DIHO
+LANG_ITALIAN        "Premi ^3[{+actionslot 1}]^7 per usare il drone Maxis."
+
+REFERENCE           ZM_TOMB_X2D
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per scavare."
+
+REFERENCE           ZM_TOMB_PULS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per scambiare con il bastone del Fulmine."
+
+REFERENCE           ZM_TOMB_TELEPORT_BUY
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per accedere al teletrasporto [costo: &&1]"
+
+REFERENCE           ZM_TOMB_GREL
+LANG_ITALIAN        "Il grammofono non è qui"
+
+REFERENCE           ZM_TOMB_X2CT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per richiedere il carro [costo: &&1]."
+
+REFERENCE           ZM_TOMB_QUADROTOR
+LANG_ITALIAN        "Drone Maxis"
+
+REFERENCE           ZM_TOMB_RU
+LANG_ITALIAN        "Disco corretto non disponibile"
+
+REFERENCE           ZM_TOMB_CH1
+LANG_ITALIAN        "Uccidi 115 zombi normali con colpi alla testa"
+
+REFERENCE           ZM_TOMB_RPP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per bere Perk-a-Cola."
+
+REFERENCE           ZM_TOMB_CRS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il bastone."
+
+REFERENCE           ZM_TOMB_INLS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per inserire il bastone del Fulmine"
+
+REFERENCE           ZM_TOMB_PLAY_RECORD
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per riprodurre il disco."
+
+REFERENCE           ZM_TOMB_PUGR
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il grammofono."
+
+REFERENCE           ZM_TOMB_PLGR
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per piazzare il grammofono."
+
+REFERENCE           ZM_TOMB_CRF
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il bastone del Fuoco."
+
+REFERENCE           ZM_TOMB_RPE
+LANG_ITALIAN        "Il globo Wunderfizz si trova in un'altra posizione."
+
+REFERENCE           ZM_TOMB_X2PU
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per &&1."
+
+REFERENCE           ZM_TOMB_X2AT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per attivare il carro [costo: &&1]."
+
+REFERENCE           ZM_TOMB_INAS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per inserire il bastone del Vento."
+
+REFERENCE           ZM_TOMB_INFS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per inserire il bastone del Fuoco"
+
+REFERENCE           ZM_TOMB_RPB
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per comprare Perk-a-Cola [costo: &&1]"
+
+REFERENCE           ZM_TOMB_CRA
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il bastone del Vento."
+
+REFERENCE           ZM_TOMB_CRB
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il trasmettitore artiglieria a ricerca."
+
+REFERENCE           ZM_TOMB_INWS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per inserire il bastone del Ghiaccio"
+
+REFERENCE           ZM_TOMB_INS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per inserire il cristallo elementale."
+
+REFERENCE           ZM_TOMB_CRRO
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il parafulmine."
+
+REFERENCE           ZM_TOMB_CH3
+LANG_ITALIAN        "Spendi 30.000 punti"
+
+REFERENCE           ZM_TOMB_CRQ
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il drone Maxis."
+
+REFERENCE           ZM_TOMB_ZC
+LANG_ITALIAN        "Devi attivare la corrente"
+
+REFERENCE           ZM_TOMB_CAP
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per dare corrente all'area usando il convertitore 115 [costo: &&1]"
+
+REFERENCE           ZM_TOMB_CRRI
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire lo scudo zombi."
+
+REFERENCE           ZM_TOMB_TAKE_BEACON
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il trasmettitore artiglieria a ricerca."
+
+REFERENCE           ZM_TOMB_TQ
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il drone Maxis."
+
+REFERENCE           ZM_TOMB_BOF
+LANG_ITALIAN        "Hai ricevuto il bastone del Fuoco"
+
+REFERENCE           ZM_TOMB_PRESS_X_TO_TELEPORT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per espellerti."
+
+REFERENCE           ZM_TOMB_DIHS
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere il drone Maxis."
+
+REFERENCE           ZM_TOMB_CRW
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il bastone del Ghiaccio."
+
+REFERENCE           ZM_TOMB_CRL
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per costruire il bastone del Fulmine."
+
+REFERENCE           ZM_TOMB_BOW
+LANG_ITALIAN        "Hai ricevuto il bastone del Ghiaccio"
+
+REFERENCE           ZM_TOMB_BOL
+LANG_ITALIAN        "Hai ricevuto il bastone del Fulmine"
+
+REFERENCE           ZM_TOMB_ZCIP
+LANG_ITALIAN        "Uno dei convertitori 115 sta venendo acceso"
+
+REFERENCE           ZM_TOMB_BOA
+LANG_ITALIAN        "Hai ricevuto il bastone del Vento"
+
+REFERENCE           ZM_TOMB_PUCT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la tavoletta."
+
+REFERENCE           ZM_TOMB_EQUIPMENT
+LANG_ITALIAN        "Parti musicali"
+
+REFERENCE           ZM_TOMB_STAFF_PARTS
+LANG_ITALIAN        "Parti del bastone"
+
+REFERENCE           ZM_TOMB_ZOMBIE_SHIELD
+LANG_ITALIAN        "Scudo zombi"
+
+REFERENCE           ZM_TOMB_SHPU
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la pala."
+
+REFERENCE           ZM_TOMB_TNKC
+LANG_ITALIAN        "Il motore del carro si sta raffreddando"
+
+REFERENCE           ZM_TOMB_ZONE_RECAPTURE_IN_PROGRESS
+LANG_ITALIAN        "Uno dei convertitori 115 sta venendo attaccato"
+
+REFERENCE           ZM_TOMB_QUADROTOR_IN_USE
+LANG_ITALIAN        "Drone Maxis in uso"
+
+REFERENCE           ZM_TOMB_OSO
+LANG_ITALIAN        "Puoi portare solo un bastone"
+
+REFERENCE           ZM_TOMB_TNKM
+LANG_ITALIAN        "Il carro è in movimento."
+
+REFERENCE           ZM_TOMB_CH_V
+LANG_ITALIAN        "Vai alle medaglie per visualizzare la sfida."
+
+REFERENCE           ZM_TOMB_CH2
+LANG_ITALIAN        "Cattura 6 convertitori"
+
+REFERENCE           ZM_TOMB_TELE
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per accedere al teletrasporto."
+
+REFERENCE           ZM_TOMB_RPU
+LANG_ITALIAN        "Devi attivare la corrente"
+
+REFERENCE           ZM_TOMB_CHT
+LANG_ITALIAN        "Riempi completamente 4 casse"
+
+REFERENCE           ZM_TOMB_X2ATF
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per attivare il carro."
+
+REFERENCE           ZM_TOMB_PUBT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la tavoletta.\n"
+
+REFERENCE           ZM_TOMB_RPT
+LANG_ITALIAN        "Puoi portare al massimo &&1 specialità"
+
+REFERENCE           ZM_TOMB_PLBT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per piazzare la tavoletta."
+
+REFERENCE           ZM_TOMB_PLCT
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per piazzare la tavoletta."
+
+REFERENCE           ZM_TOMB_RECAPTURE_LOCK
+LANG_ITALIAN        "Difendi i convertitori dagli attacchi."
+
+REFERENCE           ZM_TOMB_CH_G
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per prendere la ricompensa."
+
+REFERENCE           ZM_TOMB_CH_S
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per scegliere questa ricompensa."
+
+REFERENCE           ZM_TOMB_CH_O
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per aprire la scatola."
+
+REFERENCE           ZM_TOMB_MAXIS_AUDIOLOG
+LANG_ITALIAN        "Tieni premuto ^3[{+activate}]^7 per riprodurre la registrazione."
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_ITALIAN        "Premi [{+actionslot 1}] o [{+actionslot 2}] per cambiare oggetto."
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_ITALIAN        "Stai già portando un pezzo."
+
+ENDMARKER

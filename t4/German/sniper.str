@@ -1,0 +1,58 @@
+// Dumped from fastfile "sniper".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SNIPER_OBJ_1
+LANG_ENGLISH        "Bleiben Sie bei Sgt. Reznov."
+
+REFERENCE           SNIPER_HINT_CROUCH
+LANG_ENGLISH        "Drücken Sie [{+stance}], um sich zu ducken."
+
+REFERENCE           SNIPER_OBJ_2
+LANG_ENGLISH        "Schalten Sie alle Deutschen auf der Straße aus."
+
+REFERENCE           SNIPER_OBJ_3
+LANG_ENGLISH        "Folgen Sie Sgt. Reznov."
+
+REFERENCE           SNIPER_OBJ_5
+LANG_ENGLISH        "Unterstützen Sie Ihre Leute als Scharfschütze."
+
+REFERENCE           SNIPER_INTROSCREEN_DATE
+LANG_ENGLISH        "17. September 1942"
+
+REFERENCE           SNIPER_INTROSCREEN_PLACE
+LANG_ENGLISH        "Stalingrad, Russland"
+
+REFERENCE           SNIPER_OBJ_6
+LANG_ENGLISH        "Schalten Sie General Amsel aus."
+
+REFERENCE           SNIPER_INTROSCREEN_INFO
+LANG_ENGLISH        "Pvt. Petrenko"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO2
+LANG_ENGLISH        "62. Armee"
+
+REFERENCE           SNIPER_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Der Auftrag'"
+
+REFERENCE           SNIPER_OBJ_4
+LANG_ENGLISH        "Schalten Sie den feindlichen Scharfschützen aus."
+
+REFERENCE           SNIPER_TO_BE_CONTINUED
+LANG_ENGLISH        "Fortsetzung folgt ..."
+
+REFERENCE           SNIPER_GENERAL_ESCAPED
+LANG_ENGLISH        "Der General ist entkommen."
+
+REFERENCE           SNIPER_REZNOV_KILLED
+LANG_ENGLISH        "Durch Sie ist Reznov gefallen."
+
+REFERENCE           SNIPER_JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           SNIPER_EASY_PRONE_DESC
+LANG_ENGLISH        "Drücken Sie [{goprone}] zum Hinlegen"
+
+ENDMARKER

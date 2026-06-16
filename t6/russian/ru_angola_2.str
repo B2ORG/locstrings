@@ -1,0 +1,835 @@
+// Dumped from fastfile "ru_angola_2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_027A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7Blow those... out of the water!"
+
+REFERENCE           ANGOLA_2_CHASE_BOAT_FAIL
+LANG_RUSSIAN        "Лодка взорвалась."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_074A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Здесь оставаться нельзя! Надо уходить!"
+
+REFERENCE           ANGOLA_2_BEARTRAP_HELPER
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы выбрать капкан"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_007A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Прикрой нас!"
+
+REFERENCE           ANGOLA_2_WOODS_KILLED
+LANG_RUSSIAN        "Вудс погиб от рук врага"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_RUSSIAN        "Искать"
+
+REFERENCE           ANGOLA_2_ESCAPE_JUNGLE
+LANG_RUSSIAN        "Скрыться в джунглях"
+
+REFERENCE           ANGOLA_2_PLAYER_COVER_BROKEN_SPOTTED
+LANG_RUSSIAN        "Пригибайтесь и пользуйтесь укрытиями, чтобы оставаться незамеченным"
+
+REFERENCE           ANGOLA_2_MEATSHIELD_FAILURE
+LANG_RUSSIAN        "Станьте поближе к заложнику, чтобы враг не смог в вас попасть."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_059A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Это еще не конец!"
+
+REFERENCE           ANGOLA_2_PERK_FLAK_JACKET
+LANG_RUSSIAN        "Саперный жилет защищает от взрывов"
+
+REFERENCE           ANGOLA_2_PRIME_BEARTRAP_WITH_MORTAR
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы заложить в капкан минометный снаряд"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_KEEP_UP_WITH_HUDSON
+LANG_RUSSIAN        "Держитесь рядом с Хадсоном чтобы обойти патрули"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_024A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Эх, блин..."
+
+REFERENCE           ANGOLA_2_SWIMMING
+LANG_RUSSIAN        "Удерживайте ^3[{+back}]^7 чтобы плыть"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_026A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7В каком смысле?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_067A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, по моей команде."
+
+REFERENCE           ANGOLA_2_MISSION_FAILED_LOST_CONTACT_WITH_HUDSON
+LANG_RUSSIAN        "Задание провалено: Потеряна связь с Хадсоном."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_019A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не высовывай свою бошку."
+
+REFERENCE           ANGOLA_2_STAY_IN_COVER_CHILD_SOLDIERS_AROUND
+LANG_RUSSIAN        "Мэйсон, не выходи из кустов, повсюду дети с оружием"
+
+REFERENCE           ANGOLA_2_DEFEND_POSITION
+LANG_RUSSIAN        "Защищать точку"
+
+REFERENCE           ANGOLA_2_EXIT_VILLAGE_CANT_FIND_HUDSON
+LANG_RUSSIAN        "Не удалось отыскать в лесу Хадсона и Вудса"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_008A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс еле ноги передвигает! Придется держать оборону!"
+
+REFERENCE           ANGOLA_2_TOW_INSTRUCTION
+LANG_RUSSIAN        "Наводите ракету с помощью ^3[{+lookstick}]^7"
+
+REFERENCE           ANGOLA_2_PLAYER_COVER_BROKEN_CROUCHED
+LANG_RUSSIAN        "Не получилось остаться в укрытии. Не вставайте."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_042A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Сюда."
+
+REFERENCE           ANGOLA_2_STEALTH_MASON_USE_GRASS_AS_COVER
+LANG_RUSSIAN        "Нажмите ^3[{+stance}]^7 чтобы пригнуться"
+
+REFERENCE           ANGOLA_2_STEALTH_MASON_USE_GRASS_AS_COVER_PC
+LANG_RUSSIAN        "Нажмите ^3[{gocrouch}]^7 чтобы пригнуться"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_038A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Трупы уже начали разлагаться. Они мертвы уже несколько недель."
+
+REFERENCE           ANGOLA_2_LOCATE_CONVOY
+LANG_RUSSIAN        "Найдите лодочный конвой и определите его точные координаты"
+
+REFERENCE           ANGOLA_2_NEUTRALIZE_ESCORT
+LANG_RUSSIAN        "Уничтожьте отряд МПЛА на палубе баржи."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_004A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7Mason, behind us!"
+
+REFERENCE           ANGOLA_2_DESTROY_PATROL_BOAT
+LANG_RUSSIAN        "Разберитесь с маленькими патрульными катерами, охраняющими баржу.  [&&1 из 4]"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_065A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Я с ним разберусь. Веди Вудса в укрытие!"
+
+REFERENCE           ANGOLA_2_DESTROY_AA_GUN
+LANG_RUSSIAN        "Нейтрализуйте зенитные установки на средних лодках.  [&&1 из 8]"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_028A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7We got a Hind right on us!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_020A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7По обоим бортам баржи стоят пулеметы!"
+
+REFERENCE           ANGOLA_2_TRUCK_DESTROY
+LANG_RUSSIAN        "Грузовики уничтожены. Старайтесь не зацепить грузовик, стреляя из гранатомета."
+
+REFERENCE           ANGOLA_2_RPG_TRIGGER
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7, чтобы восполнить боезапас"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_015A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Продолжать огонь, Хадсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_034A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Хватай гранатомет!"
+
+REFERENCE           ANGOLA_2_OPEN_TRUCK_DOOR
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           ANGOLA_2_TOW_INSTRUCTION_WIIU_REMOTE
+LANG_RUSSIAN        "Используйте ^3[{+movestick}]^7 для управления ракетой"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_039A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7We're going down!"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_RUSSIAN        "Отключить"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_023A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Ну же, давай!"
+
+REFERENCE           ANGOLA_2_SECURE_THE_BARGE
+LANG_RUSSIAN        "Захватить баржу и спасти Вудса"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_023A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай."
+
+REFERENCE           ANGOLA_2_SEARCH_WOODS_TRUCK
+LANG_RUSSIAN        "Обыскать контейнер"
+
+REFERENCE           ANGOLA_2_TAKE_OUT_HIND
+LANG_RUSSIAN        "Сбить Ми-24 с помощью установки Валькирия"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_065A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7На палубе чисто!"
+
+REFERENCE           ANGOLA_2_RADIO_FOR_EXTRACTION
+LANG_RUSSIAN        "Добраться до деревни и вызвать эвакуацию"
+
+REFERENCE           ANGOLA_2_DONT_GET_DISCOVERED
+LANG_RUSSIAN        "Не дать себя обнаружить"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_068A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хватай Вудса!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_010A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вудс! Ты там, брат?"
+
+REFERENCE           ANGOLA_2_MEATSHIELD_ADS
+LANG_RUSSIAN        "Нажмите ^3[{+speed_throw}]^7 чтобы стать поближе к заложнику."
+
+REFERENCE           ANGOLA_2_FIND_RADIO
+LANG_RUSSIAN        "Войти в деревню и найти рацию"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_016A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Прыгай, Мэйсон! Прыгай!"
+
+REFERENCE           ANGOLA_2_OBJ_MENENDEZ_MEATSHIELD
+LANG_RUSSIAN        "Обезопасить себя от атакующих, использовав Менендеса в качестве живого щита"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_RUSSIAN        "Спуститься"
+
+REFERENCE           ANGOLA_2_OVERPOWER_RADIO_OP
+LANG_RUSSIAN        "Подойти и нейтрализовать оператора радиостанции"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_RUSSIAN        "Боеприпасы"
+
+REFERENCE           ANGOLA_2_APPROACH_HUT_WINDOW
+LANG_RUSSIAN        "Подойдите к окну радиостанции"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_036A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Полети ближе!"
+
+REFERENCE           ANGOLA_2_EXIT_INTO_FOREST
+LANG_RUSSIAN        "Уйдите из деревни в лес"
+
+REFERENCE           ANGOLA_2_RSTICK_MEATSHIELD
+LANG_RUSSIAN        "При помощи ^3[{+lookstick}]^7 вы можете поворачиваться и защищаться от атак."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_043A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7We got gunboats right on our tail!"
+
+REFERENCE           ANGOLA_2_UNJAM_GUN
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы устранить неполадку оружия"
+
+REFERENCE           ANGOLA_2_ABANDON
+LANG_RUSSIAN        "Вы бросили Хадсона и Вудса, что привело к их смерти"
+
+REFERENCE           ANGOLA_2_FAIL_RADIO
+LANG_RUSSIAN        "Вы упустили возможность вызвать эвакуацию"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_018A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вот так... Медленно и спокойно."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_057A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7В любой момент, Хадсон!"
+
+REFERENCE           ANGOLA_2_FALL_BACK_TO_RIVER
+LANG_RUSSIAN        "Отступать к реке"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_VILLAGE
+LANG_RUSSIAN        "Найдите радиостанцию не потревожив охранников"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_AFTER_LOG
+LANG_RUSSIAN        "Прячьтесь в кустах чтобы укрыться от патрулей"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_07_003A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Баржа соответствует описанию Савимби.  Вудс должен быть там."
+
+REFERENCE           ANGOLA_2_FAIL_ABANDON
+LANG_RUSSIAN        "Вы бросили свой отряд"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_028A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Черт!  К нам приближается вертушка!"
+
+REFERENCE           ANGOLA_2_HINT_AMMO
+LANG_RUSSIAN        "Пополнение боезапаса"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Подхожу к конвою."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_015A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Твою ж мать! Мы под сильным огнем!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_015A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7Taking fire!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_034A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Избавься от них, Мэйсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_039A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Черт! Ракета!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_006A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Очистить палубу!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_043A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Слишком много катеров по нашу душу!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_015A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Это же просто дети..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_055A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Они пристраиваются сбоку"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_046A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Я позабочусь о Вудсе."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_006A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Продолжать огонь!  Не пускать их на борт!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_081A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Не смей сдаваться, Хадсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_027A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Катера нас догоняют!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_032A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Бей по ним всем, что есть!"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_RUSSIAN        "Защищайте"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_054A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Не отвлекайся от катеров!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_064A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, Мэйсон.  Открывай."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_054A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7Keep fire on those gunboats!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_071A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Надо уходить, немедленно!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_080A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7They've spotted us, Mason!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_033A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Твою ж мать!  Идут на абордаж!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_080A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Черт!  Нас заметили, Мэйсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_033A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7They're boarding us!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_080A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Мы еще успеем!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_016A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Идем."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_056A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7У нас на борту МПЛА!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_048A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Они уже на палубе!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_060A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Враг на борту! Верхняя палуба!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_019A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Нас догоняют!  Надо выиграть время!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_061A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Враги на нижней палубе!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_031A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Открывай контейнер."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_044A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Я с ними разберусь!  Зачисти верхнюю палубу!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_062A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Так, Мэйсон.  Все чисто."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_007A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Захвати судно!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_058A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не могу открыть!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_044A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Твою ж мать! Мы сели на мель!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_012A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Помоги-ка мне, Мэйсон."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_009A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс должен быть здесь."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_037A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7О господи..."
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_RUSSIAN        "Рукопаш."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_014A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вудс?.."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_015A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Фрэнк?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_066A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Ладно... По моему сигналу бежим к деревянному дому."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_048A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Фрэнк!  Это я, Мэйсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_027A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс!!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_061A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, Вудс. Надо уходить."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_066A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Живо Вудса в укрытие!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_067A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, Вудс!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_006A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Да их тут половина полка."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_029A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Сбей его!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_042A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не ящик, а золотая жила! Хватай гранатомет!"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_RUSSIAN        "Использовать"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_030A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Сбей этот вертолет, Мэйсон!"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_RUSSIAN        "Сесть"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_030A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Ждем."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_044A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7We've run aground!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_045A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Вудс тонет, Мэйсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_046A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Я займусь им!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_047A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давай, Фрэнк. Я с тобой."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_021A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Что они с ним сделали, Хадсон?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_022A_MASO_M
+LANG_RUSSIAN        "^1Мэйсон: ^7На такое способен только конченый псих."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_001A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мы наверняка привлекли внимание всех солдат МПЛА в этом районе."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Надо уходить."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_006A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, Вудс, я помогу."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_007A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Я тебя держу, брат."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_010A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Стоим."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_013A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай за то бревно."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_078A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Твою мать, Мэйсон.  Не высовывайся."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_083A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Какого черта тут кубинцы забыли?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_041A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Ну...  Он с нами, Мэйсон."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_078A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7Mason, keep your head down."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_083A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7What are Cubans doing here?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_020A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не шевелись.  Пусть пройдут."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_025A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не отставать."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_029A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не шевелись.  Еще один патруль."
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_RUSSIAN        "Цель"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_084A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Хорошо... Не высовывайся из травы."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_033A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не отставай."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_085A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Оставаться на месте.  Они прямо перед нами."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_075A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Так, все чисто.  Выходи из травы."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_040A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Мэйсон!  Ты куда собрался?!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_077A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Не высовываться!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_048A_CUB0_D
+LANG_RUSSIAN        "^1Кубинский солдат: ^7От поисковых отрядов так и нет ни слова."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_087A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Ты выживешь, Фрэнк."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_043A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Впереди деревня.  Антенна означает, что у них есть рация."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_044A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Можно связаться с Савимби и вызвать подмогу."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_039A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Будь осторожен.  Постарайся не привлекать внимание."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_088A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Это нам точно пригодится."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_001A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7В последней партии недостача."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_014A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Я предупреждаю."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_002A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7В том смысле, что не хватает 40 реактивных снарядов."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_003A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Я дела веду только с теми, кому можно верить, Кравченко."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_004A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Тебе напомнить, что бывает с теми, кто меня подводит?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_027A_KRAV_D
+LANG_RUSSIAN        "^1Кравченко: ^7Афганские моджахеды отказываются сотрудничать.  С муллой Рахманом все непросто."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_005A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Мулла Рахман... Местная политика не должна тебя волновать."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_006A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Он всего лишь пешка... Как и ты."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_007A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Делай, как тебе велят."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_008A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Делай то, что я тебе велю, или ты труп...  Настрой частоту на..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_024A_MENE_D
+LANG_RUSSIAN        "^1Менендес: ^7Ты меня убьешь, да?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_056A_CUB1_D
+LANG_RUSSIAN        "^1Кубинский солдат: ^7Убирайтесь оттуда!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_049A_CUB0_M
+LANG_RUSSIAN        "^1Кубинский солдат: ^7Черт!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_050A_CUB0_D
+LANG_RUSSIAN        "^1Кубинский солдат: ^7Американец!  Давай сюда!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_066A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Их слишком много!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_051A_CUB0_D
+LANG_RUSSIAN        "^1Кубинский солдат: ^7Отпустите его!  Отпустите его!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_052A_CHI0_D
+LANG_RUSSIAN        "^1Спецназ НОА: ^7Что происходит?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_001A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Хадсон!  Выдвигаемся!  Давай на берег!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_053A_CUB1_D
+LANG_RUSSIAN        "^1Кубинский солдат: ^7Назад."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_054A_CHI0_D
+LANG_RUSSIAN        "^1Спецназ НОА: ^7Пропустите меня, я хочу посмотреть!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_067A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Надо отступать, Мэйсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_055A_CUB1_D
+LANG_RUSSIAN        "^1Кубинский солдат: ^7Я сказал - назад."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_025A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Ни шагу, или этой мрази конец!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_025A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7No one move, or this... gets it!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_011A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Заткнись."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_012A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Опустить оружие!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_035A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Нет..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_013A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Я сказал, опустить оружие!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_015A_MASO_M
+LANG_RUSSIAN        "^1Мэйсон: ^7Богом клянусь, я его прикончу."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_025A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Заткнись, Хадсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_015A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7I swear... I'll kill this..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_016A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Вот так."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_017A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Ладно... Спокойно."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_020A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Заткнись, сказал!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_023A_MASO_M
+LANG_RUSSIAN        "^1Мейсон: ^7Ах ты зараза..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_023A_MASO_S
+LANG_RUSSIAN        "^1Mason: ^7NO!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_002A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Подмогу вызвал?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_045A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Нет!  Мы сами по себе!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_046A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Давай к реке!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_004A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Твою мать, Мейсон!  С тыла!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_059A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Хватай Вудса!  Я их задержу!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_005A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Нас преследуют кубинские солдаты!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_006A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7What happened back there??"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_076A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Беги, Мэйсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_016A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Вудса в укрытие!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_037A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7No way out."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_009A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Займи позицию на браконьерских площадках!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_011A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Поднимись наверх и прикрывай нас."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_048A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Установи ловушки. Надо их задержать!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_050A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Надо уходить, Хадсон!  Бросай дымовую!"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_RUSSIAN        "Уничтожить"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_051A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Дым пошел!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_020A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Он у меня, идем!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_052A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Они подошли вплотную!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_053A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Их слишком много!  Придется держать оборону!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_057A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7В Вудса стреляют!  Помоги ему, Мэйсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_086A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Вудса в укрытие!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_087A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Они не отстают!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_058A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Придется бежать к реке, Хадсон!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_060A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Бросаю дым!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_014A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Давай... Живо!!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_027A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Я тебя держу, брат."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_063A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Зараза!!!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_013A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Все еще идут!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_070A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Нельзя останавливаться!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_072A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Здесь оставаться нельзя!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_062A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Не останавливайся!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_073A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, Мэйсон! Уходи!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_075A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Они быстро приближаются! Уходим!"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_RUSSIAN        "Взять"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_055A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Задержи их! Надо защитить Вудса!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_056A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Он легкая мишень!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_026A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Давай, уходим!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_064A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Грузовик у водопада!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_030A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Минометный огонь!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_077A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7На берегу есть катер! Живее!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_078A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Давай, Фрэнк.  Мы выберемся отсюда."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_079A_MASO_D
+LANG_RUSSIAN        "^1Мэйсон: ^7Хадсон.  Назад!"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_036A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Долбаные русские..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_036A_HUDS_S
+LANG_RUSSIAN        "^1Hudson: ^7Russians..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_037A_HUDS_M
+LANG_RUSSIAN        "^1Хадсон: ^7Зараза.  Выхода нет."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_038A_HUDS_D
+LANG_RUSSIAN        "^1Хадсон: ^7Что за...?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_039A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Думали, я вас брошу, да?"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_040A_SAVI_D
+LANG_RUSSIAN        "^1Савимби: ^7Давайте! Быстрее."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_043A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Меня хрен убьешь."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_044A_MASO_D
+LANG_RUSSIAN        "^1Мейсон: ^7Рад тебя видеть, Вудс."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_082A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Меня хрен убьешь..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_083A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Благодаря твоему отцу.  Он всем рискнул ради меня..."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_084A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Ради дружбы и чести."
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_085A_WOOD_D
+LANG_RUSSIAN        "^1Вудс: ^7Да, совсем как ты, пацан."
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_RUSSIAN        "Следовать"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_RUSSIAN        "Поддержка"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_RUSSIAN        "ЗАЩИЩАТЬ"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_RUSSIAN        "Перегруппируйтесь"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_RUSSIAN        "Убить"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_RUSSIAN        "Штурмовать"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_RUSSIAN        "Стрелять"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_RUSSIAN        "Вскрыть"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_RUSSIAN        "Прыгнуть"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_RUSSIAN        "Взорвите"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_RUSSIAN        "Помогите"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_RUSSIAN        "Прочесать"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_RUSSIAN        "Очистить"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_RUSSIAN        "Забраться"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_RUSSIAN        "Оружие"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_RUSSIAN        "Сопровождать"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_RUSSIAN        "Приближаются (вертолеты)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_RUSSIAN        "Приближаются (танки)"
+
+ENDMARKER

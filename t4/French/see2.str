@@ -1,0 +1,73 @@
+// Dumped from fastfile "see2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SEE2_REJOIN_ARMY
+LANG_ENGLISH        "Rejoignez le régiment principal de l'Armée Russe."
+
+REFERENCE           SEE2_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Sang et fer\""
+
+REFERENCE           SEE2_ADVANCE_TOWARDS_SEELOW
+LANG_ENGLISH        "Avancez vers Seelow."
+
+REFERENCE           SEE2_DESTROY_SURVIVING_TANKS
+LANG_ENGLISH        "Détruisez les derniers chars."
+
+REFERENCE           SEE2_INTROSCREEN_NAME
+LANG_ENGLISH        "Sol. Petrenko"
+
+REFERENCE           SEE2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Sur les hauteurs de Seelow, Allemagne"
+
+REFERENCE           SEE2_ASSAULT_THE_TOWN
+LANG_ENGLISH        "Attaquez la ville."
+
+REFERENCE           SEE2_INTROSCREEN_INFO
+LANG_ENGLISH        "1ère armée de choc"
+
+REFERENCE           SEE2_INTROSCREEN_DATE
+LANG_ENGLISH        "16 avril 1945"
+
+REFERENCE           SEE2_COMMANDEER_THE_TIGER
+LANG_ENGLISH        "Réquisitionnez le char Tigre."
+
+REFERENCE           SEE2_DESTROY_INCOMING_PANTHER
+LANG_ENGLISH        "Détruisez les chars Panther en approche."
+
+REFERENCE           SEE2_CLEAR_TRAIN_AREA
+LANG_ENGLISH        "Détruisez les chars ennemis autour du train."
+
+REFERENCE           SEE2_DESTROY_ARTILLERY
+LANG_ENGLISH        "Neutralisez l'artillerie ennemie (reste &&1)."
+
+REFERENCE           SEE2_PROCEED_RADIOTOWER
+LANG_ENGLISH        "Allez à la Tour-radio."
+
+REFERENCE           SEE2_DESTROY_RADIOTOWER
+LANG_ENGLISH        "Détruisez la Tour-radio."
+
+REFERENCE           SEE2_ADVANCE_TIGER_SEELOW
+LANG_ENGLISH        "Avancez vers Seelow à l'aide d'un char Tigre."
+
+REFERENCE           SEE2_BREAK_THE_LINE
+LANG_ENGLISH        "Percez la ligne allemande et atteignez la gare."
+
+REFERENCE           SEE2_SCOUT_AHEAD
+LANG_ENGLISH        "Partez en reconnaissance pour trouver les ennemis qui battent en retraite"
+
+REFERENCE           SEE2_DESTROY_FUELCACHES
+LANG_ENGLISH        "Détruisez les réserves de carburant"
+
+REFERENCE           SEE2_ADS_HINT
+LANG_ENGLISH        "Appuyez sur [{+speed_throw}] pour observer les cibles au loin"
+
+REFERENCE           SEE2_FLAMETHROWER_HINT
+LANG_ENGLISH        "Appuyez sur [{+frag}] pour tirer au lance-flammes"
+
+REFERENCE           SEE2_MG_COOP_HINT
+LANG_ENGLISH        "Appuyez sur [{+frag}] pour tirer à la mitrailleuse."
+
+ENDMARKER

@@ -1,0 +1,925 @@
+// Dumped from fastfile "ru_ui_zm".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED_DESC
+LANG_RUSSIAN        "Модификатор скорости перепрыгивания игрока через объекты."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_CAPS
+LANG_RUSSIAN        "ИЗМЕНИТЬ КОМПЛЕКТ"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT
+LANG_RUSSIAN        "Загружен свой режим"
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_DESC
+LANG_RUSSIAN        "Модифицирует темп стрельбы оружия игрока."
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED
+LANG_RUSSIAN        "ВОССТАНОВЛЕНИЕ ПОСЛЕ УДАРА НОЖОМ"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_PRO
+LANG_RUSSIAN        "ПЕРКИ-ПРО"
+
+REFERENCE           CUSTOM_FAST
+LANG_RUSSIAN        "БЫСТР."
+
+REFERENCE           CUSTOM_BOMB_TIMER
+LANG_RUSSIAN        "ТАЙМЕР БОМБЫ"
+
+REFERENCE           CUSTOM_PERK_ROF_DESC
+LANG_RUSSIAN        "Модификатор скорострельности оружия."
+
+REFERENCE           CUSTOM_OPT_HARDCORE_DESC
+LANG_RUSSIAN        "Включение и отключение хардкорного режима. Хардкор: ограниченный интерфейс, более мощное оружие, включен огонь по своим."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_8
+LANG_RUSSIAN        "8 СЕКУНД"
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК ТВЕРДАЯ РУКА"
+
+REFERENCE           CUSTOM_PERK_KNIFE_WORK_DESC
+LANG_RUSSIAN        "Настройка модификатора скорости работы ножом."
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME_DESC
+LANG_RUSSIAN        "Модификатор скорости перезарядки оружия."
+
+REFERENCE           CUSTOM_PERK_STEADY_AIM_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО ТВЕРДАЯ РУКА"
+
+REFERENCE           CUSTOM_CLASS_INCORRECT
+LANG_RUSSIAN        "Требуется как минимум по одному классу для каждой из сторон"
+
+REFERENCE           CUSTOM_PERK_RELOAD_TIME
+LANG_RUSSIAN        "ВРЕМЯ ПЕРЕЗАРЯДКИ"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY_DESC
+LANG_RUSSIAN        "Игроки возродятся с общей волной. Если задана задержка возрождения, игроку придется подождать указанное время."
+
+REFERENCE           CUSTOM_PERK_SCOUT_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК РАЗВЕДЧИК"
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО ЛОВКОСТЬ РУК"
+
+REFERENCE           CUSTOM_PERK_ROF
+LANG_RUSSIAN        "ТЕМП СТРЕЛЬБЫ"
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_DESC
+LANG_RUSSIAN        "Настройка уровня здоровья и количества жизней игрока."
+
+REFERENCE           CUSTOM_PERK_DOUBLE_TAP_TITLE
+LANG_RUSSIAN        "ИЗМЕНИТЬ ПЕРК ДВОЙНОЙ ВЫСТРЕЛ"
+
+REFERENCE           CUSTOM_PERK_EDITOR_DESC
+LANG_RUSSIAN        "Включение и отключение перков, а также настройка их параметров."
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES
+LANG_RUSSIAN        "СВОИ КЛАССЫ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_6_CAPS
+LANG_RUSSIAN        "6 ФЛАГОВ"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED_DESC
+LANG_RUSSIAN        "Коэффициент, влияющий на скорость перемещения игрока."
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON_DESC
+LANG_RUSSIAN        "Противники всегда отображаются на радаре."
+
+REFERENCE           CUSTOM_PERK_SLEIGHT_OF_HAND_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК ЛОВКОСТЬ РУК"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT
+LANG_RUSSIAN        "МОДИФИКАТОР ВРЕМЕНИ БЕГА"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER
+LANG_RUSSIAN        "ТАЙМЕР САМОУНИЧТОЖЕНИЯ RC-XD"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_85
+LANG_RUSSIAN        "0,85 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_PERK_SCOUT_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО РАЗВЕДЧИК"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME
+LANG_RUSSIAN        "ВРЕМЯ ЗАДЕРЖКИ ДЫХАНИЯ"
+
+REFERENCE           CUSTOM_PERK_MOVE_SPEED
+LANG_RUSSIAN        "КОЭФФИЦИЕНТ СКОРОСТИ ПЕРЕМЕЩЕНИЯ"
+
+REFERENCE           CUSTOM_RADAR_ALWAYS_ON
+LANG_RUSSIAN        "ПОСТОЯННЫЙ РАДАР"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_15
+LANG_RUSSIAN        "15 СЕКУНД"
+
+REFERENCE           CUSTOM_PERK_EXTRA_BREATH_TIME_DESC
+LANG_RUSSIAN        "Время (в секундах), на которое игрок может задерживать дыхание."
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DISABLED_DESC
+LANG_RUSSIAN        "Создание пользовательских классов для вашего режима. Вы сможете использовать редактор классов, если выбрано \"Свои классы\"."
+
+REFERENCE           CUSTOM_OPT_KILLCAM
+LANG_RUSSIAN        "ПОВТОРЫ УБИЙСТВ"
+
+REFERENCE           CUSTOM_FILESHARE_CGM_HIGHLIGHTED
+LANG_RUSSIAN        "Выбор этого режима со всеми его собственными настройками для проведения игры."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION_DESC
+LANG_RUSSIAN        "Количество убийств, на которое уменьшается каждая серия."
+
+REFERENCE           CUSTOM_FILESHARE_CANT_SELECT
+LANG_RUSSIAN        "Вы можете выбирать только сохраненные режимы игры."
+
+REFERENCE           CUSTOM_FILESHARE_UPLOAD
+LANG_RUSSIAN        "Сохранение в \"Общие файлы\" завершено"
+
+REFERENCE           CUSTOM_CUSTOMIZED_CAPS
+LANG_RUSSIAN        "ОСОБОЕ"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING
+LANG_RUSSIAN        "БРОНЕБОЙНОСТЬ"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DESC
+LANG_RUSSIAN        "Время, на которое продлевается игра после подрыва ключевого объекта. При отсутствии лимита времени этот параметр недоступен."
+
+REFERENCE           CUSTOM_PERK_MARATHON_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК МАРАФОН"
+
+REFERENCE           CUSTOM_PERK_SPRINT_MULT_DESC
+LANG_RUSSIAN        "Модификатор, определяющий, сколько секунд может бежать боец."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION
+LANG_RUSSIAN        "УМЕНЬШЕНИЕ УРОНА ОТ ОГНЯ"
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME
+LANG_RUSSIAN        "ВРЕМЯ ИСТЕЧЕНИЯ КРОВЬЮ"
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК ВТОРОЙ ШАНС"
+
+REFERENCE           CUSTOM_SAVE_CHANGES
+LANG_RUSSIAN        "СОХРАНИТЬ В \"ОБЩИЕ ФАЙЛЫ\""
+
+REFERENCE           CUSTOM_PERK_SECOND_CHANCE_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО ВТОРОЙ ШАНС"
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_DESC
+LANG_RUSSIAN        "Длительность отсчета перед началом игры."
+
+REFERENCE           CUSTOM_PERK_FIREPROOF_REDUCTION_DESC
+LANG_RUSSIAN        "Процент, на который уменьшается получаемый игроком урон от огня."
+
+REFERENCE           CUSTOM_PERK_BLEEDOUT_TIME_DESC
+LANG_RUSSIAN        "Время (в секундах), за которое боец истечет кровью после ранения. И умрет."
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME
+LANG_RUSSIAN        "СКОРОСТЬ РЕАНИМАЦИИ"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК ЛЕГКОВЕС"
+
+REFERENCE           CUSTOM_PERK_LIGHTWEIGHT_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО ЛЕГКОВЕС"
+
+REFERENCE           CUSTOM_PERK_REVIVE_TIME_DESC
+LANG_RUSSIAN        "Время (в секундах), нужное для реанимации игрока."
+
+REFERENCE           CUSTOM_VALUE_FLAGS_3_CAPS
+LANG_RUSSIAN        "3 ФЛАГА"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD
+LANG_RUSSIAN        "КУЧНОСТЬ СТРЕЛЬБЫ"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SPREAD_DESC
+LANG_RUSSIAN        "Процент разброса при стрельбе из данного оружия (чем ниже процент, тем выше кучность)."
+
+REFERENCE           CUSTOM_PERK_KILLSTREAK_REDUCTION
+LANG_RUSSIAN        "УМЕНЬШЕНИЕ СЕРИЙ"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО САПЕРНЫЙ ЖИЛЕТ"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК БОЕГОТОВНОСТЬ"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК ЗАКАЛЕННЫЙ"
+
+REFERENCE           CUSTOM_PERK_DEEP_IMPACT_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО ЗАКАЛЕННЫЙ"
+
+REFERENCE           CUSTOM_OPT_HEADSHOT_ONLY_DESC
+LANG_RUSSIAN        "При включенном параметре пулевое оружие наносит урон только при попадании в голову. Урон от холодного оружия, наград за серии и взрывов наносится как обычно."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED_DESC
+LANG_RUSSIAN        "Коэффициент увеличения скорости прицеливания."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО УПРЯМЕЦ"
+
+REFERENCE           CUSTOM_ENABLE_PERKS_CAPS
+LANG_RUSSIAN        "РАЗРЕШИТЬ ПЕРКИ"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION
+LANG_RUSSIAN        "ПРОБИВНАЯ СПОСОБНОСТЬ"
+
+REFERENCE           CUSTOM_PERK_BULLET_PENETRATION_DESC
+LANG_RUSSIAN        "Коэффициент пробивной способности пуль."
+
+REFERENCE           CUSTOM_PERK_ADS_SPEED
+LANG_RUSSIAN        "УСКОРЕНИЕ ПРИЦЕЛИВАНИЯ"
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED
+LANG_RUSSIAN        "СКОРОСТЬ СМЕНЫ ОРУЖИЯ"
+
+REFERENCE           CUSTOM_PERK_ARMOR_PIERCING_DESC
+LANG_RUSSIAN        "Дополнительный урон, наносимый летательным аппаратам и стационарным орудиям."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_35
+LANG_RUSSIAN        "35 СЕКУНД"
+
+REFERENCE           CUSTOM_PERK_HIGH_ALERT_DESC
+LANG_RUSSIAN        "Регулировка коэффициента скорости прицеливания."
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT_DESC
+LANG_RUSSIAN        "Настройка профессиональных перков из этой ячейки."
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК САПЕРНЫЙ ЖИЛЕТ"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION
+LANG_RUSSIAN        "УРОН ОТ ВЗРЫВА"
+
+REFERENCE           CUSTOM_PERK_FLAK_JACKET_REDUCTION_DESC
+LANG_RUSSIAN        "Процент, на который уменьшается полученный урон от взрывов."
+
+REFERENCE           CUSTOM_PERK_HARDLINE_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК УПРЯМЕЦ"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК БЫСТРОЕ ПЕРЕКЛЮЧЕНИЕ"
+
+REFERENCE           CUSTOM_PERK_QUICK_SWAP_DESC
+LANG_RUSSIAN        "Коэффициент скорости смены оружия."
+
+REFERENCE           CUSTOM_PERK_WEAPON_SWITCH_SPEED_DESC
+LANG_RUSSIAN        "Модификатор скорости смены оружия."
+
+REFERENCE           CUSTOM_PERK_MANTLE_SPEED
+LANG_RUSSIAN        "СКОРОСТЬ ПЕРЕПРЫГИВАНИЯ"
+
+REFERENCE           CUSTOM_PERK_KNIFE_RECOVERY_SPEED_DESC
+LANG_RUSSIAN        "Модификатор скорости восстановления после удара ножом."
+
+REFERENCE           CUSTOM_PERK_HACKER_PRO_TITLE
+LANG_RUSSIAN        "МОДИФИЦИРОВАТЬ ПЕРК-ПРО ХАКЕР"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED
+LANG_RUSSIAN        "СКОРОСТЬ ВЗАИМОДЕЙСТВИЯ"
+
+REFERENCE           CUSTOM_PERK_INTERACT_SPEED_DESC
+LANG_RUSSIAN        "Модификатор скорости взаимодействия."
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED
+LANG_RUSSIAN        "СКОРОСТЬ РЕГЕНЕРАЦИИ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_35
+LANG_RUSSIAN        "1,35 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_PERK_HEALTH_REGEN_SPEED_DESC
+LANG_RUSSIAN        "Модификатор скорости регенерации здоровья."
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED_DESC
+LANG_RUSSIAN        "Скорость перемещения для данного класса."
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION
+LANG_RUSSIAN        "СНИЖЕНИЕ УРОНА"
+
+REFERENCE           CUSTOM_MOVEMENT_SPEED
+LANG_RUSSIAN        "СКОРОСТЬ ПЕРЕМЕЩЕНИЯ"
+
+REFERENCE           CUSTOM_PERK_DAMAGE_KICK_REDUCTION_DESC
+LANG_RUSSIAN        "Модификатор (в процентном отношении) снижения урона."
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION
+LANG_RUSSIAN        "ОБЛЕГЧЕНИЕ КОНТУЗИИ"
+
+REFERENCE           CUSTOM_PERK_SHELL_SHOCK_REDUCTION_DESC
+LANG_RUSSIAN        "Модификатор (в процентном отношении) снижения эффектов от контузии."
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE
+LANG_RUSSIAN        "УРОН ОТ ПАДЕНИЯ"
+
+REFERENCE           CUSTOM_PERK_FALL_DAMAGE_DESC
+LANG_RUSSIAN        "Высота, при падении с которой игрок начинает получать урон."
+
+REFERENCE           CUSTOM_PERK_SLOT_HINT
+LANG_RUSSIAN        "Изменения распространяются на все перки в вашей игре."
+
+REFERENCE           CUSTOM_PERK_SLOT_DESC
+LANG_RUSSIAN        "Настройка перков, связанных с этой ячейкой."
+
+REFERENCE           CUSTOM_PERK_NO_EDIT_DESC
+LANG_RUSSIAN        "Для этой возможности не предусмотрено изменяемых параметров."
+
+REFERENCE           CUSTOM_DAMAGE_DESC
+LANG_RUSSIAN        "Изменение урона, наносимого бойцами данного класса."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_15
+LANG_RUSSIAN        "0,15 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_35
+LANG_RUSSIAN        "0,35 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_5
+LANG_RUSSIAN        "0,5 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_POINT_65
+LANG_RUSSIAN        "0,65 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS
+LANG_RUSSIAN        "БОНУС ЗА ЛИДЕРСТВО"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1
+LANG_RUSSIAN        "1 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_15
+LANG_RUSSIAN        "1,15 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_65
+LANG_RUSSIAN        "1,65 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_85
+LANG_RUSSIAN        "1,85 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2
+LANG_RUSSIAN        "2 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3
+LANG_RUSSIAN        "3 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_4
+LANG_RUSSIAN        "4 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_5
+LANG_RUSSIAN        "5 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_6
+LANG_RUSSIAN        "6 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_7
+LANG_RUSSIAN        "7 СЕКУНД"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DISABLED_DESC
+LANG_RUSSIAN        "Автовозрождение всегда включено, если указано время задержки возрождения."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_9
+LANG_RUSSIAN        "9 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_10
+LANG_RUSSIAN        "10 СЕКУНД"
+
+REFERENCE           CUSTOM_NUM_KILLS_THIS_KILLSTREAK_DESC
+LANG_RUSSIAN        "Эта награда уже выбрана для этой серии убийств"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_20
+LANG_RUSSIAN        "20 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_25
+LANG_RUSSIAN        "25 СЕКУНД"
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE
+LANG_RUSSIAN        "ОЧКИ ЗА САМОУБИЙСТВА"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_30
+LANG_RUSSIAN        "30 СЕКУНД"
+
+REFERENCE           CUSTOM_OPT_HARDCORE
+LANG_RUSSIAN        "ХАРДКОРНЫЙ РЕЖИМ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_40
+LANG_RUSSIAN        "40 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_45
+LANG_RUSSIAN        "45 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_50
+LANG_RUSSIAN        "50 СЕКУНД"
+
+REFERENCE           CUSTOM_WAVE_RESPAWN_DELAY
+LANG_RUSSIAN        "ЗАДЕРЖКА МЕЖДУ ВОЛНАМИ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_55
+LANG_RUSSIAN        "55 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_60
+LANG_RUSSIAN        "60 СЕКУНД"
+
+REFERENCE           CUSTOM_VALUE_KILLS_1
+LANG_RUSSIAN        "1 УБИЙСТВО"
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS_DESC
+LANG_RUSSIAN        "Количество очков, начисляемых за попадание в голову."
+
+REFERENCE           CUSTOM_ROUND_LIMIT_DESC
+LANG_RUSSIAN        "Количество раундов до завершения игры."
+
+REFERENCE           CUSTOM_VALUE_KILLS_2
+LANG_RUSSIAN        "2 УБИЙСТВА"
+
+REFERENCE           CUSTOM_VALUE_KILLS_3
+LANG_RUSSIAN        "3 УБИЙСТВА"
+
+REFERENCE           CUSTOM_VALUE_100_PER_DEFAULT
+LANG_RUSSIAN        "100% (ПО УМОЛЧАНИЮ)"
+
+REFERENCE           CUSTOM_REVERT_TO_DEFAULT
+LANG_RUSSIAN        "ПО УМОЛЧАНИЮ"
+
+REFERENCE           CUSTOM_GAME_TIME_LIMIT_DESC
+LANG_RUSSIAN        "Длительность раунда (в минутах)."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME_DESC
+LANG_RUSSIAN        "Время, в течение которого штаб остается функционировать."
+
+REFERENCE           CUSTOM_GAME_SCORE_LIMIT_DESC
+LANG_RUSSIAN        "Кол-во очков, которые нужно набрать до окончания раунда."
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_CAPS
+LANG_RUSSIAN        "ПАРАМЕТРЫ РЕЖИМА"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_CAPS
+LANG_RUSSIAN        "ОБЩИЕ НАСТРОЙКИ"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_CAPS
+LANG_RUSSIAN        "РЕДАКТОР КЛАССОВ"
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR
+LANG_RUSSIAN        "РЕДАКТОР СЕРИЙ УБИЙСТВ"
+
+REFERENCE           CUSTOM_OPT_HEADSHOTS_ONLY
+LANG_RUSSIAN        "ТОЛЬКО ХЭДШОТЫ"
+
+REFERENCE           CUSTOM_PERK_EDITOR_CAPS
+LANG_RUSSIAN        "РЕДАКТОР ПЕРКОВ"
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CAPS
+LANG_RUSSIAN        "ОТМЕНИТЬ ИЗМЕНЕНИЯ"
+
+REFERENCE           CUSTOM_SAVE_DESC
+LANG_RUSSIAN        "Сохранить изменения режима игры?"
+
+REFERENCE           CUSTOM_EXTRA_TIME_DISABLED_DESC
+LANG_RUSSIAN        "Вы не можете указать дополнительное время при отсутствии лимита времени."
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_3
+LANG_RUSSIAN        "3 РАУНДА"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_5
+LANG_RUSSIAN        "5 РАУНДОВ"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_7
+LANG_RUSSIAN        "7 РАУНДОВ"
+
+REFERENCE           CUSTOM_VALUE_ROUNDS_9
+LANG_RUSSIAN        "9 РАУНДОВ"
+
+REFERENCE           CUSTOM_CLASS_EDITOR_DESC
+LANG_RUSSIAN        "Создание классов для вашего режима."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_CAPS
+LANG_RUSSIAN        "ЛИМИТ ЗАХВАТОВ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_1_CAPS
+LANG_RUSSIAN        "1 ФЛАГ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_2_CAPS
+LANG_RUSSIAN        "2 ФЛАГА"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_4_CAPS
+LANG_RUSSIAN        "4 ФЛАГА"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_8_CAPS
+LANG_RUSSIAN        "8 ФЛАГОВ"
+
+REFERENCE           CUSTOM_VALUE_FLAGS_10_CAPS
+LANG_RUSSIAN        "10 ФЛАГОВ"
+
+REFERENCE           CUSTOM_OPT_KILLCAM_DESC
+LANG_RUSSIAN        "Включение и отключение повтора смерти."
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT
+LANG_RUSSIAN        "БЕГ"
+
+REFERENCE           CUSTOM_OPT_ALLOW_SPRINT_DESC
+LANG_RUSSIAN        "Включение и отключение возможности бега."
+
+REFERENCE           CUSTOM_OPT_SPECTATE
+LANG_RUSSIAN        "ЗРИТЕЛИ"
+
+REFERENCE           CUSTOM_OPT_SPECTATE_DESC
+LANG_RUSSIAN        "Настройка параметров режима наблюдателя."
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS
+LANG_RUSSIAN        "ПАРАМЕТРЫ ВОЗРОЖДЕНИЯ"
+
+REFERENCE           CUSTOM_RESPAWN_OPTIONS_DESC
+LANG_RUSSIAN        "Настройка параметров возрождения для данного режима игры."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS
+LANG_RUSSIAN        "ПАРАМЕТРЫ ЖИЗНЕЙ И ЗДОРОВЬЯ"
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES_DESC
+LANG_RUSSIAN        "Количество жизней игрока."
+
+REFERENCE           CUSTOM_LIVES_AND_HEALTH_OPTIONS_CAPS
+LANG_RUSSIAN        "ПАРАМЕТРЫ ЖИЗНЕЙ И ЗДОРОВЬЯ"
+
+REFERENCE           CUSTOM_TEAM_OPTIONS
+LANG_RUSSIAN        "ПАРАМЕТРЫ КОМАНДЫ"
+
+REFERENCE           CUSTOM_HEALTH_REGEN_CUSTOM_DESC
+LANG_RUSSIAN        "Скорость восстановления здоровья раненых бойцов."
+
+REFERENCE           CUSTOM_TEAM_OPTIONS_DESC
+LANG_RUSSIAN        "Настройка параметров команды для данного режима игры."
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS
+LANG_RUSSIAN        "ЗРИТЕЛЬСКИЕ ПАРАМЕТРЫ"
+
+REFERENCE           CUSTOM_FFA_SPECTATE_OPTIONS_DESC
+LANG_RUSSIAN        "Настройка зрительских параметров для этого режима игры."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY
+LANG_RUSSIAN        "ЗАДЕРЖКА ВОЗРОЖДЕНИЯ"
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_DESC
+LANG_RUSSIAN        "Выберите свой режим игры из \"Общих файлов\"."
+
+REFERENCE           CUSTOM_RESPAWN_DELAY_DESC
+LANG_RUSSIAN        "Время (в секундах) от смерти до возрождения игрока."
+
+REFERENCE           CUSTOM_RULES_FORCE_RESPAWN
+LANG_RUSSIAN        "ПРИНУД. ВОЗРОЖДЕНИЕ"
+
+REFERENCE           CUSTOM_REDUCED
+LANG_RUSSIAN        "СНИЖЕНО"
+
+REFERENCE           CUSTOM_FORCE_RESPAWN_DESC
+LANG_RUSSIAN        "Если этот параметр включен, возрождение игрока происходит автоматически. Если указано время задержки возрождения, параметр включен всегда."
+
+REFERENCE           CUSTOM_NUMBER_OF_LIVES
+LANG_RUSSIAN        "ЧИСЛО ЖИЗНЕЙ"
+
+REFERENCE           CUSTOM_MAX_HEALTH
+LANG_RUSSIAN        "МАКС. ЗДОРОВЬЕ"
+
+REFERENCE           CUSTOM_ROUND_SWITCH
+LANG_RUSSIAN        "СМЕНА РАУНДА"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DESC
+LANG_RUSSIAN        "Запас здоровья бойцов.  Если разрешены свои классы, этот параметр недоступен."
+
+REFERENCE           CUSTOM_HEALTH_REGEN
+LANG_RUSSIAN        "ВОССТАНОВЛЕНИЕ ЗДОРОВЬЯ"
+
+REFERENCE           CUSTOM_MAX_HEALTH_DISABLED_DESC
+LANG_RUSSIAN        "Максимальное здоровье не может быть изменено при использовании своих классов."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DESC
+LANG_RUSSIAN        "Скорость восстановления здоровья раненых бойцов. Если разрешены свои классы, этот параметр недоступен."
+
+REFERENCE           CUSTOM_HEALTH_REGEN_DISABLED_DESC
+LANG_RUSSIAN        "Скорость восстановления здоровья не может быть изменена при использовании своих классов."
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE
+LANG_RUSSIAN        "УРОН СВОИМ"
+
+REFERENCE           CUSTOM_FRIENDLY_FIRE_DESC
+LANG_RUSSIAN        "Включение и отключение возможности огня по своим."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_CAPS
+LANG_RUSSIAN        "ЛИМИТ ВЫИГРАННЫХ РАУНДОВ"
+
+REFERENCE           CUSTOM_CTF_IDLE_FLAG_RETURN_TIME_DESC
+LANG_RUSSIAN        "Время (в секундах), по истечении которого брошенный флаг возвращается на базу. Если время не ограничено, флаг возвращается при касании."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_1_POINT_5
+LANG_RUSSIAN        "1,5 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_NUM_KILLS_IN_USE_DESC
+LANG_RUSSIAN        "Для этого числа убийств уже выбрана другая награда."
+
+REFERENCE           CUSTOM_CTF_ENEMY_CARRIER_VISIBLE_DESC
+LANG_RUSSIAN        "Позволяет включать и отключать отображение противника, бегущего с флагом. Выберите параметр \"С задержкой\", чтобы обновлять сведения о противнике через некоторый промежуток времени."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DESC
+LANG_RUSSIAN        "При включенном параметре флаг будет возвращаться на базу, как только его коснется игрок своей команды."
+
+REFERENCE           CUSTOM_CTF_TOUCH_RETURN_DISABLED_DESC
+LANG_RUSSIAN        "Если время не ограничено, флаг возвращается при касании."
+
+REFERENCE           CUSTOM_TDM_HEADSHOT_BONUS
+LANG_RUSSIAN        "БОНУС ЗА ХЕДШОТЫ"
+
+REFERENCE           CUSTOM_ROUND_LIMIT
+LANG_RUSSIAN        "ЛИМИТ РАУНДОВ"
+
+REFERENCE           CUSTOM_ROUND_SWITCH_DESC
+LANG_RUSSIAN        "Количество раундов до смены сторон."
+
+REFERENCE           CUSTOM_CTF_CAPTURE_LIMIT_DESC
+LANG_RUSSIAN        "Кол-во флагов, которые нужно захватить до окончания раунда."
+
+REFERENCE           CUSTOM_BOMB_TIMER_DESC
+LANG_RUSSIAN        "Время, через которое бомба взорвется."
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME
+LANG_RUSSIAN        "ВРЕМЯ УСТАНОВКИ"
+
+REFERENCE           CUSTOM_BOMB_PLANT_TIME_DESC
+LANG_RUSSIAN        "Время, требуемое на установку бомбы."
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME
+LANG_RUSSIAN        "ВРЕМЯ ОБЕЗВРЕЖИВАНИЯ"
+
+REFERENCE           CUSTOM_BOMB_DEFUSE_TIME_DESC
+LANG_RUSSIAN        "Время, требуемое на обезвреживание установленной бомбы."
+
+REFERENCE           CUSTOM_HQ_HOLD_TIME
+LANG_RUSSIAN        "ДОСТУПНОСТЬ ШТАБА"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY
+LANG_RUSSIAN        "ЗАДЕРЖКА АКТИВАЦИИ ШТАБА"
+
+REFERENCE           CUSTOM_HQ_RESPAWN_DELAY_DESC
+LANG_RUSSIAN        "Время ожидания перед выбором нового штаба."
+
+REFERENCE           CUSTOM_CLASSIC_HQ
+LANG_RUSSIAN        "КЛАССИЧЕСКИЙ \"ШТАБ\""
+
+REFERENCE           CUSTOM_CLASSIC_HQ_DESC
+LANG_RUSSIAN        "Классический режим \"Штаб\"."
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER
+LANG_RUSSIAN        "ОБЩИЙ ТАЙМЕР БОМБЫ"
+
+REFERENCE           CUSTOM_SHARE_BOMB_TIMER_DESC
+LANG_RUSSIAN        "При выбранном параметре таймер взрыва продолжит отсчет даже после разминирования."
+
+REFERENCE           CUSTOM_MULTI_BOMB
+LANG_RUSSIAN        "НЕСКОЛЬКО БОМБ"
+
+REFERENCE           CUSTOM_MULTI_BOMB_DESC
+LANG_RUSSIAN        "Возможность применять несколько бомб одновременно."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DISABLED_DESC
+LANG_RUSSIAN        "Редактирование наград за серии убийств. При включении данного параметра вы сможете использовать редактор серий убийств."
+
+REFERENCE           CUSTOM_ROUND_WIN_LIMIT_DESC
+LANG_RUSSIAN        "Количество раундов, победа в которых необходима для выигрыша в бою."
+
+REFERENCE           CUSTOM_HEALTH
+LANG_RUSSIAN        "ЗДОРОВЬЕ"
+
+REFERENCE           CUSTOM_ALLOW_PLAYER_CLASSES_CAPS
+LANG_RUSSIAN        "РАЗРЕШИТЬ СВОИ КЛАССЫ"
+
+REFERENCE           CUSTOM_CUSTOM_CLASSES_CAPS
+LANG_RUSSIAN        "СВОИ КЛАССЫ"
+
+REFERENCE           CUSTOM_ALL
+LANG_RUSSIAN        "ВСЕ"
+
+REFERENCE           CUSTOM_ALLIES
+LANG_RUSSIAN        "СОЮЗНИКИ"
+
+REFERENCE           CUSTOM_SPRINT_SPEED
+LANG_RUSSIAN        "СКОРОСТЬ БЕГА"
+
+REFERENCE           CUSTOM_TITLE
+LANG_RUSSIAN        "НАЗВ."
+
+REFERENCE           CUSTOM_DAMAGE
+LANG_RUSSIAN        "УРОН"
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT
+LANG_RUSSIAN        "ИЗМЕНИТЬ КОМПЛЕКТ"
+
+REFERENCE           CUSTOM_HEALTH_REGENERATION
+LANG_RUSSIAN        "ВОССТ. ЗДОРОВЬЯ"
+
+REFERENCE           CUSTOM_VAMPIRISM
+LANG_RUSSIAN        "ВАМПИРИЗМ"
+
+REFERENCE           CUSTOM_GAME_MODE_OPTIONS_DESC
+LANG_RUSSIAN        "Настройка особых параметров вашего режима игры."
+
+REFERENCE           CUSTOM_NORMAL
+LANG_RUSSIAN        "НОРМ."
+
+REFERENCE           CUSTOM_VERY_SLOW
+LANG_RUSSIAN        "ОЧЕНЬ МЕДЛЕННО"
+
+REFERENCE           CUSTOM_LOAD_ERROR
+LANG_RUSSIAN        "Ошибка при загрузке режима игры."
+
+REFERENCE           CUSTOM_SLOW
+LANG_RUSSIAN        "МЕДЛЕННО"
+
+REFERENCE           CUSTOM_VERY_FAST
+LANG_RUSSIAN        "ОЧЕНЬ БЫСТРО"
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE
+LANG_RUSSIAN        "УРОН ОТ ВЗРЫВА"
+
+REFERENCE           CUSTOM_INCREASED
+LANG_RUSSIAN        "ПОВЫШЕНО"
+
+REFERENCE           CUSTOM_DOUBLE
+LANG_RUSSIAN        "В ДВА РАЗА"
+
+REFERENCE           CUSTOM_MAXIMUM
+LANG_RUSSIAN        "МАКСИМУМ"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME
+LANG_RUSSIAN        "ВРЕМЯ ОБЕЗВРЕЖИВАНИЯ"
+
+REFERENCE           CUSTOM_PERKS_BUTTON_TOGGLE_PRO
+LANG_RUSSIAN        "Использование Перков-Про"
+
+REFERENCE           CUSTOM_PERKS_TAB_EDIT_BASIC
+LANG_RUSSIAN        "БАЗОВЫЕ ПЕРКИ"
+
+REFERENCE           CUSTOM_PERK_EDIT
+LANG_RUSSIAN        "ИЗМЕНЕНИЕ ПЕРКОВ В ЯЧЕЙКЕ &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_EDIT
+LANG_RUSSIAN        "ИЗМЕНЕНИЕ ПЕРКОВ ПРО В ЯЧЕЙКЕ &&1"
+
+REFERENCE           CUSTOM_PERK_SLOT
+LANG_RUSSIAN        "ПЕРК &&1"
+
+REFERENCE           CUSTOM_PERK_PRO_SLOT
+LANG_RUSSIAN        "ПЕРК-ПРО &&1"
+
+REFERENCE           CUSTOM_GENERAL_OPTIONS_DESC
+LANG_RUSSIAN        "Настройка общих параметров."
+
+REFERENCE           CUSTOM_KILLSTREAK_EDITOR_DESC
+LANG_RUSSIAN        "Редактирование наград за серии убийств."
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY_DESC
+LANG_RUSSIAN        "Коэффициент скорости, с которой игрок восстанавливает способность к бегу."
+
+REFERENCE           CUSTOM_GAME_CREATE_CAPS
+LANG_RUSSIAN        "РЕДАКТОР РЕЖИМОВ ИГРЫ"
+
+REFERENCE           CUSTOM_SPECIALTY_EDITOR
+LANG_RUSSIAN        "РЕДАКТОР ПЕРКОВ"
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP
+LANG_RUSSIAN        "Изменение вооружения, перков и характеристик класса."
+
+REFERENCE           CUSTOM_DISABLE_PERKS_CAPS
+LANG_RUSSIAN        "ЗАПРЕТИТЬ ПЕРКИ"
+
+REFERENCE           CUSTOM_PERK_SPRINT_RECOVERY
+LANG_RUSSIAN        "ВОССТАНОВЛЕНИЕ ПОСЛЕ БЕГА"
+
+REFERENCE           CUSTOM_PERK_DISARM_TIME_DESC
+LANG_RUSSIAN        "Время обезвреживания стационарных орудий и другого оборудования."
+
+REFERENCE           CUSTOM_VALUE_SECONDS_2_POINT_5
+LANG_RUSSIAN        "2,5 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE
+LANG_RUSSIAN        "ОЧКИ ЗА ПОМОЩЬ"
+
+REFERENCE           CUSTOM_VALUE_SECONDS_3_POINT_5
+LANG_RUSSIAN        "3,5 СЕКУНДЫ"
+
+REFERENCE           CUSTOM_NUM_KILLS
+LANG_RUSSIAN        "ТРЕБУЕТСЯ УБИЙСТВ"
+
+REFERENCE           CUSTOM_EXTRA_TIME_CAPS
+LANG_RUSSIAN        "ДОП. ВРЕМЯ:"
+
+REFERENCE           CUSTOM_OPS
+LANG_RUSSIAN        "ОПЕРАЦИИ"
+
+REFERENCE           CUSTOM_COMMUNISTS
+LANG_RUSSIAN        "КОММУНИСТЫ"
+
+REFERENCE           CUSTOM_BUTTON_SAVE_FILESHARE
+LANG_RUSSIAN        "^BBUTTON_INTERACT^ Сохранить в \"Общие файлы\""
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE
+LANG_RUSSIAN        "ОЧКИ ЗА УБИЙСТВА"
+
+REFERENCE           CUSTOM_TDM_KILL_SCORE_DESC
+LANG_RUSSIAN        "Количество очков, начисляемых за убийство."
+
+REFERENCE           CUSTOM_TDM_ASSIST_SCORE_DESC
+LANG_RUSSIAN        "Количество очков, начисляемых за помощь. При значении по умолчанию очки начисляются по стандартным правилам."
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE
+LANG_RUSSIAN        "ОЧКИ ЗА СМЕРТЬ"
+
+REFERENCE           CUSTOM_TDM_DEATH_SCORE_DESC
+LANG_RUSSIAN        "Количество очков, вычитаемых за смерть."
+
+REFERENCE           CUSTOM_TDM_SUICIDE_SCORE_DESC
+LANG_RUSSIAN        "Количество очков, вычитаемых за самоубийство."
+
+REFERENCE           CUSTOM_TDM_LEADER_BONUS_DESC
+LANG_RUSSIAN        "Дополнительные очки за убийства, начисляемые лучшему игроку."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK
+LANG_RUSSIAN        "Модификатор, определяющий, сколько секунд может бежать боец."
+
+REFERENCE           CUSTOM_SELECT_FROM_FILESHARE_DESC
+LANG_RUSSIAN        "Выберите свой режим игры из \"Общих файлов\"."
+
+REFERENCE           CUSTOM_CONT_WITHOUT_SAVE
+LANG_RUSSIAN        "РЕЖИМ ИГРЫ БЕЗ СОХРАНЕНИЙ"
+
+REFERENCE           CUSTOM_TITLE_DESC
+LANG_RUSSIAN        "Название собственного класса."
+
+REFERENCE           CUSTOM_SPRINT_SPEED_DESC
+LANG_RUSSIAN        "Скорость бега для данного класса."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_DESC
+LANG_RUSSIAN        "Восстановление параметров по умолчанию для собственного режима игры."
+
+REFERENCE           CUSTOM_REVERT_CHANGES_CONFIRM_TITLE
+LANG_RUSSIAN        "Восстановить параметры по умолчанию для собственного режима игры?"
+
+REFERENCE           CUSTOM_NUM_KILLS_DISABLED_DESC
+LANG_RUSSIAN        "Выберите награду за серию, прежде чем указывать число убийств."
+
+REFERENCE           CUSTOM_FILESHARE_SELECT_MODE_TITLE
+LANG_RUSSIAN        "ВЫБЕРИТЕ РЕЖИМ ИГРЫ"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_CAPS
+LANG_RUSSIAN        "ВРЕМЯ ЗАХВАТА"
+
+REFERENCE           CUSTOM_DOM_FLAGCAPTIME_DESC
+LANG_RUSSIAN        "Время, затрачиваемое на захват флага."
+
+REFERENCE           CUSTOM_CUSTOM_GAME_MODE_CAPS
+LANG_RUSSIAN        "СВОЙ РЕЖИМ ИГРЫ"
+
+REFERENCE           CUSTOM_WARN_DEMO_SIZE
+LANG_RUSSIAN        "Продолжительные игры могут быть записаны не полностью."
+
+REFERENCE           CUSTOM_NUM_KILLS_DESC
+LANG_RUSSIAN        "Количество убийств, которые игрок должен совершить для получения награды за серию."
+
+REFERENCE           CUSTOM_SELECT_KILLSTREAK_DESC
+LANG_RUSSIAN        "Выбор наград, которые игроки получают за выполнение серий убийств."
+
+REFERENCE           CUSTOM_VAMPIRISM_DESC
+LANG_RUSSIAN        "Процент от наносимого урона, преобразуемый в здоровье игрока."
+
+REFERENCE           CUSTOM_EXPLOSIVE_DAMAGE_DESC
+LANG_RUSSIAN        "Изменение урона от взрывов для данного класса."
+
+REFERENCE           CUSTOM_EDIT_CLASS_LOADOUT_DESC
+LANG_RUSSIAN        "Изменение оружия, оборудования и перков класса."
+
+REFERENCE           CUSTOM_HEALTH_DESC
+LANG_RUSSIAN        "Максимальный запас здоровья для данного класса."
+
+REFERENCE           CUSTOM_CUSTOM_CLASS
+LANG_RUSSIAN        "СВОЙ"
+
+REFERENCE           CUSTOM_NO_KILLSTREAK
+LANG_RUSSIAN        "БЕЗ СЕРИЙ УБИЙСТВ"
+
+REFERENCE           CUSTOM_RCXD_AUTO_DESTRUCT_TIMER_DESC
+LANG_RUSSIAN        "Включение и отключения таймера самоуничтожения RC-XD."
+
+REFERENCE           CUSTOM_EDIT_CLASS_PROTIP_DISABLED
+LANG_RUSSIAN        "Класс недоступен и не может быть изменен."
+
+REFERENCE           CUSTOM_PERK_EDITOR_DISABLED_DESC
+LANG_RUSSIAN        "Включение и отключение перков, а также настройка их параметров. Настраивать перки можно, если они включены."
+
+REFERENCE           CUSTOM_RCXD_OPTIONS
+LANG_RUSSIAN        "ПАРАМЕТРЫ RC-XD"
+
+REFERENCE           CUSTOM_GAME_RECORDING_CAPS
+LANG_RUSSIAN        "ЗАПИСЬ ИГРЫ"
+
+REFERENCE           CUSTOM_GAME_RECORDING_DESC
+LANG_RUSSIAN        "Включение и отключение записи игры."
+
+REFERENCE           CUSTOM_PRE_MATCH_TIMER_CAPS
+LANG_RUSSIAN        "ПРЕДМАТЧЕВЫЙ ТАЙМЕР"
+
+ENDMARKER

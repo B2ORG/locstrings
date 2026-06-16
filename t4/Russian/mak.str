@@ -1,0 +1,52 @@
+// Dumped from fastfile "mak".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           MAK_OBJ_PLANTCHARGE
+LANG_ENGLISH        "Установить с Ройбуком заряды в бункере с боеприпасами"
+
+REFERENCE           MAK_OBJ_PLANTCHARGE_COOP
+LANG_ENGLISH        "Кто-нибудь должен помочь Ройбуку установить заряды"
+
+REFERENCE           MAK_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Всегда готов'"
+
+REFERENCE           MAK_INTROSCREEN_PLACE
+LANG_ENGLISH        "Атолл Макин, южная часть Тихого океана"
+
+REFERENCE           MAK_INTROSCREEN_DATE
+LANG_ENGLISH        "17 августа 1942 года"
+
+REFERENCE           MAK_PLANTING
+LANG_ENGLISH        "Установка..."
+
+REFERENCE           MAK_INTROSCREEN_INFO
+LANG_ENGLISH        "2-й рейдерский батальон Морской пехоты США [Рейдеры Карлсона]"
+
+REFERENCE           MAK_OBJ_SECURE_VILLAGE
+LANG_ENGLISH        "Зачистить деревню"
+
+REFERENCE           MAK_OBJ_REGROUP_2ND_SQUAD
+LANG_ENGLISH        "Объединиться со 2-м отделением"
+
+REFERENCE           MAK_OBJ_EXTRACTION_POINT
+LANG_ENGLISH        "Следовать к точке сбора"
+
+REFERENCE           MAK_TRUCK_TRIGGER
+LANG_ENGLISH        "Нажмите ^3&&1^7, чтобы взаимодействовать с грузовиком "
+
+REFERENCE           MAK_TRUCK_HINT
+LANG_ENGLISH        "Объекты активируются нажатием ^3[{+usereload}]^7"
+
+REFERENCE           MAK_CONTINUED
+LANG_ENGLISH        "Продолжение следует..."
+
+REFERENCE           MAK_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Миллер"
+
+REFERENCE           MAK_OBJ_RESCUE_2ND_SQUAD
+LANG_ENGLISH        "Спасти 2-е отделение"
+
+ENDMARKER

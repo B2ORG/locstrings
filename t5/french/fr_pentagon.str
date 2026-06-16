@@ -1,0 +1,205 @@
+// Dumped from fastfile "fr_pentagon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PENTAGON_INTROSCREEN_0
+LANG_ENGLISH        "^0^LTransmission n°0. Désignation : ÉCHO^L"
+
+REFERENCE           PENTAGON_INTROSCREEN_1
+LANG_ENGLISH        "^0^LBriefing sécurité nationale : Prioritaire.^L"
+
+REFERENCE           PENTAGON_INTROSCREEN_2
+LANG_ENGLISH        "^0^LEnvoyer^L ^C1Alex Mason^C ^Lau^L ^C1Pentagone.^C"
+
+REFERENCE           PENTAGON_INTROSCREEN_3
+LANG_ENGLISH        "^0^L17h00,^L ^C110 novembre 1963^C"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_001A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7On y est."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_002A_PMP1_M
+LANG_ENGLISH        "^1POLICE MILITAIRE PENTAGONE : ^7Votre convoi est prêt, monsieur. Bienvenue au Pentagone."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_003A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7On est en retard."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_004A_PMP2_M
+LANG_ENGLISH        "^1POLICE MILITAIRE PENTAGONE : ^7Bienvenue."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_005A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Secrétaire McNamara."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_006A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Votre réputation vous précède, monsieur."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_007A_GENE_M
+LANG_ENGLISH        "^1GÉNÉRAL : ^7Dépêchez-vous !"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_008A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7C'est tout de même la sécurité nationale qui est en jeu. Il ne craint personne, n'a pas d'état d'âme. Pas de faiblesse. Il s'appelle Dragovich. Je crois que vous vous êtes déjà rencontrés."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_011A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7Quand dois-je le tuer ?"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_012A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Content que vous soyez de retour, Mason."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_013A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Notre invité."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_014A_CLER_M
+LANG_ENGLISH        "^1EMPLOYÉ : ^7Il est là."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_015A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Du calme, pas de Russe."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_016A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7La crème de la crème mondiale, juste ici. Toujours disponible."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_017A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Veuillez lui dire qu'on est là."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_018A_CPCL_M
+LANG_ENGLISH        "^1POINT DE CONTRÔLE : ^7Mot de passe, monsieur ?"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_019A_CPCL_M
+LANG_ENGLISH        "^1POINT DE CONTRÔLE : ^7Autorisation Prospero."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_020A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Héros distingués."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_021A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Chefs distingués."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_022A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Autorisation Ariel."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_023A_ELG1_M
+LANG_ENGLISH        "^1GARDE ASCENSEUR : ^7VIP."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_024A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Il attend."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_025A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Le centre d'opérations. Je crois pouvoir dire que la civilisation a été plus d'une fois sauvée dans cette salle."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_028A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7Ça marche toujours. Impressionant, hein ?"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_029A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Pas encore."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_030A_AGT2_M
+LANG_ENGLISH        "^1AGENT : ^7Williams, qu'est-ce qu'on a sur l'Opération Phénix ? On a enfin découvert la fuite ?"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_031A_WILL_M
+LANG_ENGLISH        "^1WILLIAMS : ^7Hé bien... On, on sait d'où ça vient, mais c'est enfoui. La fuite reste active..."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_032A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Sycorax."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_033A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7Ce sanctuaire a été bâti en 1943. On l'utilise rarement."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_034A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7Bonne chance, Mason."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_035A_MCNA_M
+LANG_ENGLISH        "^1MCNAMARA : ^7M. le Président."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_036A_KENN_M
+LANG_ENGLISH        "^1PRÉSIDENT KENNEDY : ^7Agent Mason."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_037A_MASO_M
+LANG_ENGLISH        "^1MASON : ^7C'est un honneur, M. le Président."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_038A_KENN_M
+LANG_ENGLISH        "^1PRÉSIDENT KENNEDY : ^7Asseyez-vous."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_039A_KENN_M
+LANG_ENGLISH        "^1PRÉSIDENT KENNEDY : ^7Nous sommes sous la menace des communistes. Notre liberté... notre mode de vie est en danger."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_040A_KENN_M
+LANG_ENGLISH        "^1PRÉSIDENT KENNEDY : ^7Nikita Dragovich."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_041A_KENN_M
+LANG_ENGLISH        "^1PRÉSIDENT KENNEDY : ^7On me dit que vous êtes notre meilleur homme. En tout point. Je vous le souhaite. M. Mason, chargez-vous de ça."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_042A_HUDS_M
+LANG_ENGLISH        "^1HUDSON : ^7Merci, M. le secrétaire."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_100A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Tu as été blanchi et convoqué au Pentagone."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_102A_MASO
+LANG_ENGLISH        "^1MASON : ^7Jason Hudson était mon contact."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_103A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Pourquoi le Pentagone ?"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_105A_MASO
+LANG_ENGLISH        "^1MASON : ^7Hudson ne m'a rien dit. Pas l'autorisation."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_106A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Tu as reconnu Dragovich. Depuis Cuba."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_108A_MASO
+LANG_ENGLISH        "^1MASON : ^7C'était comme si tout le monde nous regardait. Me regardait."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_109A_MASO
+LANG_ENGLISH        "^1MASON : ^7On pouvait se fier à personne, alors."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_110A_MASO
+LANG_ENGLISH        "^1MASON : ^7Même pas à soi-même."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_111A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7D'où notre présence, Mason. Pour pouvoir t'évaluer."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_113A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7On a toujours gardé l'oeil sur toi."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_115A_MASO
+LANG_ENGLISH        "^1MASON : ^7C'est impossible."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_116A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7J'étais au Pentagone."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_118A_MASO
+LANG_ENGLISH        "^1MASON : ^7Je me souviens. J'entendais des nombres. Je pouvais pas les sortir de ma tête."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_119A_MASO
+LANG_ENGLISH        "^1MASON : ^7Je sentais un truc... me dévorer."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_120A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Quoi, Mason ?"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_122A_MASO
+LANG_ENGLISH        "^1MASON : ^7Je ne sais pas... J'étais comme dans un rêve... Phase deux, S'élever des ténèbres... Phase trois, Pluie de feu..."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_123A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Tu te rapprochais de ton objectif."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_125A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Ça fonctionnait."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_127A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ça fonctionnait."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_128A_INTE
+LANG_ENGLISH        "^1INTERROGATEUR : ^7Le lavage de cerveau de Dragovich était lancé."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_130A_MASO
+LANG_ENGLISH        "^1MASON : ^7Ça va."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_500A_DRAG_M
+LANG_ENGLISH        "^1DRAGOVICH : ^7Il souffrira au-delà de tout ce qu'on peut imaginer..."
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_501A_SWIF_M
+LANG_ENGLISH        "^1SWIFT : ^7Qu'est-ce qui déconne chez vous ?"
+
+REFERENCE           PENTAGON_VOX_PEN1_S01_501A_SWIF_M_S
+LANG_ENGLISH        "^1SWIFT : ^7Qu'est-ce qui déconne chez vous ?"
+
+ENDMARKER

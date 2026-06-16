@@ -1,0 +1,58 @@
+// Dumped from fastfile "oki2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           OKI2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'오키나와'"
+
+REFERENCE           OKI2_OBJ_1
+LANG_ENGLISH        "와나 능선을 공격하십시오."
+
+REFERENCE           OKI2_INTROSCREEN_WHO
+LANG_ENGLISH        "이병 밀러"
+
+REFERENCE           OKI2_INTROSCREEN_DATE
+LANG_ENGLISH        "1945년 5월 14일"
+
+REFERENCE           OKI2_INTROSCREEN_PLACE
+LANG_ENGLISH        "오키나와, 와나 능선"
+
+REFERENCE           OKI2_OBJ_2_4
+LANG_ENGLISH        "200mm 포를 제거하십시오.(4문 남음)"
+
+REFERENCE           OKI2_INTROSCREEN_WHAT
+LANG_ENGLISH        "제 1해병사단"
+
+REFERENCE           OKI2_OBJ_2
+LANG_ENGLISH        "200mm 포를 제거하십시오."
+
+REFERENCE           OKI2_OBJ_2_2
+LANG_ENGLISH        "200mm 포를 제거하십시오.(2문 남음)"
+
+REFERENCE           OKI2_OBJ_2_3
+LANG_ENGLISH        "200mm 포를 제거하십시오.(3문 남음)"
+
+REFERENCE           OKI2_OBJ_2_1
+LANG_ENGLISH        "200mm 포를 제거하십시오.(1문 남음)"
+
+REFERENCE           OKI2_DESTROY_GUN
+LANG_ENGLISH        "폭발물을 설치하려면 [{+use}]을(를) 누르고 계십시오."
+
+REFERENCE           OKI2_OBJ_4
+LANG_ENGLISH        "벙커 입구를 찾으십시오."
+
+REFERENCE           OKI2_OBJ_5
+LANG_ENGLISH        "벙커를 확보하십시오."
+
+REFERENCE           OKI2_OBJ_3
+LANG_ENGLISH        "하사와 합류하십시오."
+
+REFERENCE           OKI2_SATCHEL_HINT1
+LANG_ENGLISH        "가방형 폭탄을 선택하려면 [{+actionslot 3}]를 누르십시오."
+
+REFERENCE           OKI2_SATCHEL_HINT2
+LANG_ENGLISH        "가방형 폭탄 투척: [{+speed_throw}], 폭파: [{+attack}]"
+
+ENDMARKER

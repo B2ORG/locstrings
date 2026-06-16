@@ -1,0 +1,211 @@
+// Dumped from fastfile "fr_code_pre_gfx_mp".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           CLASS_ANTIARMOR
+LANG_ENGLISH        "Assaut"
+
+REFERENCE           CLASS_ANTIARMOR_UC
+LANG_ENGLISH        "Assaut"
+
+REFERENCE           CLASS_ASSAULT
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_ASSAULT_UC
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_CLASS
+LANG_ENGLISH        "Classe"
+
+REFERENCE           CLASS_CLASS1
+LANG_ENGLISH        "Pistolet-mitr."
+
+REFERENCE           CLASS_CLASS2
+LANG_ENGLISH        "Comb. rapproché"
+
+REFERENCE           CLASS_CLASS3
+LANG_ENGLISH        "Assaut"
+
+REFERENCE           CLASS_CLASS4
+LANG_ENGLISH        "Fusil-mitr."
+
+REFERENCE           CLASS_CLASS5
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_CLOSEQUARTERS
+LANG_ENGLISH        "Comb. rapproché"
+
+REFERENCE           CLASS_CLOSEQUARTERS_UC
+LANG_ENGLISH        "Comb. rapproché"
+
+REFERENCE           CLASS_CUSTOM1
+LANG_ENGLISH        "Assaut"
+
+REFERENCE           CLASS_CUSTOM10
+LANG_ENGLISH        "Indice Prestige 5"
+
+REFERENCE           CLASS_CUSTOM2
+LANG_ENGLISH        "Infanterie légère"
+
+REFERENCE           CLASS_CUSTOM3
+LANG_ENGLISH        "Infanterie lourde"
+
+REFERENCE           CLASS_CUSTOM4
+LANG_ENGLISH        "Assaut rapproché"
+
+REFERENCE           CLASS_CUSTOM5
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_CUSTOM6
+LANG_ENGLISH        "Indice Prestige 1"
+
+REFERENCE           CLASS_CUSTOM7
+LANG_ENGLISH        "Indice Prestige 2"
+
+REFERENCE           CLASS_CUSTOM8
+LANG_ENGLISH        "Indice Prestige 3"
+
+REFERENCE           CLASS_CUSTOM9
+LANG_ENGLISH        "Indice Prestige 4"
+
+REFERENCE           CLASS_DEFAULT_ASSAULT
+LANG_ENGLISH        "Assaut (par défaut)"
+
+REFERENCE           CLASS_DEFAULT_HEAVYGUNNER
+LANG_ENGLISH        "Infanterie lourde (par défaut)"
+
+REFERENCE           CLASS_DEFAULT_SPECOPS
+LANG_ENGLISH        "Infanterie légère (par défaut)"
+
+REFERENCE           CLASS_ENGINEER_UC
+LANG_ENGLISH        "Reconnaissance"
+
+REFERENCE           CLASS_GRENADIER
+LANG_ENGLISH        "Grenadier"
+
+REFERENCE           CLASS_MARINES_CLASSES_CAPS
+LANG_ENGLISH        "CLASSES GOS"
+
+REFERENCE           CLASS_NEWPROF
+LANG_ENGLISH        "Vous avez développé une nouvelle compétence :"
+
+REFERENCE           CLASS_OFFLINE_CLASS1
+LANG_ENGLISH        "Démolisseur"
+
+REFERENCE           CLASS_OFFLINE_CLASS10
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_OFFLINE_CLASS11
+LANG_ENGLISH        "M1Garand"
+
+REFERENCE           CLASS_OFFLINE_CLASS2
+LANG_ENGLISH        "Infiltré"
+
+REFERENCE           CLASS_OFFLINE_CLASS3
+LANG_ENGLISH        "Spécialiste"
+
+REFERENCE           CLASS_OFFLINE_CLASS4
+LANG_ENGLISH        "Aiguilleur"
+
+REFERENCE           CLASS_OFFLINE_CLASS5
+LANG_ENGLISH        "Fantassin"
+
+REFERENCE           CLASS_OFFLINE_CLASS6
+LANG_ENGLISH        "Vétéran"
+
+REFERENCE           CLASS_OFFLINE_CLASS7
+LANG_ENGLISH        "Vengeur"
+
+REFERENCE           CLASS_OFFLINE_CLASS8
+LANG_ENGLISH        "Justicier"
+
+REFERENCE           CLASS_OFFLINE_CLASS9
+LANG_ENGLISH        "Protecteur"
+
+REFERENCE           CLASS_OPFOR_CLASSES_CAPS
+LANG_ENGLISH        "CLASSES OPPOSITION"
+
+REFERENCE           CLASS_PRESTIGE1
+LANG_ENGLISH        "Perso. 6"
+
+REFERENCE           CLASS_PRESTIGE1_CAPS
+LANG_ENGLISH        "PERSO. 6"
+
+REFERENCE           CLASS_PRESTIGE2
+LANG_ENGLISH        "Perso. 7"
+
+REFERENCE           CLASS_PRESTIGE2_CAPS
+LANG_ENGLISH        "PERSO. 7"
+
+REFERENCE           CLASS_PRESTIGE3
+LANG_ENGLISH        "Perso. 8"
+
+REFERENCE           CLASS_PRESTIGE3_CAPS
+LANG_ENGLISH        "PERSO. 8"
+
+REFERENCE           CLASS_PRESTIGE4
+LANG_ENGLISH        "Perso. 9"
+
+REFERENCE           CLASS_PRESTIGE4_CAPS
+LANG_ENGLISH        "PERSO. 9"
+
+REFERENCE           CLASS_PRESTIGE5
+LANG_ENGLISH        "Perso. 10"
+
+REFERENCE           CLASS_PRESTIGE5_CAPS
+LANG_ENGLISH        "PERSO. 10"
+
+REFERENCE           CLASS_PRESTIGE_UNCLASSIFY_DESC
+LANG_ENGLISH        "Déclassifié au niveau Prestige &&1."
+
+REFERENCE           CLASS_PRESTIGE_UNLOCK_DESC
+LANG_ENGLISH        "Débloqué au niveau Prestige &&1."
+
+REFERENCE           CLASS_PROFICIENCY
+LANG_ENGLISH        "Compétence"
+
+REFERENCE           CLASS_PROFICIENCY_EXPERT
+LANG_ENGLISH        "Expert"
+
+REFERENCE           CLASS_PROFICIENCY_MARKSMAN
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_PROFICIENCY_SHARPSHOOTER
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_PURCHASE_TO_UNLOCK
+LANG_ENGLISH        "Achetez &&1 pour afficher le défi."
+
+REFERENCE           CLASS_RIFLEMAN
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_SLOT1_CAPS
+LANG_ENGLISH        "PERSO. 1"
+
+REFERENCE           CLASS_SLOT2_CAPS
+LANG_ENGLISH        "PERSO. 2"
+
+REFERENCE           CLASS_SLOT3_CAPS
+LANG_ENGLISH        "PERSO. 3"
+
+REFERENCE           CLASS_SLOT4_CAPS
+LANG_ENGLISH        "PERSO. 4"
+
+REFERENCE           CLASS_SLOT5_CAPS
+LANG_ENGLISH        "PERSO. 5"
+
+REFERENCE           CLASS_SNIPER
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_SNIPER_UC
+LANG_ENGLISH        "Tireur d'élite"
+
+REFERENCE           CLASS_SUPPORT
+LANG_ENGLISH        "Soutien"
+
+REFERENCE           CLASS_SUPPORT_UC
+LANG_ENGLISH        "Soutien"
+
+ENDMARKER

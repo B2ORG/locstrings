@@ -1,0 +1,154 @@
+// Dumped from fastfile "ru_zm_prison".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_CRAFTABLES_CHANGE_BUILD
+LANG_RUSSIAN        "Нажмите [{+actionslot 1}] или [{+actionslot 2}] чтобы сменить предмет."
+
+REFERENCE           ZM_CRAFTABLES_PIECE_NO_SWITCH
+LANG_RUSSIAN        "Вы уже несете часть."
+
+REFERENCE           ZM_PRISON_ACID_GAT_KIT
+LANG_RUSSIAN        "Набор Кислотона"
+
+REFERENCE           ZM_PRISON_ACID_TRAP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы включить кислотную ловушку [Цена: &&1]"
+
+REFERENCE           ZM_PRISON_ACID_TRAP_UNAVAILABLE
+LANG_RUSSIAN        "Кислотная ловушка недоступна"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_DOOR
+LANG_RUSSIAN        "Дверям нужно электричество"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO
+LANG_RUSSIAN        "Удерживайте ^3[{+attack}]^7 чтобы ударить током"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_HOWTO_2
+LANG_RUSSIAN        "Удерживайте ^3[{+gostand}]^7 чтобы левитировать"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_INTERACT
+LANG_RUSSIAN        "Ударьте током чтобы включить электричество"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_KILL
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы перейти в посмертие"
+
+REFERENCE           ZM_PRISON_AFTERLIFE_OVERLOAD
+LANG_RUSSIAN        "Ударьте током, чтобы вызвать перегрузку"
+
+REFERENCE           ZM_PRISON_BAD
+LANG_RUSSIAN        "ЦИКЛ ПРОДОЛЖАЕТСЯ..."
+
+REFERENCE           ZM_PRISON_CALL_GONDOLA
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вызвать гондолу"
+
+REFERENCE           ZM_PRISON_CONVERT_PICKUP
+LANG_RUSSIAN        "Удерживайте [{+activate}] чтобы взять конвертированное оружие"
+
+REFERENCE           ZM_PRISON_CONVERT_START
+LANG_RUSSIAN        "Удерживайте [{+activate}] чтобы конвертировать Мушкетон в Кислотон"
+
+REFERENCE           ZM_PRISON_CRAFT_PACKASPLAT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы собрать улучшение мушкетона"
+
+REFERENCE           ZM_PRISON_CRAFT_PLANE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы собрать самолет"
+
+REFERENCE           ZM_PRISON_CRAFT_RIOT
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы собрать Зомби-щит"
+
+REFERENCE           ZM_PRISON_CRAFTING_PLANE
+LANG_RUSSIAN        "Деталь установлена на самолет"
+
+REFERENCE           ZM_PRISON_ELECTRIC_CHAIR_ACTIVATE
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы включить Электрический стул"
+
+REFERENCE           ZM_PRISON_FAN_TRAP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы включить ловушку-вентилятор [Цена: &&1]"
+
+REFERENCE           ZM_PRISON_FAN_TRAP_UNAVAILABLE
+LANG_RUSSIAN        "Ловушка-вентилятор недоступна"
+
+REFERENCE           ZM_PRISON_GONDOLA_ACTIVE
+LANG_RUSSIAN        "Гондола активна"
+
+REFERENCE           ZM_PRISON_GONDOLA_COOLDOWN
+LANG_RUSSIAN        "Гондола перезаряжается"
+
+REFERENCE           ZM_PRISON_GONDOLA_REQUIRES_POWER
+LANG_RUSSIAN        "Гондоле необходимо электричество"
+
+REFERENCE           ZM_PRISON_GOOD
+LANG_RUSSIAN        "ЦИКЛ РАЗОРВАН."
+
+REFERENCE           ZM_PRISON_KEY_DOOR
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы открыть"
+
+REFERENCE           ZM_PRISON_KEY_DOOR_LOCKED
+LANG_RUSSIAN        "Нужен ключ смотрителя"
+
+REFERENCE           ZM_PRISON_LAUNDRY_MACHINE_ACTIVATE
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы включить Стиральную машину"
+
+REFERENCE           ZM_PRISON_LIFE_OVER
+LANG_RUSSIAN        "КОНЕЦ ЖИЗНИ"
+
+REFERENCE           ZM_PRISON_MISSING_BLUNDERGAT
+LANG_RUSSIAN        "Нужен Мушкетон"
+
+REFERENCE           ZM_PRISON_MOVE_GONDOLA
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы использовать гондолу [Цена: &&1]"
+
+REFERENCE           ZM_PRISON_OUT_OF_LIVES
+LANG_RUSSIAN        "Посмертий не осталось"
+
+REFERENCE           ZM_PRISON_PERK_CHERRY
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы купить Электровишенку [Цена: &&1]"
+
+REFERENCE           ZM_PRISON_PLANE_BEGIN_TAKEOFF
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы начать взлет"
+
+REFERENCE           ZM_PRISON_PLANE_BOARD
+LANG_RUSSIAN        "Нажмите ^3[{+activate}]^7 чтобы сесть в самолет"
+
+REFERENCE           ZM_PRISON_PLANE_PARTS
+LANG_RUSSIAN        "Части самолета"
+
+REFERENCE           ZM_PRISON_REFUEL_PLANE
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы заправить самолет"
+
+REFERENCE           ZM_PRISON_REFUELING_PLANE
+LANG_RUSSIAN        "Топливо залито в самолет"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_ATTACK
+LANG_RUSSIAN        "Нажмите ^3[{+melee}]^7 чтобы атаковать Щитом"
+
+REFERENCE           ZM_PRISON_RIOTSHIELD_DEPLOY
+LANG_RUSSIAN        "Нажмите ^3[{+melee}]^7 чтобы установить Щит"
+
+REFERENCE           ZM_PRISON_SHIELD
+LANG_RUSSIAN        "Щит"
+
+REFERENCE           ZM_PRISON_SQ_BG
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Мушкетон"
+
+REFERENCE           ZM_PRISON_SQ_BS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Кислотон"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_PICKUP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Адский бумеранг"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_TUTORIAL
+LANG_RUSSIAN        "Нажмите^3[{+smoke}]^7 чтобы бросить Бумеранг"
+
+REFERENCE           ZM_PRISON_TOMAHAWK_UPGRADED_PICKUP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы подобрать Адский спаситель"
+
+REFERENCE           ZM_PRISON_TOWER_TRAP
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы использвать башенную ловушку [Цена: &&1]"
+
+REFERENCE           ZM_PRISON_WEAPON_THOMPSON
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы купить Томмиган [Цена: &&1]"
+
+ENDMARKER

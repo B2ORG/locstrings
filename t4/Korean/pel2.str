@@ -1,0 +1,91 @@
+// Dumped from fastfile "pel2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'비행장 공격'"
+
+REFERENCE           PEL2_INTROSCREEN_PLACE
+LANG_ENGLISH        "펠레리우섬, 비행장"
+
+REFERENCE           PEL2_INTROSCREEN_DATE
+LANG_ENGLISH        "1944년 9월 15일"
+
+REFERENCE           PEL2_AA_BUNKER
+LANG_ENGLISH        "대공 벙커를 공격하십시오."
+
+REFERENCE           PEL2_ASSAULT_AIRFIELD
+LANG_ENGLISH        "비행장을 공격하십시오."
+
+REFERENCE           PEL2_INTROSCREEN_NAME
+LANG_ENGLISH        "이병 밀러"
+
+REFERENCE           PEL2_SECURE_MANGROVE_AREA
+LANG_ENGLISH        "일본군 포 진지를 우회하십시오."
+
+REFERENCE           PEL2_INTROSCREEN_INFO
+LANG_ENGLISH        "제 1해병사단"
+
+REFERENCE           PEL2_CLEAR_THE_BUILDING
+LANG_ENGLISH        "건물의 적을 소탕하십시오."
+
+REFERENCE           PEL2_BUNKER_REGROUP
+LANG_ENGLISH        "분대와 함께 엄폐하십시오."
+
+REFERENCE           PEL2_GET_BAZOOKA
+LANG_ENGLISH        "참호에서 바주카를 입수하십시오."
+
+REFERENCE           PEL2_CLEAR_BUNKERS
+LANG_ENGLISH        "벙커를 공격하십시오."
+
+REFERENCE           PEL2_RETRIEVE_FLAME
+LANG_ENGLISH        "화염방사기를 회수하십시오."
+
+REFERENCE           PEL2_FLAME_MG
+LANG_ENGLISH        "벙커에 제압사격을 가하십시오."
+
+REFERENCE           PEL2_FLAME_BUNKER
+LANG_ENGLISH        "벙커 내부에 화염방사기를 사용하십시오."
+
+REFERENCE           PEL2_RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "총류탄을 부착하려면 [{+actionslot 3}]을(를) 누르십시오."
+
+REFERENCE           PEL2_ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "비행장으로 진격하십시오."
+
+REFERENCE           PEL2_BAZOOKA
+LANG_ENGLISH        "바주카로 적 전차를 파괴하십시오."
+
+REFERENCE           PEL2_BAZOOKA_1
+LANG_ENGLISH        "바주카로 97식 전차를 파괴하십시오.(3대 중 1대 남음)"
+
+REFERENCE           PEL2_BAZOOKA_2
+LANG_ENGLISH        "바주카로 97식 전차를 파괴하십시오.(3대 중 2대 남음)"
+
+REFERENCE           PEL2_BAZOOKA_3
+LANG_ENGLISH        "바주카로 97식 전차를 파괴하십시오.(3대 중 3대 남음)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS
+LANG_ENGLISH        "대공포 운용병을 제거하십시오."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_1
+LANG_ENGLISH        "대공포 운용병을 제거하십시오.(4문 중 1문 남음)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_2
+LANG_ENGLISH        "대공포 운용병을 제거하십시오.(4문 중 2문 남음)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_3
+LANG_ENGLISH        "대공포 운용병을 제거하십시오.(4문 중 3문 남음)"
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_4
+LANG_ENGLISH        "대공포 운용병을 제거하십시오.(4문 중 4문 남음)"
+
+REFERENCE           PEL2_SECURE_AABUNKER
+LANG_ENGLISH        "대공 벙커를 확보하십시오."
+
+REFERENCE           PEL2_COUNTERATTACK
+LANG_ENGLISH        "적의 반격을 방어하십시오."
+
+ENDMARKER

@@ -1,0 +1,76 @@
+// Dumped from fastfile "ru_zm_highrise".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_KEYS
+LANG_RUSSIAN        "Взял Ключ"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SLIPGUN
+LANG_RUSSIAN        "Взял Размягчитель"
+
+REFERENCE           ZM_HIGHRISE_BOUGHT_SPRINGPAD
+LANG_RUSSIAN        "Взял Паровой трамплин"
+
+REFERENCE           ZM_HIGHRISE_BUILD_KEYS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы вставить ключ от лифта"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SLIPGUN
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы добавить деталь"
+
+REFERENCE           ZM_HIGHRISE_BUILD_SPRINGPAD
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы добавить деталь"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_KEYS
+LANG_RUSSIAN        "Деталь добавлена"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SLIPGUN
+LANG_RUSSIAN        "Деталь добавлена"
+
+REFERENCE           ZM_HIGHRISE_BUILDING_SPRINGPAD
+LANG_RUSSIAN        "Деталь добавлена"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS
+LANG_RUSSIAN        "Ключ"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_HOWTO
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы использовать Ключ"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_KEYS_PICKUP_HINT_STRING
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы использовать Ключ"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN
+LANG_RUSSIAN        "Размягчитель"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_HOWTO
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы использовать Размягчитель"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SLIPGUN_PICKUP_HINT_STRING
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы подобрать Размягчитель"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD
+LANG_RUSSIAN        "Паровой Трамплин"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_HOWTO
+LANG_RUSSIAN        "Нажмите ^3[{+actionslot 1}]^7 чтобы использовать Трамплин"
+
+REFERENCE           ZM_HIGHRISE_EQUIP_SPRINGPAD_PICKUP_HINT_STRING
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы подобрать Трамплин"
+
+REFERENCE           ZM_HIGHRISE_GRAB_KEYS
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Ключ"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SLIPGUN
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Размягчитель"
+
+REFERENCE           ZM_HIGHRISE_GRAB_SPRINGPAD
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять Трамплин"
+
+REFERENCE           ZM_HIGHRISE_SQ_PICKUP_BALL
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы взять шар"
+
+REFERENCE           ZM_HIGHRISE_SQ_PUTDOWN_BALL
+LANG_RUSSIAN        "Удерживайте ^3[{+activate}]^7 чтобы установить шар "
+
+ENDMARKER

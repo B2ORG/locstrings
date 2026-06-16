@@ -1,0 +1,634 @@
+// Dumped from fastfile "po_panama".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PANAMA_PLAYER_JUMP_PROMPT
+LANG_POLISH         "Naciśnij ^3[{+gostand}]^7, żeby skoczyć."
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"CIERP ZE MNĄ\"^L"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_020A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Nie... Chyba jestem jedyny, który tego nie zrobił."
+
+REFERENCE           PANAMA_HINT_NIGHTINGALE
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby rzucić wabik i odwrócić uwagę przeciwników"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_2
+LANG_POLISH         "FORT CLAYTON, BAZA US ARMY, ^LPANAMA^L"
+
+REFERENCE           PANAMA_OBJ_MEET_MCKNIGHT
+LANG_POLISH         "Spotkaj się z McKnightem"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_3
+LANG_POLISH         "SIERŻANT FRANK ^LWOODS^L"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_4
+LANG_POLISH         "WYDZIAŁ OPERACJI SPECJALNYCH ^LCIA^L"
+
+REFERENCE           PANAMA_OBJ_MEET
+LANG_POLISH         "Spotkaj się z Masonem i McKnightem"
+
+REFERENCE           PANAMA_FRIENDLY_FIRE_FAILURE
+LANG_POLISH         "Ostrzał sojuszniczy nie będzie tolerowany!"
+
+REFERENCE           PANAMA_INTROSCREEN_LINE_5
+LANG_POLISH         "19 GRUDNIA ^L1989^L"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_031A_MASO_D
+LANG_POLISH         "^1Mason: ^7Uważaj na ciężarówkę!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_049A_MCKN_M
+LANG_POLISH         "^1McKnight: ^7To całe gówno z liczbami... Czy Rosjanie naprawdę zrobili ci pranie mózgu?"
+
+REFERENCE           PANAMA_BREACH_FAIL
+LANG_POLISH         "Noriega musi przeżyć."
+
+REFERENCE           PANAMA_STREET_WARNING
+LANG_POLISH         "Kierujesz się w złą stronę!"
+
+REFERENCE           PANAMA_CONTEXTUAL_KILL
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby rzucić nóż"
+
+REFERENCE           PANAMA_OBJ_DOCKS_SNIPER
+LANG_POLISH         "Zapewnij osłonę."
+
+REFERENCE           PANAMA_STREET_FAIL
+LANG_POLISH         "Musisz się spotkać i pozostać z Masonem."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_004A_MASO_D
+LANG_POLISH         "^1Mason: ^7225 jest na drugim piętrze, wschodnie skrzydło."
+
+REFERENCE           PANAMA_OBJ_SHED
+LANG_POLISH         "Zabierz torbę z szopy"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_016A_MASO_D
+LANG_POLISH         "^1Mason: ^7Mi też to się nie podoba, ale załatwmy to. Tracimy zbyt dużo czasu."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_022A_WOOD_M
+LANG_POLISH         "^1Woods: ^7Do cholery, dlaczego nie zabijemy tego gościa, co? Po tym całym gównie, które odstawił w Nikaragui?"
+
+REFERENCE           PANAMA_OBJ_FRONTYARD
+LANG_POLISH         "Wsiądź do pojazdu Woodsa"
+
+REFERENCE           PANAMA_DOCKS_WARNING
+LANG_POLISH         "Musisz eskortować Noriegę!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_019A_MASO_D
+LANG_POLISH         "^1Mason: ^7Twoja żona nie wygląda na zadowoloną. Nie powiedziałeś jej o inwazji, co?"
+
+REFERENCE           PANAMA_HINT_THROW_IRSTROBE
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7 , żeby rzucić granatem stroboskopowym"
+
+REFERENCE           PANAMA_DOCKS_FAIL
+LANG_POLISH         "Opuściłeś Noriegę."
+
+REFERENCE           PANAMA_HANGAR_WARNING
+LANG_POLISH         "Idziesz w złą stronę. Zostań z Masonem."
+
+REFERENCE           PANAMA_LIFT_RUBBLE
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby użyć interakcji."
+
+REFERENCE           PANAMA_HANGAR_FAIL
+LANG_POLISH         "Nie udało ci się pozostać z Masonem"
+
+REFERENCE           PANAMA_NORIEGA_DEAD_FAIL
+LANG_POLISH         "Misja nieudana"
+
+REFERENCE           PANAMA_SNIPER_FAIL
+LANG_POLISH         "Twoje działania zagroziły powodzeniu misji."
+
+REFERENCE           PANAMA_PLAYER_JUMP_FAIL
+LANG_POLISH         "Musisz skoczyć, żeby ucieknąć z budynku."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_029A_WOOD_M
+LANG_POLISH         "^1Woods: ^7Cholera, samolot Noriegi jest gotowy do startu!"
+
+REFERENCE           PANAMA_APACHE_ESCAPE_FAIL
+LANG_POLISH         "Musisz pobiec sprintem, żeby wyprzedzić Apache'a."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_039A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Witajcie w Panamie, panowie."
+
+REFERENCE           PANAMA_OBJ_CAPTURE_NORIEGA
+LANG_POLISH         "Schwytaj Noriegę"
+
+REFERENCE           PANAMA_ROOFTOP_FAIL
+LANG_POLISH         "Oddział SEAL został wyeliminowany."
+
+REFERENCE           PANAMA_CLOSE_HANGAR_DOORS
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby zamknąć drzwi hangaru"
+
+REFERENCE           PANAMA_OBJ_ASSIST_SEALS
+LANG_POLISH         "Pomóż SEAL"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_009A_MASO_D
+LANG_POLISH         "^1Mason: ^7Chodź, Frank."
+
+REFERENCE           PANAMA_OPEN_GRATE
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć siłą"
+
+REFERENCE           PANAMA_BREAK_LOCK
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby przeciąć"
+
+REFERENCE           PANAMA_MOTEL_BREACH
+LANG_POLISH         "Aby dokonać szturmu, wciśnij ^3[{+activate}]^7"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_008A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dla dobra małżeństwa McKnighta."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_009A_MASO_D
+LANG_POLISH         "^1Mason: ^7Jeszcze nas nie widzą, strzelaj."
+
+REFERENCE           PANAMA_PICK_LOCK
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć zamek"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_013A_MASO_M
+LANG_POLISH         "^1Mason: ^7Wiesz, jak to się mówi... Co się polepszy, to się popieprzy."
+
+REFERENCE           PANAMA_OBJ_CAPTURE_MENENDEZ
+LANG_POLISH         "Eskortuj ważny ładunek."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_015A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Tak. Weź torbę sportową z szopy."
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           PANAMA_OBJ_REACH_CHECKPOINT
+LANG_POLISH         "Eskortuj Noriegę do punktu kontrolnego armii"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_002A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Jednostki SZP zajmują stanowiska wokół całego lotniska. Golf wkracza wprost w pułapkę."
+
+REFERENCE           PANAMA_OBJ_DOCKS_KILL_MENENDEZ
+LANG_POLISH         "Zabij Menendeza"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_005A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Podejdźcie od tyłu..."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_003A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Próbowałem ich ostrzec, ale coś się dzieje z łącznością."
+
+REFERENCE           PANAMA_HINT_NIGHTINGALE_SELECT
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby wybrać wabik"
+
+REFERENCE           PANAMA_OBJ_FIND_FALSE_PROFIT
+LANG_POLISH         "Odszukaj fałszywe zyski"
+
+REFERENCE           PANAMA_SELECT_IRSTROBE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać granat stroboskopowy"
+
+REFERENCE           PANAMA_AC130_FAILQUOTE
+LANG_POLISH         "Zostałeś zabity strzałem z samolotu wsparcia\n"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_032A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Inwazja odciągnie ich uwagę, kiedy ruszymy razem z Navy SEALS."
+
+REFERENCE           PANAMA_STROBE_GRENADE_TUTORIAL
+LANG_POLISH         "Użyj granatów stroboskopowych, by wskazać miejsce ataku."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_003A_MASO_D
+LANG_POLISH         "^1Mason: ^7Załatwmy to."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_001A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_017A_WOOD_M
+LANG_POLISH         "^1Woods: ^7Pieprzony Krawczenko! Pamiętasz, co powiedział w Afganistanie?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_012A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Skup się na wsparciu SEALS."
+
+REFERENCE           PANAMA_ABANDON_MISSION
+LANG_POLISH         "Przerwałeś wykonywanie misji."
+
+REFERENCE           PANAMA_PERK_FLAK_JACKET
+LANG_POLISH         "Ciężka kamizelka chroni przed obrażeniami od wybuchów"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_005A_MASO_S
+LANG_POLISH         "^1Mason: ^7Pospiesz się, Woods."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_002A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Mason."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_017A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Chodź, Frank. Na co czekasz?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_001A_MASO_D
+LANG_POLISH         "^1Mason: ^7Gotowy, Woods?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_011A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zlikwiduj ich, Woods."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_003A_MASO_D
+LANG_POLISH         "^1Mason: ^7Miło cię widzieć, Frank."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_004A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Ciebie również, Alex."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_029A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Hej, Woods, na co czekasz?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_006A_MCKN_M
+LANG_POLISH         "^1McKnight: ^7Jest wkurwiona."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_016A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Jasne."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_002A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Podaj mi powód, dla którego nie miałbym ci rozwalić głowy... No już."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_006A_MCKN_S
+LANG_POLISH         "^1McKnight: ^7Ostro się wściekła."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_005A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Oddziały SEAL zabezpieczą lotnisko oraz główny sztab sił zbrojnych Panamy, by uniemożliwić ucieczkę celu Fałszywy Zysk."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_013A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Hej, chłopaki."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_015A_MASO_D
+LANG_POLISH         "^1Mason: ^7FLARA!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_007A_MASO_D
+LANG_POLISH         "^1Mason: ^7Lepiej się pospieszmy."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_014A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Hej, McKnight. Masz sprzęt?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_021A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Dowiedziała się od żony Jacoba... i Steve'a... i Billa. Czy wiecie, jak teraz wyglądam?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_022A_WOOD_S
+LANG_POLISH         "^1Woods: ^7Dlaczego nie zabijemy tego gościa, co? Po tym, co odstawił w Nikaragui?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_023A_MASO_D
+LANG_POLISH         "^1Mason: ^7Góra ma już dosyć jego krętactw, ale chcą go dostać żywego."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_024A_WOOD_M
+LANG_POLISH         "^1Woods: ^7Cholera, to nie w porządku."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_024A_WOOD_S
+LANG_POLISH         "^1Woods: ^7To nie w porządku."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_025A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Dobrze... Manuel Noriega, od dziś znany jako CEL FAŁSZYWE ZYSKI."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_026A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7To standardowa operacja przechwycenia. Zniszczymy jego reputację i zminimalizujemy możliwość wybuchu powstania w jego imieniu."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_027A_MASO_D
+LANG_POLISH         "^1Mason: ^7W takim razie wszystko gotowe."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_028A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Tak... Chodźcie, odprowadzę was."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_033A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dzięki za piwo, McKnight."
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_030A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Rusz się, człowieku. Nie marnuj czasu."
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_031A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Pozwoliłem sobie przejrzeć akta twoich poprzednich operacji."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_013A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Hudson bez odbioru."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_049A_MCKN_S
+LANG_POLISH         "^1Mcknight: ^7Ta akcja z liczbami... Czy Ruscy naprawdę zrobili ci pranie mózgu?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_050A_MASO_D
+LANG_POLISH         "^1Mason: ^7Tak, robili, co mogli."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_034A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7To była interesująca lektura."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_043A_MASO_D
+LANG_POLISH         "^1Mason: ^7SZP! Tuż pod nami!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_035A_MASO_D
+LANG_POLISH         "^1Mason: ^7Tak? Nie wierz we wszystko, co czytasz."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_036A_MCKN_M
+LANG_POLISH         "^1McKnight: ^7Cholera!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_034A_WOOD_S
+LANG_POLISH         "^1Woods: ^7Wielu nieprzyjaciół! Na poziomie ziemi!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_037A_MASO_D
+LANG_POLISH         "^1Mason: ^7To tylko dzieciaki, McKnight. Nie są tego warte."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_1_01_038A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Tak, chyba masz rację."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_002A_MASO_D
+LANG_POLISH         "^1Mason: ^7Hudson. Mówi Mason. Bombardowanie rozpoczęło się wcześniej, niż planowano. Czy jest coś, o czym nie wiemy?"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_003A_MASO_D
+LANG_POLISH         "^1Mason: ^7Hudson, słyszysz? Żadnej odpowiedzi. Kontynuujemy zgodnie z planem."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_004A_MASO_D
+LANG_POLISH         "^1Mason: ^7McKnight, tu Mason. Jesteśmy na miejscu."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_006A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Będę prowadził obserwację z budynku oznaczonego numer 12 na mapie bojowej."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_007A_MASO_D
+LANG_POLISH         "^1Mason: ^7Czy Hudson zmienił plan?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_008A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Jeśli tak zrobił, to nic mi nie powiedział."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_009A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Powodzenia, Mason. McKnight bez odbioru."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_005A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Co z Fałszywym Zyskiem?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_012A_MASO_D
+LANG_POLISH         "^1Mason: ^7Cśś... Stać!"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_022A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods, dokąd idziesz?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_023A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods, chodź tutaj."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_015A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Cicho!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_013A_MASO_S
+LANG_POLISH         "^1Mason: ^7Wiesz, jak to się mówi... Zrób to jak najszybciej."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_01_010A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Bravo będzie wspierać pozycje na południowym końcu pasa startowego. Golf rusza naprzód."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_001A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Mason. Tu McKnight. Jestem na pozycji w budynku 10."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_004A_MASO_D
+LANG_POLISH         "^1Mason: ^7Jesteśmy w drodze. Mason bez odbioru."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_061A_MASO_D
+LANG_POLISH         "^1Mason: ^7RPG! Na górze!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_02_006A_MASO_D
+LANG_POLISH         "^1Mason: ^7Czekam na sygnał Hudsona. CIA obserwuje każdy jego ruch. Nie oddali się zbytnio."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_004A_MASO_D
+LANG_POLISH         "^1Mason: ^7Musimy się dostać wyżej..."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_005A_MASO_M
+LANG_POLISH         "^1Mason: ^7Cholera... Pospiesz się, Woods!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_006A_MASO_D
+LANG_POLISH         "^1Mason: ^7Do zespołu Golf, mówi Mason. Jesteśmy gotowi na wsparcie. Prosimy o przerwanie ostrzału, kiedy będziemy czyścić dach."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_007A_MASO_M
+LANG_POLISH         "^1Mason: ^7Cholera. Ciągle te problemy z łącznością."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_007A_MASO_S
+LANG_POLISH         "^1Mason: ^7Ciągle problemy z łącznością."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_008A_MASO_D
+LANG_POLISH         "^1Mason: ^7Chodź, Woods. Ruszajmy."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_010A_MASO_D
+LANG_POLISH         "^1Mason: ^7Uwaga! Z lewej strony!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_011A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Osłaniam cię!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_006A_MASO_M
+LANG_POLISH         "^1Mason: ^7Gdzie ty do cholery byłeś? Hudson?! Hudson? ...Hudson?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_013A_MASO_D
+LANG_POLISH         "^1Mason: ^7Pospiesz się, Woods. Musimy pomóc naszym chłopakom na pasie startowym."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_014A_MASO_D
+LANG_POLISH         "^1Mason: ^7Przez świetlik! Ruszaj!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_016A_MASO_D
+LANG_POLISH         "^1Mason: ^7Do zespołu Golf, mówi Mason. Dach czysty. Nie strzelajcie. Wchodzimy przez świetlik."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_015A_MASO_D
+LANG_POLISH         "^1Mason: ^7Dawaj, Woods! Pospiesz się!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_043A_WOOD_D
+LANG_POLISH         "^1Woods: ^7SZP! Pod nami, z prawej strony!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_017A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods, idź do sterowni!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_005A_MASO_D
+LANG_POLISH         "^1Mason: ^7Do mnie."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_018A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zablokuj drzwi! Daj SEALS chwilę wytchnienia."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_027A_MASO_D
+LANG_POLISH         "^1Mason: ^7Golf, zajmijcie się hangarem. My ruszamy do odrzutowca."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_022A_MASO_D
+LANG_POLISH         "^1Mason: ^7Nieprzyjaciel zbliża się od strony hangaru."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_029A_WOOD_S
+LANG_POLISH         "^1Woods: ^7Samolot Noriegi jest gotowy do startu!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_030A_MASO_D
+LANG_POLISH         "^1Mason: ^7Nie pozwól mu wystartować!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_037A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods! Przywal im z RPG."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_032A_MASO_D
+LANG_POLISH         "^1Mason: ^7Woods! Dawaj!"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_03_034A_WOOD_M
+LANG_POLISH         "^1Woods: ^7Cholera! Wielu nieprzyjaciół! Na poziomie ziemi!"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_005A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mason... Tu Hudson."
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_006A_MASO_S
+LANG_POLISH         "^1Mason: ^7Hudson! Gdzie ty byłeś? Hudson? ...Hudson? ...Hudson?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_008A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mów, Mason."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_007A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Mamy potwierdzenie lokalizacji Fałszywego Zysku."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_04_008A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Hotel Adelina. Pokój 225. Zabezpieczyć cel. Hudson bez odbioru."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_001A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Widzę. Na zewnątrz hotelu znajduje się wiele celów."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_002A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Ja się nimi zajmę."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_05_003A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Możesz ruszać."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_002A_WOOD_D
+LANG_POLISH         "^1Woods: ^7Zróbmy to."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_06_004A_MASO_D
+LANG_POLISH         "^1Mason: ^7Czekam na ciebie, Woods."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_001A_MASO_D
+LANG_POLISH         "^1Mason: ^7Zabezpieczyć go."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_003A_NORI_D
+LANG_POLISH         "^1Noriega: ^7Co ty robisz?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_004A_MASO_D
+LANG_POLISH         "^1Mason: ^7Grzebię twoją reputację."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_005A_NORI_D
+LANG_POLISH         "^1Noriega: ^7Nie taka była umowa. Wezwij swojego szefa."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_006A_WOOD_M
+LANG_POLISH         "^1Woods: ^7Posadź swój tyłek na krześle."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_006A_WOOD_S
+LANG_POLISH         "^1Woods: ^7Posadź swoją... na krześle."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_007A_MASO_D
+LANG_POLISH         "^1Mason: ^7Hudson. Tu Mason."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_009A_MASO_D
+LANG_POLISH         "^1Mason: ^7Fałszywy Zysk zabezpieczony. Przystępuję do ewakuacji."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_010A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Nie. Czekaj na nowe rozkazy."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_011A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Cel Fałszywy Zysk posiada informacje o priorytetowym celu Nexus."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_012A_HUDS_D
+LANG_POLISH         "^1Hudson: ^7Należy go odeskortować jako CŁ do alternatywnej lokalizacji, gdzie nastąpi wymiana więźniów. Więcej informacji wkrótce."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_014A_MASO_M
+LANG_POLISH         "^1Mason: ^7Cenny ładunek, pocałuj mnie w dupę."
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_014A_MASO_S
+LANG_POLISH         "^1Mason: ^7Cenny ładunek..."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_015A_WOOD_M
+LANG_POLISH         "^1Woods: ^7Cel Nexus? Kto jest ważniejszy od tego dupka?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_015A_WOOD_S
+LANG_POLISH         "^1Woods: ^7Cel Nexus? Kto może być ważniejszy od tego gościa?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_017A_WOOD_S
+LANG_POLISH         "^1Woods: ^7Krawczenko! Pamiętasz, co on powiedział w Afganistanie?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_021A_KRAV_D
+LANG_POLISH         "^1Krawczenko: ^7On ma swoich ludzi nawet w CIA."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_018A_MASO_D
+LANG_POLISH         "^1Mason: ^7Co z notatką CIA znalezioną u Menendeza?"
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_020A_WOOD_D
+LANG_POLISH         "^1Mason: ^7W bazie Menendeza była notatka CIA."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_2_07_019A_MASO_D
+LANG_POLISH         "^1Mason: ^7Tu chodzi o coś jeszcze, Woods."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_4_04_004A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Skarbie, proszę, uspokój się."
+
+REFERENCE           PANAMA_VOX_VOX_PAN_4_04_007A_MCKN_D
+LANG_POLISH         "^1McKnight: ^7Rodzina? Myślałem, że chodzi o dzień jutrzejszy?"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+ENDMARKER

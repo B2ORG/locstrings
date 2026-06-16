@@ -1,0 +1,43 @@
+// Dumped from fastfile "ber1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BER1_REGROUP_BERM
+LANG_ENGLISH        "Stoßen Sie zu Ihrem Trupp."
+
+REFERENCE           BER1_CLEAR_CLOCKTOWER
+LANG_ENGLISH        "Neutralisieren Sie die Panzerfäuste und MGs, damit die Panzer vorrücken können."
+
+REFERENCE           BER1_CLEAR_RUINS
+LANG_ENGLISH        "Greifen Sie die deutschen Verteidigungen an."
+
+REFERENCE           BER1_CLEAR_OFFICE
+LANG_ENGLISH        "Kämpfen Sie sich durch das Bürogebäude."
+
+REFERENCE           BER1_ENTER_ASYLUM
+LANG_ENGLISH        "Gelangen Sie in die Anstalt."
+
+REFERENCE           BER1_CLEAR_ASYLUM
+LANG_ENGLISH        "Sichern Sie die Anstalt."
+
+REFERENCE           BER1_PUSH_GERMANS
+LANG_ENGLISH        "Erledigen Sie die deutschen Truppen auf dem Rückzug."
+
+REFERENCE           BER1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Der Ring aus Stahl'"
+
+REFERENCE           BER1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Pankow, Berlin"
+
+REFERENCE           BER1_INTROSCREEN_DATE
+LANG_ENGLISH        "23. April 1945"
+
+REFERENCE           BER1_INTROSCREEN_INFO
+LANG_ENGLISH        "3. Stoßtrupp"
+
+REFERENCE           BER1_INTROSCREEN_NAME
+LANG_ENGLISH        "Pvt. Petrenko"
+
+ENDMARKER

@@ -1,0 +1,115 @@
+// Dumped from fastfile "pby_fly".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           VEHICLENAME_CRUSADER_TANK
+LANG_ENGLISH        "Char Crusader"
+
+REFERENCE           PBY_FLY_OBJ_EV1
+LANG_ENGLISH        "Continuez à patrouiller."
+
+REFERENCE           PBY_FLY_TUT_INTRO
+LANG_ENGLISH        "Bienvenue à l'initiation au tir des tourelles du PBY."
+
+REFERENCE           PBY_FLY_TUT_SWITCH
+LANG_ENGLISH        "Utilisez le BMD pour changer de tourelle."
+
+REFERENCE           PBY_FLY_INTROSCREEN_TITLE
+LANG_ENGLISH        "\"Chats noirs\""
+
+REFERENCE           PBY_FLY_INTROSCREEN_PLACE
+LANG_ENGLISH        "Sud d'Okinawa"
+
+REFERENCE           PBY_FLY_INTROSCREEN_DATE
+LANG_ENGLISH        "3 avril 1945"
+
+REFERENCE           PBY_FLY_INTROSCREEN_NAME
+LANG_ENGLISH        "Maître Locke"
+
+REFERENCE           VEHICLENAME_FLETCHER
+LANG_ENGLISH        "Destroyer Fletcher"
+
+REFERENCE           PBY_FLY_INTROSCREEN_INFO
+LANG_ENGLISH        "Escadron VPB-54 des Chats noirs"
+
+REFERENCE           PBY_FLY_OBJ_EV2_PTBOATS
+LANG_ENGLISH        "Résistez aux torpilleurs [&&1 détruit(s)]."
+
+REFERENCE           PBY_FLY_OBJ_EV2
+LANG_ENGLISH        "Détruisez les bateaux marchands japonais [reste &&1]."
+
+REFERENCE           PBY_FLY_PBY_NAME_B
+LANG_ENGLISH        "HAMMERHEAD"
+
+REFERENCE           PBY_FLY_OBJ_EV3B
+LANG_ENGLISH        "Répondez à l'appel de détresse de la flotte."
+
+REFERENCE           PBY_FLY_OBJ_EV3
+LANG_ENGLISH        "Revenez à la base."
+
+REFERENCE           VEHICLENAME_SHERMAN_TANK
+LANG_ENGLISH        "Char Sherman"
+
+REFERENCE           PBY_FLY_OBJ_EV4
+LANG_ENGLISH        "Sauvez tous les survivants.  [&&1 sauvé(s)]"
+
+REFERENCE           PBY_FLY_MERCHANT
+LANG_ENGLISH        "Bateaux marchands :"
+
+REFERENCE           PBY_FLY_SWITCH_FRONT
+LANG_ENGLISH        "Appuyez sur [{+activate}] pour contrôler la tourelle avant."
+
+REFERENCE           PBY_FLY_SWITCH_RIGHT
+LANG_ENGLISH        "Appuyez sur [{+activate}] pour contrôler la tourelle droite."
+
+REFERENCE           PBY_FLY_OBJ_EV5
+LANG_ENGLISH        "Échappez aux Zeros."
+
+REFERENCE           PBY_FLY_SWITCH_LEFT
+LANG_ENGLISH        "Appuyez sur [{+activate}] pour contrôler la tourelle gauche."
+
+REFERENCE           VEHICLENAME_ARMORED_CAR
+LANG_ENGLISH        "Véhicule blindé"
+
+REFERENCE           PBY_FLY_SWITCH_REAR
+LANG_ENGLISH        "Appuyez sur [{+activate}] pour contrôler la tourelle ventrale."
+
+REFERENCE           PBY_FLY_RESCUE
+LANG_ENGLISH        "Appuyez sur [{+activate}] pour repêcher les survivants."
+
+REFERENCE           PBY_FLY_ADS_HINT
+LANG_ENGLISH        "Maintenez [{+speed_throw}] pour le réflecteur et la mire en métal."
+
+REFERENCE           PBY_FLY_PBY_NAME_A
+LANG_ENGLISH        "MANTA RAY"
+
+REFERENCE           PBY_FLY_PBY_SQUAD
+LANG_ENGLISH        "VPB 54 - CHATS NOIRS"
+
+REFERENCE           PBY_FLY_SURVIVOR
+LANG_ENGLISH        "Survivants :"
+
+REFERENCE           PBY_FLY_PTBOAT
+LANG_ENGLISH        "Bateaux de patrouille :"
+
+REFERENCE           PBY_FLY_ZEROES
+LANG_ENGLISH        "Zéros :"
+
+REFERENCE           PBY_FLY_X
+LANG_ENGLISH        "x"
+
+REFERENCE           PBY_FLY_OBJ_EV3B_ZEROES
+LANG_ENGLISH        "Résistez aux Zeros japonais [&&1 détruit(s)]."
+
+REFERENCE           PBY_FLY_CANNON
+LANG_ENGLISH        "Appuyez sur [{+frag}] pour utiliser le canon de 20 mm."
+
+REFERENCE           VEHICLENAME_BUFFALO
+LANG_ENGLISH        "Buffalo"
+
+REFERENCE           VEHICLENAME_T34_TANK
+LANG_ENGLISH        "Char T34"
+
+ENDMARKER

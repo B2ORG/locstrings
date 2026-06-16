@@ -1,0 +1,58 @@
+// Dumped from fastfile "sniper".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SNIPER_OBJ_1
+LANG_ENGLISH        "Zostañ z sier¿antem Reznowem."
+
+REFERENCE           SNIPER_HINT_CROUCH
+LANG_ENGLISH        "Naciœnij [{gocrouch}], aby kucn¹æ"
+
+REFERENCE           SNIPER_OBJ_2
+LANG_ENGLISH        "Wyeliminuj wszystkich Niemców na ulicy."
+
+REFERENCE           SNIPER_OBJ_3
+LANG_ENGLISH        "Pod¹¿aj za sier¿antem Reznowem."
+
+REFERENCE           SNIPER_OBJ_5
+LANG_ENGLISH        "Wesprzyj towarzyszy ogniem snajperskim."
+
+REFERENCE           SNIPER_INTROSCREEN_DATE
+LANG_ENGLISH        "17 wrzeœnia 1942"
+
+REFERENCE           SNIPER_INTROSCREEN_PLACE
+LANG_ENGLISH        "Stalingrad, Rosja"
+
+REFERENCE           SNIPER_OBJ_6
+LANG_ENGLISH        "Zabij genera³a Amsela."
+
+REFERENCE           SNIPER_INTROSCREEN_INFO
+LANG_ENGLISH        "Szeregowy Petrenko"
+
+REFERENCE           SNIPER_INTROSCREEN_INFO2
+LANG_ENGLISH        "62. Dywizja Strzelców"
+
+REFERENCE           SNIPER_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Wendeta'"
+
+REFERENCE           SNIPER_OBJ_4
+LANG_ENGLISH        "Zlikwiduj wrogiego snajpera."
+
+REFERENCE           SNIPER_TO_BE_CONTINUED
+LANG_ENGLISH        "Ci¹g dalszy nast¹pi..."
+
+REFERENCE           SNIPER_GENERAL_ESCAPED
+LANG_ENGLISH        "Genera³ uciek³!"
+
+REFERENCE           SNIPER_REZNOV_KILLED
+LANG_ENGLISH        "Twoje dzia³ania doprowadzi³y do œmierci Reznowa."
+
+REFERENCE           SNIPER_JUMP_FARTHER
+LANG_ENGLISH        "S"
+
+REFERENCE           SNIPER_EASY_PRONE_DESC
+LANG_ENGLISH        "Przytrzymaj [{goprone}], aby siê po³o¿yæ"
+
+ENDMARKER

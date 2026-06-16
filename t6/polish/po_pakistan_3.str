@@ -1,0 +1,613 @@
+// Dumped from fastfile "po_pakistan_3".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_POLISH         "Przegrupować się"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_POLISH         "Ofiara"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_003A_HARP_D
+LANG_POLISH         "^1Harper: ^7Utoruj nam drogę, Sekcjo!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_004A_HARP_D
+LANG_POLISH         "^1Harper: ^7SOC-T blokuje drogę!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_005A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zniszcz tę barykadę!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_006A_HARP_D
+LANG_POLISH         "^1Harper: ^7SZYBKO! SZYBKO!"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_POLISH         "Podnieś"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_010A_HARP_D
+LANG_POLISH         "^1Harper: ^7Szybko się zbliżają!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_066A_HARP_S
+LANG_POLISH         "^1Harper: ^7Co się dzieje, człowieku? Idziesz w złą stronę!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_007A_HARP_D
+LANG_POLISH         "^1Harper: ^7Szybciej, człowieku! Musimy dotrzeć do punktu ewakuacji!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_008A_SEAL_D
+LANG_POLISH         "^1Navy SEAL: ^7Torujemy wam drogę. Rozglądajcie się za dymem."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_009A_HARP_D
+LANG_POLISH         "^1Harper: ^7Są już w pobliżu!"
+
+REFERENCE           PAKISTAN_SHARED_SURV_ZOOM
+LANG_POLISH         "Przytrzymaj ^3[{+speed_throw}]^7, żeby zbliżyć"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_069A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera! Dron kieruje się na ten śmigłowiec!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_068A_HARP_D
+LANG_POLISH         "^1Harper: ^7Uważaj! To miejsce zaraz się zawali!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_011A_HARP_D
+LANG_POLISH         "^1Harper: ^7Musisz ich zgubić, Sekcjo."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_012A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zmiana kursu, człowieku!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_013A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zasuwaj!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_029A_HARP_M
+LANG_POLISH         "^1Harper: ^7O to, kurwa, chodziło!"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_SEARCH_ACTIVATED
+LANG_POLISH         "WYSZUKIWANIE ZACZEPIENIA GOTOWE"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_059A_HARP_D
+LANG_POLISH         "^1Harper: ^7Za Salazarem!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_060A_HARP_D
+LANG_POLISH         "^1Harper: ^7Pospiesz się! Zostajemy za bardzo w tyle!"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_SURVEIL_MENENDEZ
+LANG_POLISH         "Śledź Menendeza"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_061A_HARP_D
+LANG_POLISH         "^1Harper: ^7Szybko, człowieku! Musimy dogonić Sala!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_063A_HARP_D
+LANG_POLISH         "^1Harper: ^7Dawaj, Sekcjo!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_064A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nie zdążymy na ewakuację!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_065A_HARP_M
+LANG_POLISH         "^1Harper: ^7Kurwa, człowieku! Musimy się ruszyć!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_065A_HARP_S
+LANG_POLISH         "^1Harper: ^7Człowieku! Musimy się pospieszyć!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_023A_HARP_D
+LANG_POLISH         "^1Harper: ^7Patrz na drogę, kolego!"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_POLISH         "Interakcja"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_066A_HARP_M
+LANG_POLISH         "^1Harper: ^7Kurwa, co się dzieje, człowieku? Idziesz w złą stronę!"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_POLISH         "Amunicja"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_024A_HARP_S
+LANG_POLISH         "^1Harper: ^7Jedź! Szybko!"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_1
+LANG_POLISH         "^L\"UPADŁY ANIOŁ\"^L"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_067A_HARP_D
+LANG_POLISH         "^1Harper: ^7Świetny strzał!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_014A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zaatakuj jeszcze raz!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_050A_HARP_M
+LANG_POLISH         "^1Harper: ^7Naprawdę niewiele brakowało, żeby mi urwało moją cholerną głowę! Naprzód!"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE_AGAIN
+LANG_POLISH         "Schwytaj Menendeza"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_015A_HARP_D
+LANG_POLISH         "^1Harper: ^7Staranuj ich!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_016A_HARP_D
+LANG_POLISH         "^1Harper: ^7Zrób to, człowieku!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_021A_HARP_D
+LANG_POLISH         "^1Harper: ^7W lewo! Na autostradę!"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_POLISH         "Zbliżają się (śmigłowce)"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_003A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Dobra... Hej. Spokojnie..."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_024A_HARP_M
+LANG_POLISH         "^1Harper: ^7Zasuwaj, jakby gonił nas sam diabeł! Szybko!"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_INIT
+LANG_POLISH         "URUCHAMIANIE TRYBU ZACZEPIENIA"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_050A_HARP_S
+LANG_POLISH         "^1Harper: ^7O włos ominęło moją twarz! Ruszaj!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_073A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Punkt ewakuacyjny tuż przed nami!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_026A_HARP_D
+LANG_POLISH         "^1Harper: ^7Będzie wąsko."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_027A_HARP_D
+LANG_POLISH         "^1Harper: ^7O, tak!"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_LOCATED
+LANG_POLISH         "PUNKT ZACZEPIENIA ZLOKALIZOWANY"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_028A_HARP_D
+LANG_POLISH         "^1Harper: ^7O to chodziło!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_029A_HARP_S
+LANG_POLISH         "^1Harper: ^7O to chodziło!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_036A_HARP_S
+LANG_POLISH         "^1Harper: ^7Człowieku, to nie wygląda dobrze."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_031A_HARP_D
+LANG_POLISH         "^1Harper: ^7Atakuje nas śmigłowiec!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_001A_HARP_M
+LANG_POLISH         "^1Harper: ^7O, cholera. Co znowu?"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_SALAZAR
+LANG_POLISH         "Spotkaj się z Salazarem"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_032A_HARP_M
+LANG_POLISH         "^1Harper: ^7Co do cholery?"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_001A_HARP_S
+LANG_POLISH         "^1Harper: ^7Co znowu?"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_TO_DRONE_HINT
+LANG_POLISH         "Naciśnij ^3[{+switchseat}]^7, żeby wybrać SOC-T lub dron"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_040A_HARP_D
+LANG_POLISH         "^1Harper: ^7W prawo!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_035A_HARP_D
+LANG_POLISH         "^1Harper: ^7Coś mi mówi, że to nie jest zwykły SOC-T."
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_DEACTIVATE
+LANG_POLISH         "WYŁĄCZANIE TRYBU INWIGILACJI"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_032A_HARP_S
+LANG_POLISH         "^1Harper: ^7Co do cholery..."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_049A_HARP_S
+LANG_POLISH         "^1Harper: ^7Och!"
+
+REFERENCE           PAKISTAN_SHARED_GRENADE_GRAPPLE
+LANG_POLISH         "Przytrzymaj ^3[{+frag}]^7, żeby wycelować"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_033A_HARP_D
+LANG_POLISH         "^1Harper: ^7Musimy zasuwać dalej!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_037A_HARP_D
+LANG_POLISH         "^1Harper: ^7To wszystko zaraz runie!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_036A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera, człowieku. To nie wygląda dobrze."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_038A_HARP_D
+LANG_POLISH         "^1Harper: ^7Znajdź jakąś drogę!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_039A_HARP_D
+LANG_POLISH         "^1Harper: ^7W lewo!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_051A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Tam jest punkt ewakuacji..."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_041A_HARP_D
+LANG_POLISH         "^1Harper: ^7Atakują nas!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_071A_HARP_M
+LANG_POLISH         "^1Harper: ^7Cholera! Straciliśmy drona!"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_POLISH         "Zjedź na linie"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_054A_HARP_D
+LANG_POLISH         "^1Harper: ^7Musisz użyć drona, żeby ich zlikwidować!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_055A_HARP_D
+LANG_POLISH         "^1Harper: ^7Przejmij kontrolę nad dronem i zlikwiduj te cele, szybko!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_069A_HARP_S
+LANG_POLISH         "^1Harper: ^7Dron kieruje się wprost na ten śmigłowiec!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_071A_HARP_S
+LANG_POLISH         "^1Harper: ^7Straciliśmy drona!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_072A_HARP_D
+LANG_POLISH         "^1Harper: ^7Kolizja wywołała reakcję łańcuchową!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_074A_HARP_D
+LANG_POLISH         "^1Harper: ^7Unikaj płomieni! Uważaj!"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_POLISH         "Oczyść"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_049A_HARP_M
+LANG_POLISH         "^1Harper: ^7Och, kurwa!"
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_3_02_052A_HARP_D
+LANG_POLISH         "^1Harper: ^7Nareszcie."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_004A_ZHAO_D
+LANG_POLISH         "^1Zhao: ^7Amerykańskich sił nie powinno być w Pakistanie."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_005A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Tian Zhao. Walczył u boku mojego ojca w Afganistanie."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_009A_SECT_D
+LANG_POLISH         "^1Sekcja: ^7Nie mamy żadnych pretensji do Chin, generale Zhao. Przybyliśmy do Pakistanu po Raula Menendeza."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_006A_ZHAO_D
+LANG_POLISH         "^1Zhao: ^7A więc coś nas łączy."
+
+REFERENCE           PAKISTAN_3_VOX_VOX_PAK_4_01_007A_ZHAO_D
+LANG_POLISH         "^1Zhao: ^7Posłuchaj, Jankesie... Jeśli naprawdę przybywasz tu po Raula Menendeza... To nie ma potrzeby, żebym cię zabijał."
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_2
+LANG_POLISH         "LAHAUR, ^LPAKISTAN^L"
+
+REFERENCE           PAKISTAN_SHARED_PIPE_MELEE_INTERACT_TRIGGER_HINT
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby zejść na dół."
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_3
+LANG_POLISH         "DAVID MASON // KRYPTONIM: ^L'SEKCJA'^L"
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_4
+LANG_POLISH         "GRUPA ZADANIOWA ^LJSOC^L DO WALKI Z TERRORYZMEM"
+
+REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL_KEYBOARD
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby kontynuować w SOC-T.\nNaciśnij ^3[{+reload}]^7, żeby kontynuować w dronie."
+
+REFERENCE           PAKISTAN_SHARED_INTROSCREEN_LINE_5
+LANG_POLISH         "29 MAJA ^L2025^L"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_POLISH         "Wsparcie"
+
+REFERENCE           PAKISTAN_SHARED_PLAYER_SWITCH
+LANG_POLISH         "Naciśnij ^3[{+actionslot 2}]^7, żeby powrócić do Masona"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_POLISH         "Użyj"
+
+REFERENCE           PAKISTAN_SHARED_STREET_CLAW_SWITCH
+LANG_POLISH         "Naciśnij ^3[{+actionslot 3}]^7, żeby wybrać Brutusa"
+
+REFERENCE           PAKISTAN_SHARED_ROOFTOP_CLAW_SWITCH
+LANG_POLISH         "Naciśnij ^3[{+actionslot 4}]^7, żeby wybrać Maximusa"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_3
+LANG_POLISH         "Ostatnie ostrzeżenie. Trzymaj się bliżej Salazara"
+
+REFERENCE           PAKISTAN_SHARED_FAIL_SURVEILLANCE
+LANG_POLISH         "Nie udało się nagrać rozmowy."
+
+REFERENCE           PAKISTAN_SHARED_COURTYARD_WARNING
+LANG_POLISH         "Opuszczasz obszar bitwy!"
+
+REFERENCE           PAKISTAN_SHARED_SCOT_DESTROYED
+LANG_POLISH         "SOC-T zniszczony"
+
+REFERENCE           PAKISTAN_SHARED_PLAYER_DRONE_DESTROYED
+LANG_POLISH         "Dron zniszczony"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_BASE
+LANG_POLISH         "Przedostań się do Anthem"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_AVOID_DRONES
+LANG_POLISH         "Uniknij wykrycia przez drony MQ"
+
+REFERENCE           PAKISTAN_SHARED_DIRECT_CLAW_FIRE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby kierować ostrzałem z CLAW-a"
+
+REFERENCE           PAKISTAN_SHARED_INFO_COMPLETE
+LANG_POLISH         "Zapis istotnych informacji o misji: ukończono (3 z 3)"
+
+REFERENCE           PAKISTAN_SHARED_PERK_GET_FLAMETHROWER
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby odblokować miotacz ognia CLAW"
+
+REFERENCE           PAKISTAN_SHARED_PERK_INTRUDER_SOCT
+LANG_POLISH         "Przytrzymaj ^3[{+activate}]^7, żeby otworzyć"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_TURRET
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby wystrzelić z wieżyczki\nNaciśnij ^3[{+speed_throw}]^7, żeby wystrzelić rakiety"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_MISSILE
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7, żeby wystrzelić pociski"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_HINT_SWITCH
+LANG_POLISH         "Naciśnij ^3[{+switchseat}]^7, żeby wybrać SOC-T"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_BLOCKADE
+LANG_POLISH         "Zniszcz blokadę"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_ESCAPE
+LANG_POLISH         "Ucieknij z Anthem"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GET_TO_EXTRACTION_POINT
+LANG_POLISH         "Udaj się do punktu ewakuacyjnego"
+
+REFERENCE           PAKISTAN_SHARED_FAILURE_LOST_SCOT_CONTROL
+LANG_POLISH         "Misja nieudana: stracono kontrolę nad SOC-T."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_GAS
+LANG_POLISH         "Naciśnij ^3[{+gas}]^7, żeby przyspieszyć"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_GRAPPLE
+LANG_POLISH         "Udaj się do punktu obserwacyjnego"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_ID_MENENDEZ
+LANG_POLISH         "Rozpoznaj Menendeza"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_RECORD_MENENDEZ
+LANG_POLISH         "Nagraj rozmowę Menendeza"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_REACQUIRE
+LANG_POLISH         "Schwytaj Menendeza"
+
+REFERENCE           PAKISTAN_SHARED_FAIL_ID
+LANG_POLISH         "Nie udało ci się odszukać i śledzić Menendeza."
+
+REFERENCE           PAKISTAN_SHARED_ANTHEM_ALERT_FAIL
+LANG_POLISH         "Zdradziłeś swoją pozycję."
+
+REFERENCE           PAKISTAN_SHARED_BUS_FAIL
+LANG_POLISH         "Zejdź z ulicy, żeby uniknąć autobusu."
+
+REFERENCE           PAKISTAN_SHARED_OBJ_BUS_ESCAPE
+LANG_POLISH         "Ucieczka"
+
+REFERENCE           PAKISTAN_SHARED_FROGGER_FAIL
+LANG_POLISH         "Zostałeś zabity przed spadające odłamki. \nDuże obiekty zadają obrażenia po uderzeniu w cel."
+
+REFERENCE           PAKISTAN_SHARED_PERK_CLAW_SUPPORT
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby usunąć blokadę"
+
+REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SOUND
+LANG_POLISH         "Zostałeś zauważony przez drona. \nDron kieruje się w stronę źródła dźwięku."
+
+REFERENCE           PAKISTAN_SHARED_DRONE_FAIL_SIGHT
+LANG_POLISH         "Zostałeś zauważony przez drona. \nMusisz pozostawać poza światłem jego reflektora."
+
+REFERENCE           PAKISTAN_SHARED_FLAMETHROWER_ENABLED
+LANG_POLISH         "Miotacz ognia jednostki CLAW włączony"
+
+REFERENCE           PAKISTAN_SHARED_OBJ_CLEAR_RAILYARD
+LANG_POLISH         "Oczyść węzeł kolejowy"
+
+REFERENCE           PAKISTAN_SHARED_PIPE_FAIL
+LANG_POLISH         "Unikaj rur, którymi rzucają w ciebie bossowie."
+
+REFERENCE           PAKISTAN_SHARED_SCOT_DISTANCE_WARNING
+LANG_POLISH         "Trzymaj się blisko Salazara."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BRAKE
+LANG_POLISH         "Przytrzymaj ^3[{+speed_throw}]^7, żeby zahamować / cofać."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_WARNING_2
+LANG_POLISH         "Trzymaj się bliżej Salazara. Jesteś zbyt daleko\n"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_1
+LANG_POLISH         "Idź do punktu ewakuacyjnego"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_POLISH         "Eskortuj"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_WARNING_2
+LANG_POLISH         "Mason, idź natychmiast do punktu ewakuacyjnego"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_POLISH         "Podążaj za"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_DISTANCE_FAIL
+LANG_POLISH         "Straciłeś kontakt z Salazarem."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_SPEED_FAIL
+LANG_POLISH         "Nie zatrzymuj się i dotrzyj do punktu ewakuacyjnego"
+
+REFERENCE           PAKISTAN_SHARED_NON_SUPER_SOCT_FAIL
+LANG_POLISH         "Twój SOC-T nie może się przebić. Znajdź inną drogę."
+
+REFERENCE           PAKISTAN_SHARED_OBJ_EVAC
+LANG_POLISH         "Udaj się do punktu ewakuacyjnego"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MOVEMENT
+LANG_POLISH         "Użyj ^3[{+movestick}]^7, żeby się poruszać i ^3[{+lookstick}]^7, żeby celować z wieżyczki."
+
+REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_6X
+LANG_POLISH         "PRZYBLIŻENIE: 6X"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_STEER
+LANG_POLISH         "Użyj ^3[{+strafestick}]^7, żeby kierować"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_BOOST
+LANG_POLISH         "Naciśnij ^3[{+gostand}]^7, żeby użyć dopalacza"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_MINIGUN
+LANG_POLISH         "Naciśnij ^3[{+attack}]^7, żeby strzelić z miniguna\nNaciśnij ^3[{+frag}]^7, żeby strzelić z granatnika"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_GRENADE
+LANG_POLISH         "Naciśnij ^3[{+frag}]^7, żeby wystrzelić z granatnika."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_FLAMETHROWER
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7, żeby strzelić z miotacza ognia."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_HINT_SWITCH
+LANG_POLISH         "Naciśnij ^3[{+switchseat}]^7, żeby wybrać CLAW-a, którym chcesz sterować."
+
+REFERENCE           PAKISTAN_SHARED_FAIL_ID_MENENDEZ
+LANG_POLISH         "Musisz rozpoznać Menendeza."
+
+REFERENCE           PAKISTAN_SHARED_MELEE_HINT
+LANG_POLISH         "Naciśnij ^3[{+melee}]^7, żeby zaatakować wręcz"
+
+REFERENCE           PAKISTAN_SHARED_MOUNT_SOCT_TRIGGER_HINT
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby wsiąść do SOC-T."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_FAIL
+LANG_POLISH         "Opuściłeś swój oddział."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_ABANDON_WARNING
+LANG_POLISH         "Wróć do oddziału."
+
+REFERENCE           PAKISTAN_SHARED_SOCT_HINT_RAM
+LANG_POLISH         "Naciśnij ^3[{+gostand}]^7, żeby użyć dopalacza"
+
+REFERENCE           PAKISTAN_SHARED_CLAW_SWITCH_TO
+LANG_POLISH         "Naciśnij ^3[{+switchseat}]^7, żeby wybrać CLAW-a"
+
+REFERENCE           PAKISTAN_SHARED_HINT_PRONE
+LANG_POLISH         "Przytrzymaj ^3[{+stance}]^7, żeby zacząć się czołgać"
+
+REFERENCE           PAKISTAN_SHARED_HINT_PRONE_KEYBOARD
+LANG_POLISH         "Naciśnij ^3[{toggleprone}]^7, żeby zacząć się czołgać"
+
+REFERENCE           PAKISTAN_SHARED_CHOOSE_VEHICLE_TO_FINISH_LEVEL
+LANG_POLISH         "Naciśnij ^3[{+activate}]^7, żeby wybrać SOC-T.\nNaciśnij ^3[{+stance}]^7, żeby wybrać dron."
+
+REFERENCE           PAKISTAN_SHARED_DRONE_MISSILE_LOCK_HELPER
+LANG_POLISH         "Naciśnij ^3[{+speed_throw}]^7, żeby wystrzelić pocisk z naprowadzaniem w kierunku celu"
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_STANDBY
+LANG_POLISH         "OCZEKIWANIE..."
+
+REFERENCE           PAKISTAN_SHARED_GRAPPLE_SCAN
+LANG_POLISH         "SKANOWANIE..."
+
+REFERENCE           PAKISTAN_SHARED_MILLIBAR_ZOOM_2X
+LANG_POLISH         "PRZYBLIŻENIE: 2X"
+
+REFERENCE           PAKISTAN_SHARED_SURV_ACTIVATE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby wybrać tryb rozpoznania"
+
+REFERENCE           PAKISTAN_SHARED_SURV_TOGGLE
+LANG_POLISH         "Naciśnij ^3[{+actionslot 1}]^7, żeby włączyć tryb rozpoznania"
+
+REFERENCE           PAKISTAN_SHARED_SURV_MODE_HINT
+LANG_POLISH         "TRYB INWIGILACJI W GOTOWOŚCI"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_ACTIVE
+LANG_POLISH         "TRYB INWIGILACJI AKTYWNY"
+
+REFERENCE           PAKISTAN_SHARED_SURVEILLANCE_INITIALIZE
+LANG_POLISH         "URUCHAMIANIE TRYBU INWIGILACJI"
+
+REFERENCE           PAKISTAN_SHARED_GCM_OFFLINE
+LANG_POLISH         "GCM OFFLINE"
+
+REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE2
+LANG_POLISH         "Zapis istotnych informacji o misji: nie ukończono (2 z 3)"
+
+REFERENCE           PAKISTAN_SHARED_GCM_ONLINE
+LANG_POLISH         "GCM ONLINE"
+
+REFERENCE           PAKISTAN_SHARED_GATE_PUSH_FAIL
+LANG_POLISH         "Pomóż Harperowi w otworzeniu bramy."
+
+REFERENCE           PAKISTAN_SHARED_CLAW_ONLINE
+LANG_POLISH         "CLAW: MAXIMUS ONLINE"
+
+REFERENCE           PAKISTAN_SHARED_BUS_PUSH_F
+LANG_POLISH         "Naciskaj ^F^3[{+activate}]^7^F, żeby popchnąć"
+
+REFERENCE           PAKISTAN_SHARED_INFO1
+LANG_POLISH         "Zapisano istotne informacje pierwszej misji"
+
+REFERENCE           PAKISTAN_SHARED_INFO2
+LANG_POLISH         "Zapisano istotne informacje drugiej misji"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_POLISH         "Wyłącz"
+
+REFERENCE           PAKISTAN_SHARED_INFO3
+LANG_POLISH         "Zapisano istotne informacje trzeciej misji"
+
+REFERENCE           PAKISTAN_SHARED_INFO_INCOMPLETE1
+LANG_POLISH         "Zapis istotnych informacji o misji: nie ukończono (1 z 3)"
+
+REFERENCE           PAKISTAN_SHARED_KILLED_BY_DRONE
+LANG_POLISH         "Zostałeś zabity przez drona MQ"
+
+REFERENCE           PAKISTAN_SHARED_COMMS
+LANG_POLISH         "ŁĄCZE KOMUNIKACYJNE AKTYWNE"
+
+REFERENCE           PAKISTAN_SHARED_SOCT_INFO
+LANG_POLISH         "ZDOBYTO DANE SOC-T"
+
+REFERENCE           PAKISTAN_SHARED_BUS_RUNOVER
+LANG_POLISH         "Uważaj na autobus."
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_POLISH         "Zniszcz"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_POLISH         "Wejdź"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_POLISH         "Broń"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_POLISH         "Chroń"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_POLISH         "Szturm"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_POLISH         "Strzelaj"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_POLISH         "Cel"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_POLISH         "Skok"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_POLISH         "Walka wręcz"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_POLISH         "Detonuj"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_POLISH         "Pomoc"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_POLISH         "Przeszukaj"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_POLISH         "Sprawdź"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_POLISH         "Wspinaj się"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_POLISH         "Uzbrojenie"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_POLISH         "Zbliżają się (czołgi)"
+
+ENDMARKER

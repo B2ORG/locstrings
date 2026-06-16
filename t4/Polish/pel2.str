@@ -1,0 +1,91 @@
+// Dumped from fastfile "pel2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL2_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Twarde l¹dowanie'"
+
+REFERENCE           PEL2_INTROSCREEN_PLACE
+LANG_ENGLISH        "Lotnisko, Peleliu"
+
+REFERENCE           PEL2_INTROSCREEN_DATE
+LANG_ENGLISH        "15 wrzeœnia 1944"
+
+REFERENCE           PEL2_AA_BUNKER
+LANG_ENGLISH        "Zaatakuj bunkier przeciwlotniczy."
+
+REFERENCE           PEL2_ASSAULT_AIRFIELD
+LANG_ENGLISH        "Zaatakuj lotnisko."
+
+REFERENCE           PEL2_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Miller"
+
+REFERENCE           PEL2_SECURE_MANGROVE_AREA
+LANG_ENGLISH        "Zaatakuj z flanki pozycjê japoñskiej artylerii."
+
+REFERENCE           PEL2_INTROSCREEN_INFO
+LANG_ENGLISH        "1. Dywizja Marines"
+
+REFERENCE           PEL2_CLEAR_THE_BUILDING
+LANG_ENGLISH        "Oczyœæ budynek."
+
+REFERENCE           PEL2_BUNKER_REGROUP
+LANG_ENGLISH        "Poszukaj os³ony wraz z oddzia³em."
+
+REFERENCE           PEL2_GET_BAZOOKA
+LANG_ENGLISH        "Zabierz bazookê z okopu."
+
+REFERENCE           PEL2_CLEAR_BUNKERS
+LANG_ENGLISH        "Zaatakuj bunkry."
+
+REFERENCE           PEL2_RETRIEVE_FLAME
+LANG_ENGLISH        "Odzyskaj miotacz p³omieni."
+
+REFERENCE           PEL2_FLAME_MG
+LANG_ENGLISH        "Ostrzelaj bunkier ogniem zaporowym."
+
+REFERENCE           PEL2_FLAME_BUNKER
+LANG_ENGLISH        "Podpal bunkier."
+
+REFERENCE           PEL2_RIFLE_GRENADE_TEXT
+LANG_ENGLISH        "Naciœnij [{+actionslot 3}], aby przyczepiæ granatnik"
+
+REFERENCE           PEL2_ADVANCE_TOWARDS_AIRFIELD
+LANG_ENGLISH        "Udaj siê w stronê lotniska."
+
+REFERENCE           PEL2_BAZOOKA
+LANG_ENGLISH        "Zniszcz bazook¹ czo³gi nieprzyjaciela."
+
+REFERENCE           PEL2_BAZOOKA_1
+LANG_ENGLISH        "Zniszcz bazook¹ czo³gi Typ 97 - zosta³ 1 z 3."
+
+REFERENCE           PEL2_BAZOOKA_2
+LANG_ENGLISH        "Zniszcz bazook¹ czo³gi Typ 97 - zosta³y 2 z 3."
+
+REFERENCE           PEL2_BAZOOKA_3
+LANG_ENGLISH        "Zniszcz bazook¹ czo³gi Typ 97 - zosta³y 3 z 3."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS
+LANG_ENGLISH        "Wyeliminuj za³ogi dzia³ przeciwlotniczych. "
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_1
+LANG_ENGLISH        "Wyeliminuj za³ogi dzia³ plot. - zosta³a 1 z 4."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_2
+LANG_ENGLISH        "Wyeliminuj za³ogi dzia³ plot. - zosta³a 2 z 4."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_3
+LANG_ENGLISH        "Wyeliminuj za³ogi dzia³ plot. - zosta³a 3 z 4."
+
+REFERENCE           PEL2_DESTROY_AA_GUNS_4
+LANG_ENGLISH        "Wyeliminuj za³ogi dzia³ plot. - zosta³a 4 z 4."
+
+REFERENCE           PEL2_SECURE_AABUNKER
+LANG_ENGLISH        "Zabezpiecz bunkier przeciwlotniczy."
+
+REFERENCE           PEL2_COUNTERATTACK
+LANG_ENGLISH        "Odeprzyj kontratak."
+
+ENDMARKER

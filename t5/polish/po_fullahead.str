@@ -1,0 +1,928 @@
+// Dumped from fastfile "po_fullahead".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           FULLAHEAD_ACQUIRED_1_SMOKE
+LANG_ENGLISH        "Zdobyto granat dymny"
+
+REFERENCE           FULLAHEAD_ACQUIRED_2_SMOKE
+LANG_ENGLISH        "Zdobyto 2 granaty dymne"
+
+REFERENCE           FULLAHEAD_ACQUIRED_3_SMOKE
+LANG_ENGLISH        "Zdobyto 3 granaty dymne"
+
+REFERENCE           FULLAHEAD_ACQUIRED_4_SMOKE
+LANG_ENGLISH        "Zdobyto 4 granaty dymne"
+
+REFERENCE           FULLAHEAD_CONTAINMENT_DESERTER
+LANG_ENGLISH        "Zgin¹³eœ w wyniku ostrza³u w³asnych moŸdzierzy."
+
+REFERENCE           FULLAHEAD_CONTAINMENT_MISSIONAREA
+LANG_ENGLISH        "Opuœci³eœ swoich towarzyszy!"
+
+REFERENCE           FULLAHEAD_CONTAINMENT_WARNING
+LANG_ENGLISH        "Zamierzasz opuœciæ swoich towarzyszy."
+
+REFERENCE           FULLAHEAD_INTROSCREEN_1
+LANG_ENGLISH        "^LTransmisja # 23-8-15. Kryptonim: X-RAY^L"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_2
+LANG_ENGLISH        "^LPod koniec wojny Rosjanie rozpoczêli operacjê Olimp^L"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_3
+LANG_ENGLISH        "^LOddzia³ specjalny 3. Armii Uderzeniowej wys³any na^L ^C1ko³o podbiegunowe^C"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_4
+LANG_ENGLISH        "^C1Wiktor Reznow^C ^Lprzydzielony do jednostki 45 - ostatni znany pseudonim: \"Wilk\"^L"
+
+REFERENCE           FULLAHEAD_INTROSCREEN_5
+LANG_ENGLISH        "^L12:00,^L ^C129 paŸdziernika 1945^C"
+
+REFERENCE           FULLAHEAD_MARKER_ASSAULT
+LANG_ENGLISH        "Szturm"
+
+REFERENCE           FULLAHEAD_MARKER_DOGSLED
+LANG_ENGLISH        "Psi zaprzêg"
+
+REFERENCE           FULLAHEAD_MARKER_ESCORT
+LANG_ENGLISH        "Eskortuj"
+
+REFERENCE           FULLAHEAD_MARKER_EXPLOSIVES
+LANG_ENGLISH        "£adunki wybuchowe"
+
+REFERENCE           FULLAHEAD_MARKER_FOLLOW
+LANG_ENGLISH        "IdŸ za"
+
+REFERENCE           FULLAHEAD_MARKER_LIGHT
+LANG_ENGLISH        "Oœwietl"
+
+REFERENCE           FULLAHEAD_MARKER_MOSCOW
+LANG_ENGLISH        "Dom"
+
+REFERENCE           FULLAHEAD_MARKER_OPEN
+LANG_ENGLISH        "Otwórz"
+
+REFERENCE           FULLAHEAD_MARKER_SHIPENTRANCE
+LANG_ENGLISH        "Wejœcie na statek"
+
+REFERENCE           FULLAHEAD_MORTAR_PROMPT
+LANG_ENGLISH        "Wciœnij ^3[{+smoke}]^7, aby nakierowaæ moŸdzierze "
+
+REFERENCE           FULLAHEAD_OBJ_ARM_EXPLOSIVES
+LANG_ENGLISH        "Uzbrój ³adunki pod V2"
+
+REFERENCE           FULLAHEAD_OBJ_CLIMB_DECK
+LANG_ENGLISH        "WyjdŸ przez okno, ¿eby dotrzeæ na pok³ad"
+
+REFERENCE           FULLAHEAD_OBJ_DOGSLED_EXIT
+LANG_ENGLISH        "Opuœæ teren"
+
+REFERENCE           FULLAHEAD_OBJ_ESCAPE_SHIP
+LANG_ENGLISH        "Ucieknij z okrêtu"
+
+REFERENCE           FULLAHEAD_OBJ_ESCAPE_SHIP_DETONATE
+LANG_ENGLISH        "Ucieknij z okrêtu przed wybuchem"
+
+REFERENCE           FULLAHEAD_OBJ_FOLLOW_PETRENKO
+LANG_ENGLISH        "IdŸ za Petrenk¹"
+
+REFERENCE           FULLAHEAD_OBJ_ICEFALL_COMRADE
+LANG_ENGLISH        "Uratuj towarzysza"
+
+REFERENCE           FULLAHEAD_OBJ_MARK_TARGET
+LANG_ENGLISH        "Oznacz cel granatem dymnym"
+
+REFERENCE           FULLAHEAD_OBJ_NAZIBASE_STEINER
+LANG_ENGLISH        "Zaatakuj niemieck¹ bazê i znajdŸ Steinera"
+
+REFERENCE           FULLAHEAD_OBJ_REGROUP_VEHICLES
+LANG_ENGLISH        "Przegrupuj siê przy pojazdach"
+
+REFERENCE           FULLAHEAD_OBJ_SECURE_WEAPON
+LANG_ENGLISH        "Zabezpieczyæ niemieck¹ broñ"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPARRIVAL_AMBUSH
+LANG_ENGLISH        "Przetrwaj zasadzkê"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPARRIVAL_PROCEED
+LANG_ENGLISH        "ZnajdŸ ³adowniê"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPARRIVAL_REGROUP
+LANG_ENGLISH        "Do³¹czyæ do Dragowicza"
+
+REFERENCE           FULLAHEAD_OBJ_SHIPCARGO_ESCORT
+LANG_ENGLISH        "IdŸ za Dragowiczem i Steinerem"
+
+REFERENCE           FULLAHEAD_OBJ_SHOOTROCKET
+LANG_ENGLISH        "Strzel do zaczepu V2"
+
+REFERENCE           FULLAHEAD_OBJ_SMOKE_GRENADES
+LANG_ENGLISH        "WeŸ granaty dymne"
+
+REFERENCE           FULLAHEAD_SHIP_FAIL
+LANG_ENGLISH        "Nie uda³o ci siê uciec na czas.\n"
+
+REFERENCE           FULLAHEAD_SHOOT_STEINER_FAIL
+LANG_ENGLISH        "Nie strzelaj do Steinera"
+
+REFERENCE           FULLAHEAD_SINGLE_SPACE
+LANG_ENGLISH        ""
+
+REFERENCE           FULLAHEAD_SKIPTO_E1_SNOWCAT
+LANG_ENGLISH        "E1: Na dachu œwiata"
+
+REFERENCE           FULLAHEAD_SKIPTO_NAZIBASE
+LANG_ENGLISH        "E3: Niedokoñczone porachunki"
+
+REFERENCE           FULLAHEAD_SKIPTO_NAZIBASE_END
+LANG_ENGLISH        "E3: Niedokoñczone porachunki, Koniec (Niepewne)"
+
+REFERENCE           FULLAHEAD_SKIPTO_NAZIBASE_HANGAR
+LANG_ENGLISH        "E3: Niedokoñczone porachunki, Hangar (Niepewne)"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPARRIVAL
+LANG_ENGLISH        "E4: W mroku"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPCARGO
+LANG_ENGLISH        "E5: MroŸne piek³o"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPCINEMA
+LANG_ENGLISH        "E6: Zdrada"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPFIREFIGHT
+LANG_ENGLISH        "E7: Dziœ na pewno nie umrê"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPFIREFIGHT_BRIDGE
+LANG_ENGLISH        "E7: Na moœcie (Niepewne)"
+
+REFERENCE           FULLAHEAD_SKIPTO_SHIPMAST
+LANG_ENGLISH        "E8: Na pok³adzie"
+
+REFERENCE           FULLAHEAD_SKIPTO_WRAPUP
+LANG_ENGLISH        "E9: Ucieczka\n"
+
+REFERENCE           FULLAHEAD_USE_EXPLOSIVES
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby uzbroiæ ³adunki wybuchowe"
+
+REFERENCE           FULLAHEAD_USE_MONKEYBARS
+LANG_ENGLISH        "^3[{+activate}]^7, ¿eby wejœæ na maszt"
+
+REFERENCE           FULLAHEAD_USE_OPEN
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby otworzyæ drzwi"
+
+REFERENCE           FULLAHEAD_USE_RESCUE
+LANG_ENGLISH        "^3[{+activate}]^7, by uratowaæ"
+
+REFERENCE           FULLAHEAD_USE_SLED
+LANG_ENGLISH        "^3[{+activate}]^7, ¿eby wejœæ na sanie"
+
+REFERENCE           FULLAHEAD_USE_WELDSPOT
+LANG_ENGLISH        "^3[{+activate}]^7, ¿eby przeci¹æ"
+
+REFERENCE           FULLAHEAD_USE_ZIPLINE
+LANG_ENGLISH        "Przytrzymaj ^3[{+activate}]^7, aby zjechaæ w dó³"
+
+REFERENCE           FULLAHEAD_USEPROMPT
+LANG_ENGLISH        "^3[{+activate}]^7"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_001B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mój ojciec by³ muzykiem w Stalingradzie. Podczas niemieckiej okupacji dŸwiêk jego skrzypiec wype³nia³ to miasto przepiêkn¹ muzyk¹ - Korsakow, Stasow - wielu wielkich rosyjskich kompozytorów..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_002B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dla moich rodaków by³ symbolem nadziei. Dla Niemców - symbolem oporu. Nawet dziœ pamiêtam jego grê..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_003B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Naziœci poder¿nêli mu gard³o, gdy spa³. Kolaboracja z jakimikolwiek nazistami to zdrada. Zdrada Matki Rosji. Dragowicz i Krawczenko, nie przejmowali siê takimi drobiazgami..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_004B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Im zale¿a³o tylko na w³asnych interesach..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_006A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mason... pos³uchaj..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_007A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Poczucie okropnej straty... Gorzki smak pora¿ki..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_008A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Znam to wszystko... Jesteœmy braæmi, Mason... Jesteœmy tacy sami."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_009A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dragowicz. Steiner. Krawczenko. Wszyscy musz¹ zgin¹æ."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_010A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Odebrali ci coœ, tak jak mi..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_011A_MASO
+LANG_ENGLISH        "^1MASON: ^7Wiêc powiedz mi, Reznow... dlaczego zabicie tych ludzi jest dla ciebie takie wa¿ne?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_012A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Po zakoñczeniu wojny nasi przywódcy zaczêli ¿erowaæ na gnij¹cym trupie Niemiec, jak wataha wœciek³ych wilków - walczyli o ka¿dy och³ap, jakby by³ to ostatni kawa³ek miêsa na ziemi."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_013A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Wojna siê skoñczy³a - Ale walka trwa³a dalej..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_014A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Gdy 3. Armia Uderzeniowa sta³a siê czêœci¹ radzieckich si³ okupacyjnych w Niemczech, sta³o siê jasne, ¿e zakoñczenie wojny nie oznacza³o naszego powrotu do Rosji..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_015A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Nie... Nasi przywódcy mieli inne plany..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_018A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Tak, Dmitrij... Czas wytropiæ pozosta³oœci faszystowskiej Rzeszy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_020A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ja i moi ludzie walczyliœmy ju¿ w zimie, na froncie wschodnim... Takie warunki to nie pierwszyzna."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_021A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ale nawet teraz krew mrozi mi siê w ¿y³ach, gdy wspominam wydarzenia tego dnia..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_022A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Bardzo daleko od domu..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_024A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Genera³ Dragowicz chce zdobyæ uznanie. Uwa¿a, ¿e jest tu coœ bardzo cennego dla naszej ojczyzny."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_026A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Dopóki Mateczka Rosja ma wrogów, odpowiadam na jej wezwanie..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_031A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Gdy rozpoczê³a siê niemiecka okupacja, on i jego s³ugus Krawczenko zostawili mnie i moich ludzi na pastwê przewa¿aj¹cych si³ wroga..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_032A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Obiecano nam posi³ki. Obiecano... ale nie dotrzymano s³owa."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_033A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Dragowicz i Krawczenko to oportuniœci... manipulatorzy..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_034A_REZN_M
+LANG_ENGLISH        "^1REZNOW: ^7Nie mo¿na im ufaæ, Dmitrij."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_035A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dmitrij Petrenko to jeden z najodwa¿niejszych ludzi, jakich znam."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_036A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Walczy³ u mego boku od oblê¿enia Stalingradu a¿ po upadek Berlina..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_037A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Za rany, które odniós³ w drodze do zwyciêstwa, powinien byæ powitany w Rosji jak bohater..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_038A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ale Stalin nie potrzebowa³ bohaterów."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_042A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Próbowali wczeœniej..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_046A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Musi byæ bli¿ej okrêtu."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_049A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Gdy patrzy³em w te niemieckie oczy, widzia³em, jak one wci¹¿ pa³aj¹ z³em faszystowskiej Rzeszy..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_050A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7W tym momencie, ka¿da cz¹stka mnie pragnê³a odebraæ mu ¿ycie..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_051A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ale wtedy by³em ¿o³nierzem..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_051B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Wci¹¿ wierzy³em w rozkazy..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_058A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Petrenko, Wichariew, Newski, Bie³ow... Ruszamy!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_060A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Tak jest."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_900A_INTE
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Wiktor Reznow chcia³ powstrzymaæ tych ludzi. Dlatego zdradzi³."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S01_901A_INTE
+LANG_ENGLISH        "^1ŒLEDCZY: ^7Kiedy? Kiedy ci to powiedzia³?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_017A_DIMI_M
+LANG_ENGLISH        "^1PETRENKO: ^7Wiktor... Ju¿ czas."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_019A_DIMI_M
+LANG_ENGLISH        "^1PETRENKO: ^7Newski... Bierz sprzêt... Ruszamy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_020B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ja i moi ludzie walczyliœmy ju¿ w zimie, na froncie wschodnim... Takie warunki to nie pierwszyzna."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_023A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Co tam jest takiego wa¿nego?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_025A_KRAV_M
+LANG_ENGLISH        "^1KRAWCZENKO: ^7Ach... Bohater z Berlina zaszczyci³ nas sw¹ obecnoœci¹!... Nie masz ju¿ doœæ walki, Reznow?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_027A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Zapomnij o tej ¿a³osnej rywalizacji, Krawczenko. Kapitan Reznow zrobi, co mu ka¿emy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_028A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Jesteœmy tu wy³¹cznie z powodu jednego Niemca... doktora Friedricha Steinera. Ten cz³owiek zaproponowa³ wspó³pracê w walce o nasz¹ sprawê..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_029A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Nie mo¿e mu spaœæ w³os z g³owy... Kto nie pos³ucha tego rozkazu... zostanie rozstrzelany!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S02_030A_DIMI_M
+LANG_ENGLISH        "^1PETRENKO: ^7Co siê wydarzy³o miêdzy tob¹ a Dragowiczem w Stalingradzie?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_039A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Niemcowi nic nie mo¿e siê staæ - Steiner jest nam potrzebny ¿ywy... A teraz ruszajcie - obaj!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_040A_DIMI_M
+LANG_ENGLISH        "^1PETRENKO: ^7ChodŸmy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_041A_RRD8
+LANG_ENGLISH        "^1¯O£NIERZ RADZIECKI: ^7Chc¹ siê poddaæ!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_043A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Nie pozwólcie im."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_044A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7SprawdŸcie budynek dowodzenia!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_045A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Tu go nie ma..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_047A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Nie celuj we mnie, ruski kundlu..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_048A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Zabierzesz mnie do Dragowicza"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_052A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Musimy siê pospieszyæ... S¹ Niemcy, którzy woleliby zniszczyæ to, ni¿ oddaæ w rêce wroga..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_053A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Zapewnia³eœ mnie, ¿e nie bêdzie k³opotów..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_054A_STEI_M
+LANG_ENGLISH        "^1STEINER: ^7Nie panujê nad poczynaniami SS, generale Dragowicz... Przysiêgli walczyæ za Rzeszê do ostatniej kropli krwi..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_055A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7To szlachetne... ale daremne."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_056A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Krawczenko, koñczmy to."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_057A_DRAG_M
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Reznow... przyprowadŸ swoich ludzi."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_059A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Reznow, ty i twoi ludzie pójdziecie przodem."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_062B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Zdradzili wszystko, o co walczy³a Rosja - w chwili, gdy postanowili spó³kowaæ z tymi kundlami."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_300A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Cieszê siê, ¿e znowu bêdziemy razem walczyæ."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_301A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Tak, mój przyjacielu... Jeszcze jedno, ostatnie zwyciêstwo."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_302A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Przeszukajcie ka¿dy skrawek tego obozu! Tylko Steiner ma prze¿yæ."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_303A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Nie poddadz¹ siê bez walki!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_304A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ludzie, którzy nie maj¹ nic do stracenia, s¹ niebezpieczni, Dmitrij."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_305A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Uwa¿aj, mo¿e byæ ich wiêcej."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_306A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Naprzód, przyjaciele. Oczyœæcie nastêpny obszar."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_307A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Zmia¿d¿cie wszystkich, którzy stan¹ nam na drodze!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_308A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Oczyœciæ budynek. Przetrz¹sn¹æ wszystkie k¹ty!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_310A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Reznow! Musimy prze³amaæ tê barykadê!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_311A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7£ap granaty dymne... U¿yj ich do oznaczenia celu dla naszych moŸdzierzy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_312A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Reznow - £ap granaty dymne!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_313A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Reznow, potrzebujemy granatów dymnych!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_314A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Rzuæ jeden przy barykadzie!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_315A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Oznacz barykadê dla moŸdzierzy!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_316A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Bli¿ej do barykady, Wiktor!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_317A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Wiktor, jesteœ pijany? Rzuæ go na barykadê!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_318A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Sam to zrobiê, Reznow. Odsuñ siê!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_319A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Obserwatorzy nawet nie zauwa¿¹ tego dymu!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_320A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Rzucaj je na zewn¹trz!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_321A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Na zewn¹trz, Reznow!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_322A_RRD9_F
+LANG_ENGLISH        "^1RADZIECKI ¯O£NIERZ: ^7Cel namierzony."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_323A_RRD9_F
+LANG_ENGLISH        "^1RADZIECKI ¯O£NIERZ: ^7Przygotowaæ siê na ostrza³ z moŸdzierzy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_324A_RRD9_F
+LANG_ENGLISH        "^1RADZIECKI ¯O£NIERZ: ^7Ostrza³ z moŸdzierzy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_325A_RRD9_F
+LANG_ENGLISH        "^1RADZIECKI ¯O£NIERZ: ^7Ostrza³ - Przygotowaæ siê."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_326A_RRD9_F
+LANG_ENGLISH        "^1RADZIECKI ¯O£NIERZ: ^7Atak moŸdzierzowy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_327A_RRD9_F
+LANG_ENGLISH        "^1RADZIECKI ¯O£NIERZ: ^7Nie mamy czystego strza³u!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_328A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7HUURRA!!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_329A_CROW
+LANG_ENGLISH        "^1T£UM: ^7* HURRAAA!!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_330A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Rozproszyæ siê - Przeszukaæ ka¿dy budynek!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_331A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7ZnajdŸcie Steinera!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_332A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Têdy, Dmitrij!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_333A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Giñcie! Faszystowskie œwinie!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_334A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Reznow - jeœli zosta³y ci jakieœ granaty dymne, u¿yj ich teraz!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_335A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7U¿yj granatów dymnych!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_336A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7U¿yj granatów dymnych, aby oznaczyæ cel dla naszych moŸdzierzy!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_337A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Chyba zbli¿amy siê do Steinera."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_338A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Po tej misji... myœlisz, ¿e bêdziemy mogli wróciæ do domu?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_339A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mam nadziejê, Dmitrij... Mam nadziejê."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_340A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Niewielu ich zosta³o... Wci¹¿ ani œladu Steinera."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_341A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Bêdzie tam, gdzie wszyscy tchórze... Jak najdalej od pola bitwy."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_342A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Têdy, schodami na górê."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_343A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Gotów?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_344A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Friedrich Steiner..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_345A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Dragowicz i Steiner rozmawiaj¹ niczym starzy przyjaciele... Nie podoba mi siê to."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S03_345B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mnie te¿, Dmitrij... b¹dŸ ostro¿ny."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_063A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Trzymaj œwiat³o, Wiktor..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_064A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Steiner, opowiedz mi o swoich zwi¹zkach z projektem Giftiger Sturm."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_065A_STEI
+LANG_ENGLISH        "^1STEINER: ^7W 1943 Fuhrer zda³ sobie sprawê, ¿e nie da siê d³u¿ej powstrzymaæ Aliantów."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_066A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Zaczêliœmy szukaæ bardziej 'niekonwencjonalnych' rozwi¹zañ."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_067A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Podczas wojny moje badania koncentrowa³y siê na broni chemicznej... To by³a ¿mudna i frustruj¹ca praca..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_068A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Jednak w koñcu stworzyliœmy broñ potê¿niejsz¹ ni¿ sami byliœmy w stanie sobie wyobraziæ... Ona znajduje siê na tym okrêcie."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_069A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Nova 6."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_070A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Nie ¿yje od kilku dni... Zgin¹³ przed naszym atakiem."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_071A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Dlaczego?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_072A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Co siê sta³o z tymi ludŸmi?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_073A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Ofiary wojny..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_074A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Coœ tu jest nie tak. Czujê to."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_075A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Reznow, pilnuj swoich ludzi..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_076A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Nie chcemy, ¿eby coœ siê sta³o 'bohaterowi Berlina'..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_077A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Spróbujê omin¹æ te k³adki."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_078A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Reznow - daj tu œwiat³o."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_079A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Nic nie widzê..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_080A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Poœwieæ tam."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_081A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Trzymaj siê mnie."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_082A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Na górê rury."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_083A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Poœwieæ na k³adkê."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_084A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Oœwietlaj to."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_085A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Œwieæ przede mnie."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_086A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Tutaj, potrzebujê œwiat³a."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_087A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Niewa¿ne, jak skuteczna jest Nova 6, i tak potrzebujesz sposobu na jej u¿ycie..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_088A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Rakiety dalekiego zasiêgu V2... wystrzeliwane z tego okrêtu."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_089A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Wycelowano je w centra dowodzenia. Pierwszym celem by³ Waszyngton... nastêpnym Moskwa..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_090A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Mmmm... Ambitne i godne podziwu, herr Steiner..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_091A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Ale by³o za póŸno. Dopadli nas Brytyjczycy, a ich bombowce unieruchomi³y ten okrêt."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_092A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Uwiêzieni wœród lodu... Próbowaliœmy ratowaæ, co siê da³o, ale by³o za póŸno..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_093A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Zanim rozpoczêliœmy pierwszy atak, dotar³y do nas wieœci -"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_094A_STEI
+LANG_ENGLISH        "^1STEINER: ^7Niemcy skapitulowa³y, a radziecka flaga za³opota³a nad Berlinem."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_346A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Shhh... Uwa¿aj."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_347A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Z tego miejsca a¿ bije rozpacz."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_348A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Jak myœlisz, Reznow, co tu siê sta³o?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_349A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mo¿e lepiej nie wiedzieæ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_350A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Idziemy dalej."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_351A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Uwa¿aj na ka¿dy krok."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_352A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Cienie wydaj¹ siê poruszaæ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_353A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7To naturalne, ¿e boimy siê tego, czego nie widzimy... Umys³ potrafi p³ataæ sztuczki."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_354A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Reznow - tutaj!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_355A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Têdy, Reznow."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_356A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Dok¹d idziesz, Reznow?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S04_357A_DIMI
+LANG_ENGLISH        "^1PETRENKO: ^7Trzymaj siê blisko, Wiktor."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_095A_STEI
+LANG_ENGLISH        "^1STEINER: ^7SS otrzyma³o rozkaz zniszczenia okrêtu, gdybyœmy zostali zaatakowani."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_096A_KRAV
+LANG_ENGLISH        "^1KRAWCZENKO: ^7Jak widaæ nie uda³o im siê..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_097A_KRAV
+LANG_ENGLISH        "^1KRAWCZENKO: ^7£adunki wybuchowe nie zosta³y zdetonowane."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_098A_STEI
+LANG_ENGLISH        "^1STEINER: ^7To tu..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_099A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Reznow - otwórz drzwi."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_100A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7ZnaleŸliœmy to, czego szukaliœmy... Nova 6. Niemiecka broñ masowej zag³ady nale¿a³a teraz do Mateczki Rosji."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_101A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Przynajmniej tak nam siê zdawa³o. Nasza radoœæ by³a krótka."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_102A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dragowicz chcia³ na w³asne oczy zobaczyæ dzia³anie trucizny."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_103A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7By³a to równie¿ okazja, aby usun¹æ cierñ z oka."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_104A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Od dawna wiedzia³em, ¿e mi nie ufaj¹."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_105A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Jacy to byli potworni ludzie."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_106A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Tê zdradê powinienem by³ przewidzieæ."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_107A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dmitrij Petrenko by³ bohaterem..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_108A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Zas³u¿y³ na bohatersk¹ œmieræ."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_109A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Zamiast oddaæ ¿ycie za ojczyznê, zgin¹³ za nic... jak zwierzê."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_110A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Powinien by³ zgin¹æ w Berlinie..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_111A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Patrz¹c jak umiera mój najlepszy przyjaciel, zda³em sobie sprawê, ¿e nie tylko my szukaliœmy niemieckiej broni... Zachodni alianci kr¹¿yli niczym sêpy..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_111B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Pojawi³y siê brytyjskie samoloty i zaczê³y bombardowaæ niemiecki okrêt."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S05_111C_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Oczywiœcie Dragowicz, Krawczenko i Steiner uciekli jak szczury, zostawiaj¹c mnie na pastwê Brytyjczyków."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_112A_RRD8_F
+LANG_ENGLISH        "^1RADZIECKI ¯O£NIERZ: ^7Brytyjscy komandosi atakuj¹ nasze pozycje!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_113A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Musimy zabraæ Steinera na nasz okrêt!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_114A_DRAG
+LANG_ENGLISH        "^1DRAGOWICZ: ^7Zabiæ ich!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_115A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Naprzód! - Musimy siê przebiæ!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_116A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Wiêcej Brytyjczyków!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_117A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Uzbrojê ³adunki wybuchowe..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_118A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Poœlemy ten okrêt w piekieln¹ otch³añ! Nie mo¿emy pozwoliæ, by ta straszliwa broñ wpad³a w ich rêce."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_119A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Szybko! Musimy opuœciæ okrêt! Natychmiast!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_120A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Drzwi zamkniête!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_121A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Strzelaæ we wsporniki! Zawalimy te platformy!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_122A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Tak!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_123A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dalej, przyjaciele, NAPRZÓD!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_124A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Nie zatrzymywaæ siê!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_125A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7To nie nasza wojna!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_126A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Wiêc z kim walczymy?!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_127A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7ZE WSZYSTKIMI!!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_128A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Jesteœmy sami!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_129A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Okrêt jest ostrzeliwany!!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_130A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Reznow! Mo¿emy u¿yæ liny!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_131A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Po linie! Szybko!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_132A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Ruszaj, Reznow! Ruszaj!!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_133A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Zniszczy³em ³adunek Novy 6 i nie dopuœci³em, aby wpad³ w rêce Brytyjczyków. \nAle naiwnie myœla³em, ¿e to koniec zagro¿enia. Dopiero, gdy mnie z³apali i wys³ali do Workuty,\n pozna³em prawdziwe zamiary Dragowicza. On raczej zginie ni¿ odpuœci sprawê Novy 6."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_134A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mason, pos³uchaj..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_134B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Koñczy nam siê czas, przyjacielu..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_136A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Wykorzystaj¹ ciê, jak wykorzystali mnie. Wierzysz, ¿e twoi przywódcy zniszcz¹ tê broñ?... A mo¿e raczej jej u¿yj¹?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_136B_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Wierzysz, ¿e j¹ zniszcz¹? A mo¿e jej u¿yj¹?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_136C_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Powiedz - Co twoi przywódcy zrobi¹ z tak¹ broni¹?"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_137A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Flaga mo¿e byæ inna, ale metody s¹ takie same."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_138A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Wykorzystaj¹ ciê, tak jak wykorzystali mnie..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_139A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Musisz zdecydowaæ... Zdecydowaæ, o co warto walczyæ..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_140A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dragowicz... Krawczenko... Steiner..."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_141A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Ci... 'ludzie'... musz¹ umrzeæ."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_358A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Nie utrzymamy siê zbyt d³ugo! Reznow, uzbrój ³adunki."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_359A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Pospiesz siê! - Uzbrój ³adunki."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_360A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Reznow! Trzeba uzbroiæ ³adunki wybuchowe!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_361A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Uzbroi³em ³adunki!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_362A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Nie mamy czasu do stracenia!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_363A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Reznow! Mamy mniej ni¿ dwie minuty!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_364A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Mamy mniej ni¿ cztery minuty!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_365A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Pospiesz siê! Czas siê koñczy!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_366A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7W ci¹gu trzech minut ten okrêt stanie w p³omieniach."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_367A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Musimy wydostaæ siê z okrêtu!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_368A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Pospiesz siê - Mamy tylko dwie minuty!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_369A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Jedna minuta - Zaraz ogieñ zniszczy ten okrêt - RUCHY!!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_370A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Trzydzieœci sekund!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_371A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Dziesiêæ sekund!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_372A_REZN
+LANG_ENGLISH        "^1REZNOW: ^7Nie damy rady!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_373A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Reznow! Strzelaj w belki!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_374A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Pospiesz siê! Rozwal te wsporniki!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_375A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Strzelaj w belki, Reznow! To jedyne wyjœcie!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_376A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Musimy zejœæ na pok³ad!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_377A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Reznow, mo¿emy wydostaæ siê przez tamto!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S06_378A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Szybko, przez okno!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_700A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Cel unieszkodliwiony."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_701A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Nie ¿yje."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_702A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Dorwa³eœ go."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_703A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Wróg trafiony"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_704A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Dosta³"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_705A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Cel zlikwidowany"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_706A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Potwierdzam trafienie"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_707A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Za³atwiony"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_708A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Wróg unieszkodliwiony"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_709A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Dorwa³eœ go."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_710A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Prze³adowujê"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_711A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Muszê prze³adowaæ"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_712A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Prze³adowujê"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_713A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Prze³adowujê. Os³aniaj mnie"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_714A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Prze³adowujê. Kryj mnie."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_715A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Poszed³ granat."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_716A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Dosta³"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_717A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Dorwa³eœ go."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_718A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Nie ¿yje."
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_719A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Naprzód!"
+
+REFERENCE           FULLAHEAD_VOX_FUL1_S99_720A_NEVS
+LANG_ENGLISH        "^1NEWSKI: ^7Ruszaæ!"
+
+ENDMARKER

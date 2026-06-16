@@ -1,0 +1,529 @@
+// Dumped from fastfile "ru_wmd".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           WMD_AVALANCHE
+LANG_ENGLISH        "Грузовик"
+
+REFERENCE           WMD_AVALANCHE_TRUCK
+LANG_ENGLISH        "Нажмите ^3[{+activate}]^7, чтобы забраться в грузовик"
+
+REFERENCE           WMD_BASE
+LANG_ENGLISH        "База Ямантау"
+
+REFERENCE           WMD_DOOR_BREACH1
+LANG_ENGLISH        "Прорыв\n"
+
+REFERENCE           WMD_EXPLOSIVE_TIP_HINT
+LANG_ENGLISH        "Нажмите ^3[{+actionslot 3}]^7, чтобы выбрать разрывные стрелы"
+
+REFERENCE           WMD_FREEFALL
+LANG_ENGLISH        "Используйте  для управления снижением."
+
+REFERENCE           WMD_HOOKUP
+LANG_ENGLISH        "Зацепитесь крюком"
+
+REFERENCE           WMD_INTRO_DATE
+LANG_ENGLISH        "^L17:00,^L ^C118 февраля 1968^C"
+
+REFERENCE           WMD_INTRO_EXTRA
+LANG_ENGLISH        "^LОбъект предположительно является центром разработки проекта \"Нова\".^L"
+
+REFERENCE           WMD_INTRO_LEVELNAME
+LANG_ENGLISH        "^LПередача #00.  Код: XRAY^L"
+
+REFERENCE           WMD_INTRO_LOCATION
+LANG_ENGLISH        "^LБаза находится в ^L ^C1Ямантау, СССР.^L"
+
+REFERENCE           WMD_INTRO_NAME
+LANG_ENGLISH        "^C1Хадсон^C ^Lи Уивер должны провести отряд в долину для выполнения задачи.^L"
+
+REFERENCE           WMD_LEDGE
+LANG_ENGLISH        "Журнал переговоров\n"
+
+REFERENCE           WMD_LEDGE_FAIL
+LANG_ENGLISH        "Вы отделились от отряда."
+
+REFERENCE           WMD_OBJ_ESCAPE
+LANG_ENGLISH        "Покиньте Ямантау"
+
+REFERENCE           WMD_OBJ_FOLLOW
+LANG_ENGLISH        "Следуйте"
+
+REFERENCE           WMD_OBJ_HOOKUP
+LANG_ENGLISH        "Закрепитесь"
+
+REFERENCE           WMD_OBJ_INFILTRATE
+LANG_ENGLISH        "Проникните на базу \"Нова-6\""
+
+REFERENCE           WMD_OBJ_INSERTION
+LANG_ENGLISH        "Доберитесь до точки входа"
+
+REFERENCE           WMD_OBJ_JUMP_POINT
+LANG_ENGLISH        "Доберитесь до точки прыжка"
+
+REFERENCE           WMD_OBJ_PERSONNEL_A
+LANG_ENGLISH        "Ликвидируйте охрану сектора"
+
+REFERENCE           WMD_OBJ_PERSONNEL_B
+LANG_ENGLISH        "Ликвидируйте персонал радара"
+
+REFERENCE           WMD_OBJ_RADAR
+LANG_ENGLISH        "Выведите из строя радар"
+
+REFERENCE           WMD_OBJ_STEINER
+LANG_ENGLISH        "Найдите офис Штайнера"
+
+REFERENCE           WMD_OBJ_SUBSTATION
+LANG_ENGLISH        "Проникните по тросу на подстанцию"
+
+REFERENCE           WMD_OBJ_TRUCK
+LANG_ENGLISH        "Эвакуируйтесь на грузовике"
+
+REFERENCE           WMD_PULL_CHUTE
+LANG_ENGLISH        "Нажмите ^3[{+activate}]^7, чтобы раскрыть парашют"
+
+REFERENCE           WMD_RAPPEL
+LANG_ENGLISH        "Спуск\n"
+
+REFERENCE           WMD_RAPPEL_LT
+LANG_ENGLISH        "Нажмите ^3[{+speed_throw}]^7 для спуска"
+
+REFERENCE           WMD_RAPPEL_RT
+LANG_ENGLISH        "Удерживайте ^3[{+attack}]^7, чтобы затормозить"
+
+REFERENCE           WMD_REVEAL
+LANG_ENGLISH        "Отклоните вперед , чтобы подняться"
+
+REFERENCE           WMD_SHOOT_HINGES
+LANG_ENGLISH        "Стреляйте по дверным петлям"
+
+REFERENCE           WMD_SNOW_AMBUSH
+LANG_ENGLISH        "Засада в снегах\n"
+
+REFERENCE           WMD_SPRINT_HINT
+LANG_ENGLISH        "Нажмите ^3[{+breath_sprint}]^7 для перехода на бег"
+
+REFERENCE           WMD_START_BASEJUMP
+LANG_ENGLISH        "Бэйсджампинг\n"
+
+REFERENCE           WMD_START_BREACH
+LANG_ENGLISH        "Бросок ножа"
+
+REFERENCE           WMD_START_COMSTATION
+LANG_ENGLISH        "Возьмите штурмом станцию связи"
+
+REFERENCE           WMD_STEINER
+LANG_ENGLISH        "Офис Штайнера"
+
+REFERENCE           WMD_SUPPORT
+LANG_ENGLISH        "Поддержка"
+
+REFERENCE           WMD_TIMER_FAIL
+LANG_ENGLISH        "Вы не успели уйти."
+
+REFERENCE           WMD_USE_DESTROY_DISH
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7 для отключения станции связи."
+
+REFERENCE           WMD_USE_HOOKUP
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы зацепиться крюком"
+
+REFERENCE           WMD_VOX_WMD1_S01_137A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_138A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_139A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_140A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_141A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_143A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_144A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_145A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_146A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_147A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_148A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_149A_HUDS_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_150A_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_151A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_152A_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_155A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_157A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_158A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_159A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_160A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_164A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_184A_USC1_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_185A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_186A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_191A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_192A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_193A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_194A_USC1_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_195A_BROO_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_197A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_198A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_199A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_200A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_204A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_206A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_216A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_219A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_220A_USC1_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_222A_BROO_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_306A_BROO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_307A_USC1_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_308A_BROO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_427A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_428A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_429A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_430A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_431A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_432A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_433A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_434A_BROO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_435A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_436A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_437A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_437A_WEAV_S
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_438A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_439A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_440A_BROO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_441A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_442A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_443A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_444A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_445A_USC2_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_446A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_447A_USC1_F
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_448A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_449A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_450A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_451A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_453A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_900A_INTE
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_901A_MASO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_901A_MASO_S
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S01_902A_INTE
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_454A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_454A_HUDS_S
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_460A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_461A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_462A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_463A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_464A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_465A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_466A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_467A_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_469A_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_469B_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_470A_HUDS_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_471A_STEI_F_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_472A_HUDS_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_473A_STEI_F_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_474A_STEI_F_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_475A_HUDS_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_476A_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_477A_STEI_F_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_478A_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_479A_HUDS_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_480A_STEI_F_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_482A_STEI_F_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_483A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_484A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_485A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_486A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_487A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_487A_WEAV_S
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_488A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_489A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_490A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_491A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_492A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_493A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_494A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_495A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_495A_WEAV_S
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_496A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_497A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_498A_WEAV
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_499A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_500A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_500A_HUDS_S
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_501A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_502A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S02_506A_WEAV_M
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_802A_USC1
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_803A_USC1
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_804A_USC1
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_805A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_806A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_807A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_808A_HUDS
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_809A_BROO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_810A_BROO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_811A_BROO
+LANG_ENGLISH        ""
+
+REFERENCE           WMD_VOX_WMD1_S99_812A_BROO
+LANG_ENGLISH        ""
+
+ENDMARKER

@@ -1,0 +1,31 @@
+// Dumped from fastfile "ru_zombie_pentagon".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t5/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ZOMBIE_PENTAGON_CALL_ELEVATOR
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы вызвать лифт"
+
+REFERENCE           ZOMBIE_PENTAGON_DEFCON_LEVEL_HUD
+LANG_ENGLISH        "Моровая готовность: &&1"
+
+REFERENCE           ZOMBIE_PENTAGON_DEFCON_SWITCH
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы изменить уровень моровой готовности"
+
+REFERENCE           ZOMBIE_PENTAGON_ELEV_BLOCKED
+LANG_ENGLISH        "Двери лифта заблокированы"
+
+REFERENCE           ZOMBIE_PENTAGON_GRAB_MISSING_PIECE
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы подобрать фрагмент ловушки\n"
+
+REFERENCE           ZOMBIE_PENTAGON_MISSING_PIECE
+LANG_ENGLISH        "Доступ запрещен: требуется действующая деталь"
+
+REFERENCE           ZOMBIE_PENTAGON_PACK_ROOM_DOOR
+LANG_ENGLISH        "Доступ запрещен: требуется доступ 115"
+
+REFERENCE           ZOMBIE_PENTAGON_USE_ELEVATOR
+LANG_ENGLISH        "Удерживайте ^3[{+activate}]^7, чтобы использовать лифт [стоимость: &&1]"
+
+ENDMARKER

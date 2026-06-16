@@ -1,0 +1,58 @@
+// Dumped from fastfile "pel1b".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_HOLD_POS
+LANG_ENGLISH        "Utrzymaj pozycjê podczas bombardowania."
+
+REFERENCE           PEL1B_OBJECTIVE_FLAME_TANK
+LANG_ENGLISH        "Chroñ czo³g ogniowy."
+
+REFERENCE           PEL1B_OBJECTIVE_WARNING
+LANG_ENGLISH        "Musisz zniszczyæ stanowisko przeciwpancerne, zanim ruszysz dalej."
+
+REFERENCE           PEL1B_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Nieugiêty'"
+
+REFERENCE           PEL1B_OBJECTIVE_MOVE_UP
+LANG_ENGLISH        "Ruszaj z oddzia³em."
+
+REFERENCE           PEL1B_INTROSCREEN_DATE
+LANG_ENGLISH        "16 wrzeœnia 1944"
+
+REFERENCE           PEL1B_INTROSCREEN_PLACE
+LANG_ENGLISH        "The Point, Peleliu"
+
+REFERENCE           PEL1B_INTROSCREEN_INFO
+LANG_ENGLISH        "1. Dywizja Marines"
+
+REFERENCE           PEL1B_OBJECTIVE_ARTILLERY
+LANG_ENGLISH        "Wyeliminuj stanowiska ppanc. - pozosta³o: &&1."
+
+REFERENCE           PEL1B_INTROSCREEN_NAME
+LANG_ENGLISH        "Szeregowy Miller"
+
+REFERENCE           PEL1B_PLAYER_DISMOUNT
+LANG_ENGLISH        "Naciœnij [{+activate}], aby zeskoczyæ z czo³gu"
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FLANK
+LANG_ENGLISH        "Pod¹¿aj za swoim oddzia³em."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_FOLLOW_FLAME
+LANG_ENGLISH        "Pod¹¿aj za czo³giem ogniowym."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ART_CLEAR
+LANG_ENGLISH        "Wyczyœæ pomieszczenie z artyleri¹."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_CAVE_CLEAR
+LANG_ENGLISH        "Odszukaj stanowisko artylerii."
+
+REFERENCE           PEL1B_OBJECTIVE_FOLLOW_SQUAD
+LANG_ENGLISH        "Do³¹cz do oddzia³u."
+
+REFERENCE           PEL1B_OBJECTIVE_EV2_ASSAULT_CAVE
+LANG_ENGLISH        "Zaatakuj wejœcie do jaskini."
+
+ENDMARKER

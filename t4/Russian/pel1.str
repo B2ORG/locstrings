@@ -1,0 +1,61 @@
+// Dumped from fastfile "pel1".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "G:\CoD5\cod\cod5\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           PEL1_OBJECTIVE2A
+LANG_ENGLISH        "Прорвать японскую линию обороны"
+
+REFERENCE           PEL1_INTROSCREEN_PLACE
+LANG_ENGLISH        "Белый Пляж, Пелелиу"
+
+REFERENCE           PEL1_OBJECTIVE1
+LANG_ENGLISH        "Штурмовать пляж"
+
+REFERENCE           PEL1_INTROSCREEN_DATE
+LANG_ENGLISH        "15 сентября 1944 года"
+
+REFERENCE           PEL1_INTROSCREEN_TITLE
+LANG_ENGLISH        "'Слабое сопротивление'"
+
+REFERENCE           PEL1_INTROSCREEN_INFO
+LANG_ENGLISH        "1-я дивизия морской пехоты"
+
+REFERENCE           PEL1_OBJECTIVE2B
+LANG_ENGLISH        "Пробиться в японский бункер"
+
+REFERENCE           PEL1_OBJECTIVE1A
+LANG_ENGLISH        "Вызвать ракетный залп по линии противника"
+
+REFERENCE           PEL1_OBJECTIVE2C
+LANG_ENGLISH        "Зачистить японский бункер"
+
+REFERENCE           PEL1_OBJECTIVE2D
+LANG_ENGLISH        "Найти свой отряд"
+
+REFERENCE           PEL1_INTROSCREEN_NAME
+LANG_ENGLISH        "Рядовой Миллер"
+
+REFERENCE           PEL1_ROCKETS_AVAIL
+LANG_ENGLISH        "Доступны ракетные удары."
+
+REFERENCE           PEL1_ROCKETS_ALWAYS_AVAIL
+LANG_ENGLISH        "Теперь ракетные удары по позициям врага можно вызывать по желанию."
+
+REFERENCE           PEL1_ROCKET_HOWTO
+LANG_ENGLISH        "Нажмите [{+actionslot 4}] , затем [{+attack}] , чтобы вызвать ракетный удар."
+
+REFERENCE           PEL1_OBJECTIVE2E
+LANG_ENGLISH        "Уничтожить японские минометные расчеты"
+
+REFERENCE           PEL1_OBJECTIVE2F
+LANG_ENGLISH        "Вызвать ракетный залп по японским танкам [2 из 2]"
+
+REFERENCE           PEL1_OBJECTIVE2G
+LANG_ENGLISH        "Вызвать ракетный залп по японским танкам [1 из 2]"
+
+REFERENCE           PEL1_OBJECTIVE2H
+LANG_ENGLISH        "Вызвать ракетный залп по японским танкам"
+
+ENDMARKER

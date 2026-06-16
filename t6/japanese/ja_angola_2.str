@@ -1,0 +1,835 @@
+// Dumped from fastfile "ja_angola_2".
+// In their original format the strings might have been separated in multiple files.
+VERSION             "1"
+CONFIG              "C:/projects/cod/t6/bin/StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_027A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ野郎どもを追い払え！"
+
+REFERENCE           ANGOLA_2_CHASE_BOAT_FAIL
+LANG_JAPANESE       "ボートが爆発した…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_074A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7移動しなくては！"
+
+REFERENCE           ANGOLA_2_BEARTRAP_HELPER
+LANG_JAPANESE       "^3[{+actionslot 1}]^7でトラバサミを選択"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_007A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7援護を頼む！"
+
+REFERENCE           ANGOLA_2_WOODS_KILLED
+LANG_JAPANESE       "敵の攻撃でウッズが死亡した"
+
+REFERENCE           SP_OBJECTIVES_SEARCH
+LANG_JAPANESE       "Search"
+
+REFERENCE           ANGOLA_2_ESCAPE_JUNGLE
+LANG_JAPANESE       "ジャングルに逃げ込め"
+
+REFERENCE           ANGOLA_2_PLAYER_COVER_BROKEN_SPOTTED
+LANG_JAPANESE       "しゃがんだまま物陰に隠れて 発見されるな"
+
+REFERENCE           ANGOLA_2_MEATSHIELD_FAILURE
+LANG_JAPANESE       "人質を自分の近くに寄せて 敵の銃撃を防げ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_059A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7戦いは避けられんな！"
+
+REFERENCE           ANGOLA_2_PERK_FLAK_JACKET
+LANG_JAPANESE       "フラックジャケットを着用 爆発のダメージが軽減される"
+
+REFERENCE           ANGOLA_2_PRIME_BEARTRAP_WITH_MORTAR
+LANG_JAPANESE       "^3[{+activate}]^7長押しで 迫撃砲弾を仕掛けたトラバサミを設置"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_KEEP_UP_WITH_HUDSON
+LANG_JAPANESE       "ハドソンから離れるな！ パトロールをやりすごせ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_024A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7ぐっ… クソ"
+
+REFERENCE           ANGOLA_2_SWIMMING
+LANG_JAPANESE       "^3[{+back}]^7で泳ぐ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_026A_KRAV_D
+LANG_JAPANESE       "^1クラフチェンコ: ^7どういう意味だ？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_067A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7合図で草むらの方に向かうぞ"
+
+REFERENCE           ANGOLA_2_MISSION_FAILED_LOST_CONTACT_WITH_HUDSON
+LANG_JAPANESE       "ミッション失敗！ ハドソンとの連絡が途絶えてしまった…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_019A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7隠れろ 姿勢を低くするんだ"
+
+REFERENCE           ANGOLA_2_STAY_IN_COVER_CHILD_SOLDIERS_AROUND
+LANG_JAPANESE       "メイソン ヤブから出るな 少年兵が巡回してる"
+
+REFERENCE           ANGOLA_2_DEFEND_POSITION
+LANG_JAPANESE       "地点を守れ"
+
+REFERENCE           ANGOLA_2_EXIT_VILLAGE_CANT_FIND_HUDSON
+LANG_JAPANESE       "森の中でハドソンとウッズを発見できなかった"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_008A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズはほとんど動けない！ ここで踏ん張るんだ！"
+
+REFERENCE           ANGOLA_2_TOW_INSTRUCTION
+LANG_JAPANESE       "^3[{+lookstick}]^7でミサイル誘導"
+
+REFERENCE           ANGOLA_2_PLAYER_COVER_BROKEN_CROUCHED
+LANG_JAPANESE       "遮へい物から出てしまった 身体を低くしろ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_042A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ここだ"
+
+REFERENCE           ANGOLA_2_STEALTH_MASON_USE_GRASS_AS_COVER
+LANG_JAPANESE       "^3[{+stance}]^7でしゃがむ"
+
+REFERENCE           ANGOLA_2_STEALTH_MASON_USE_GRASS_AS_COVER_PC
+LANG_JAPANESE       "^3[{gocrouch}]^7でしゃがむ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_038A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7死体の腐乱がひどいな… 死後数週間は経っている"
+
+REFERENCE           ANGOLA_2_LOCATE_CONVOY
+LANG_JAPANESE       "船団を発見する"
+
+REFERENCE           ANGOLA_2_NEUTRALIZE_ESCORT
+LANG_JAPANESE       "船のドックにいるMPLA兵を全て排除しろ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_004A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ メイソン！ 後ろだ！"
+
+REFERENCE           ANGOLA_2_DESTROY_PATROL_BOAT
+LANG_JAPANESE       "はしけを護っている小型の哨戒艇を全て排除する [&&1/4]"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_065A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7任せろ ウッズを頼む！"
+
+REFERENCE           ANGOLA_2_DESTROY_AA_GUN
+LANG_JAPANESE       "中型艇に搭載された対空砲を全て排除する [&&1/8]"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_028A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ！ ハインドか！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_020A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7船の左右にある マシンガンを使え！"
+
+REFERENCE           ANGOLA_2_TRUCK_DESTROY
+LANG_JAPANESE       "トラックが破壊された MGLをトラックに当ててはならない"
+
+REFERENCE           ANGOLA_2_RPG_TRIGGER
+LANG_JAPANESE       "^3[{+activate}]^7で弾薬を補充する"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_015A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ハドソン 攻撃を続けろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_034A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ランチャーがあるぞ！"
+
+REFERENCE           ANGOLA_2_OPEN_TRUCK_DOOR
+LANG_JAPANESE       "^3[{+activate}]^7長押しで開ける"
+
+REFERENCE           ANGOLA_2_TOW_INSTRUCTION_WIIU_REMOTE
+LANG_JAPANESE       "^3[{+movestick}]^7でミサイル誘導"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_039A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ！ 墜落する！"
+
+REFERENCE           SP_OBJECTIVES_DISABLE
+LANG_JAPANESE       "Disable"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_023A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7おい 何してる！"
+
+REFERENCE           ANGOLA_2_SECURE_THE_BARGE
+LANG_JAPANESE       "船をのっとりウッズを救出しろ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_023A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7今だ！"
+
+REFERENCE           ANGOLA_2_SEARCH_WOODS_TRUCK
+LANG_JAPANESE       "コンテナを調べてウッズを探せ"
+
+REFERENCE           ANGOLA_2_TAKE_OUT_HIND
+LANG_JAPANESE       "ヴァルキリーランチャーでハインドを破壊せよ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_065A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7甲板は片付いた！"
+
+REFERENCE           ANGOLA_2_RADIO_FOR_EXTRACTION
+LANG_JAPANESE       "村に行きサヴィンビに回収を要請しろ"
+
+REFERENCE           ANGOLA_2_DONT_GET_DISCOVERED
+LANG_JAPANESE       "敵に見つかるな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_068A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズを頼む！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_010A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズ！ そこにいるのか？"
+
+REFERENCE           ANGOLA_2_MEATSHIELD_ADS
+LANG_JAPANESE       "^3[{+speed_throw}]^7で捕虜を近くに寄せる"
+
+REFERENCE           ANGOLA_2_FIND_RADIO
+LANG_JAPANESE       "村に入って無線機を探せ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_016A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7飛べ メイソン！"
+
+REFERENCE           ANGOLA_2_OBJ_MENENDEZ_MEATSHIELD
+LANG_JAPANESE       "メネンデスを盾にして 襲撃者から身を守れ"
+
+REFERENCE           SP_OBJECTIVES_RAPPEL
+LANG_JAPANESE       "ラペリング"
+
+REFERENCE           ANGOLA_2_OVERPOWER_RADIO_OP
+LANG_JAPANESE       "無線のオペレーターを取り押さえろ"
+
+REFERENCE           SP_OBJECTIVES_AMMO
+LANG_JAPANESE       "Ammo"
+
+REFERENCE           ANGOLA_2_APPROACH_HUT_WINDOW
+LANG_JAPANESE       "電波塔の小屋の窓に接近する"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_036A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7もっと寄せてくれ"
+
+REFERENCE           ANGOLA_2_EXIT_INTO_FOREST
+LANG_JAPANESE       "村を出て森に向かえ"
+
+REFERENCE           ANGOLA_2_RSTICK_MEATSHIELD
+LANG_JAPANESE       "^3[{+lookstick}]^7で旋回させ 攻撃から身を守る"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_043A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7後ろから 船が来るぞ！"
+
+REFERENCE           ANGOLA_2_UNJAM_GUN
+LANG_JAPANESE       "^3[{+activate}]^7で銃のジャミングを直す"
+
+REFERENCE           ANGOLA_2_ABANDON
+LANG_JAPANESE       "ハドソンとウッズを置き去りにしたため 彼らが死亡した"
+
+REFERENCE           ANGOLA_2_FAIL_RADIO
+LANG_JAPANESE       "回収信号を発信できなくなった…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_018A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7そのままゆっくり…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_057A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ハドソン まだか！？"
+
+REFERENCE           ANGOLA_2_FALL_BACK_TO_RIVER
+LANG_JAPANESE       "川まで後退しろ"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_VILLAGE
+LANG_JAPANESE       "警備兵に気付かれずに 無線機を発見しろ！"
+
+REFERENCE           ANGOLA_2_STEALTH_FAIL_AFTER_LOG
+LANG_JAPANESE       "隠れてパトロールをやり過ごせ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_07_003A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7サヴィンビの言ってた通り… ウッズはあの中だ！"
+
+REFERENCE           ANGOLA_2_FAIL_ABANDON
+LANG_JAPANESE       "分隊を見捨ててしまった…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_028A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ！ ハインドか！"
+
+REFERENCE           ANGOLA_2_HINT_AMMO
+LANG_JAPANESE       "弾薬補充"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_001A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7船が見えてきたぞ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_015A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7銃撃が激しい！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_015A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7銃撃が激しい！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_034A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7まだやって来るぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_039A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ！ 墜落する！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_006A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7甲板を片付けろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_043A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7後ろから 船が来るぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_015A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7まだ子供なのに…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_055A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7奴らが来てるぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_046A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズは任せてくれ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_006A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7攻撃を続けろ！ 乗ってこさせるな！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_081A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7あきらめるのか ハドソン！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_027A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ野郎どもを追い払え！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_032A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7追ってくるぞ メイソン！"
+
+REFERENCE           SP_OBJECTIVES_PROTECT
+LANG_JAPANESE       "Protect"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_054A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7船への攻撃を続けろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_064A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7メイソン 開けてくれ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_054A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7船への攻撃を続けろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_071A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7すぐに移動する！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_080A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ！ 見つかった！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_033A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ 乗り込まれた！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_080A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ！ 見つかった！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_033A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソ 乗り込まれた！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_080A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7まだ何とかなる！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_016A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7いくぞ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_056A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7MPLAに乗られたぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_048A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7甲板に大勢いるぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_060A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7敵がいる！ 上のデッキだ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_019A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7迫ってくる！ 時間を稼いでくれ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_061A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7敵は下のデッキだ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_031A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7コンテナを開けよう"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_6_06_044A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7今ので最後だな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_062A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7よし もう大丈夫だな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_007A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ボートを確保しろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_058A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7クソ 開けない！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_044A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7くそ 座礁したか"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_012A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7手を貸してくれ メイソン"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_009A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズは中にいるはずだ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_037A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7なんてことだ"
+
+REFERENCE           SP_OBJECTIVES_MELEE
+LANG_JAPANESE       "Melee"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_014A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズ…？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_015A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7フランク？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_066A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7よし… 合図したら小屋まで走るぞ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_048A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7フランク！ 俺だ メイソンだ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_027A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_061A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7もうすぐだからな ウッズ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_066A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズを頼む！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_067A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7しっかりしろ！ ウッズ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_006A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7いったい何があったんだ？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_029A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7撃墜しろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_042A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7その箱は宝の山だな TGMを取れ！"
+
+REFERENCE           SP_OBJECTIVES_USE
+LANG_JAPANESE       "Use"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_06_030A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7吹っ飛ばせ メイソン！"
+
+REFERENCE           SP_OBJECTIVES_ENTER
+LANG_JAPANESE       "Enter"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_030A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7待て"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_044A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7くそ 座礁したか"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_045A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズが落ちたぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_046A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7今助ける！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_047A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7いくぞ フランク"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_021A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7一体何をされたんだ…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_7_07_022A_MASO_M
+LANG_JAPANESE       "^1メイソン: ^7頭のイカれた奴がやったに違いない"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_001A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7あたりのMPLAに 気付かれただろうな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_002A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ここはまずい"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_006A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7よしこい ウッズ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_007A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7大丈夫か 兄弟"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_010A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7止まれ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_013A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7木の下に隠れよう"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_078A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7何やってる メイソン！ 頭を上げるな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_083A_MASO_M
+LANG_JAPANESE       "^1メイソン: ^7キューバ人がここで何をしている？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_041A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7どうにか救出できたな メイソン"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_078A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7何やってる メイソン！ 頭を上げるな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_083A_MASO_S
+LANG_JAPANESE       "^1メイソン: ^7キューバ人がここで何をしている？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_020A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7動くな やり過ごせ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_025A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7離れるな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_029A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7止まれ また何人か来る"
+
+REFERENCE           SP_OBJECTIVES_TARGET
+LANG_JAPANESE       "Target"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_084A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7離れるなよ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_033A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7離れるな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_085A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7止まれ 目の前にいる"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_075A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7よし 草むらから出よう"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_040A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7メイソン どこに行くんだ！？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_077A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7出るなよ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_048A_CUB0_D
+LANG_JAPANESE       "^1キューバ兵: ^7まだ偵察隊からの連絡がない"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_087A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7こらえろよ… 今助けを呼んでくるからな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_043A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7村だ アンテナが見える 通信できるな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_044A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7サヴィンビに緊急で回収を頼もう"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_039A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7くれぐれも 気付かれないようにな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_08_088A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7これは使えそうだな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_001A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7前回の積荷に不足があった"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_014A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7忠告する"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_002A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7具体的に言えば RPG40発分だ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_003A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7私は 信用できない 相手とは 取引しない 主義なのだよ クラフチェンコ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_004A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7期待を 裏切った者を どうしているか 思い出させなくても わかるだろう？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_027A_KRAV_D
+LANG_JAPANESE       "^1クラフチェンコ: ^7アフガニスタンの反乱勢力は 非協力的だ ムッラ・ラフマーンは厄介だな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_005A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7ムッラ・ラフマーン？ 地元の権力争いに関わることはない"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_006A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7奴はただの人形だ… おまえ同様にな"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_007A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7指示したとおりにやれ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_008A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7言う通りにしないと 殺す 周波数を…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_024A_MENE_D
+LANG_JAPANESE       "^1メネンデス: ^7殺す…とな？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_056A_CUB1_D
+LANG_JAPANESE       "^1キューバ兵: ^7逃げろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_049A_CUB0_M
+LANG_JAPANESE       "^1キューバ兵: ^7クソ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_050A_CUB0_D
+LANG_JAPANESE       "^1キューバ兵: ^7アメリカ兵の侵入だ！ 来てくれ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_066A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7なんて数だ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_051A_CUB0_D
+LANG_JAPANESE       "^1キューバ兵: ^7放せ！ 放すんだ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_052A_CHI0_D
+LANG_JAPANESE       "^1MPLA特殊部隊: ^7何の騒ぎだ？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_001A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7離れるぞハドソン 川辺へ向かおう！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_053A_CUB1_D
+LANG_JAPANESE       "^1キューバ兵: ^7さがれ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_054A_CHI0_D
+LANG_JAPANESE       "^1MPLA特殊部隊: ^7通せ 見えないぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_067A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7後退するぞ メイソン！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_055A_CUB1_D
+LANG_JAPANESE       "^1キューバ兵: ^7さがれといってる！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_025A_MASO_M
+LANG_JAPANESE       "^1メイソン: ^7誰も動くな 動けばこいつを撃つ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_025A_MASO_S
+LANG_JAPANESE       "^1メイソン: ^7誰も動くな 動けばこいつを撃つ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_011A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7黙れ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_012A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7武器を下ろせ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_035A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7そんな…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_013A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7武器を下ろせと言っている！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_015A_MASO_M
+LANG_JAPANESE       "^1メイソン: ^7脅しじゃない ブチ殺すぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_025A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7黙れ ハドソン！ 黙って動け！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_015A_MASO_S
+LANG_JAPANESE       "^1メイソン: ^7脅しじゃない 殺すぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_016A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7そうだ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_017A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7よおし… 焦るなよ？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_020A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7黙れと言っただろう！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_023A_MASO_M
+LANG_JAPANESE       "^1メイソン: ^7クソ野郎が…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_09_023A_MASO_S
+LANG_JAPANESE       "^1メイソン: ^7クソ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_002A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7回収は来るのか？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_045A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ダメだった このままいくぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_046A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7川に向かうぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_004A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ メイソン！ 後ろだ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_059A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズを頼んだ！ 食い止める！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_005A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7村の奴らが追ってきてるぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_006A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7いったい何があったんだ？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_076A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7走り続けろ メイソン！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_016A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズの身を隠せ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_037A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7ダメだ 逃げ切れない…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_009A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7見張り台から 狙撃するんだ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_011A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7上に登って援護してくれ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_048A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7トラバサミを仕掛けろ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_050A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7移動するぞ ハドソン！ スモークを使え！"
+
+REFERENCE           SP_OBJECTIVES_DESTROY
+LANG_JAPANESE       "Destroy"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_051A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7スモークいったぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_020A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7よし 行こう！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_052A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7ついてきてるぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_053A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7もう一度押さえ込むぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_057A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズが撃たれてる 助けてやれ メイソン！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_086A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ウッズの身を隠せ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_087A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7まだやって来るぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_058A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7川まで走るぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_060A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7スモークいったぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_014A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7今だ 行け！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_027A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7大丈夫だ 兄弟"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_063A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソ…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_013A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7まだやって来るぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_070A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7長居は無用だぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_072A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ここじゃ もたん！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_062A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7止まるな！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_073A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7急げ メイソン 移動だ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_075A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7来てるぞ 止まるなよ！"
+
+REFERENCE           SP_OBJECTIVES_PICKUP
+LANG_JAPANESE       "Pick Up"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_055A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7食い止めろ！ ウッズを守るぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_056A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7ウッズがやられるぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_026A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7行くぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_064A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7滝の上にMGトラックだ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_030A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7迫撃砲が来るぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_077A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7川にボートがある 急げ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_078A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7さあ逃げるぞ フランク"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_079A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7ハドソン 戻れ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_036A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7クソッタレのロシア人め…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_036A_HUDS_S
+LANG_JAPANESE       "^1ハドソン: ^7クソッタレのロシア人め…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_037A_HUDS_M
+LANG_JAPANESE       "^1ハドソン: ^7ダメだ 逃げ切れない…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_038A_HUDS_D
+LANG_JAPANESE       "^1ハドソン: ^7何だ！？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_039A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7俺が見捨てるとでも思ったのか？"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_040A_SAVI_D
+LANG_JAPANESE       "^1サヴィンビ: ^7急げ！ 行くぞ！"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_043A_WOOD_D
+LANG_JAPANESE       "^1ウッズ: ^7俺は殺せねぇ…"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_044A_MASO_D
+LANG_JAPANESE       "^1メイソン: ^7会えて嬉しいよ ウッズ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_082A_WOOD_D
+LANG_JAPANESE       "^1ウッズ: ^7俺は生き延びた"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_083A_WOOD_D
+LANG_JAPANESE       "^1ウッズ: ^7あいつは俺に命を賭けてくれたんだ"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_084A_WOOD_D
+LANG_JAPANESE       "^1ウッズ: ^7ただ義理と友情のために"
+
+REFERENCE           ANGOLA_2_VOX_VOX_ANG_8_10_085A_WOOD_D
+LANG_JAPANESE       "^1ウッズ: ^7お前とそっくりだったよ"
+
+REFERENCE           SP_OBJECTIVES_FOLLOW
+LANG_JAPANESE       "Follow"
+
+REFERENCE           SP_OBJECTIVES_SUPPORT
+LANG_JAPANESE       "Support"
+
+REFERENCE           SP_OBJECTIVES_DEFEND
+LANG_JAPANESE       "Defend"
+
+REFERENCE           SP_OBJECTIVES_REGROUP
+LANG_JAPANESE       "Regroup"
+
+REFERENCE           SP_OBJECTIVES_KILL
+LANG_JAPANESE       "Kill"
+
+REFERENCE           SP_OBJECTIVES_BREACH
+LANG_JAPANESE       "Breach"
+
+REFERENCE           SP_OBJECTIVES_SHOOT
+LANG_JAPANESE       "Shoot"
+
+REFERENCE           SP_OBJECTIVES_INTERACT
+LANG_JAPANESE       "Access"
+
+REFERENCE           SP_OBJECTIVES_JUMP
+LANG_JAPANESE       "Jump"
+
+REFERENCE           SP_OBJECTIVES_DETONATE
+LANG_JAPANESE       "Detonate"
+
+REFERENCE           SP_OBJECTIVES_HELP
+LANG_JAPANESE       "Help"
+
+REFERENCE           SP_OBJECTIVES_SWEEP
+LANG_JAPANESE       "Sweep"
+
+REFERENCE           SP_OBJECTIVES_CLEAR
+LANG_JAPANESE       "Clear"
+
+REFERENCE           SP_OBJECTIVES_CLIMB
+LANG_JAPANESE       "Climb"
+
+REFERENCE           SP_OBJECTIVES_WEAPONS
+LANG_JAPANESE       "Weapons"
+
+REFERENCE           SP_OBJECTIVES_ESCORT
+LANG_JAPANESE       "Escort"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_HELOS
+LANG_JAPANESE       "接近中(ヘリ)"
+
+REFERENCE           SP_OBJECTIVES_INCOMING_TANKS
+LANG_JAPANESE       "接近中(戦車)"
+
+ENDMARKER
